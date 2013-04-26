@@ -1,0 +1,27 @@
+{% include html-start.html %}
+
+	{% include header-masthead.html %}
+
+
+    <div id="content-wrapper">
+      <div class="inner clearfix">
+        <section id="main-content">
+
+          <p>{{ content }}</p>
+        </section>
+
+        <aside id="sidebar">
+<!--          <a href="" class="button">
+            <small>Download book as</small>
+            PDF
+          </a> -->
+          <p>This book is free culture, <a href="//github.com/oert/live.oert.org/" target="_blank">hosted on GitHub</a>. Patches, suggestions, and corrections are welcome.</p>
+          <p><a class="editthispage" href="https://github.com/oert/live.oert.org/blob/gh-pages{{ page.url | replace: '.html', '.md' }}" target="_blank">Edit this page</a> (<a href="https://github.com/oert/live.oert.org">learn how</a>)</p></p>
+        </aside>
+
+      </div>
+    </div>
+
+{% include footer.html %}
+
+{% include html-end.html %}
