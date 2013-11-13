@@ -1,5 +1,10 @@
-Contact 
-============
+---
+published: true
+layout: bookpage
+weight: 1
+category: About
+title: Contact
+---
 
 The best way to contact us is to create an issue on Github with your with your idea or question:
 
