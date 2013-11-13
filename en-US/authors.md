@@ -1,5 +1,11 @@
-The Authors
-===============
+---
+published: true
+layout: bookpage
+weight: 10
+category: About
+title: The Authors
+---
+
 
 * Tea Alberti
 * Pablo Cosgaya
