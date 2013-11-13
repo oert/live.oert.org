@@ -17,6 +17,8 @@ The 'stable' version of this project is at www.oert.org and is published there a
 
 This version is different. It is under active development, open for any designer in the world to make a 'pull request' with their changes in the typical GitHub style. We aim for this version to always be accurate, but it may not be complete; when information is added, other information may be implied, and needs to be added later.
 
+The OERT project was initiated on [Kickstarter](http://www.kickstarter.com/projects/cosgaya/oert-open-educational-resources-for-typography).
+
 Here is what we have so far:
 
 <div style="width:25%;float:left">
@@ -101,5 +103,3 @@ Here is what we have so far:
 </ol>
 
 </div>
-
-The OERT project was initiated on [Kickstarter]().
