@@ -6,8 +6,4 @@ category: About
 title: Introduction
 ---
 
-This is the introduction. 
-
-It must be completed.
-
-Please see the main www.oert.org site until it is completed.
+Please see the main <a href="http://www.oert.org">www.oert.org</a> site.
