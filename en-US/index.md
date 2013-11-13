@@ -11,13 +11,13 @@ title: Open Education Resources for Typography
 </div>
 -->
 
-This is the dynamic, 'live,' Open Education Resources for Typography website. We invite you to join our project. 
+Learn about the Open Education Resources for Typography (OERT) project on [Kickstarter](http://www.kickstarter.com/projects/cosgaya/oert-open-educational-resources-for-typography)
 
-The 'stable' version of this project is at www.oert.org and is published there as a reputable, fact-checked resource that is used by University-level courses in typography as a textbook. 
+This is the dynamic, 'live,' OERT website. We invite you to join our project here. 
 
-This version is different. It is under active development, open for any designer in the world to make a 'pull request' with their changes in the typical GitHub style. We aim for this version to always be accurate, but it may not be complete; when information is added, other information may be implied, and needs to be added later.
+The main <a href="http://www.oert.org">www.oert.org</a> website publishes the 'stable' version of this project. There we publish a reputable, fact-checked resource that is used as a textbook by courses in typography at the University level.
 
-The OERT project was initiated on [Kickstarter](http://www.kickstarter.com/projects/cosgaya/oert-open-educational-resources-for-typography).
+This website is different. It is under active development and we welcome any designer in the world to make changes in the typical GitHub style, by making a <a href="https://help.github.com/articles/fork-a-repo">pull request</a>. (<a href="http://try.github.io/">Learn how to use Github</a> in 15 minutes!) We aim for this version to always be accurate, but it may not be complete; when information is added, other information may be implied, and a thorough revision by the editorial team is done before the main website is updated with the latest changes.
 
 Here is what we have so far:
 
