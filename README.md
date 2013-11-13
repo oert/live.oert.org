@@ -1,5 +1,5 @@
-live.oert.org
-========
+[live.oert.org](http://live.oert.org)
+================================================
 
 The official development of the Open Educational Resources for Typography project happens here. 
 
