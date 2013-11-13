@@ -19,9 +19,11 @@ This version is different. It is under active development, open for any designer
 
 Here is what we have so far:
 
+<div style="width:30%">
 <ol class="rectangle-list">
 {% for weight in (1..100) %}
   {% for p in site.pages %}
+    {% if p.category == "Theory" %}
     {% if p.weight > 0 %}
     {% if p.weight == weight %}
       <li>
@@ -31,8 +33,10 @@ Here is what we have so far:
       </li>
     {% endif %}
     {% endif %}
+    {% endif %}
   {% endfor %}
 {% endfor %}
 </ol>
+</div>
 
 The OERT project was initiated on [Kickstarter]().
