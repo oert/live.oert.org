@@ -19,7 +19,8 @@ This version is different. It is under active development, open for any designer
 
 Here is what we have so far:
 
-<div style="width:30%">
+<div style="width:25%;float:left">
+<h3>Theory</h3>
 <ol class="rectangle-list">
 {% for weight in (1..100) %}
   {% for p in site.pages %}
@@ -38,5 +39,68 @@ Here is what we have so far:
 {% endfor %}
 </ol>
 </div>
+<div style="width:25%;float:left">
+<h3>Practical</h3>
+<ol class="rectangle-list">
+{% for weight in (1..100) %}
+  {% for p in site.pages %}
+    {% if p.category == "Practical" %}
+    {% if p.weight > 0 %}
+    {% if p.weight == weight %}
+      <li>
+        <a {% if p.url == page.url %}class="active"{% endif %} href="{{ p.url }}">
+          {{ p.title }}
+        </a>
+      </li>
+    {% endif %}
+    {% endif %}
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+</ol>
+</div>
+<div style="width:25%;float:left">
+<h3>History</h3>
+<ol class="rectangle-list">
+{% for weight in (1..100) %}
+  {% for p in site.pages %}
+    {% if p.category == "History" %}
+    {% if p.weight > 0 %}
+    {% if p.weight == weight %}
+      <li>
+        <a {% if p.url == page.url %}class="active"{% endif %} href="{{ p.url }}">
+          {{ p.title }}
+        </a>
+      </li>
+    {% endif %}
+    {% endif %}
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+</ol>
+</div>
+
+About:
+
+<div style="width:100%">
+<ol class="rectangle-list">
+{% for weight in (1..100) %}
+  {% for p in site.pages %}
+    {% if p.category == "About" %}
+    {% if p.weight > 0 %}
+    {% if p.weight == weight %}
+      <li>
+        <a {% if p.url == page.url %}class="active"{% endif %} href="{{ p.url }}">
+          {{ p.title }}
+        </a>
+      </li>
+    {% endif %}
+    {% endif %}
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+</ol>
+</div>
+
 
 The OERT project was initiated on [Kickstarter]().
