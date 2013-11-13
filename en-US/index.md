@@ -17,7 +17,9 @@ This is the dynamic, 'live,' OERT website. We invite you to join our project her
 
 The main <a href="http://www.oert.org">www.oert.org</a> website publishes the 'stable' version of this project. There we publish a reputable, fact-checked resource that is used as a textbook by courses in typography at the University level.
 
-This website is different. It is under active development and we welcome any designer in the world to make changes in the typical GitHub style, by making a <a href="https://help.github.com/articles/fork-a-repo">pull request</a>. (<a href="http://try.github.io/">Learn how to use Github</a> in 15 minutes!) We aim for this version to always be accurate, but it may not be complete; when information is added, other information may be implied, and a thorough revision by the editorial team is done before the main website is updated with the latest changes.
+This website is different. It is under active development and we welcome any designer in the world to send us corrections, additions and improvements. We aim for this version to always be accurate, but it may not be complete; when information is added, other information may be implied, and a thorough revision by the editorial team is done before the main website is updated with the latest changes.
+
+[Learn how to make changes &rarr;](https://github.com/oert/live.oert.org#liveoertorg)
 
 Here is what we have so far:
 
