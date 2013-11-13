@@ -80,9 +80,8 @@ Here is what we have so far:
 </ol>
 </div>
 
-About:
+<h3>About</h3>
 
-<div style="width:100%">
 <ol class="rectangle-list">
 {% for weight in (1..100) %}
   {% for p in site.pages %}
@@ -100,7 +99,7 @@ About:
   {% endfor %}
 {% endfor %}
 </ol>
-</div>
+
 
 
 The OERT project was initiated on [Kickstarter]().
