@@ -1,0 +1,556 @@
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<title>
+  Mayúsculas, minúsculas, números y signos&nbsp;|&nbsp;OERT</title>
+
+<link rel="stylesheet" href="wp-content/plugins/sitepress-multilingual-cms/res/css/language-selector.css?v=2.6.0" type="text/css" media="all" />
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="stylesheet" type="text/css" href="wp-content/themes/WikiBase/style.css" media="screen" />
+<link rel="shortcut icon" type="image/png" href="wp-content/uploads/favicon.ico" />
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="index.html?cat=&amp;feed=rss2" />
+<link rel="pingback" href="xmlrpc.php" />
+
+<link rel="stylesheet" type="text/css" href="wp-content/themes/WikiBase/library/css/print.css" media="print" />
+<link rel="Stylesheet" type="text/css" href="wp-content/themes/WikiBase/library/css/smoothDivScroll.css" />
+
+<script src="http://connect.facebook.net/es_ES/all.js#xfbml=1"></script>
+<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+<script src="https://apis.google.com/js/plusone.js" type="text/javascript"></script>
+
+
+ <link href="wp-content/themes/WikiBase/custom.css" rel="stylesheet" type="text/css">
+<script language="javascript" type="text/javascript">
+	function hasClass(ele,cls) {
+	return ele.className.match(new RegExp('(\\s|^)'+cls+'(\\s|$)'));
+	}
+
+    function addClass(ele,cls) {
+    if (!this.hasClass(ele,cls)) ele.className += " "+cls;
+    }
+    function removeClass(ele,cls) {
+    if (hasClass(ele,cls)) {
+        var reg = new RegExp('(\\s|^)'+cls+'(\\s|$)');
+        ele.className=ele.className.replace(reg,' ');
+    }
+    }
+
+    function showHideDiv(sids,divids)
+    {
+		//alert(sids);
+		//alert(divids);
+        var divstyle = new String();
+		var spanstyle = new String();
+		var spansid = new String();
+		spansid = document.getElementById(sids);
+        divstyle = document.getElementById(divids).style.display;
+        if(divstyle.toLowerCase()=="block" || divstyle == "")
+        {
+            document.getElementById(divids).style.display = "none";
+			removeClass(spansid,'neg');
+			addClass(spansid,'pos');
+        }
+        else
+        {
+            document.getElementById(divids).style.display = "block";
+			removeClass(spansid,'pos');
+			addClass(spansid,'neg');
+        }
+    }
+    </script>
+    <script type="text/javascript">
+        $(document).ready( function() {
+            $('#menu-recursos').hoverAccordion({
+                keepHeight:true,
+                activateItem: 3,
+                speed: 400
+            });
+        });
+    </script>
+        
+<link rel="dns-prefetch" href="http://connect.facebook.net/" />
+<link rel="alternate" type="application/rss+xml" title="OERT &raquo; Mayúsculas, minúsculas, números y signos RSS de los comentarios" href="mayusculas-minusculas-numeros-y-signos/feed/index.html" />
+<link rel='stylesheet' id='wpml-cms-nav-css-css'  href='wp-content/plugins/wpml-cms-nav/res/css/navigation.css?ver=1.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='cms-navigation-style-base-css'  href='wp-content/plugins/wpml-cms-nav/res/css/cms-navigation-base.css?ver=1.2.7' type='text/css' media='screen' />
+<link rel='stylesheet' id='cms-navigation-style-css'  href='wp-content/plugins/wpml-cms-nav/res/css/cms-navigation.css?ver=1.2.7' type='text/css' media='screen' />
+<link rel='stylesheet' id='good-old-gallery-theme-css'  href='wp-content/plugins/good-old-gallery/themes/good-old-gallery-dots/good-old-gallery-dots.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='good-old-gallery-css'  href='wp-content/plugins/good-old-gallery/assets/css/good-old-gallery.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='facebook-css'  href='wp-content/plugins/facebook/static/css/style.min.css?ver=1.3.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.oert.org/wp-includes/js/jquery/jquery.js?ver=1.8.3'></script>
+<script type='text/javascript' src='wp-content/themes/WikiBase/library/js/functions.js?ver=1'></script>
+<script type='text/javascript' src='http://www.oert.org/wp-includes/js/comment-reply.min.js?ver=3.5.1'></script>
+<script type='text/javascript' src='wp-content/plugins/good-old-gallery/plugins/cycle/jquery.cycle.all.min.js?ver=3.5.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.oert.org/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Anatomía tipográfica' href='index.html?p=183' />
+<link rel='next' title='Familia tipográfica' href='index.html?p=193' />
+<meta name="generator" content="WordPress 3.5.1" />
+<link rel='shortlink' href='index.html?p=191' />
+
+	<!-- This site uses Good Old Gallery, get it from http://wp.unwi.se/good-old-gallery -->
+
+        <style type="text/css" media="screen">
+          div.printfriendly {
+            margin: 0px 0px 0px 0px;;
+          }
+          div.printfriendly a, div.printfriendly a:link, div.printfriendly a:visited {
+            text-decoration: none;
+            font-size: 14px;
+            color: #99cc00;
+            vertical-align: bottom;
+            border: none;
+          }
+
+          .printfriendly a:hover {
+            cursor: pointer;
+          }
+
+          .printfriendly a img  {
+            border: none;
+            padding:0;
+            margin-right: 6px;
+            display:inline-block;
+            box-shadow: none;
+            -webkit-box-shadow: none;
+            -moz-box-shadow: none;
+          }
+          .printfriendly a span{
+            vertical-align: bottom;
+          }
+          .pf-alignleft {
+            float: left;
+          }
+          .pf-alignright {
+            float: right;
+          }
+          div.pf-aligncenter {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            text-align: center;
+          }
+        </style>
+        <style type="text/css" media="print">
+          .printfriendly {
+            display: none;
+          }
+        </style>
+<script type="text/javascript">var icl_lang = 'es';var icl_home = 'http://www.oert.org/';</script>
+<script type="text/javascript" src="wp-content/plugins/sitepress-multilingual-cms/res/js/sitepress.js"></script>
+<meta name="generator" content="WPML ver:2.6.0 stt:2,1;0" />
+<link rel="alternate" hreflang="en_US" href="index.html?p=622" />
+
+<style type="text/css">#lang_sel a, #lang_sel a.lang_sel_sel{color:#444444;}#lang_sel a:hover, #lang_sel a.lang_sel_sel:hover{color:#000000;}#lang_sel a.lang_sel_sel, #lang_sel a.lang_sel_sel:visited{background-color:#f5f4f2;}#lang_sel a.lang_sel_sel:hover{background-color:#eeeeee;}#lang_sel li ul a, #lang_sel li ul a:visited{color:#444444;}#lang_sel li ul a:hover{color:#000000;}#lang_sel li ul a, #lang_sel li ul a:link, #lang_sel li ul a:visited{background-color:#f5f4f2;}#lang_sel li ul a:hover{background-color:#eeeeee;}#lang_sel a, #lang_sel a:visited{border-color:#cdcdcd;} #lang_sel ul ul{border-top:1px solid #cdcdcd;}</style>
+
+<style type="text/css">#lang_sel  {width: 195px; margin-bottom:24px;}
+#lang_sel a {font-size:12px;}
+#lang_sel li {width:192px; }
+
+</style>		<link href="wp-content/themes/WikiBase/skins/1-default.css" rel="stylesheet" type="text/css" />
+
+
+<link href='http://boakes.org/most-wanted?v=0.1.9v' />
+<link rel="canonical" href="index.html?p=191"/>
+<meta property="og:site_name" content="OERT" />
+<meta property="og:type" content="article" />
+<meta property="og:locale" content="es_ES" />
+<meta property="fb:app_id" content="285109618260716" />
+<meta property="og:url" content="http://www.oert.org/mayusculas-minusculas-numeros-y-signos/" />
+<meta property="og:title" content="Mayúsculas, minúsculas, números y signos" />
+<meta property="og:description" content="Origen, relaciones y connotaciones del sistema de mayúsculas y del de minúsculas. Relaciones verticales. Legibilidad de mayúsculas y minúsculas. Características formales y función de números. Signos de entonación, puntuación y auxiliares: forma y ubicación. Las fracciones." />
+<meta property="article:published_time" content="2012-09-10T01:03:11+00:00" />
+<meta property="article:modified_time" content="2012-09-25T16:10:48+00:00" />
+<meta property="article:author" content="http://www.oert.org/author/admin/" />
+<meta property="article:section" content="Letra" />
+<meta property="article:tag" content="Teoría" />
+<meta property="og:image" content="http://www.oert.org/wp-content/uploads/2012/07/T02B_09-alineacion2.jpg" />
+<meta property="og:image:width" content="701" />
+<meta property="og:image:height" content="526" />
+</head>
+<body class="single single-post postid-191 single-format-standard">
+<div id="header">   
+<div id="header_in" class="clearfix">
+<div class="logo"> 
+   <div class="blog-title"><a href="index.html">OERT</a> 
+		
+		 <p class="blog-description">
+		  Open Educational Resources for Typography		</p>
+   </div> 
+   </div>
+                        <div class="header_right">
+        	<p>Última actualización: <span>April 7, 2013</span></p>
+                        <form method="get" id="searchform" action="index.html">
+<div id="search-form-wrap">
+<label for="s" id="search-label">Buscar por:</label>
+<input type="text" id="s" name="s" accesskey="4" value="" />
+<input type="hidden" name="stype" value="ajsearch" />
+<input type="submit" name="stype" value="Search" style="display:none;" class="b_search" />
+<span id="searchreset" title="Reset Search"></span>
+<span id="searchload"></span>
+</div>
+</form>
+
+                    </div>               
+   </div> 
+ </div>   <!-- header #end -->     <div id="wrapper" class="clearfix">  
+  		<div id="content" >
+         <div id="current-content">
+                 <div class="breadcrumb clearfix">
+        <a rel="nofollow" href="index.html">Home</a>  <a href="category/parte1/index.html" title="Ver todas las entradas en Teoría">Teoría</a>  <a href="category/parte1/parte1-1/index.html" title="Ver todas las entradas en Letra">Letra</a>  Mayúsculas, minúsculas, números y signos        </div>
+             
+                       
+        <div class="single_post">
+        <h1 class="head">Mayúsculas, minúsculas, números y signos</h1>
+ 		  		                  <p class="post_info clearfix post_info_single"><span>Posted by <a href="author/admin/index.html" title="Entradas de OERT" rel="author">OERT</a> - sep 10, 2012 </span>
+                     <span class="i_cate"> <a href="category/parte1/parte1-1/index.html" title="Ver todas las entradas en Letra" rel="category tag">Letra</a>, <a href="category/parte1/index.html" title="Ver todas las entradas en Teoría" rel="category tag">Teoría</a> </span>
+                      <span> <a href="index.html?p=191#commentarea"  class="i_comment" ><fb:comments-count xmlns="http://ogp.me/ns/fb#" href="http://www.oert.org/mayusculas-minusculas-numeros-y-signos/"></fb:comments-count> comentarios </a></span>                      
+                      <a href="index.html?cat=10&amp;feed=rss2" class="i_rss">Receive Updates For This Category</a>
+                      
+                       </p>
+                       
+                       
+					              
+              
+              <div id="post-191" class="posts clearfix">               		               
+              		
+              		<!-- Templatic Article Tools #end -->
+              		
+              		              		
+              		<!-- Templatic Article Tools #end -->
+
+                      <p><p class="autor">Elaboración: Natalia Fernández, Paula Ibarra, Marcela Romero, Sol Vázquez</p><br />
+<p class="bajada">A partir de la aceleración del ritmo de la escritura, se ligaron las letras entre sí, aparecieron irregularidades, ascendentes y descendentes, y aparecieron las minúsculas. Hoy, estos dos sistemas, mayúsculas y minúsculas, se usan combinados, con distintas atribuciones cada uno. Existen, además, otros signos habituales que utilizamos para componer textos: signos de puntuación, comerciales, operadores matemáticos básicos, símbolos monetarios, fracciones usuales, entre otros.</p></p>
+<p>El proceso de invención de las minúsculas comienza a partir de la creación de la escritura semiuncial, que implicó una simplificación gestual en el trazado de las letras mayúsculas, influenciado por el uso de la pluma y la velocidad de escritura. Este proceso se consolida con la escritura carolingia.</p>
+<p>Hoy conviven y se complementan dos sistemas alfabéticos con diferentes estructuras: mayúsculas y minúsculas. Las mayúsculas fueron utilizadas para las inscripciones lapidarias griegas y romanas y tal vez de allí deriva su uso para mostrar la importancia de ciertos nombres o cosas. De hecho, hoy se las emplea como iniciales de oraciones o nombres propios, y por lo general, connotan importancia y respeto.</p>
+<p>Las minúsculas son usadas como escritura de texto propiamente dicha. Quizás a causa de su origen, más funcional que estético, este sistema no tiene connotaciones tan «serias» como las mayúsculas.</p>
+<p>Luego de consolidarse los sistemas de mayúsculas y minúsculas, las modificaciones en la forma de las letras han sido de orden práctico o siguiendo la moda, pero la estructura de cada grupo de signos se ha conservado en el tiempo. Si bien las diferencias estructurales entre los dos sistemas son amplias y notorias, se pueden establecer algunas relaciones:</p>
+<p><strong>Línea de base</strong>: es la línea horizontal imaginaria en la cual se apoyan casi todas las mayúsculas.</p>
+<p><strong>Altura de mayúsculas</strong>: es la altura de las letras de caja alta o mayúsculas; se mide desde la línea de base hasta la parte superior del carácter mayúsculo.</p>
+<p><strong>Altura de la x</strong>: es la altura de las letras de caja baja o minúsculas, sin tener en cuenta los ascendentes y descendentes. Se toma la letra «x» como referencia porque sus dos apoyos inferiores marcan claramente la línea de base y los dos superiores definen con precisión su altura.</p>
+<p><strong>Línea de altura de las ascendentes</strong>: es la línea imaginaria a la que llegan los extremos superiores de los rasgos ascendentes de las letras de caja baja.</p>
+<p><strong>Línea de altura de las descendentes</strong>: es la línea imaginaria a la que llegan los extremos inferiores de los rasgos descendentes de las letras de caja baja.</p>
+<p><strong>Rasgo ascendente y rasgo descendente</strong>: es la porción de la letra minúscula que sobrepasa hacia arriba la altura de x o hacia abajo la línea de base.</p>
+<p>Las relaciones proporcionales entre estas alturas son particulares de cada diseño tipográfico. En algunos casos, la altura de las mayúsculas coincide con la de las ascendentes; en otros, esta es ligeramente mayor. Estas proporciones, entre otras características, son las que definen la identidad de cada familia tipográfica.</p>
+<div id="go-gallery-998-1" class="go-gallery-container go-gallery-998 gog-dots has-pager cycle">
+<div class="go-gallery-inner">
+<ul class="slides">
+<li>
+<div class="image"><img width="700" height="526" src="wp-content/uploads/2012/08/T02B_02-ascendente_descendente.jpg" class="attachment-large" alt="Altura de “x” y rasgo ascendente y descendente" />
+</div></li>
+<li>
+<div class="image"><img width="700" height="525" src="wp-content/uploads/2012/08/T02B_01-estructura_mayusc_minusc.jpg.jpg" class="attachment-large" alt="Altura de “x” y de mayúsculas. Diferentes líneas de la familia" />
+</div></li>
+<li>
+<div class="image"><img width="700" height="526" src="wp-content/uploads/2012/08/T02B_03-relaciones_alturas.jpg" class="attachment-large" alt="Relaciones de alturas" />
+</div></li>
+</ul>
+<div class="pager"></div>
+</div>
+<script type="text/javascript" charset="utf-8">jQuery(function($) { $(function () { $("#go-gallery-998-1 .slides").cycle({fx: "scrollHorz", navigation: false, pager: true, pager: "#go-gallery-998-1 .pager"}); }); });</script>
+</div>
+
+<h3>Mayúsculas, minúsculas y legibilidad</h3>
+<p>Entendemos por legibilidad a la calidad que tiene un escrito para ser legible. La legibilidad puede verse comprometida dependiendo del uso que se le dé a los componentes minúsculos y mayúsculos de una familia tipográfica. Si componemos una palabra en mayúsculas solamente, la mancha que esta produce es regular, con una altura constante. Si componemos palabras en mayúsculas y minúsculas, las manchas son irregulares ya que cada letra puede ocupar diferentes sectores de la mancha. Estas manchas son particulares de cada palabra, por lo que ayudan a identificar más rápido de qué palabra se trata y la hacen más fácil de leer.</p>
+<div id="attachment_886" class="wp-caption alignnone" style="width: 710px"><a href="wp-content/uploads/2012/07/T02B_04-bouma2.jpg"><img class="size-full wp-image-886" title="Bouma de mayúsculas y de minúsculas" src="wp-content/uploads/2012/07/T02B_04-bouma2.jpg" alt="Bouma de mayúsculas y de minúsculas" width="700" height="525" /></a><p class="wp-caption-text"><br /> La mancha de la palabra (bouma), es reconocida por el lector, descifrada, no leída letra a letra.</p></div>
+<h3>Números</h3>
+<p>Mientras que para el diseño de las letras hay cierta libertad, los números no ofrecen al diseñador la oportunidad de ejercitar la creatividad en el uso de la forma y la proporción. Las letras se leen formando palabras, lo que puede compensar cierto grado de ambigüedad en su diseño. Los números, en cambio, deben descifrarse por mérito propio, sin ayuda del contexto.</p>
+<p><strong>Números de caja baja</strong>: uno de los primeros tipógrafos que contempló el diseño de los caracteres numéricos en conjunto con los caracteres alfabéticos fue Claude Garamond. Estos números fueron pensados para funcionar como parte del texto, por lo que su comportamiento es similar al de las minúsculas. Para evitar que se confundan el cero con la letra «o» minúscula, este suele tener diferente modulación en el trazo, o la altura de x es algo más alta y los ascendentes y descendentes son algo más cortos que las minúsculas.</p>
+<p><a href="wp-content/uploads/2012/09/T02B_05-cero_letrao_v2.jpg"><img class="size-full wp-image-1808" title="Letras “o” y cero" src="wp-content/uploads/2012/09/T02B_05-cero_letrao_v2.jpg" alt="" width="701" height="526" /></a></p>
+<p><strong>Los números y el espacio</strong>: los números pueden comportarse, desde el punto de vista del espaciado, como las letras y generar un color homogéneo. Se trtará de números no tabulares y cada uno tendrá su propio ancho. Por el contrario, si los números son tabulares y, por lo tanto, todos tendrán el mismo ancho y se encolumnarán al disponerlos vericalmente. Es más usual que los números mayúsculos sean tabulares y los minúsculos no.</p>
+<div id="attachment_1811" class="wp-caption alignnone" style="width: 711px"><a href="wp-content/uploads/2012/09/T02B_06-comparativa-txt-num-may-min.jpg"><img class="size-full wp-image-1811" title="Números mayúsculos y minúsculos dentro de un texto" src="wp-content/uploads/2012/09/T02B_06-comparativa-txt-num-may-min.jpg" alt="Números mayúsculos y minúsculos dentro de un texto" width="701" height="526" /></a><p class="wp-caption-text">Los números minúsculos no producen rupturas en el ritmo del texto.</p></div>
+<p><strong>Los números y las alturas</strong>: los números mayúsculos tienen una altura similar al de las mayúsculas, algo menor. Del mismo modo, los minúsculos comparten con las minúsculas la altura de “x”, la de ascendentes y la de descendentes, también con leves variaciones. El cero, el uno y el dos asemejan su altura a la de “x”; el tres, el cuatro, el cinco, siete y nueve, descienden; el seis y el ocho, ascienden.</p>
+<div id="attachment_1810" class="wp-caption alignnone" style="width: 710px"><a href="wp-content/uploads/2012/09/T02B_06-num_minusc_mayusc1.jpg"><img class="size-full wp-image-1810" title="Números minúsculos y mayúsculos" src="wp-content/uploads/2012/09/T02B_06-num_minusc_mayusc1.jpg" alt="Números minúsculos y mayúsculos" width="700" height="525" /></a><p class="wp-caption-text">A la izquierda: números mayúsculos tabulares. A la derecha: números minúsculos de anchos variables.</p></div>
+<h3>Signos ortográficos</h3>
+<p>La puntuación de los textos escritos tiene como objetivo reproducir la entonación de la lengua oral. De ella depende en gran parte la correcta expresión y comprensión de los mensajes escritos. Estos signos, compuestos para ser leídos y no para ser oídos, son el diapasón que determina el ritmo dentro de la silenciosa voz de la tipografía. La puntuación marca tiempo, tono, volumen y separación de unidades; organiza el discurso y sus diferentes elementos y permite evitar la ambigüedad en textos que, sin su empleo, podrían tener interpretaciones diferentes.</p>
+<p>Dentro de los signos ortográficos encontramos:</p>
+<p><strong>Signos de puntuación</strong>: punto, dos puntos, coma, punto y coma, y puntos suspensivos.<br />
+Generalmente en la composición de estos últimos se utiliza, incorrectamente, la repetición del punto. El signo puntos suspensivos, sin embargo, posee un carácter especialmente diseñado, con un espaciado menor entre los puntos. Indica suspenso, duda e interrupción del discurso.</p>
+<p><a href="wp-content/uploads/2012/07/T02B_08-seg_min_tilde.jpg"><img title="Comillas, pulgadas, comillas simples, tildes y puntos suspensivos" src="wp-content/uploads/2012/07/T02B_08-seg_min_tilde.jpg" alt="Comillas, pulgadas, comillas simples, tildes y puntos suspensivos" width="700" height="526" /></a></p>
+<p><strong>Signos de entonación</strong>: exclamación e interrogación.</p>
+<p><strong>Signos auxiliares</strong>: paréntesis, corchetes, llaves, guión corto, medio y largo, comillas, lambda y antilambda, barra, barra invertida, pleca, asterisco, entre otros.</p>
+<p>Desde el punto de vista tipográfico, los signos ortográficos pueden dividirse en: <strong>simples</strong>, es decir, con un solo elemento; y <strong>dobles</strong>, que se distinguen porque en su estructura poseen figuras opuestas para abrir y cerrar: ‘ ’ , “ ”, « » ,¡ !, ¿ ?, ( ), [ ], &lt; &gt;.</p>
+<p><a href="wp-content/uploads/2012/07/T02B_07-comillas.jpg"><img title="Comillas" src="wp-content/uploads/2012/07/T02B_07-comillas.jpg" alt="Comillas" width="700" height="526" /></a></p>
+<p>Estos signos se componen de la siguiente manera:</p>
+<ul>
+<li>Los de apertura se separan por medio de un espacio de la palabra o signo al que siguen, y se escriben sin espacio de separación con respecto a la palabra a la que anteceden.</li>
+<li>Por el contrario, los signos de cierre se escriben sin espacio de separación con respecto a la palabra o signo al que siguen, separados por un espacio de la palabra a la que preceden y sin este espacio si lo que sigue es un signo de puntuación.</li>
+<li>Algunos signos como la coma y el signo menos pueden ejercer de signo doble sin cambiar de figura.</li>
+</ul>
+<h3>El diseño de los signos de puntuación</h3>
+<p>Los signos de puntuación forman parte del diseño de una familia tipográfica. Como los demás que la integran, tienen características constantes y variables.</p>
+<p>Las características variables son las que dependen de las particularidades de la familia. Por ejemplo, en las familias romanas, el punto generalmente es redondo, mientras que en las de palo seco puede ser cuadrado, redondo, rectangular o romboidal, dependiendo del diseño y de las proporciones de la familia a la que pertenecen. En alfabetos con influencias caligráficas, los puntos suelen ser romboidales.</p>
+<p>El peso que debe tener un punto es una decisión importante por dos motivos: primero, porque establece el peso de muchos de los otros signos de puntuación y, segundo, porque debe ser lo suficientemente pesado como para percibirlo rápidamente, pero no demasiado como para interferir en la apreciación de los demás signos. Puntuaciones de peso menor, como el punto o la coma, están más asociadas al peso de la familia, mientras que las puntuaciones de gran estructura, como los signos de interrogación o de exclamación, contienen las características definidas del estilo de las familias.</p>
+<p>Las características invariables son las que tienen que ver con la estructura propia del signo, que tiene un origen histórico. Si analizamos los signos de puntuación de varias familias diferentes, veremos que hay características que no varían de una familia a otra, como las proporciones, la estructura básica que hace reconocible a cada signo como tal, la relación que tienen estos signos entre sí y la manera de apoyo.</p>
+<h3>Alineación de los signos</h3>
+<p>Sabemos que el punto, la coma, los tres puntos son signos de puntuación se apoyan en la línea de base. Los signos de altura media y los signos de apertura de interrogación y de exclamación deben alinearse con la altura de x y con los rasgos descendentes de las minúsculas.  Los signos que superan la altura de x deben alinearse con la altura de mayúsculas.  Los signos auxiliares se alinean sobrepasando levemente la altura de mayúsculas y por debajo aún más de la línea de base, ya que deben incluir los rasgos descendentes y tienen como función contener el texto en su interior. La mayoría de los signos comerciales y monetarios poseen la altura de mayúsculas (si los números son mayúsculos), a excepción del centavo y del registrado. Si los números son minúsculos o antiguos pueden tener una altura intermedia.</p>
+<div id="go-gallery-992-2" class="go-gallery-container go-gallery-992 gog-dots has-pager cycle">
+<div class="go-gallery-inner">
+<ul class="slides">
+<li>
+<div class="image"><a href="wp-content/uploads/2012/07/T02B_09-alineacion_signospuntuacion.jpeg">
+<img width="701" height="526" src="wp-content/uploads/2012/07/T02B_09-alineacion_signospuntuacion.jpeg" class="attachment-large" alt="Alineación de signos de puntuación" />
+</a>
+</div></li>
+<li>
+<div class="image"><img width="701" height="526" src="wp-content/uploads/2012/07/T02B_15-excepcion_signosapertura.jpeg" class="attachment-large" alt="Apoyo correcto e incorrecto de los signos de pregunta y admiración" />
+</div></li>
+<li>
+<div class="image"><img width="701" height="526" src="wp-content/uploads/2012/07/T02B_09-alineacion2.jpeg" class="attachment-large" alt="Alineación de signos no alfabéticos y comerciales" />
+</div></li>
+</ul>
+<div class="pager"></div>
+</div>
+<script type="text/javascript" charset="utf-8">jQuery(function($) { $(function () { $("#go-gallery-992-2 .slides").cycle({fx: "scrollHorz", navigation: false, pager: true, pager: "#go-gallery-992-2 .pager"}); }); });</script>
+</div>
+
+<h3>Fracciones</h3>
+<p>Las fracciones son signos especialmente diseñados y espaciados para su correcto funcionamiento.<br />
+En la mayoría de los casos se utilizan erróneamente dos números que corresponden al cuerpo del resto del texto que se está componiendo, alineados uno al lado del otro y separados por una barra que no posee la correcta inclinación. La fracción es un signo integrado, que posee una disposición especial de los signos que la componen.</p>
+<p><a href="wp-content/uploads/2012/07/T02B_14-fracciones.jpg"><img class="alignnone size-full wp-image-895" title="Fracciones correctas e incorrectas" src="wp-content/uploads/2012/07/T02B_14-fracciones.jpg" alt="Fracciones correctas e incorrectas" width="701" height="526" /></a></p>
+<p>El signo debe ser visualizado como una unidad y no como dos números y una barra, por lo que el cuerpo de los números y el espaciado del signo se ajustan para su mejor visualización.</p>
+<p>Algunas familias tipográficas poseen variables o set expertos con varias fracciones disponibles.<br />
+Además, existe una barra, ligeramente más inclinada que la barra tradicional, que sirve para construir fracciones. Las fuentes tipográficas la incluyen en el signo por ciento (%), por mil (‰) y en las fracciones más usuales, sin embargo muy pocas lo llevan por separado. En tal caso puede utilizarse una barra cursiva como sustituta (⁄), la cual posee una inclinación adecuada.</p>
+<div class="ref_box"><strong>Bibliografía</strong></p>
+<ul>
+<li>DE BUEN UNNA, Jorge. <em> Manual de diseño editorial. 3.ª edición, corregida y aumentada. </em>Trea Ediciones, España, 2009.</li>
+<li>MARTINEZ DE SOUSA, José.<em> Manual de edición y autoedición,</em> Pirámide, España, 1999.</li>
+<li>SOLOMON, Martin. <em>El poder de la puntuación,</em> Revista tpG</li>
+<li>MC LEAN, Ruari.<em> Manual tipográfico,</em> Tellus, Madrid, 1988.</li>
+<li>HALLEY, Allan.<em> Alphabet,</em> Thames&amp;Hudson, Londres.</li>
+<li>BRINGHURST, Robert. <em>Los elementos del estilo tipográfico,</em> Libros sobre libros / Fondo de Cultura Económica, México, 2008.</li>
+</ul>
+<p></p></div>
+<p class="icl_post_in_other_langs">Esta entrada también está disponible en: <a href="index.html?p=622">Inglés</a></p>                   
+                  
+                  <div class="like_this_section clearfix">
+					<div class="google_like">
+					<g:plusone href="http://www.oert.org" size="medium"></g:plusone>
+					</div>	                  
+                     <div class="twitter_like">
+                     <a href="http://twitter.com/share" class="twitter-share-button" data-via="oert.org" data-lang="es" data-size="medium">Tweet</a>
+                     </div>
+                     <div class="fb_like">
+                     <fb:like href="http%3A%2F%2Fwww.oert.org%2Fmayusculas-minusculas-numeros-y-signos%2F" layout="button_count" show_faces="false" width="450" height="30"></fb:like>
+                     </div>
+                     <div class="printfriendly"><a href="http://www.printfriendly.com/print?url=http://www.oert.org/mayusculas-minusculas-numeros-y-signos/" rel="nofollow" onclick="window.print(); return false;"><img src="http://cdn.printfriendly.com/button-print-gry20.png" alt="Print Friendly" /></a></div>				</div> <!-- #end -->
+
+
+          				
+              </div> <!-- post #end -->
+              
+              
+               
+ 			<div class="post-navigation clearfix">
+                                                            <a class="post-prev" href="index.html?p=183"><em>Previous post</em><span>Anatomía tipográfica</span></a>
+                                                                <a class="post-next" href="index.html?p=193"><em>Next post</em><span>Familia tipográfica</span></a>
+                                 </div>
+            
+            
+              </div> <!-- single post content #end -->
+          		<div class="realated_post clearfix">
+<h3>Related Posts</h3><ul class="realated_postlist clearfix">
+            <li class="clearfix"> 
+      
+     <h3> <a href="index.html?p=193">Familia tipográfica</a></h3> 
+     <p class="date clearfix"> <span>September 10, 2012</span></p>
+     <p>Definición. Familia como sistema. Componentes de la caja tipográfica. Variables tipográficas. Ejes de construcción de variables: históricos y contemporáneos. Revisión de aspectos que se mantienen y modifican en el sistema de variables.</p>
+            </li>
+                        <li class="clearfix"> 
+      
+     <h3> <a href="index.html?p=183">Anatomía tipográfica</a></h3> 
+     <p class="date clearfix"> <span>September 10, 2012</span></p>
+     <p>Partes de la letra: ubicación y definición.</p>
+            </li>
+                        <li class="clearfix"> 
+      
+     <h3> <a href="index.html?p=179">Proporciones del alfabeto latino</a></h3> 
+     <p class="date clearfix"> <span>September 10, 2012</span></p>
+     <p>Tecnología de producción y forma resultante. Mayúsculas trajanas y su conversión en modelo. Estructuras básicas y conformación de grupos de anchos comunes. Grupos por parentesco morfológico. Anchos históricos y contemporáneos.</p>
+            </li>
+                        <li class="clearfix"> 
+      
+     <h3> <a href="index.html?p=288">Texto, imagen y miscelánea</a></h3> 
+     <p class="date clearfix"> <span>February 20, 2012</span></p>
+     <p>Misceláneas como elementos de la caja tipográfica. Función y tipos de misceláneas. Doble función: miscelánea o imagen. Letras como imagen o como miscelánea. Relaciones.</p>
+            </li>
+            </ul>
+</div>
+		
+        
+          <div id="comments" class="clearfix"> 
+<div id="comments" class="comments-area">
+<div id="respond">
+<div class="fb-social-plugin fb-comments" id="commentform" data-href="http://www.oert.org/mayusculas-minusculas-numeros-y-signos/" data-width="700"></div>
+</div></div>
+</div>
+          
+             </div>
+	<div id="dynamic-content"></div>        
+  </div> <!-- content #end -->
+<script type="text/javascript" language="javascript" >
+var root_path_js = 'http://www.oert.org/';
+</script>
+<script type="text/javascript" language="javascript" src="wp-content/themes/WikiBase/library/js/article_detail.js" ></script>
+
+      <div id="lang_sel"  >
+    <ul>
+        <li><a href="index.html?p=191#" class="lang_sel_sel icl-es">
+                            
+            <img  class="iclflag" src="wp-content/plugins/sitepress-multilingual-cms/res/flags/es.png" alt="es" />                                
+            &nbsp;Español</a>                                    
+            <ul>
+                                <li class="icl-en">          
+                    <a rel="alternate" hreflang="en" href="index.html?p=622">
+                                    
+                    <img  class="iclflag" src="wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png" alt="en" />&nbsp;                    
+                                        English                    </a>
+                </li>
+                            </ul>            
+             
+                    </li>
+    </ul>    
+</div>
+ <!-- selector de idiomas -->
+<div id="sidebar">
+	<div class="widget"><h3><span>Recursos</span></h3><div class="menu-recursos-container"><ul id="menu-recursos" class="menu"><li id="menu-item-2003" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2003"><a href="category/parte1/index.html">Teoría</a>
+<ul class="sub-menu">
+	<li id="menu-item-2004" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2004"><a href="category/parte1/parte1-1/index.html">Letra</a></li>
+	<li id="menu-item-2005" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2005"><a href="category/parte1/parte1-2/index.html">Texto</a></li>
+	<li id="menu-item-2006" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2006"><a href="category/parte1/parte1-3/index.html">Página</a></li>
+</ul>
+</li>
+<li id="menu-item-2007" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2007"><a href="category/parte2/index.html">Práctica</a>
+<ul class="sub-menu">
+	<li id="menu-item-2008" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2008"><a href="category/parte2/parte2-1/index.html">Letra</a></li>
+	<li id="menu-item-2009" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2009"><a href="category/parte2/parte2-2/index.html">Texto</a></li>
+	<li id="menu-item-2010" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2010"><a href="category/parte2/parte2-3/index.html">Página</a></li>
+</ul>
+</li>
+<li id="menu-item-2011" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2011"><a href="category/parte3/index.html">Historia</a></li>
+</ul></div></div><div class="widget"><h3><span>Páginas</span></h3><div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-37" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37"><a href="el-proyecto/index.html">El proyecto</a></li>
+<li id="menu-item-62" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-62"><a href="los-autores/index.html">Los autores</a></li>
+<li id="menu-item-63" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-63"><a href="comite-editorial/index.html">Comité Editorial</a></li>
+<li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36"><a href="equipo-de-trabajo-2/index.html">Equipo de trabajo</a></li>
+<li id="menu-item-38" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38"><a href="apoyan-este-proyecto-2/index.html">Apoyan este proyecto&#8230;</a></li>
+<li id="menu-item-568" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-568"><a href="preguntas-frecuentes/index.html">Preguntas Frecuentes</a></li>
+<li id="menu-item-39" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39"><a href="contacto-2/index.html">Contacto</a></li>
+</ul></div></div></div> <!-- sidebar right--> 
+<div id="bottom"></div>
+<script type='text/javascript' src='wp-content/themes/WikiBase/library/js/jquery.simplemodal.js'></script>
+<script type='text/javascript' src='wp-content/themes/WikiBase/library/js/basic.js'></script>
+<div id="basic-modal-content" class="clearfix" style="display:none;">
+<form name="send_to_frnd" id="send_to_frnd" action="index.html?p=191" method="post" >
+<input type="hidden" id="send_to_Frnd_pid" name="pid" value="191" />
+<input type="hidden" name="sendact" value="email_frnd" />
+	<h3>Send To Friend</h3>
+    <p id="reply_send_success" class="sucess_msg" style="display:none;"></p>
+	<div class="row clearfix" ><label>Friend Name : <span>*</span></label><input name="to_name" id="to_name" type="text"  /><span id="to_nameInfo"></span></div>
+ 	<div class="row  clearfix" ><label> Correo electrónico : <span>*</span></label><input name="to_email" id="to_email" type="text"  /><span id="to_emailInfo"></span></div>
+	<div class="row  clearfix" ><label>Your Name : <span>*</span></label><input name="yourname" id="yourname" type="text"  /><span id="yournameInfo"></span></div>
+ 	<div class="row  clearfix" ><label> Correo electrónico : <span>*</span></label><input name="youremail" id="youremail" type="text"  /><span id="youremailInfo"></span></div>
+	<div class="row  clearfix" ><label>Asunto : <span>*</span></label><input name="frnd_subject" value="About Mayúsculas, minúsculas, números y signos" id="frnd_subject" type="text"  /></div>
+	<div class="row  clearfix" ><label>Comentarios : <span>*</span></label>
+     <textarea name="frnd_comments" id="frnd_comments" cols="" rows="" >Hi there, do check out the information about this Article.</textarea></div>
+	<input name="Send" type="submit" value="Send " class="button " />
+</form>
+</div>
+<script type="text/javascript" src="wp-content/themes/WikiBase/library/js/email_frnd_validation.js"></script>
+<!-- here -->   </div> <!-- wrapper #end -->
+  
+<div id="footer" class="clearfix">
+<div id="footer_in">
+<p class="copy"><a rel="license" href="http://creativecommons.org/licenses/by-sa/2.5/ar/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/2.5/ar/80x15.png" /></a> <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Open Educational Resources for Typography</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="index.html" property="cc:attributionName" rel="cc:attributionURL">OERT</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.5/ar/">Creative Commons Attribution-ShareAlike 2.5 Argentina License</a>.</p>
+<p class="fr"><span class="designby">Alojado en </span>
+<span class="wiroos"><a href="http://www.wiroos.com" title="Wiroos">Wiroos</a></span>
+</p>	
+</div></div> <!-- footer #end -->
+
+        <script type="text/javascript">
+          var pfHeaderImgUrl = '';
+          var pfHeaderTagline = '';
+          var pfdisableClickToDel = '0';
+          var pfHideImages = '0';
+          var pfImageDisplayStyle = 'right';
+          var pfDisableEmail = '0';
+          var pfDisablePDF = '0';
+          var pfDisablePrint = '0';
+          var pfCustomCSS = '';
+
+          // PrintFriendly
+          var e = document.createElement('script'); e.type="text/javascript";
+          e.src = 'http://cdn.printfriendly.com/printfriendly.js';
+          document.getElementsByTagName('head')[0].appendChild(e);
+      </script>
+<script type='text/javascript' src='wp-content/themes/WikiBase/library/js/livesearch.js?ver=1'></script>
+<script type='text/javascript' src='wp-content/themes/WikiBase/library/js/jquery.hoveraccordion.min.js?ver=1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var FB_WP=FB_WP||{};FB_WP.queue={_methods:[],flushed:false,add:function(fn){FB_WP.queue.flushed?fn():FB_WP.queue._methods.push(fn)},flush:function(){for(var fn;fn=FB_WP.queue._methods.shift();){fn()}FB_WP.queue.flushed=true}};window.fbAsyncInit=function(){FB.init({"channelUrl":"http:\/\/www.oert.org\/wp-content\/plugins\/facebook\/channel.php","xfbml":true,"appId":"285109618260716"});if(FB_WP && FB_WP.queue && FB_WP.queue.flush){FB_WP.queue.flush()}}
+/* ]]> */
+</script>
+<div id="fb-root"></div><script type="text/javascript">(function(d){var id="facebook-jssdk";if(!d.getElementById(id)){var js=d.createElement("script"),ref=d.getElementsByTagName("script")[0];js.id=id,js.async=true,js.src="http:\/\/connect.facebook.net\/es_ES\/all.js",ref.parentNode.insertBefore(js,ref)}})(document)</script>
+<script type='text/javascript' src='index.html?p=191'></script>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27724959-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script><script type="text/javascript">
+	//<![CDATA[
+		function initBelle() {
+			Belle.AjaxURL		= "http://www.oert.org/?sajax=1"
+			// Initialize Livesearch
+			Belle.LiveSearch	= new LiveSearch( "Escribe y obten resultados al instante" )
+			}
+		jQuery(document).ready( function() { initBelle() })
+	//]]>
+	</script>
+<!-- LOAD JAVASCRIPT LATE - JUST BEFORE THE BODY TAG 
+		 That way the browser will have loaded the images
+	  	 and will know the width of the images. No need to
+		 specify the width in the CSS or inline. -->
+
+	<!-- jQuery library - Please load it from Google API's -->
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+
+	<!-- jQuery UI Widget and Effects Core (custom download)
+		 You can make your own at: http://jqueryui.com/download -->
+	<script src="wp-content/themes/WikiBase/library/js/jquery-ui-1.8.18.custom.min.js" type="text/javascript"></script>
+	
+	<!-- Latest version of jQuery Mouse Wheel by Brandon Aaron
+		 You will find it here: http://brandonaaron.net/code/mousewheel/demos -->
+	<script src="wp-content/themes/WikiBase/library/js/jquery.mousewheel.min.js" type="text/javascript"></script>
+
+	<!-- Smooth Div Scroll 1.2 minified-->
+	<script src="wp-content/themes/WikiBase/library/js/jquery.smoothdivscroll-1.2-min.js" type="text/javascript"></script>
+
+	<!-- If you want to look at the uncompressed version you find it at
+		 js/jquery.smoothDivScroll-1.2.js -->
+
+	<!-- Plugin initialization -->
+	<script type="text/javascript">
+		jQuery(document).ready(function () {
+			jQuery("#logoParade").smoothDivScroll({
+				autoScrollingMode: "always",
+				autoScrollingDirection: "endlessloopright",
+				autoScrollingStep: 1,
+				autoScrollingInterval: 25 
+			});
+
+			// Logo parade
+			jQuery("#logoParade").bind("mouseover", function () {
+				jQuery(this).smoothDivScroll("stopAutoScrolling");
+			}).bind("mouseout", function () {
+				jQuery(this).smoothDivScroll("startAutoScrolling");
+			});
+
+		});
+		
+	</script>	
+	
+</body></html>

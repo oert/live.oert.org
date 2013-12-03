@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>OERT &#187; Text</title>
+	<atom:link href="http://www.oert.org/en/feed/?cat=23" rel="self" type="application/rss+xml" />
+	<link>http://www.oert.org/en/</link>
+	<description>Open Educational Resources for Typography</description>
+	<lastBuildDate>Sun, 07 Apr 2013 00:05:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Typography and information layout</title>
+		<link>http://www.oert.org/en/typography-and-information-layout/</link>
+		<comments>http://www.oert.org/en/typography-and-information-layout/#comments</comments>
+		<pubDate>Fri, 27 Apr 2012 05:56:00 +0000</pubDate>
+		<dc:creator>OERT</dc:creator>
+				<category><![CDATA[Text]]></category>
+		<category><![CDATA[Theory]]></category>
+
+		<guid isPermaLink="false">http://www.oert.org/?p=669</guid>
+		<description><![CDATA[Contents to be communicated. Definition of the media or the piece. Types of contents: identity, textual information, graphic information, data grids, etc., to create the necessary graphic and typographic repertoire. Choosing the graphic tools. Controlled combination of text, image, dingbats, and decorative elements to transmit content in the best possible way.]]></description>
+				<content:encoded><![CDATA[<p class="autor">Created by: Pablo Cosgaya In collaboration with: Julieta Goluscio Reviewed by: Guadalupe Gomis &#8211; Natalia Pano</p>
+<p class="note">Artículo en proceso de traducción </p>
+<p>If we agree that information is the communication or acquisition of knowledge which allows us to increase or specify what we know about a certain subject, we will agree that the role typography plays in this process is fundamental. </p>
+<p>Everyday, we find ourselves dealing with different kinds of information: journalistic (graphics and audiovisual media), instructive (handbooks, user instructions, installation guides, interactive screens), touristic (maps, guides and information booths), for events (screens, billboards), depending on the function each of them performs.  </p>
+<p>Likewise, the kind of information may be categorized depending on the media used to broadcast it: these could be audible (radio, loudspeakers), audiovisual (cinema, television, and internet) or printed (newspapers, magazines, leaflets). In the last years, we witnessed an outstanding growth of the media (internet, games, touch screens, control panels) where the users or intended audience can select from a repertoire of more or less limited possibilities. </p>
+<p>Based on this, it is important to be aware that a very same message, when broadcasted through different kinds of media, changes depending on the corresponding communication technique, and thus the way it is perceived and decoded by the audience will also change. </p>
+<p>Though information campaigns involve a wide media repertoire (many times combining different means), we will now focus on printed means and study some of its performance characteristics, especially those related to how information is treated based on typographic criteria.</p>
+<h3>Content</h3>
+<p>Following the example we will practice in the workshop, the textual content of the informative leaflet is divided in three parts. </p>
+<p>The first one is common to the rest of the pieces: name and identity of the event, basic information about place and date, together with sponsors’ identification. The visual arrangement and hierarchy criteria for each of these will be common to the rest of the pieces and will be part of one of the typographic programs that will result in the final system. </p>
+<p>The second part is made up by general descriptions, i.e.: the description of the event and its topic treated and arranged according to its importance in the leaflet. </p>
+<p>The third part is a group of twenty texts of the activities that will take place as part of the event. In each of them, we will also find four different levels of information: a) Subtopic, lecturer or speaker, b) Date and time, c) Room or specific place, d) A brief description of the activity. The first three should be completed and the specific characteristics of the event will be defined based on them. The forth is a text with a number of characters which cannot be changed.</p>
+<h3>Organization of the information</h3>
+<p>As we have already mentioned, the first two parts (the texts as to the identity of the event and the general descriptions) will be sorted out by following concepts which have already been practiced and the method for doing so will be left to each student’s own discretion. But the organization of the information provided in the third group of texts deserves a separate consideration.  </p>
+<p>First, we will distinguish the specific data for each activity (a, b and c), its description (d), however brief this may be. Here it is necessary to put ourselves in our audience’s shoes. To analyze whether it is convenient or not to delete repetitive textual information (the words «place», «date», «time», etc.) and to look for the most adequate manner of organizing the elements in such a way that access to the information will be as easy as possible.  </p>
+<p>The criteria for organizing these data are basically two: the organized succession of pieces of texts or the making up of a multiple-entry schedule where the data must be short and will make reference to the descriptions, which will be placed in a different part of the leaflet.</p>
+<h3>Graphic tools</h3>
+<p>If we decide on a succession of blocks of text, these will be organized and grouped according to the information they have in common (for example, the day the event will take place) and within them each element that composes them will be given a hierarchical position (as we have said: subtopic, lecturer or speaker; date and time; room or specific place; brief description of the activity.) Once the audience has read and decoded how hierarchies are defined in one of the blocks of text, he will understand how this criterion works for the rest.  </p>
+<p>If we choose the combination of timetable group of descriptions, we will once again get two elements: a chart with short data (the schedule) and a succession of pieces of variable length. This succession will have less «accidents» than the succession in the previous option, but at the expenses of the need to be combined with a schedule. </p>
+<p>In order to solve the schedule, before working with a huge number of blocks of text, it is convenient to use the tabulation tools and to apply them to the whole group of elements. Thus, by changing a variable in tabulation, this will apply to all the elements it affects.</p>
+<h3>Other typographic and non typographic elements</h3>
+<p>The purpose of the descriptive leaflet can be improved by combining the typographic resources that we&#8217;ve just described with other elements and resources, such as the use of pictograms, miscellanies and chromatic codes.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.oert.org/en/typography-and-information-layout/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Typography and typographic systems</title>
+		<link>http://www.oert.org/en/typography-and-typographic-systems/</link>
+		<comments>http://www.oert.org/en/typography-and-typographic-systems/#comments</comments>
+		<pubDate>Fri, 27 Apr 2012 05:55:49 +0000</pubDate>
+		<dc:creator>OERT</dc:creator>
+				<category><![CDATA[Text]]></category>
+		<category><![CDATA[Theory]]></category>
+
+		<guid isPermaLink="false">http://www.oert.org/?p=670</guid>
+		<description><![CDATA[Program as system. Constants and variables. Open or closed system. Program and project. Elements of the program as tools used to inform, persuade, and communicate. Graphic piece characteristics. Derived identity.
+]]></description>
+				<content:encoded><![CDATA[<p class="autor">Created by: Pablo Cosgaya In collaboration with: Julieta Goluscio Reviewed by: Guadalupe Gomis &#8211; Natalia Pano</p>
+<p class="note">Artículo en proceso de traducción </p>
+<p class="bajada">Karl Gerstner understands a program as a system in which the set of its formal configuration components are organized according to a law that regulates its combinations, and thus, its possible meanings.</p>
+<p>A general definition will let us know which system is a set of interrelated elements which contribute to a specific purpose. It might be useful to define the concepts that are part of this definition. </p>
+<p>As we are talking about typography, design and communication, we will say that the set of elements is a group of graphic and non-graphic blocks which conform a communication campaign (posters, leaflets, graphic and audiovisual signals, stationery, tickets, promotional items, to name a few); by interrelated we mean that they share stylistic, syntactic and semantic criteria which articulate them and the specific purpose they pursue is what is expected from the campaign: to inform, to persuade, to identify, or several of these at the same time. </p>
+<p>A system, then, will be conformed by a few variable and constant characteristics in the elements which make it up. Among others, the choice and typographic treatment, the presence or absence of images, the style, the format, the proportions (between the formats of each element, between its components and between the blocks of text and the margins), its chromatic characteristics, the type of information, the reading type and conditions, the printing quality, the writing tone.</p>
+<h3>Closed system, open system</h3>
+<p>A closed system is one in which the constant characteristics predominate in the different pieces or elements that make up the system. It is often more monotonous, lacking the surprise effect and, many times, predictable. One of the advantages of a closed system is that it is easily recognized.  </p>
+<p>An open system is that in which the pieces or elements that conform it show more variable characteristics than constant ones.  Given its diversity, it is visually richer, but it might be difficult to recognize some of its elements as belonging to that system.</p>
+<h3>The program</h3>
+<p>There are people who maintain that a program is the function that relates the different graphic pieces of the system. It is an operation that should achieve that its element, in spite of their differences, be perceived as part of the very same system.  However, as shown by the definition of the word, program refers to a list of instructions previously designed to fulfill this or that purpose.  </p>
+<p>So we can talk about the program when a number of possibilities or applications (instructions) suited to different situations, and which allow for coherence within diversity is established beforehand. </p>
+<p>Thus, the program defines constant criteria that help us arrange the diversity both for formal as for conceptual aspects (conceptual breaking up of the pieces.) </p>
+<p>Programmatic thought can be applied to different axis: programs can be developed based on typographic criteria (combinations, line breaks or relations between type sizes and leading, etc. —see examples at the end—), photographic criteria (shooting range, framing), chromatic criteria (tint, saturation) or we may create a program that organizes a complex operation where several programs are combined at the same time, i.e., a program of programs or a logic plan.  </p>
+<p>Thus, a system may be simultaneously guided by one or more programs.  But not necessarily every system will be guided by one or several programs. That is to say, a system may consist of elements with constant characteristics that had not been planned as a program. </p>
+<h3>Elements of a system</h3>
+<p>In an article published some time ago in the tipoGráfica magazine, Norberto Chavez states that a graphic message, is not, but is useful for. “…The graphics message shows (…) its character of machine, of tool, of technical wit useful for producing some specific practical results.” And these results are, as we have already mentioned: to inform, to persuade, to communicate.  Further on, he asserts that the message must fulfill six functions: (1) getting the sender in touch with the recipient; (2) informing the recipient about what the sender wants; (3) persuading the recipient about what it is said; (4) showing the sender and his attributes so as to let the origin be known; (5) explaining how that should be read and (6) pleasing the recipient. That is to say: contact, information, persuasion, identification, conventionality and esthetic.</p>
+<div id="go-gallery-1388-1" class="go-gallery-container go-gallery-1388 gog-dots has-pager cycle">
+<div class="go-gallery-inner">
+<ul class="slides">
+<li>
+<div class="image"><img width="700" height="526" src="http://www.oert.org/wp-content/uploads/2012/08/T05A-sist01_Cozzi.jpg" class="attachment-large" alt="Sistema" />
+</div><div class="description">Alumna: Fernanda Cozzi</div>
+</li>
+<li>
+<div class="image"><img width="701" height="526" src="http://www.oert.org/wp-content/uploads/2012/08/T05A-sist04_Guisado-Vilardebo-Villanueva.jpg" class="attachment-large" alt="Sistemas" />
+</div><div class="description">Alumnos: Guisado, Vilardebó, Villanueva</div>
+</li>
+<li>
+<div class="image"><img width="700" height="526" src="http://www.oert.org/wp-content/uploads/2012/08/T05A-sist02_Cerdá-Ulicki-Faggi.jpg" class="attachment-large" alt="Sistemas" />
+</div><div class="description">Alumnos: Patricia Faggi, Ana Laura Cerdá y Federico Ulicki</div>
+</li>
+<li>
+<div class="image"><img width="700" height="526" src="http://www.oert.org/wp-content/uploads/2012/08/T05A-sist03_Cerdá-Ulicki-Faggi.jpg" class="attachment-large" alt="Sistemas" />
+</div><div class="description">Alumnos: Patricia Faggi, Ana Laura Cerdá y Federico Ulicki</div>
+</li>
+</ul>
+<div class="pager"></div>
+</div>
+<script type="text/javascript" charset="utf-8">jQuery(function($) { $(function () { $("#go-gallery-1388-1 .slides").cycle({fx: "scrollHorz", navigation: false, pager: true, pager: "#go-gallery-1388-1 .pager"}); }); });</script>
+</div>
+
+<h3>Poster</h3>
+<p>A poster is a specific piece of communication: its message is transmitted throughout distance and many times the recipient is in motion. The recipient cannot take it with him to read it later (as he may do with a newspaper or a magazine), and that is why the poster should transmit its whole message in the place where it is seen. </p>
+<p>If we may sum it up even more, we can say that the nucleus of the message a poster should transmit is constituted by the classic functions of visual communication: to communicate the what (in this case, an event), the when (the period of time when it will take place, and if necessary, the date and time), the where (place or places) and the who (the event organizer.) In order for this piece to meet this goal (to transmit the content, to inform the recipient), the proportions of its components, the treatment of color, the images and the text should be displayed in such a way that (as Chaves says) «they produce some effect on the recipient which is favorable to the intentions of the sender: to pay more attention to it, to understand it as it is intended, to make it personal, to feel oneself identified with the ideas transmitted, to feel joy at contemplating the message…» </p>
+<p>No doubt that apart from the rhetoric and significant resources to which we resort to, a poster is a graphic piece characterized by its shortness. Minimun, clear, quick, shocking.  Other attributes are: clarity, impact, good form. A poster for an event should inform the name of the event (if necessary, a description), date and time of the event (pay special attention in the case of periods of time, that is, when the event includes different activities) and the place of the event (again, we should pay attention to the fact mentioned above: one or several places.) An of course, we must identify the event and its organizer, our client.</p>
+<h3>Informative leaflet</h3>
+<p>An informative leaflet is a complex element. It does not behave neither as a piece of art, nor as a poster. It shares many of their goals, but its content is different. And so are the conditions under which the recipient gets access to it. He will certainly have time to read it, and he can take it with him.  Going back to the analysis made by Norberto Chaves, we may see that out of the six functions the message should fulfill (contact, information, persuasion, identification, conventionality an esthetic), in the case of the informative leaflet, special care should be put in the treatment of the second one (information).  </p>
+<p>Information in the leaflet is transmitted by means of texts with different characteristics, with different levels of complexity and development. In order to guide our practice, we will mention some of the most frequent types of text in this piece of communication.</p>
+<h5>Informative text about the event</h5>
+<p>It has to do with the subject or purpose which is the reason for the event. It defines and delimits it; it explains the organizer&#8217;s approach, their points of view, the selection criteria for the participants. It is a text where ideological and technical contents predominate. </p>
+<h5>Informative texts on each activity</h5>
+<p>It is basic information, data for the potential audience to know where and when something will happen. </p>
+<p>Sometimes a small specific explanation may be included in the information. For a better reading of this data, they are usually processed and arranged in such so as to make it more accessible and easier to perceive within all the information regarding the event. </p>
+<p>Thus, the reader is simultaneously informed about more than a single piece of information, reading it in a manner that is not linear. That is to say, charts and graphics with double and sometimes triple entries are produced.</p>
+<h5>Textos informativos sobre cada actividad</h5>
+<p>Se trata de información básica, datos para que el potencial asistente se entere dónde y cuándo sucede qué cosa. A veces puede incluirse entre los datos alguna explicación específica menor. Para una mejor lectura de estos datos, se los suele procesar y ordenar de forma tal que sea más fácil acceder a ellos y percibirlos dentro de la totalidad de la información del evento. Así, el lector se informa simultáneamente de más de un dato, en un tipo de lectura que no es lineal. Para ello, se confeccionan cuadros y gráficos de doble y a veces de triple entrada.</p>
+<h3>Other pieces: Ticket</h3>
+<p>A ticket for an event has a specific function which is not that neither of informing nor of persuading, but it will be used as an element that allows access to the event. However, it should be somehow related to the other elements in the system that allow for it to be identified with the event. It requires special care in order to avoid falsifications or adulterations if the access is not free; thus we resort to special colors, security marks (stamps, tags) and sometimes they are even printed with non-conventional procedures, which are supposed to be of difficult access for counterfeits. </p>
+<p>The information contained in it is similar to that in the poster: it will inform about the event, date and time (in general or about the specific activity) and place where the activity will take place. It is also numbered for internal control and it includes specific information such as row, seat, etc. </p>
+<h3>Some examples</h3>
+<h4>Promotion for The New York Times</h4>
+<p>The receiver gets a promotion leaflet in the position of figure 1. When he opens it, he gets image 2, and thus, with each new foldout, 3 and 4, the format is duplicated, the text becomes persistent and the type sizes get bigger. After the dramatic climax which is shown in «…sell, sell, sell!» (image 4) it is rounded off with an advertising text inviting to advertise in the magazine (image 5: the purpose of the piece.) </p>
+<p>Reading is affected by a rhythmical intensification and remains incorporated into a typographic composition. It consists of a sequence where the text (its content) and the typography (its shape) are simultaneously developed on each paper foldout. At the same time, in each instance there are parts hierarchically organized over other by adequate treatment of space and type size growth.</p>
+<h4>Identity program for boîte à musique:</h4>
+<p>In this second example we will see pieces belonging to a music store, integrated by means of a very peculiar typographic program. From the store brand (image 6) a structure was designed (image 7) where the constants of the brand (boîte à musique) are maintained and a typographic miscellany frame (rules with a width related to the stroke of the type that makes up the brand). Taking as guidelines the directions created by the brand, a structure which considers a few variations in format, proportions and possible configurations was built.  </p>
+<p>Each of these configurations allows for the brand to adapt to the specific characteristics of the pieces on which it is applied, be them advertisements (8 and 10) or stationary (9).</p>
+<h4>Identity for Bech Electronic Centre</h4>
+<p>This identity program answers the following questions: who? (Bech, the owner), what? (Electronic, the goods), how? (Centre, how it is offered.) </p>
+<p>The coincidence with the initials of the brand (bec) is exploited in a crossword puzzle. Different letter combinations to combine the company’s name are practiced, with horizontal predominance in one case, and with vertical predominance in the other. </p>
+<p>The presence of these combinations, adapted to the different proportions and formats of each piece (advertisement, promotional material, stationary) identifies the sender and unifies the system, based mainly on typographic resources.</p>
+<div class="ref_box"><strong>Bibliography</strong></p>
+<ul>
+<li>GERSTNER, Karl. <em>Diseñar programas.</em> Gustavo Gili, Barcelona, 1979.</li>
+<li>CHAVEZ, Norberto. «Pequeña teoría del cartel» en <em>revista tpG 7 y 8</em>. Buenos Aires, 1989.</li>
+<li>MIJKSENAAR, Paul. <em>Diseño de la información, una introducción</em>. Gustavo Gili, Barcelona, 2001.</li>
+</ul>
+<p></p></div>
+]]></content:encoded>
+			<wfw:commentRss>http://www.oert.org/en/typography-and-typographic-systems/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Family classification, selection, and combination.</title>
+		<link>http://www.oert.org/en/family-classification-selection-and-combination/</link>
+		<comments>http://www.oert.org/en/family-classification-selection-and-combination/#comments</comments>
+		<pubDate>Fri, 27 Apr 2012 05:55:25 +0000</pubDate>
+		<dc:creator>OERT</dc:creator>
+				<category><![CDATA[Text]]></category>
+		<category><![CDATA[Theory]]></category>
+
+		<guid isPermaLink="false">http://www.oert.org/?p=668</guid>
+		<description><![CDATA[Different typeface classifications. Uses. Criteria of selection based on function and/or style. Combination criteria. Aspects to be considered when combining. Combinations and the design piece. Legibility and reading conditions.
+]]></description>
+				<content:encoded><![CDATA[<p class="autor">Created by: Pablo Cosgaya, Marcela Romero &#8211; Supervised by: Natalia Pano</p>
+<h3>Family classification</h3>
+<p class="note">Artículo en proceso de traducción </p>
+<p>A rational approach to the study of the great variety of existing families implies minimal notions of classification systems. First it is necessary to know the characteristics of the families available in detail. It is not convenient to indiscriminately collect a large number of families with an origin or quality difficult for us to define. Once we have observed them and know them in detail, we can arrange them in our file, keeping in mind some of the best known classification systems. In the Design, Typography and Graphic Arts Dictionary, José Martínez de Sousa mentions twenty three different typographic classification systems. Among them, we can mention:</p>
+<ul>
+<li>The Thibaudeau system (developed between 1920 and 1924), that presents four styles: romans (oldstyle and modern), Egyptian, sans serif and of writing and fantasy. This system is the simplest of all and does not give room to confusions.</li>
+<li>The Vox-ATypI (developed by Maximilien Vox and adopted by the International Typographical Union in 1964) presents 9 styles: handwritten, humanistic, garaldes (contraction of Garamond and Aldus), real (or transitional), didone (contraction of Didot and Bidoni), Egyptian, linear, incised and script.</li>
+<li>Other systems, such as the one by Aldo Novarese, the one by Andrea Pellitteri and the one by Jean Alessandrini, though they are not as popular as the two mentioned above.</li>
+</ul>
+<p>Each system adopts classification criteria that unfortunately are not homogeneous: historic criteria (oldstyle, transitional, modern) coexists with formal criteria (serif, sans serif, geometric), functional (text, fantasy, labeling) or with those referred to production technology (incised, script, handwritten, calligraphic). Problems in nomenclature and weakness to include newly designed families, experimental families, or multi-style families into the system’s categories, to mention some of the most outstanding cases, make the classification task more complex, and let us conclude that there is not an efficient system to classify all the existing families. It is important to bear in mind that the most important systems (Thibaudeau, 1924; Vox-ATypI, 1964) were elaborated before the irruption of the desktop publishing software, i.e., before the design and development of a large part of contemporary families. </p>
+<p>So what criteria should we follow?) Why should we learn these concepts? Knowing the systems and the criteria that regulate them allows us to put some order in the search, selection and filing of the available families. It helps us find similar families to replace those for which we have no fonts available. It is also important to know the systems because some of the criteria used in classification systems constitute cultural and historic traditions shared by readers from all times.</p>
+<div id="attachment_1461" class="wp-caption alignnone" style="width: 711px"><a href="http://www.oert.org/wp-content/uploads/2012/08/T03A_01_vox.jpg"><img class="size-full wp-image-1461" title="La clasificación Vox" src="http://www.oert.org/wp-content/uploads/2012/08/T03A_01_vox.jpg" alt="La clasificación Vox" width="701" height="526" /></a><p class="wp-caption-text">La clasificación del francés Maximilien Vox (1954) busca las semejanzas de los tipos en función de la similitud de sus trazos. En 1964, la Asociación Tipográfica Internacional adoptó este sistema, por lo que desde entonces se lo conoce como sistema Vox-ATypI.</p></div>
+<h3>Typeface family selection</h3>
+<p>The typographic choice is a fundamental decision in any piece of communication design. It must adjust itself to the characteristics of the contact (both in meaning and in structure) and to the intention with which the project is devised. Before choosing a family, we can ask ourselves some questions in order to direct the work: </p>
+<ul>
+<li>Do we need a typeface to compose reading texts, promotional posters or edition titles? Do we need variables? </li>
+<li>Is the text educational, informative, promotional, for amusement purposes or experimental? If educational, for which level of education? elementary school, high school or university?</li>
+<li>Which will be our target audience? Formal or informal? Age? Preferences?</li>
+<li>Must the appearance of the piece be traditional or modern? Does it belong to a definite style?</li>
+<li>What kind of printed material will it be? (a poster, a package, a book, a magazine, television?</li>
+<li>Which will be the printing method and the paper quality? Will it be printed in color?</li>
+</ul>
+<p>From the point of view of meaning, an adequate choice of typeface family can help express states of mind, emotions, or associations to certain institutions, products, lifestyles, or historic periods, as needed. We should not let only our personal taste lead us, it is important to imagine the effect the chosen family will have on the reader. </p>
+<p>We can also choose a family based on the relation it establishes with the images that will surround it, or if it is a long text, based on its performance, i.e., the number of characters that fit in a page. We should not forget that not only the typeface selection but also the kind of typographic composition of the piece will have an influence on the result.</p>
+<div id="attachment_1463" class="wp-caption alignnone" style="width: 710px"><a href="http://www.oert.org/wp-content/uploads/2012/09/T03A_04_ill.jpg"><img class="size-full wp-image-1463" title="Serif y sans serif" src="http://www.oert.org/wp-content/uploads/2012/09/T03A_04_ill.jpg" alt="Serif y sans serif" width="700" height="525" /></a><p class="wp-caption-text">¿Serif o sanserif? En el ejemplo de la izquierda (Arial, 72 pt), es imposible saber si dice «ciento once», «tres» o la palabra inglesa «Ill» (enfermo). A la derecha: la misma palabra compuesta en Georgia 72 pt. (Del Manual de tipografía de Ruari Mc Lean).</p></div>
+<h3>Family combination</h3>
+<p>In order to combine families it is necessary to define guidelines, criteria and arguments, as there are no too precise recipes as to this. An intuitive typeface combination frequently offers surprising and novel solutions.</p>
+<p>Some criteria to bear in mind: </p>
+<ul>
+<li>AChoosing the simple combination of one type to compose the text and another for the titles, or to combine several families throughout the whole work, knowing that we will have to make some adjustments in space (interletter and leading), size (type size corrections between one family and the other to compensate for the difference in x height) and weight, correcting optical irregularities in words and lines of text.</li>
+<li>Controlling typographic color of blocks and being careful as to general presentation, respecting the hierarchy of each element.</li>
+<li>Keeping in mind that using alternatively more that two typeface styles in a same project could be visually confusing or tiring for the reader.</li>
+<li>To not be limited only by the relation between alphabetic characters: a relationship between letters from one style and numbers and signs from another can be created. It is highly advisable to know in depth each typeface family.</li>
+<li>Finally, verifying if the selected combination works or if the same results may be obtained with variations in width of the type page, in type size, in spacing and in the use of variables (color, structure).</li>
+</ul>
+<div id="attachment_1464" class="wp-caption alignnone" style="width: 710px"><a href="http://www.oert.org/wp-content/uploads/2012/09/T03A_02_fantasia.jpg"><img class="size-full wp-image-1464" title="Letras de fantasía" src="http://www.oert.org/wp-content/uploads/2012/09/T03A_02_fantasia.jpg" alt="Letras de fantasía" width="700" height="525" /></a><p class="wp-caption-text">Las familias de fantasía están basadas en motivos arquitectónicos, decorativos, antropomórficos, etcétera. Su uso se limita a capitulares o palabras cortas, pero nunca se emplean para componer textos. Alumnos (de arriba a abajo, de izquierda a derecha): Daniela Raskobsky, Mariana De Mattia, Luciano Costilla, Martín De Marchi</p></div>
+<p>&nbsp;</p>
+<h3>Some considerations</h3>
+<ul>
+<li>If our goal is to compose a legible text, classic families can help us, as they do not present unusual or extravagant characteristics that can distract the reader, for example: Garamond, Bembo, Plantin, Baskerville, Minion, Scala Serif.</li>
+<li>Though the difference in legibility between some groups may not seem very noticeable, it can be stated that families with terminal create less confusions in readers than the sans serif monotonous and ambiguous forms.</li>
+<li>Terminals improve reading flow through the line, in horizontal direction.</li>
+<li>For a long, continuous text (literature, newspapers and magazines) it is preferable to compose the text in a family that has terminals. In other areas of communication where legibility is essential but reading happens quickly and synthetically (as in the case of signposting, for example) sans serif types are preferred. The same happens with other kind of pieces, like posters or advertisements.</li>
+<li>Each word’s silhouette (called bouma by the Armenian typographer Hrant Papazian) is a very important factor in legibility: words composed in capitals produce uniform and difficult to differentiate «gray rectangles» (boumas). Words composed in lower case, on the other hand, are considerably more legible because their boumas are more different from each other.</li>
+</ul>
+<div id="attachment_1465" class="wp-caption alignnone" style="width: 711px"><a href="http://www.oert.org/wp-content/uploads/2012/09/T03A_02_ejemplos.jpg"><img class="size-full wp-image-1465" title="Ejemplo: Física de los superhéroes" src="http://www.oert.org/wp-content/uploads/2012/09/T03A_02_ejemplos.jpg" alt="Física de los superhéroes" width="701" height="526" /></a><p class="wp-caption-text">Alumnos (de izquierda a derecha) N.N., Laura Dattoli.</p></div>
+<p>&nbsp;</p>
+<div class="ref_box"><strong>Bibliography</strong></p>
+<ul>
+<li>MARTÍNEZ DE SOUSA, José. <em>Diccionario de edición, tipografía y artes gráficas.</em> Trea, Gijón. 2001.</li>
+<li>SPIEKERMANN, Erik y GINGER, E.M.. <em>Stop Stealing Sheep.</em> Adobe Press, Mountain View, 1993.</li>
+<li>McLEAN, Ruari. <em>Manual de tipografía</em>. Hermann Blume. Barcelona, 1987.</li>
+<li>SOLOMON, Martin, «Extrañas parejas tipográficas» en <em>tipoGráfica 5</em>.</li>
+</ul>
+<p></p></div>
+]]></content:encoded>
+			<wfw:commentRss>http://www.oert.org/en/family-classification-selection-and-combination/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Basic concepts</title>
+		<link>http://www.oert.org/en/basic-concepts/</link>
+		<comments>http://www.oert.org/en/basic-concepts/#comments</comments>
+		<pubDate>Fri, 27 Apr 2012 05:55:03 +0000</pubDate>
+		<dc:creator>OERT</dc:creator>
+				<category><![CDATA[Text]]></category>
+		<category><![CDATA[Theory]]></category>
+
+		<guid isPermaLink="false">http://www.oert.org/?p=667</guid>
+		<description><![CDATA[Basic concepts for text setting: type family; type size, units and measuring instruments; typographic variables; spatial relations in words, lines and paragraphs; typographic color; the paragraph as the fundamental unit in a piece of work; text attributes; margins; word division; legibility and orthography for editors.]]></description>
+				<content:encoded><![CDATA[<p class="autor">Created by: Pablo Cosgaya &#8211; Colaboración: Marcela Romero &#8211; Supervised by: Natalia Pano</p>
+<p class="note">Artículo en proceso de traducción </p>
+<p>The purpose of this essay is to provide the student with the basic information necessary for the adequate treatment of texts, a task that will bring together most of the activities from the level 2 workshop.</p>
+<h3>Typeface family</h3>
+<p>A typeface family is a set of alphabetic and non alphabetic signs with common structural and stylistic characteristics, which allow them to be recognized as belonging to one system.</p>
+<p>The alphabetic signs that compose the typeface family are capitals letters, accented capitals letters, lowercase letters, accented lowercase letters, and capitals and lowercase ligatures. Non alphabetic signs are numbers, punctuation marks and commercial signs.</p>
+<p>There are families that have a third system, small caps, capital signs of a smaller size which maintain the lowercase typographic color (unlike a capitals letter reduced to the x height).</p>
+<h3>Type size</h3>
+<p>The concept of type size has to do with the printing technique in which movable types are used. It is the vertical size of the type’s face, considering the whole lead block.</p>
+<p>This measure includes ascenders, x height, descenders and a small space (called shoulder) for the descender of a line not to touch the ascenders of the line below.</p>
+<p>When composing different typeface families with a same type size, the x heights, the capitals heights and the ascenders and descenders may not coincide. The reason for this is that though the original lead type has the same type size for all of them, each family was designed based on different criteria.</p>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/09/T01A_01-tipomovil.jpg"><img class="alignnone size-full wp-image-1615" title="Tipo móvil" src="http://www.oert.org/wp-content/uploads/2012/09/T01A_01-tipomovil.jpg" alt="" width="700" height="525" /></a></p>
+<h3>Measurement units</h3>
+<p>Measurement units more frequently used in typography are based on two systems: the Anglo-American one, widely known in the whole world because most desktop publishing programs take it as master system, and Didot one, used in many European countries.</p>
+<p>In both systems the measurement unit is called point, abbreviated as pt. Thus, as we may mistake different measurement systems, we need to make clear which we one are referring to: 12 Anglo-American pt conform 1 pica, while 12 Didot pt, conform 1 Cicero. The Anglo-American point is slightly smaller than the Didot one.</p>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/01/T01A_10-pica-ciciero1.jpg"><img class="alignnone size-full wp-image-1723" title="Equivalencia entre puntos didot y angloamericanos" src="http://www.oert.org/wp-content/uploads/2012/01/T01A_10-pica-ciciero1.jpg" alt="" width="700" height="525" /></a></p>
+<h3>Measurement tools</h3>
+<p>The line gauge is used to measure type size; it is a metallic or celluloid ruler with series of slots or lines repeated several times, with a fixed distance between them. It is used to measure lead types, but it can also be placed on the lines of text until finding the distance between lines by comparison and coincidence.</p>
+<p>Another possibility is to use a celluloid sheet with groups of letters of different type size printed on it (usually capitals, lowercase with ascenders, descenders and without them) as indicated under each group. Placing the ruler on the texts to be measured, its approximate type size may be obtained (this varies depending on the family to be measured).</p>
+<p>Nowadays layout and illustration programs measure typeface with a tool that looks like a frame or a palette. It is very easy to use: the text to be measured or modified is selected and the desired value is entered in the corresponding box.</p>
+<h3>Typographic variables</h3>
+<p>Typographic variables are alternative alphabets within a same family, because they maintain the structural and stylistic relation. These variables allows us to solve hierarchy problems and reading levels within a text, generating different rhythms or weights within a same sign system.</p>
+<p>First, variables affect letters in three basic axes:</p>
+<ul>
+<li><strong>Weight</strong> (light, regular, bold, etc).</li>
+<li><strong>Construction axis</strong> (round, regular or roman, and italic).</li>
+<li><strong>Width</strong> (condensed, regular or extended).</li>
+</ul>
+<p>Weight modifies the letter stroke and thus its color and that of the text, the axis affects the structure producing variations in rhythm, while width modifies structure and produces changes in text performance.</p>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/09/T01A_12-variables_peso_ancho_eje.jpg"><img class="alignnone size-full wp-image-1618" title="Variables de peso, ancho y eje" src="http://www.oert.org/wp-content/uploads/2012/09/T01A_12-variables_peso_ancho_eje.jpg" alt="" width="700" height="525" /></a></p>
+<p>With the upcoming of typeface systems such as Rotis and Stone (multi-style families that overcome the boundaries of classification groups) a new variable emerged that we may call style variable. The style variable can vary, for example, from a sans serif to a roman, maintaining basic essential features.</p>
+<p>Today there are families that allow changing the sign width and weight while maintaining its optical corrections, thus creating the variable needed for the piece to be performed.</p>
+<h3>Interletter, interword spaces and leading</h3>
+<p>These measures are part of the font characteristics, that is, the typographic designer defines these measures following the stylistic criteria of the typeface he created.</p>
+<p>The interletter space is the space between one letter and the next within the same word: it must be wide enough for each sign to be perceived as different from the next one and be easily read. If the interletter space is too narrow, the signs will touch with each other; but if it is wide, the word may break up.</p>
+<p>Interletter space must be regular in order to establish a smooth reading rhythm. For this purpose, the distance between characters must have a relation with the internal space in each sign (counterform). Interword space is the space between words in a line of text. It must be wide enough to differentiate a word from the next one, but not to wide for the line to break into words.</p>
+<p>Leading is the space between each line of text. It is measured from the line where letters rest on (baseline) to the next baseline. If this space is too narrow, the block of text smudges, but if it is too wide it breaks into separate lines.</p>
+<p>If the line has too many words (wide column), the leading should be a little wider than usual, to make it easier for the reader to find the beginning of the next line.</p>
+<div id="attachment_1619" class="wp-caption alignnone" style="width: 710px"><a href="http://www.oert.org/wp-content/uploads/2012/09/T01A_14-interletra_interlineado_interpalabra.jpg"><img class="size-full wp-image-1619" title="Interletra, interlineado e interpalabra" src="http://www.oert.org/wp-content/uploads/2012/09/T01A_14-interletra_interlineado_interpalabra.jpg" alt="Interletra, interpalabra e interlínea" width="700" height="525" /></a><p class="wp-caption-text">El interlineado tiene estrecha relación con la interletra y la interpalabra. Para una lectura cómoda, debe ser armónico. El color tipográfico queda determinado por el peso de los signos y los blancos internos del texto.</p></div>
+<p>Obviously, interletter, interword spaces and leading are closely related. Interword space should be wider than interletter space in order to differentiate a word from the next one, but not too wide so as to loose line unity, and it should be narrower than the leading so that reader may see horizontal lines instead of rivers.</p>
+<p>Due to these interrelations, it may be said that there is not an optimal interletter or interword space but that it is the relation between them and their relation with leading, which allows for the adequate smoothness of a block of text.</p>
+<h3>Typographic color</h3>
+<p>It is the gray smear perceived when looking at blocks of text. As we have seen, it is easy to deduce that the interletter, interword spaces and leading are closely related with typographic color.</p>
+<p>If the interletter, the interword spaces and the leading are narrow, the block will look darker. On the contrary, if the interletter space and the leading are wide, the block of text will look lighter. As we said, the leading and the interletter space are related to letter counterform: in open and big counterforms, typography must have an open interletter space, which will result the right color.</p>
+<p>Typographic color will also depend on other factors such as the typeface family chosen and the variables used, which should be taken into consideration by the designer at the moment of choosing a family.</p>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/09/T01A_15-color_tipografico.jpg"><img class="alignnone size-full wp-image-1620" title="Color tipografico" src="http://www.oert.org/wp-content/uploads/2012/09/T01A_15-color_tipografico.jpg" alt="" width="700" height="525" /></a></p>
+<h3>The paragraph</h3>
+<p>Before we begin to design, the text of the communication piece we are going to work on has to be analyzed. With this we may be able to discover a more or less complex organization, being the paragraph its minimal unit of meaning. The paragraph is a visual unit important enough as to be present in isolation from the rest of the discourse. Thus, from an editorial point of view, we can say that the paragraph is the essential unit of a piece.</p>
+<p>El párrafo es una unidad visual con una importancia suficiente como para presentarse aislado del resto del discurso. Por lo tanto, desde el punto de vista editorial, podemos afirmar que el párrafo es la unidad fundamental de una obra.</p>
+<h4>Text attributes</h4>
+<p>In most cases, regulations express criteria which are common to most people. But, this does not prevent us from experimenting with them or challenging their limits The text&#8217;s visual attributes must respect its contents, take into consideration literary codes, etc. But the designer’s experience, together with his knowledge of regulations, makes a novel and functional treatment possible.</p>
+<h4>Alignment</h4>
+<p>A text set flush left is formed by lines of irregular length that begin in an axis set to the left and a fray (lateral profile) to the right, that must be controlled to avoid lines being too even, too uneven or dissonant words from forming.</p>
+<p>This type of alignment is easy to read because upon finishing a line, the eye quickly finds the beginning of the next one, always on the same axis. This is due to the occidental direction of reading: from left to right and from top to bottom.</p>
+<p>A text set flush right is formed by lines of irregular length that end at an axis set to the right and a fray to the left. These texts are more difficult to read, because the fray affects the beginning of each line, and it is no easy to find its beginning.</p>
+<p>A centered text is formed by lines of irregular length symmetrically placed upon a central axis. The text has a fray to each side, and must be controlled in order to look harmonic. This is not advisable for a long text.</p>
+<p>A justified or blocked text is formed by lines that fill the whole width of the type page. In this type of composition, extreme care must be put on leading and letter spacing. Nowadays, desktop publishing has very much simplified this heavy task. It is advisable to practice different configurations to solve different situations within a same text. To do this, the designer must have a deep knowledge of desktop publishing programs.</p>
+<div id="attachment_906" class="wp-caption alignnone" style="width: 710px"><a href="http://www.oert.org/wp-content/uploads/2012/07/T01B_02-alineacion.jpg"><img class="size-full wp-image-906" title="Alineación" src="http://www.oert.org/wp-content/uploads/2012/07/T01B_02-alineacion.jpg" alt="Distintas alineaciones del bloque de texto" width="700" height="525" /></a><p class="wp-caption-text">Las distintas alineaciones requieren diferente esfuerzos en la lectura. Asimismo el espacio se comporta de diferentes manera.</p></div>
+<h4>Hyphenation at the end of a line</h4>
+<p>Desktop publishing programs justify block of texts by proportionally separating or adjusting the space between letters and between words, thus obtaining lines of the same length. To avoid «rivers» or forced spacing that affect the uniform block color, programs put a hyphen at the point where the final word of each line is divided, which makes it easier to distribute regular spaces.</p>
+<p>In computers, the mechanism of automatic word splitting (automatic hyphenation) is usually configured to English. It is necessary to adapt it to our language’s syllabification, depending on the program we are working with.</p>
+<p>In some programs this adaptation is automatic, like Spanish Hyphenation in QuarkXPress before version 6. In some other cases one has to create the document and click on «Spanish».</p>
+<p>As hyphenation rules are different in each language, it is essential to learn which rules apply for the syllabification of our language. In Spanish (or better said: Castilian Spanish) there are two types of hyphenation, each one with its defenders and detractors: 1) syllabic division and 2) etymologic division, where words formed by [preﬁx+root] are divided following the syllabic method as if they were separate words.</p>
+<h4>Legibility</h4>
+<p>Legibility must be one of the main goals of a designer. A legible text does not have to be boring, schematic or just like everything we know. First, it is essential to bear in mind the meaning of the text we are going to work with and the author’s intentions. It is also convenient to know the interests of the target or potential audience for the piece we will design.</p>
+<p>One of the most frequent mistakes unskilled designers make is to put their own esthetic intentions or expressive needs before the interests of the author or of the reader. In general, a text is easy to read when it «becomes transparent» to the eyes of the reader and allows the piece to flow with no interferences.</p>
+<p>In his Design, Typography and Graphic Arts Dictionary (DETAG for its initials in Spanish), the Spanish typographer and lexicographer José Martinez de Sousa defines the concepts of legibility and readability:<br />
+<strong>Legibility</strong> (s. Legibilidad) Quality a printed text has of being easily read. The word legibility (unlike readability) refers mainly to personal features of somatic nature (vision sharpness, ability, etc) and it is judged by characteristics which are external to the publication: type of paper, printing ink, size, type and type size, line length, leading, illustrations size, etc (i.e. refers to the forms, not to the content). [...]<br />
+<strong>Readability</strong> (fr. aptitude à la lecture; s. lecturabilidad) Easy understanding and interpretation of a text, related to style and the argument (i.e., the content). [...]</p>
+<h3>Orthography for editors</h3>
+<p>Un buen diseñador (sobre todo si piensa dedicarse al diseño editorial) tiene que estar interesado por la gramática y especialmente por la ortografía, pues tiene la obligación de presentar sus textos con la mayor pureza y precisión, es decir de acuerdo con las reglas del lenguaje escrito. Además de estudiar y practicar estas reglas con frecuencia, es recomendable tener a mano diccionarios y manuales de consulta.</p>
+<p class="info">We suggest you visit the site Unostiposduros.com and consult the <a title="General Typography Treaty" href="http://www.unostiposduros.com/category/tratado_de_tipografia/" target="_blank">General Typography Treaty</a> published there on line: www.unostiposduros.com/?cat=3 We especially recommend chapter IX: <a title="Composition, spacing and line justification" href="http://www.unostiposduros.com/tratado-de-tipografia-9-composicion-espaciado-y-justificacion/" target="_blank">Composition, spacing and line justification.</a></p>
+<h3>Useful definitions:</h3>
+<div class="glosario">
+<p><strong>Orthography</strong> Set of rules and exceptions that regulate the writing of a language.</p>
+<p><strong>Orthotypography</strong> Set of orthographic and typographic rules and exceptions that regulate the writing and presentation of graphic elements.</p>
+<p><strong>Bibliology</strong> Science of the written text and written communication.</p>
+<p><strong>Lexicography</strong> Scientific technique for the study and creation of dictionaries.</p>
+<p><strong>Style correction</strong> A specialist intervention in a text written by somebody else to correct those grammatical uses that do not adjust to a normative institution’s rules.</p>
+<p><strong>Typographic correction</strong> Intervention of an orthotypographist in a composed text to correct the mistakes it may have.akes it may have.<br />
+</p></div><br />
+<div class="ref_box"><strong>Bibliography</strong></p>
+<ul>
+<li>DE BUEN UNNA, Jorge. <em> Manual de diseño editorial. 3.ª edición, corregida y aumentada. </em>Trea Ediciones, España, 2009.</li>
+<li>MARTÍNEZ DE SOUSA, José. <em>Diccionario de Edición, Tipografía y Artes Gráficas.</em> Gijón, Trea 2001.</li>
+<li>MARTÍNEZ DE SOUSA, José. <em>Diccionario de Tipografía y del Libro.</em> Madrid, Paraninfo 1981, segunda edición.</li>
+</ul>
+<p></p></div></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.oert.org/en/basic-concepts/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

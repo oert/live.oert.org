@@ -1,0 +1,515 @@
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<title>
+  Proporciones del alfabeto latino&nbsp;|&nbsp;OERT</title>
+
+<link rel="stylesheet" href="http://www.oert.org/wp-content/plugins/sitepress-multilingual-cms/res/css/language-selector.css?v=2.6.0" type="text/css" media="all" />
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="stylesheet" type="text/css" href="http://www.oert.org/wp-content/themes/WikiBase/style.css" media="screen" />
+<link rel="shortcut icon" type="image/png" href="http://www.oert.org/wp-content/uploads/favicon.ico" />
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.oert.org/feed/" />
+<link rel="pingback" href="http://www.oert.org/xmlrpc.php" />
+
+<link rel="stylesheet" type="text/css" href="http://www.oert.org/wp-content/themes/WikiBase/library/css/print.css" media="print" />
+<link rel="Stylesheet" type="text/css" href="http://www.oert.org/wp-content/themes/WikiBase/library/css/smoothDivScroll.css" />
+
+<script src="http://connect.facebook.net/es_ES/all.js#xfbml=1"></script>
+<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+<script src="https://apis.google.com/js/plusone.js" type="text/javascript"></script>
+
+
+ <link href="http://www.oert.org/wp-content/themes/WikiBase/custom.css" rel="stylesheet" type="text/css">
+<script language="javascript" type="text/javascript">
+	function hasClass(ele,cls) {
+	return ele.className.match(new RegExp('(\\s|^)'+cls+'(\\s|$)'));
+	}
+
+    function addClass(ele,cls) {
+    if (!this.hasClass(ele,cls)) ele.className += " "+cls;
+    }
+    function removeClass(ele,cls) {
+    if (hasClass(ele,cls)) {
+        var reg = new RegExp('(\\s|^)'+cls+'(\\s|$)');
+        ele.className=ele.className.replace(reg,' ');
+    }
+    }
+
+    function showHideDiv(sids,divids)
+    {
+		//alert(sids);
+		//alert(divids);
+        var divstyle = new String();
+		var spanstyle = new String();
+		var spansid = new String();
+		spansid = document.getElementById(sids);
+        divstyle = document.getElementById(divids).style.display;
+        if(divstyle.toLowerCase()=="block" || divstyle == "")
+        {
+            document.getElementById(divids).style.display = "none";
+			removeClass(spansid,'neg');
+			addClass(spansid,'pos');
+        }
+        else
+        {
+            document.getElementById(divids).style.display = "block";
+			removeClass(spansid,'pos');
+			addClass(spansid,'neg');
+        }
+    }
+    </script>
+    <script type="text/javascript">
+        $(document).ready( function() {
+            $('#menu-recursos').hoverAccordion({
+                keepHeight:true,
+                activateItem: 3,
+                speed: 400
+            });
+        });
+    </script>
+        
+<link rel="dns-prefetch" href="//connect.facebook.net" />
+<link rel="alternate" type="application/rss+xml" title="OERT &raquo; Proporciones del alfabeto latino RSS de los comentarios" href="http://www.oert.org/proporciones-del-alfabeto-latino/feed/" />
+<link rel='stylesheet' id='wpml-cms-nav-css-css'  href='http://www.oert.org/wp-content/plugins/wpml-cms-nav/res/css/navigation.css?ver=1.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='cms-navigation-style-base-css'  href='http://www.oert.org/wp-content/plugins/wpml-cms-nav/res/css/cms-navigation-base.css?ver=1.2.7' type='text/css' media='screen' />
+<link rel='stylesheet' id='cms-navigation-style-css'  href='http://www.oert.org/wp-content/plugins/wpml-cms-nav/res/css/cms-navigation.css?ver=1.2.7' type='text/css' media='screen' />
+<link rel='stylesheet' id='facebook-css'  href='http://www.oert.org/wp-content/plugins/facebook/static/css/style.min.css?ver=1.3.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.oert.org/wp-includes/js/jquery/jquery.js?ver=1.8.3'></script>
+<script type='text/javascript' src='http://www.oert.org/wp-content/themes/WikiBase/library/js/functions.js?ver=1'></script>
+<script type='text/javascript' src='http://www.oert.org/wp-includes/js/comment-reply.min.js?ver=3.5.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.oert.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.oert.org/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Composición y modulación' href='http://www.oert.org/composicion-y-modulacion/' />
+<link rel='next' title='Anatomía tipográfica' href='http://www.oert.org/anatomia-tipografica/' />
+<meta name="generator" content="WordPress 3.5.1" />
+<link rel='shortlink' href='http://www.oert.org/?p=179' />
+
+	<!-- This site uses Good Old Gallery, get it from http://wp.unwi.se/good-old-gallery -->
+
+        <style type="text/css" media="screen">
+          div.printfriendly {
+            margin: 0px 0px 0px 0px;;
+          }
+          div.printfriendly a, div.printfriendly a:link, div.printfriendly a:visited {
+            text-decoration: none;
+            font-size: 14px;
+            color: #99cc00;
+            vertical-align: bottom;
+            border: none;
+          }
+
+          .printfriendly a:hover {
+            cursor: pointer;
+          }
+
+          .printfriendly a img  {
+            border: none;
+            padding:0;
+            margin-right: 6px;
+            display:inline-block;
+            box-shadow: none;
+            -webkit-box-shadow: none;
+            -moz-box-shadow: none;
+          }
+          .printfriendly a span{
+            vertical-align: bottom;
+          }
+          .pf-alignleft {
+            float: left;
+          }
+          .pf-alignright {
+            float: right;
+          }
+          div.pf-aligncenter {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            text-align: center;
+          }
+        </style>
+        <style type="text/css" media="print">
+          .printfriendly {
+            display: none;
+          }
+        </style>
+<script type="text/javascript">var icl_lang = 'es';var icl_home = 'http://www.oert.org/';</script>
+<script type="text/javascript" src="http://www.oert.org/wp-content/plugins/sitepress-multilingual-cms/res/js/sitepress.js"></script>
+<meta name="generator" content="WPML ver:2.6.0 stt:2,1;0" />
+<link rel="alternate" hreflang="en_US" href="http://www.oert.org/en/latin-alphabet-proportions/" />
+
+<style type="text/css">#lang_sel a, #lang_sel a.lang_sel_sel{color:#444444;}#lang_sel a:hover, #lang_sel a.lang_sel_sel:hover{color:#000000;}#lang_sel a.lang_sel_sel, #lang_sel a.lang_sel_sel:visited{background-color:#f5f4f2;}#lang_sel a.lang_sel_sel:hover{background-color:#eeeeee;}#lang_sel li ul a, #lang_sel li ul a:visited{color:#444444;}#lang_sel li ul a:hover{color:#000000;}#lang_sel li ul a, #lang_sel li ul a:link, #lang_sel li ul a:visited{background-color:#f5f4f2;}#lang_sel li ul a:hover{background-color:#eeeeee;}#lang_sel a, #lang_sel a:visited{border-color:#cdcdcd;} #lang_sel ul ul{border-top:1px solid #cdcdcd;}</style>
+
+<style type="text/css">#lang_sel  {width: 195px; margin-bottom:24px;}
+#lang_sel a {font-size:12px;}
+#lang_sel li {width:192px; }
+
+</style>		<link href="http://www.oert.org/wp-content/themes/WikiBase/skins/1-default.css" rel="stylesheet" type="text/css" />
+
+
+<link href='http://boakes.org/most-wanted?v=0.1.9v' />
+<link rel="canonical" href="http://www.oert.org/proporciones-del-alfabeto-latino/"/>
+<meta property="og:site_name" content="OERT" />
+<meta property="og:type" content="article" />
+<meta property="og:locale" content="es_ES" />
+<meta property="fb:app_id" content="285109618260716" />
+<meta property="og:url" content="http://www.oert.org/proporciones-del-alfabeto-latino/" />
+<meta property="og:title" content="Proporciones del alfabeto latino" />
+<meta property="og:description" content="Tecnología de producción y forma resultante. Mayúsculas trajanas y su conversión en modelo. Estructuras básicas y conformación de grupos de anchos comunes. Grupos por parentesco morfológico. Anchos históricos y contemporáneos." />
+<meta property="article:published_time" content="2012-09-10T01:00:50+00:00" />
+<meta property="article:modified_time" content="2012-11-02T12:25:08+00:00" />
+<meta property="article:author" content="http://www.oert.org/author/admin/" />
+<meta property="article:section" content="Letra" />
+<meta property="article:tag" content="Teoría" />
+<meta property="og:image" content="http://www.oert.org/wp-content/uploads/2012/07/T04A_01-propor_redondas_2.jpg" />
+<meta property="og:image:width" content="700" />
+<meta property="og:image:height" content="525" />
+</head>
+<body class="single single-post postid-179 single-format-standard">
+<div id="header">   
+<div id="header_in" class="clearfix">
+<div class="logo"> 
+   <div class="blog-title"><a href="http://www.oert.org//">OERT</a> 
+		
+		 <p class="blog-description">
+		  Open Educational Resources for Typography		</p>
+   </div> 
+   </div>
+                        <div class="header_right">
+        	<p>Última actualización: <span>April 7, 2013</span></p>
+                        <form method="get" id="searchform" action="http://www.oert.org">
+<div id="search-form-wrap">
+<label for="s" id="search-label">Buscar por:</label>
+<input type="text" id="s" name="s" accesskey="4" value="" />
+<input type="hidden" name="stype" value="ajsearch" />
+<input type="submit" name="stype" value="Search" style="display:none;" class="b_search" />
+<span id="searchreset" title="Reset Search"></span>
+<span id="searchload"></span>
+</div>
+</form>
+
+                    </div>               
+   </div> 
+ </div>   <!-- header #end -->     <div id="wrapper" class="clearfix">  
+  		<div id="content" >
+         <div id="current-content">
+                 <div class="breadcrumb clearfix">
+        <a rel="nofollow" href="http://www.oert.org">Home</a>  <a href="http://www.oert.org/category/parte1/" title="Ver todas las entradas en Teoría">Teoría</a>  <a href="http://www.oert.org/category/parte1/parte1-1/" title="Ver todas las entradas en Letra">Letra</a>  Proporciones del alfabeto latino        </div>
+             
+                       
+        <div class="single_post">
+        <h1 class="head">Proporciones del alfabeto latino</h1>
+ 		  		                  <p class="post_info clearfix post_info_single"><span>Posted by <a href="http://www.oert.org/author/admin/" title="Entradas de OERT" rel="author">OERT</a> - sep 10, 2012 </span>
+                     <span class="i_cate"> <a href="http://www.oert.org/category/parte1/parte1-1/" title="Ver todas las entradas en Letra" rel="category tag">Letra</a>, <a href="http://www.oert.org/category/parte1/" title="Ver todas las entradas en Teoría" rel="category tag">Teoría</a> </span>
+                      <span> <a href="http://www.oert.org/proporciones-del-alfabeto-latino/#commentarea"  class="i_comment" ><fb:comments-count xmlns="http://ogp.me/ns/fb#" href="http://www.oert.org/proporciones-del-alfabeto-latino/"></fb:comments-count> comentarios </a></span>                      
+                      <a href="http://www.oert.org/?cat=10&amp;feed=rss2" class="i_rss">Receive Updates For This Category</a>
+                      
+                       </p>
+                       
+                       
+					              
+              
+              <div id="post-179" class="posts clearfix">               		               
+              		
+              		<!-- Templatic Article Tools #end -->
+              		
+              		              		
+              		<!-- Templatic Article Tools #end -->
+
+                      <p class="autor">Elaboración: Marcela Romero</p>
+<blockquote><p>La cultura romana no solo consolidó el alfabeto latino sino que también desarrolló formalmente los signos. Analizaremos algunos de los factores fundamentales de la tecnología y morfología de estos caracteres, sin tener en cuenta el serif ni el trazo, de modo de concentrarnos en su esqueleto: la estructura.</p></blockquote>
+<h3>La tecnología y la letra</h3>
+<p>De todas las manifestaciones escritas de los romanos, la que alcanzó mayor desarrollo formal fue la lapidaria. En ella se evidencia una búsqueda formal y estética, una intención clara de diseño en cada letra y del alfabeto tipográfico como conjunto. El soporte, la piedra, también había sido utilizado por los egipcios y los griegos para las versiones más acabadas de sus respectivas escrituras.</p>
+<p>Los signos tallados sobre piedra son uno de los primeros ejemplos de diseño tipográfico. El modo de construir estos signos (pincel chato y talla) influyeron en la forma de cada signo y del alfabeto. Función y tecnología trabajan juntas creando características que conforman el sistema.</p>
+<h3>Las inscripciones lapidarias</h3>
+<p>Los caracteres griegos inscriptos en piedra estaban construidos sobre la base de rectas, curvas y diagonales y en sus comienzos los trazos eran monolíneos. Hacia fines de siglo V a.C. las capitales griegas se hicieron geométricamente perfectas, de gran belleza. Eran, en ocasiones, alteradas a criterio del artista, aunque mantenían siempre la simetría. Más tarde, la influencia de los romanos hizo que se trazaran con una leve diferencia de espesores y que fueran rematadas por un pequeño serif.</p>
+<p>La escritura romana tomó las estructuras griegas, pero modificó el trazo. Las capitales romanas eran pintadas con un pincel de punta chata antes de ser talladas, por lo que su trazo resulta gradual. Hicieron ajustes ópticos en los signos y en el bloque, lo que en conjunto con la precisa proporción de los trazos hizo que estas escrituras resultaran bellísimas.</p>
+<p>También, a causa de la técnica de trazado y cincelado, apareció el serif o remate, dándole a la letra apoyo y estabilidad. El trazo gradual y el serif son características particulares de la tipografía romana.</p>
+<h3>Estructura básica</h3>
+<p>Primero analizaremos las mayúsculas clásicas en función del ancho (o grueso) de los caracteres y luego conformaremos grupos con caracteres que compartan otras características morfológicas, como ser bucles, astas diagonales u horizontales, etcétera.</p>
+<h3>El ancho de los caracteres</h3>
+<p>Para visualizar más claramente las estructuras clásicas y las relaciones que soporta cada letra, las analizaremos dentro de módulos construidos según el ancho y alto de una letra redonda (la «O» que puede inscribirse, en el caso de las romanas clásicas, en un cuadrado) y de una letra angosta (la «E» que en este caso es igual a la mitad del ancho de la «O»). Marcaremos en esos contenedores las diagonales y las intersecciones con el círculo, para tomar como referencias de ancho y de otras características morfológicas que nos ayudarán a analizar.</p>
+<div id="attachment_830" class="wp-caption alignnone" style="width: 710px"><a href="http://www.oert.org/wp-content/uploads/2012/07/T04A_01-propor_redondas_2.jpg"><img class="size-full wp-image-830  " title="Módulos y letras redondas" src="http://www.oert.org/wp-content/uploads/2012/07/T04A_01-propor_redondas_2.jpg" alt="Módulos y letras redondas" width="700" height="525" /></a><p class="wp-caption-text">Para las romanas clásicas la forma contenedora cuadrada deriva de la proporción de la «O». El segundo contenedor está formado por dos cuadrados con lado igual a la mitad del anterior.</p></div>
+<div id="attachment_839" class="wp-caption alignnone" style="width: 710px"><a href="http://www.oert.org/wp-content/uploads/2012/07/T04A_10-oe.jpg"><img class="size-full wp-image-839" title="Proporciones de la “O” y la “E” clásicas" src="http://www.oert.org/wp-content/uploads/2012/07/T04A_10-oe.jpg" alt="Proporciones de la “O” y la “E” clásicas" width="700" height="525" /></a><p class="wp-caption-text">Proporciones de la “O” y la “E” clásicas.</p></div>
+<p><em>Las redondas: </em>C, D, G, O, Q. Derivan estructuralmente de un círculo y, como el resto de las estructuras romanas, presentan correcciones ópticas. En este caso, las curvas superiores e inferiores sobrepasan ligeramente la línea de base. La «O» y la «Q» son tan anchas como altas, la «C», la «G» y la «D» son ligeramente más angostas que altas.</p>
+<p><em>Las anchas: </em>M, W. Superan el ancho del módulo, es decir, son más anchas que la «O», y son las más anchas del alfabeto.</p>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/07/T04A_02-propor_anchas_2.jpg"><img class="size-full wp-image-831" title="Letras anchas" src="http://www.oert.org/wp-content/uploads/2012/07/T04A_02-propor_anchas_2.jpg" alt="Letras anchas" width="700" height="525" /></a></p>
+<p><em>Las rectangulares: </em>H, U, N, T, A, V, Z. El ancho de estos signos es aproximadamente el del rectángulo definido por la intersección del círculo con las diagonales del cuadrado. Como estas letras solo comparten el ancho, más adelante las analizaremos conformando grupos con más características comunes.</p>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/07/T04A_03-propor_rectangular_2.jpg"><img class="size-full wp-image-832" title="Letras rectangulares" src="http://www.oert.org/wp-content/uploads/2012/07/T04A_03-propor_rectangular_2.jpg" alt="Letras rectangulares" width="700" height="525" /></a></p>
+<p><em>Las angostas 1: </em>B, E, L, F, P, R, S. Su ancho es aproximadamente la mitad de su altura.</p>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/07/T04A_04-propor_angostas1_2.jpg"><img class="size-full wp-image-833" title="Letras angostas" src="http://www.oert.org/wp-content/uploads/2012/07/T04A_04-propor_angostas1_2.jpg" alt="Letras angostas" width="700" height="525" /></a></p>
+<p><em>Las angostas 2: </em>I, J, K, Y. También son angostas, pero no comparten el ancho con las anteriores ni entre ellas. La «I» es la más angosta, le sigue la «J» y la «Y» y la «K» superan ligeramente el ancho del módulo angosto.</p>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/07/T04A_05-propor_angostas2_2.jpg"><img class="size-full wp-image-834" title="Letras angostas" src="http://www.oert.org/wp-content/uploads/2012/07/T04A_05-propor_angostas2_2.jpg" alt="Letras angostas" width="700" height="525" /></a></p>
+<h3>Los parentescos morfológicos</h3>
+<p><em>A, V, W, M: </em>están emparentadas por un vértice central, construido a partir de un ángulo similar. La punta de dichos vértices supera, por la corrección óptica, la línea de altura o de apoyo, según la letra. El ancho de la «A» y de la «V» es de 3/4 de la altura. El travesaño de la «A» se ubica por debajo del centro geométrico para darle más estabilidad y compensar sus contraformas.</p>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/07/T04A_06-parentesco_avwm.jpg"><img class="alignnone size-full wp-image-835" title="Parentesco morfológico: diagonales y eje de simetría vertical" src="http://www.oert.org/wp-content/uploads/2012/07/T04A_06-parentesco_avwm.jpg" alt="Parentesco morfológico: diagonales y eje de simetría vertical" width="700" height="525" /></a></p>
+<p>La «M» y la «W» son las letras más anchas del alfabeto. La «M» tiene igual ancho (o algo más) que altura mientras que la W es ligeramente más ancha.</p>
+<p><em>O, Q, C, D, G: </em>son las que derivan del círculo. La «O» y la «Q» se visualizan como círculos, la cola de la Q, en este caso, es larga y curva, pero puede variar de forma y tamaño. El ancho de la «C», la «G» y la «D» es de aproximadamente 7/8 de la altura.</p>
+<p>La «G» presenta un bastón ascendente más bien corto, que no supera el centro geométrico, el que remata en un «codo», hacia el interior de la letra. Este elemento no está siempre presente.</p>
+<p>La «D» está contenida arriba y abajo por trazos horizontales, que le otorgan buen apoyo.<br />
+Estas letras tienen además un ancho similar.</p>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/07/T04A_07-parentesco_oqcdg.jpg"><img class="alignnone size-full wp-image-836" title="Parentesco: letras redondas" src="http://www.oert.org/wp-content/uploads/2012/07/T04A_07-parentesco_oqcdg.jpg" alt="Parentesco: letras redondas" width="700" height="525" /></a></p>
+<p><em>E, F, L: </em>el ancho es aproximadamente la mitad de la altura. En la «E» y la «F» el bastón central se ubica por arriba del centro geométrico. Están construidas por verticales y horizontales.</p>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/07/T04A_08-parentesco_efl.jpg"><img class="alignnone size-full wp-image-837" title="Parentesco: angostas con horizontales y verticales" src="http://www.oert.org/wp-content/uploads/2012/07/T04A_08-parentesco_efl.jpg" alt="Parentesco: angostas con horizontales y verticales" width="700" height="525" /></a></p>
+<p><em>B, P, R: </em>presentan «bucles» en su estructura. La «B» tiene dos, el superior más pequeño que el inferior. La parte superior tiene un ancho equivalente a la mitad de la altura, la inferior lo supera ligeramente.</p>
+<p>La «P» y la «R» tienen una estructura común, con un ancho cercano a la mitad de la altura. La «P», en este caso, no tiene unión del bucle con el asta. Esta característica no se presenta en todas las familias tipográficas. La cola de la «R» le otorga apoyo a la letra, el ancho total es de 3/4 de la altura.</p>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/07/T04A_09-parentesco_bpr.jpg"><img class="alignnone size-full wp-image-838" title="Parentesco: angostas con bucles" src="http://www.oert.org/wp-content/uploads/2012/07/T04A_09-parentesco_bpr.jpg" alt="Parentesco: angostas con bucles" width="700" height="525" /></a></p>
+<p><em>X, Y, K: </em>concentran el encuentro de los trazos en un punto medio. En la «X» y la «K» se produce en el centro óptico, ligeramente por arriba del geométrico. La «K» tiene dos trazos diagonales, uno ascendente y otro descendente, con ángulos similares. La diagonal superior alcanza un ancho igual a 2/3 de la altura, mientras que la inferior a 3/4 de la misma. Los brazos de la «Y» se encuentran por debajo del centro geométrico, para que la contraforma interior sea más amplia. El ángulo es similar al de la «X».</p>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/07/T04A_11-parentesco_xky.jpg"><img class="alignnone size-full wp-image-840" title="Parentesco: diagonales con contraforma superior e inferior" src="http://www.oert.org/wp-content/uploads/2012/07/T04A_11-parentesco_xky.jpg" alt="Parentesco: diagonales con contraforma superior e inferior" width="700" height="525" /></a></p>
+<p><em>H, I, J, T: </em>la «I» funciona como módulo constructivo de las otras tres. La «J» se extiende, en este caso, con una curva suave por debajo de la línea de apoyo, 1/3 de la altura. Comparte la característica de descender de la línea de base solo con la «Q». La «H» es sólida y estable. El travesaño está ubicado por encima del centro geométrico, para que la contraforma inferior pueda sostener a la superior. El ancho es aproximadamente de 3/4 de la altura. La «T» tiene el asta como eje de simetría del travesaño. Su ancho es similar al de la «H».</p>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/07/T04A_12-parentesco_hijt.jpg"><img class="alignnone size-full wp-image-841" title="Parentesco: asta vertical" src="http://www.oert.org/wp-content/uploads/2012/07/T04A_12-parentesco_hijt.jpg" alt="Parentesco: asta vertical" width="700" height="525" /></a></p>
+<p><em>S: </em>es una letra compleja. Está formada por una curva y contracurva de desarrollo angosto.<br />
+La curva inferior proviene de un círculo de mayor tamaño que el superior, para soportarlo y darle mejor apoyo. Es inestable. Su ancho es aproximadamente la mitad de la altura. Comparte el tipo de curvas con el resto de los signos circulares.</p>
+<p><em>N: </em>es bastante ancha, ocupa 3/4 de la altura. La diagonal divide las contraformas internas en espacios aproximadamente iguales, al igual que los ángulos. Los vértices exceden la altura y la línea de base por la corrección óptica.</p>
+<p><em>U: </em>también es inestable al apoyarse en una curva que excede ligeramente la línea de base. Su ancho es aproximadamente 3/4 de la altura.</p>
+<p><em>Z: </em>Es sólida y estable ya que el bastón de apoyo es algo más largo que el superior, con un vértice que supera levemente la caja.</p>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/07/T04A_13-s_n_u_z.jpg"><img class="alignnone size-full wp-image-842" title="Sin grupo de parentesco" src="http://www.oert.org/wp-content/uploads/2012/07/T04A_13-s_n_u_z.jpg" alt="Sin grupo de parentesco" width="700" height="525" /></a></p>
+<h3>Comparación de proporciones con alfabetos de diseño reciente</h3>
+<p>En diferentes diseños tipográficos, las estructuras experimentan cambios que particularizan a cada familia, pero las características básicas se mantienen para poder ser reconocibles. Los cambios estructurales más profundos se producen en los anchos de los signos y en las alturas de mayúsculas, alturas de x, de ascendentes y descendentes.</p>
+<p>Con respecto al estilo, aunque este no sea hoy el eje de nuestra preocupación, los cambios se producen en el trazo (uniforme o diferentes relaciones entre gruesos y finos) y en los remates (tipo de serif si lo tuviera y cortes de los trazos, en las de palo seco).</p>
+<p>En el alfabeto latino tomado como ejemplo —Trajan, Carol Twombly, 1989— habíamos tomado la «O» para construir el contenedor, que según su ancho y alto era un cuadrado. En otros casos será un rectángulo, si es que la «O» es más alta que ancha. Si analizamos otro ejemplo encontraremos coincidencias con el análisis hecho para las trajanas. Si tomamos para el análisis otro alfabeto —Rosario, H. Gatti, 2004—, y repetimos el procedimiento de buscar el contenedor de la O, veremos que es un rectángulo vertical (proporción ancho/alto: 3/4).</p>
+<p>Al proceder a la división por grupos según diferencias de ancho, vemos que, en general, las diferencias son menores y que las angostas son más anchas. Es decir, en los anchos hay sutiles diferencias y responden a los mismos criterios que las clásicas.</p>
+<p>Hay dos letras en las que los gruesos son distintos: la “Z”, más angosta y la “S”, mucho más ancha que su par latina. La diferencia más importante es que la variación de anchos es menor.</p>
+<p><em>M y W: </em>son anchas, superan el ancho de la «O».</p>
+<p><em>O y Q: </em>son casi del mismo ancho (3/4 de la altura).</p>
+<p><em>C, D y G: </em>son ligeramente más angostas que la «O» o la «Q», como en la fuente Trajan.</p>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/07/T04A_14-o_grande.jpg"><img class="alignnone size-full wp-image-843" title="Letra “O” de proporciones contemporáneas" src="http://www.oert.org/wp-content/uploads/2012/07/T04A_14-o_grande.jpg" alt="Letra “O” de proporciones contemporáneas" width="700" height="525" /></a></p>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/07/T04A_15-mw_oqcdg.jpg"><img class="alignnone size-full wp-image-844" title="Grupo de las anchas y las redondas" src="http://www.oert.org/wp-content/uploads/2012/07/T04A_15-mw_oqcdg.jpg" alt="Grupo de las anchas y las redondas" width="700" height="525" /></a></p>
+<p><em>H, U, N, T, A, V y Z: </em>son más angostas que las redondas (1/5 menos) y la «Z» es un poco más angosta aún.</p>
+<p><em>B, P, R; E, F, L; K, X, Y; S, N, U, Z; H, I, J, T: </em>son angostas, aunque con diferencias entre sí. La más angosta es la «I», las más anchas son la «K» y la «X», al igual que en las trajanas.</p>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/07/T04A_16-efl_bpr_kxy_snuz_hijt.jpg"><img class="alignnone size-full wp-image-845" title="Grupos de anchos" src="http://www.oert.org/wp-content/uploads/2012/07/T04A_16-efl_bpr_kxy_snuz_hijt.jpg" alt="Grupos de anchos" width="700" height="525" /></a></p>
+<p>Como se ve, el análisis de las proporciones debe ser hecho sobre cada familia, porque más allá de lo general, existen diferencias; además, aunque estas sean notorias, podemos reconocer parentescos en los criterios que determinan los anchos.</p>
+<p class="icl_post_in_other_langs">Esta entrada también está disponible en: <a href="http://www.oert.org/en/latin-alphabet-proportions/">Inglés</a></p>                   
+                  
+                  <div class="like_this_section clearfix">
+					<div class="google_like">
+					<g:plusone href="http://www.oert.org" size="medium"></g:plusone>
+					</div>	                  
+                     <div class="twitter_like">
+                     <a href="http://twitter.com/share" class="twitter-share-button" data-via="oert.org" data-lang="es" data-size="medium">Tweet</a>
+                     </div>
+                     <div class="fb_like">
+                     <fb:like href="http%3A%2F%2Fwww.oert.org%2Fproporciones-del-alfabeto-latino%2F" layout="button_count" show_faces="false" width="450" height="30"></fb:like>
+                     </div>
+                     <div class="printfriendly"><a href="http://www.printfriendly.com/print?url=http://www.oert.org/proporciones-del-alfabeto-latino/" rel="nofollow" onclick="window.print(); return false;"><img src="http://cdn.printfriendly.com/button-print-gry20.png" alt="Print Friendly" /></a></div>				</div> <!-- #end -->
+
+
+          				
+              </div> <!-- post #end -->
+              
+              
+               
+ 			<div class="post-navigation clearfix">
+                                                            <a class="post-prev" href="http://www.oert.org/composicion-y-modulacion/"><em>Previous post</em><span>Composición y modulación</span></a>
+                                                                <a class="post-next" href="http://www.oert.org/anatomia-tipografica/"><em>Next post</em><span>Anatomía tipográfica</span></a>
+                                 </div>
+            
+            
+              </div> <!-- single post content #end -->
+          		<div class="realated_post clearfix">
+<h3>Related Posts</h3><ul class="realated_postlist clearfix">
+            <li class="clearfix"> 
+      
+     <h3> <a href="http://www.oert.org/familia-tipografica/">Familia tipográfica</a></h3> 
+     <p class="date clearfix"> <span>September 10, 2012</span></p>
+     <p>Definición. Familia como sistema. Componentes de la caja tipográfica. Variables tipográficas. Ejes de construcción de variables: históricos y contemporáneos. Revisión de aspectos que se mantienen y modifican en el sistema de variables.</p>
+            </li>
+                        <li class="clearfix"> 
+      
+     <h3> <a href="http://www.oert.org/mayusculas-minusculas-numeros-y-signos/">Mayúsculas, minúsculas, números y signos</a></h3> 
+     <p class="date clearfix"> <span>September 10, 2012</span></p>
+     <p>Origen, relaciones y connotaciones del sistema de mayúsculas y del de minúsculas. Relaciones verticales. Legibilidad de mayúsculas y minúsculas. Características formales y función de números. Signos de entonación, puntuación y auxiliares: forma y ubicación. Las fracciones.</p>
+            </li>
+                        <li class="clearfix"> 
+      
+     <h3> <a href="http://www.oert.org/anatomia-tipografica/">Anatomía tipográfica</a></h3> 
+     <p class="date clearfix"> <span>September 10, 2012</span></p>
+     <p>Partes de la letra: ubicación y definición.</p>
+            </li>
+                        <li class="clearfix"> 
+      
+     <h3> <a href="http://www.oert.org/texto-imagen-y-miscelanea/">Texto, imagen y miscelánea</a></h3> 
+     <p class="date clearfix"> <span>February 20, 2012</span></p>
+     <p>Misceláneas como elementos de la caja tipográfica. Función y tipos de misceláneas. Doble función: miscelánea o imagen. Letras como imagen o como miscelánea. Relaciones.</p>
+            </li>
+            </ul>
+</div>
+		
+        
+          <div id="comments" class="clearfix"> 
+<div id="comments" class="comments-area">
+<div id="respond"><noscript><ol class="commentlist"><li id="comment-10150693326402411_23554560" class="comment" itemprop="comment" itemscope itemtype="http://schema.org/UserComments"><p><a rel="nofollow" itemprop="creator" href="https://www.facebook.com/profile.php?id=1251199316">Josep Patau Bellart</a>:</p><p class="metadata"><time itemprop="commentTime" datetime="2012-10-01T16:21:18+0000">1 October, 2012 at 16:21</time></p><div class="comment-content" itemprop="commentText"><p>Para los tipografos españoles; Angostas=Estrechas</p>
+</div></li></ol></noscript>
+<div class="fb-social-plugin fb-comments" id="commentform" data-href="http://www.oert.org/proporciones-del-alfabeto-latino/" data-width="700"></div>
+</div></div>
+</div>
+          
+             </div>
+	<div id="dynamic-content"></div>        
+  </div> <!-- content #end -->
+<script type="text/javascript" language="javascript" >
+var root_path_js = 'http://www.oert.org/';
+</script>
+<script type="text/javascript" language="javascript" src="http://www.oert.org/wp-content/themes/WikiBase/library/js/article_detail.js" ></script>
+
+      <div id="lang_sel"  >
+    <ul>
+        <li><a href="#" class="lang_sel_sel icl-es">
+                            
+            <img  class="iclflag" src="http://www.oert.org/wp-content/plugins/sitepress-multilingual-cms/res/flags/es.png" alt="es" />                                
+            &nbsp;Español</a>                                    
+            <ul>
+                                <li class="icl-en">          
+                    <a rel="alternate" hreflang="en" href="http://www.oert.org/en/latin-alphabet-proportions/">
+                                    
+                    <img  class="iclflag" src="http://www.oert.org/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png" alt="en" />&nbsp;                    
+                                        English                    </a>
+                </li>
+                            </ul>            
+             
+                    </li>
+    </ul>    
+</div>
+ <!-- selector de idiomas -->
+<div id="sidebar">
+	<div class="widget"><h3><span>Recursos</span></h3><div class="menu-recursos-container"><ul id="menu-recursos" class="menu"><li id="menu-item-2003" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2003"><a href="http://www.oert.org/category/parte1/">Teoría</a>
+<ul class="sub-menu">
+	<li id="menu-item-2004" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2004"><a href="http://www.oert.org/category/parte1/parte1-1/">Letra</a></li>
+	<li id="menu-item-2005" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2005"><a href="http://www.oert.org/category/parte1/parte1-2/">Texto</a></li>
+	<li id="menu-item-2006" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2006"><a href="http://www.oert.org/category/parte1/parte1-3/">Página</a></li>
+</ul>
+</li>
+<li id="menu-item-2007" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2007"><a href="http://www.oert.org/category/parte2/">Práctica</a>
+<ul class="sub-menu">
+	<li id="menu-item-2008" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2008"><a href="http://www.oert.org/category/parte2/parte2-1/">Letra</a></li>
+	<li id="menu-item-2009" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2009"><a href="http://www.oert.org/category/parte2/parte2-2/">Texto</a></li>
+	<li id="menu-item-2010" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2010"><a href="http://www.oert.org/category/parte2/parte2-3/">Página</a></li>
+</ul>
+</li>
+<li id="menu-item-2011" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2011"><a href="http://www.oert.org/category/parte3/">Historia</a></li>
+</ul></div></div><div class="widget"><h3><span>Páginas</span></h3><div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-37" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37"><a href="http://www.oert.org/el-proyecto/">El proyecto</a></li>
+<li id="menu-item-62" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-62"><a href="http://www.oert.org/los-autores/">Los autores</a></li>
+<li id="menu-item-63" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-63"><a href="http://www.oert.org/comite-editorial/">Comité Editorial</a></li>
+<li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36"><a href="http://www.oert.org/equipo-de-trabajo-2/">Equipo de trabajo</a></li>
+<li id="menu-item-38" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38"><a href="http://www.oert.org/apoyan-este-proyecto-2/">Apoyan este proyecto&#8230;</a></li>
+<li id="menu-item-568" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-568"><a href="http://www.oert.org/preguntas-frecuentes/">Preguntas Frecuentes</a></li>
+<li id="menu-item-39" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39"><a href="http://www.oert.org/contacto-2/">Contacto</a></li>
+</ul></div></div></div> <!-- sidebar right--> 
+<div id="bottom"></div>
+<script type='text/javascript' src='http://www.oert.org/wp-content/themes/WikiBase/library/js/jquery.simplemodal.js'></script>
+<script type='text/javascript' src='http://www.oert.org/wp-content/themes/WikiBase/library/js/basic.js'></script>
+<div id="basic-modal-content" class="clearfix" style="display:none;">
+<form name="send_to_frnd" id="send_to_frnd" action="http://www.oert.org/proporciones-del-alfabeto-latino/" method="post" >
+<input type="hidden" id="send_to_Frnd_pid" name="pid" value="179" />
+<input type="hidden" name="sendact" value="email_frnd" />
+	<h3>Send To Friend</h3>
+    <p id="reply_send_success" class="sucess_msg" style="display:none;"></p>
+	<div class="row clearfix" ><label>Friend Name : <span>*</span></label><input name="to_name" id="to_name" type="text"  /><span id="to_nameInfo"></span></div>
+ 	<div class="row  clearfix" ><label> Correo electrónico : <span>*</span></label><input name="to_email" id="to_email" type="text"  /><span id="to_emailInfo"></span></div>
+	<div class="row  clearfix" ><label>Your Name : <span>*</span></label><input name="yourname" id="yourname" type="text"  /><span id="yournameInfo"></span></div>
+ 	<div class="row  clearfix" ><label> Correo electrónico : <span>*</span></label><input name="youremail" id="youremail" type="text"  /><span id="youremailInfo"></span></div>
+	<div class="row  clearfix" ><label>Asunto : <span>*</span></label><input name="frnd_subject" value="About Proporciones del alfabeto latino" id="frnd_subject" type="text"  /></div>
+	<div class="row  clearfix" ><label>Comentarios : <span>*</span></label>
+     <textarea name="frnd_comments" id="frnd_comments" cols="" rows="" >Hi there, do check out the information about this Article.</textarea></div>
+	<input name="Send" type="submit" value="Send " class="button " />
+</form>
+</div>
+<script type="text/javascript" src="http://www.oert.org/wp-content/themes/WikiBase/library/js/email_frnd_validation.js"></script>
+<!-- here -->   </div> <!-- wrapper #end -->
+  
+<div id="footer" class="clearfix">
+<div id="footer_in">
+<p class="copy"><a rel="license" href="http://creativecommons.org/licenses/by-sa/2.5/ar/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/2.5/ar/80x15.png" /></a> <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Open Educational Resources for Typography</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.oert.org/" property="cc:attributionName" rel="cc:attributionURL">OERT</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.5/ar/">Creative Commons Attribution-ShareAlike 2.5 Argentina License</a>.</p>
+<p class="fr"><span class="designby">Alojado en </span>
+<span class="wiroos"><a href="http://www.wiroos.com" title="Wiroos">Wiroos</a></span>
+</p>	
+</div></div> <!-- footer #end -->
+
+        <script type="text/javascript">
+          var pfHeaderImgUrl = '';
+          var pfHeaderTagline = '';
+          var pfdisableClickToDel = '0';
+          var pfHideImages = '0';
+          var pfImageDisplayStyle = 'right';
+          var pfDisableEmail = '0';
+          var pfDisablePDF = '0';
+          var pfDisablePrint = '0';
+          var pfCustomCSS = '';
+
+          // PrintFriendly
+          var e = document.createElement('script'); e.type="text/javascript";
+          e.src = 'http://cdn.printfriendly.com/printfriendly.js';
+          document.getElementsByTagName('head')[0].appendChild(e);
+      </script>
+<script type='text/javascript' src='http://www.oert.org/wp-content/themes/WikiBase/library/js/livesearch.js?ver=1'></script>
+<script type='text/javascript' src='http://www.oert.org/wp-content/themes/WikiBase/library/js/jquery.hoveraccordion.min.js?ver=1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var FB_WP=FB_WP||{};FB_WP.queue={_methods:[],flushed:false,add:function(fn){FB_WP.queue.flushed?fn():FB_WP.queue._methods.push(fn)},flush:function(){for(var fn;fn=FB_WP.queue._methods.shift();){fn()}FB_WP.queue.flushed=true}};window.fbAsyncInit=function(){FB.init({"channelUrl":"http:\/\/www.oert.org\/wp-content\/plugins\/facebook\/channel.php","xfbml":true,"appId":"285109618260716"});if(FB_WP && FB_WP.queue && FB_WP.queue.flush){FB_WP.queue.flush()}}
+/* ]]> */
+</script>
+<div id="fb-root"></div><script type="text/javascript">(function(d){var id="facebook-jssdk";if(!d.getElementById(id)){var js=d.createElement("script"),ref=d.getElementsByTagName("script")[0];js.id=id,js.async=true,js.src="http:\/\/connect.facebook.net\/es_ES\/all.js",ref.parentNode.insertBefore(js,ref)}})(document)</script>
+<script type='text/javascript' src=''></script>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27724959-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script><script type="text/javascript">
+	//<![CDATA[
+		function initBelle() {
+			Belle.AjaxURL		= "http://www.oert.org/?sajax=1"
+			// Initialize Livesearch
+			Belle.LiveSearch	= new LiveSearch( "Escribe y obten resultados al instante" )
+			}
+		jQuery(document).ready( function() { initBelle() })
+	//]]>
+	</script>
+<!-- LOAD JAVASCRIPT LATE - JUST BEFORE THE BODY TAG 
+		 That way the browser will have loaded the images
+	  	 and will know the width of the images. No need to
+		 specify the width in the CSS or inline. -->
+
+	<!-- jQuery library - Please load it from Google API's -->
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+
+	<!-- jQuery UI Widget and Effects Core (custom download)
+		 You can make your own at: http://jqueryui.com/download -->
+	<script src="http://www.oert.org/wp-content/themes/WikiBase/library/js/jquery-ui-1.8.18.custom.min.js" type="text/javascript"></script>
+	
+	<!-- Latest version of jQuery Mouse Wheel by Brandon Aaron
+		 You will find it here: http://brandonaaron.net/code/mousewheel/demos -->
+	<script src="http://www.oert.org/wp-content/themes/WikiBase/library/js/jquery.mousewheel.min.js" type="text/javascript"></script>
+
+	<!-- Smooth Div Scroll 1.2 minified-->
+	<script src="http://www.oert.org/wp-content/themes/WikiBase/library/js/jquery.smoothdivscroll-1.2-min.js" type="text/javascript"></script>
+
+	<!-- If you want to look at the uncompressed version you find it at
+		 js/jquery.smoothDivScroll-1.2.js -->
+
+	<!-- Plugin initialization -->
+	<script type="text/javascript">
+		jQuery(document).ready(function () {
+			jQuery("#logoParade").smoothDivScroll({
+				autoScrollingMode: "always",
+				autoScrollingDirection: "endlessloopright",
+				autoScrollingStep: 1,
+				autoScrollingInterval: 25 
+			});
+
+			// Logo parade
+			jQuery("#logoParade").bind("mouseover", function () {
+				jQuery(this).smoothDivScroll("stopAutoScrolling");
+			}).bind("mouseout", function () {
+				jQuery(this).smoothDivScroll("startAutoScrolling");
+			});
+
+		});
+		
+	</script>	
+	
+</body></html>

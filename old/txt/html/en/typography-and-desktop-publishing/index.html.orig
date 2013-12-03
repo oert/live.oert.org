@@ -1,0 +1,607 @@
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<title>
+  Typography and desktop publishing&nbsp;|&nbsp;OERT</title>
+
+<link rel="stylesheet" href="http://www.oert.org/wp-content/plugins/sitepress-multilingual-cms/res/css/language-selector.css?v=2.6.0" type="text/css" media="all" />
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="stylesheet" type="text/css" href="http://www.oert.org/wp-content/themes/WikiBase/style.css" media="screen" />
+<link rel="shortcut icon" type="image/png" href="http://www.oert.org/wp-content/uploads/favicon.ico" />
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.oert.org/en/feed/" />
+<link rel="pingback" href="http://www.oert.org/xmlrpc.php" />
+
+<link rel="stylesheet" type="text/css" href="http://www.oert.org/wp-content/themes/WikiBase/library/css/print.css" media="print" />
+<link rel="Stylesheet" type="text/css" href="http://www.oert.org/wp-content/themes/WikiBase/library/css/smoothDivScroll.css" />
+
+<script src="http://connect.facebook.net/es_ES/all.js#xfbml=1"></script>
+<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+<script src="https://apis.google.com/js/plusone.js" type="text/javascript"></script>
+
+
+ <link href="http://www.oert.org/wp-content/themes/WikiBase/custom.css" rel="stylesheet" type="text/css">
+<script language="javascript" type="text/javascript">
+	function hasClass(ele,cls) {
+	return ele.className.match(new RegExp('(\\s|^)'+cls+'(\\s|$)'));
+	}
+
+    function addClass(ele,cls) {
+    if (!this.hasClass(ele,cls)) ele.className += " "+cls;
+    }
+    function removeClass(ele,cls) {
+    if (hasClass(ele,cls)) {
+        var reg = new RegExp('(\\s|^)'+cls+'(\\s|$)');
+        ele.className=ele.className.replace(reg,' ');
+    }
+    }
+
+    function showHideDiv(sids,divids)
+    {
+		//alert(sids);
+		//alert(divids);
+        var divstyle = new String();
+		var spanstyle = new String();
+		var spansid = new String();
+		spansid = document.getElementById(sids);
+        divstyle = document.getElementById(divids).style.display;
+        if(divstyle.toLowerCase()=="block" || divstyle == "")
+        {
+            document.getElementById(divids).style.display = "none";
+			removeClass(spansid,'neg');
+			addClass(spansid,'pos');
+        }
+        else
+        {
+            document.getElementById(divids).style.display = "block";
+			removeClass(spansid,'pos');
+			addClass(spansid,'neg');
+        }
+    }
+    </script>
+    <script type="text/javascript">
+        $(document).ready( function() {
+            $('#menu-recursos').hoverAccordion({
+                keepHeight:true,
+                activateItem: 3,
+                speed: 400
+            });
+        });
+    </script>
+        
+<link rel="dns-prefetch" href="//connect.facebook.net" />
+<link rel="alternate" type="application/rss+xml" title="OERT &raquo; Typography and desktop publishing Comments Feed" href="http://www.oert.org/en/typography-and-desktop-publishing/feed/" />
+<link rel='stylesheet' id='wpml-cms-nav-css-css'  href='http://www.oert.org/wp-content/plugins/wpml-cms-nav/res/css/navigation.css?ver=1.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='cms-navigation-style-base-css'  href='http://www.oert.org/wp-content/plugins/wpml-cms-nav/res/css/cms-navigation-base.css?ver=1.2.7' type='text/css' media='screen' />
+<link rel='stylesheet' id='cms-navigation-style-css'  href='http://www.oert.org/wp-content/plugins/wpml-cms-nav/res/css/cms-navigation.css?ver=1.2.7' type='text/css' media='screen' />
+<link rel='stylesheet' id='good-old-gallery-theme-css'  href='http://www.oert.org/wp-content/plugins/good-old-gallery/themes/good-old-gallery-dots/good-old-gallery-dots.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='good-old-gallery-css'  href='http://www.oert.org/wp-content/plugins/good-old-gallery/assets/css/good-old-gallery.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='facebook-css'  href='http://www.oert.org/wp-content/plugins/facebook/static/css/style.min.css?ver=1.3.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.oert.org/wp-includes/js/jquery/jquery.js?ver=1.8.3'></script>
+<script type='text/javascript' src='http://www.oert.org/wp-content/themes/WikiBase/library/js/functions.js?ver=1'></script>
+<script type='text/javascript' src='http://www.oert.org/wp-includes/js/comment-reply.min.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://www.oert.org/wp-content/plugins/good-old-gallery/plugins/cycle/jquery.cycle.all.min.js?ver=3.5.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.oert.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.oert.org/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Type size, units and measuring instruments' href='http://www.oert.org/en/type-size-units-and-measuring-instruments/' />
+<link rel='next' title='Character map' href='http://www.oert.org/en/character-map/' />
+<meta name="generator" content="WordPress 3.5.1" />
+<link rel='shortlink' href='http://www.oert.org/?p=628' />
+
+	<!-- This site uses Good Old Gallery, get it from http://wp.unwi.se/good-old-gallery -->
+
+        <style type="text/css" media="screen">
+          div.printfriendly {
+            margin: 0px 0px 0px 0px;;
+          }
+          div.printfriendly a, div.printfriendly a:link, div.printfriendly a:visited {
+            text-decoration: none;
+            font-size: 14px;
+            color: #99cc00;
+            vertical-align: bottom;
+            border: none;
+          }
+
+          .printfriendly a:hover {
+            cursor: pointer;
+          }
+
+          .printfriendly a img  {
+            border: none;
+            padding:0;
+            margin-right: 6px;
+            display:inline-block;
+            box-shadow: none;
+            -webkit-box-shadow: none;
+            -moz-box-shadow: none;
+          }
+          .printfriendly a span{
+            vertical-align: bottom;
+          }
+          .pf-alignleft {
+            float: left;
+          }
+          .pf-alignright {
+            float: right;
+          }
+          div.pf-aligncenter {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            text-align: center;
+          }
+        </style>
+        <style type="text/css" media="print">
+          .printfriendly {
+            display: none;
+          }
+        </style>
+<script type="text/javascript">var icl_lang = 'en';var icl_home = 'http://www.oert.org/en/';</script>
+<script type="text/javascript" src="http://www.oert.org/wp-content/plugins/sitepress-multilingual-cms/res/js/sitepress.js"></script>
+<meta name="generator" content="WPML ver:2.6.0 stt:1,2;0" />
+<link rel="alternate" hreflang="es_ES" href="http://www.oert.org/tipografia-y-autoedicion-de-textos/" />
+
+<style type="text/css">#lang_sel a, #lang_sel a.lang_sel_sel{color:#444444;}#lang_sel a:hover, #lang_sel a.lang_sel_sel:hover{color:#000000;}#lang_sel a.lang_sel_sel, #lang_sel a.lang_sel_sel:visited{background-color:#f5f4f2;}#lang_sel a.lang_sel_sel:hover{background-color:#eeeeee;}#lang_sel li ul a, #lang_sel li ul a:visited{color:#444444;}#lang_sel li ul a:hover{color:#000000;}#lang_sel li ul a, #lang_sel li ul a:link, #lang_sel li ul a:visited{background-color:#f5f4f2;}#lang_sel li ul a:hover{background-color:#eeeeee;}#lang_sel a, #lang_sel a:visited{border-color:#cdcdcd;} #lang_sel ul ul{border-top:1px solid #cdcdcd;}</style>
+
+<style type="text/css">#lang_sel  {width: 195px; margin-bottom:24px;}
+#lang_sel a {font-size:12px;}
+#lang_sel li {width:192px; }
+
+</style>		<link href="http://www.oert.org/wp-content/themes/WikiBase/skins/1-default.css" rel="stylesheet" type="text/css" />
+
+
+<link href='http://boakes.org/most-wanted?v=0.1.9v' />
+<link rel="canonical" href="http://www.oert.org/en/typography-and-desktop-publishing/"/>
+<meta property="og:site_name" content="OERT" />
+<meta property="og:type" content="article" />
+<meta property="og:locale" content="es_ES" />
+<meta property="fb:app_id" content="285109618260716" />
+<meta property="og:url" content="http://www.oert.org/en/typography-and-desktop-publishing/" />
+<meta property="og:title" content="Typography and desktop publishing" />
+<meta property="og:description" content="Text composition: manual, mechanical and digital. How to obtain the printing surface. Aspects to consider in desktop-publishing typesetting. Fonts. Characteristics of different formats and their implications in visualization and printing. Font installation." />
+<meta property="article:published_time" content="2012-04-27T05:44:48+00:00" />
+<meta property="article:modified_time" content="2012-11-01T14:54:11+00:00" />
+<meta property="article:author" content="http://www.oert.org/en/author/admin/" />
+<meta property="article:section" content="Letter" />
+<meta property="article:tag" content="Theory" />
+</head>
+<body class="single single-post postid-628 single-format-standard">
+<div id="header">   
+<div id="header_in" class="clearfix">
+<div class="logo"> 
+   <div class="blog-title"><a href="http://www.oert.org/en//">OERT</a> 
+		
+		 <p class="blog-description">
+		  Open Educational Resources for Typography		</p>
+   </div> 
+   </div>
+                        <div class="header_right">
+        	<p>Última actualización: <span>April 7, 2013</span></p>
+                        <form method="get" id="searchform" action="http://www.oert.org/en/">
+<div id="search-form-wrap">
+<label for="s" id="search-label">Buscar:</label>
+<input type="text" id="s" name="s" accesskey="4" value="" />
+<input type="hidden" name="stype" value="ajsearch" />
+<input type="submit" name="stype" value="Search" style="display:none;" class="b_search" />
+<span id="searchreset" title="Reset Search"></span>
+<span id="searchload"></span>
+</div>
+</form>
+
+                    </div>               
+   </div> 
+ </div>   <!-- header #end -->     <div id="wrapper" class="clearfix">  
+  		<div id="content" >
+         <div id="current-content">
+                 <div class="breadcrumb clearfix">
+        <a rel="nofollow" href="http://www.oert.org/en/">Home</a>  <a href="http://www.oert.org/en/category/part1/" title="View all posts in Theory">Theory</a>  <a href="http://www.oert.org/en/category/part1/part1-1/" title="View all posts in Letter">Letter</a>  Typography and desktop publishing        </div>
+             
+                       
+        <div class="single_post">
+        <h1 class="head">Typography and desktop publishing</h1>
+ 		  		                  <p class="post_info clearfix post_info_single"><span>Posted by <a href="http://www.oert.org/en/author/admin/" title="Posts by OERT" rel="author">OERT</a> - Apr 27, 2012 </span>
+                     <span class="i_cate"> <a href="http://www.oert.org/en/category/part1/part1-1/" title="View all posts in Letter" rel="category tag">Letter</a>, <a href="http://www.oert.org/en/category/part1/" title="View all posts in Theory" rel="category tag">Theory</a> </span>
+                      <span> <a href="http://www.oert.org/en/typography-and-desktop-publishing/#commentarea"  class="i_comment" ><fb:comments-count xmlns="http://ogp.me/ns/fb#" href="http://www.oert.org/en/typography-and-desktop-publishing/"></fb:comments-count> Comments </a></span>                      
+                      <a href="http://www.oert.org/en//?cat=22&amp;feed=rss2" class="i_rss">Receive Updates For This Category</a>
+                      
+                       </p>
+                       
+                       
+					              
+              
+              <div id="post-628" class="posts clearfix">               		               
+              		
+              		<!-- Templatic Article Tools #end -->
+              		
+              		              		
+              		<!-- Templatic Article Tools #end -->
+
+                      <p class="autor">Elaboración: Pablo Cosgaya, Marcela Romero</p>
+<p class="note">Artículo en proceso de traducción </p>
+<p class="bajada">Apart from calligraphy and common hand writing, there are other forms of composing texts: manual composition, mechanical composition, photocomposition and desktop publishing. Each one of them is the result of successive modifications of previous techniques, which we will describe in this paper.</p>
+<h3>Manual composition</h3>
+<p>Texts are composed line by line with loose types casted individually. In this technique, types are picked by hand from their case, adjusting each line precisely in the composer stick. With that little tool, the line is set on a chase, the mould that holds the page or whole sheet of text. The blocks of images are also added inside the chase. The white spaces, though not printed, occupy in the line their corresponding place, composed with normalized measures.</p>
+<h3>Mechanical composition</h3>
+<p>Technological advances allowed for the mechanization of composition, considerable increasing speed. In the beginning of the 19th century a system was developed with which, in three consecutive stages, a matrix line was composed, then spaces were adjusted and finally the line of text was casted. The procedure was controlled by means of a keyboard and allowed for manual adjustments. After its use, each line could be melted again to recover the metal. Linotype, monotype and Ludlow composition are variants of this technique.</p>
+<h3>Photocomposition</h3>
+<p>In the beginning of the 1960s, with the forthcoming of photocomposition, production speed was once more increased. Besides, this technique allowed for composition in big type sizes.</p>
+<p>Photocomposition consists of several stages: First, the text is introduced in the computer using a keyboard. Apart from letters, the operator can include some formatting commands. The text is displayed in a monitor, together with the information corresponding to the formatting commands, though not as it will be seen in the end, but as straight matter. This is stored and then processed as a negative film, through which a source of light impacts on a photosensitive substrate. The material obtained is developed, reaching the definitive photocomposition.</p>
+<h3>Desktop publishing</h3>
+<p>With the launching of the personal computer (PC) in 1984, the user gained access to a technology that represents the material in the monitor exactly as it is composed. This «interface» between the user and the machine is called WYSIWYG (what you see is what you get). Although in the beginning this technique lacked refinement, it underwent (and still undergoes) a vertiginous evolution.</p>
+<p>Desktop publishing makes it possible to coordinate all the parts that compose the original of an edition in a single machine. It checks and solves several aspects related to quality. Desktop publishing operation is divided into three stages: loading of information (text and images), processing and output.</p>
+<div id="go-gallery-1754-1" class="go-gallery-container go-gallery-1754 gog-dots has-pager cycle">
+<div class="go-gallery-inner">
+<ul class="slides">
+<li>
+<div class="image"><img width="700" height="525" src="http://www.oert.org/wp-content/uploads/2012/09/T03A_01-pantalla_windowsxp2.jpg" class="attachment-large" alt="Pantalla con la interfaz del sistema operativo WindowsXP." />
+</div><div class="description">Pantalla con la interfaz del sistema operativo WindowsXP</div>
+</li>
+<li>
+<div class="image"><img width="700" height="525" src="http://www.oert.org/wp-content/uploads/2012/09/T03A_02-pantalla_mac2.jpg" class="attachment-large" alt="Pantalla con la interfaz del sistema operativo MacOs X." />
+</div><div class="description">Pantalla con la interfaz del sistema operativo MacOsX</div>
+</li>
+</ul>
+<div class="pager"></div>
+</div>
+<script type="text/javascript" charset="utf-8">jQuery(function($) { $(function () { $("#go-gallery-1754-1 .slides").cycle({fx: "scrollHorz", navigation: false, pager: true, pager: "#go-gallery-1754-1 .pager"}); }); });</script>
+</div>
+
+<h3>Entry</h3>
+<p>The loading of information happens through one or several devices at the same time. The tools for loading are: the keyboard, the scanner, and the modem which consists of a transformer of the data received through a telephone line, optic fiber and other types of physical or wireless connections. Information can also be received by means of a connection to networks composed by several machines, to share files, programs or peripheral equipment.</p>
+<h3>Processing</h3>
+<p>Processing is performed with programs designed according to needs: each program (software) carries out a specific task. Thus, there is a program that works as operative system for the machine, one for image digitalization, one to touch up digitalized images, one to produce and to color illustrations, and there are specialized programs in document layout with which all the necessary elements are composed (they are glued): text, photographs, illustrations, etcetera. We will illustrate the interfaces of the two currently most important layout programs: InDesign and QuarkXPress.</p>
+<h3>Output</h3>
+<p>Upon finishing the file processing, output is prepared which, depending on the printer, can have different qualities and resolutions. This process can include the split of color in the paper, pre-printing films or directly on the printing plates. Many times, due to the cost of these processes, the designer must employ outsourced professionals: first he must produce evidence in low resolution printers; then, store the files in optical or magnetic supports (cds, pen drives, DVDs, etc.) to finally send them to specialized workshops.</p>
+<p>No matter which is the selected procedure, the result is the same: an original or matrix to be reproduced. Each composition technique and each output technology has its own characteristics which will be closely related to the final reproduction technique (typographic impression, serigraph printing, offset, digital files, video, etc.). According to the method used in the output process, costs, times and qualities are different.</p>
+<h3>Layout programs</h3>
+<p>This paper contains a listing of aspects to take into consideration so as to be familiar with the use of layout programs. We recommend the reading of the layout notes, the originals of which are available to the students. Manuals and tutorials are also available in internet and in bookstores.</p>
+<div id="go-gallery-1748-2" class="go-gallery-container go-gallery-1748 gog-dots has-pager cycle">
+<div class="go-gallery-inner">
+<ul class="slides">
+<li>
+<div class="image"><img width="700" height="525" src="http://www.oert.org/wp-content/uploads/2012/09/T03A_04-interfase_indesign.jpeg" class="attachment-large" alt="Interfaz InDesign" />
+</div><div class="description">Interfaz InDesign</div>
+</li>
+<li>
+<div class="image"><img width="700" height="525" src="http://www.oert.org/wp-content/uploads/2012/09/T03A_03-interfase_quark.jpg" class="attachment-large" alt="Interfaz QuarkXPress" />
+</div><div class="description">Interfaz QuarkXPress</div>
+</li>
+</ul>
+<div class="pager"></div>
+</div>
+<script type="text/javascript" charset="utf-8">jQuery(function($) { $(function () { $("#go-gallery-1748-2 .slides").cycle({fx: "scrollHorz", navigation: false, pager: true, pager: "#go-gallery-1748-2 .pager"}); }); });</script>
+</div>
+
+<h3>Program operation</h3>
+<p>First, we have to decide which program we will work with. Though in this paper we describe two programs which we consider have similar characteristics, it is unquestionably very important that the program we decide to use must be well known in the market of design studies and pre-printing workshops to avoid incompatibilities.</p>
+<p>Next we will describe the steps to take into consideration so as to become familiar with an unknown program, regardless of which one we have selected:</p>
+<p><strong>a) </strong>Definition of general preferences: Vertical and horizontal measurement units, adding and eliminating pages, visualizing guiding lines (in front of or behind the elements of the page), minimum text visible in the screen, etc.</p>
+<p><strong>b)</strong> Definition of main characteristics of the new document (layout): These are: format, margins, single or double pages (usual in editions) and use of master pages, in case they have been previously elaborated.</p>
+<p><strong>c)</strong> Managing basic tools (Tools bar): Tools for the selection and treatment of text and images, how to define text and image boxes, how to chain texts from independent boxes, how to enlarge and reduce the visualization of the screen, how to scroll through the document, etc.</p>
+<p><strong>d)</strong> Definition of main measures (Measurements bar): Location of each element with x and y coordinates, width and height of type pages, number of columns, typographic selection, space between pairs of letters and in blocks of text (kerning and tracking), line spacing, alignment of text blocks and variations in text style.</p>
+<p><strong>e)</strong> How text is treated: Once the characteristics and location of the type page have been defined, we must define the features of the paragraph: select a type of margin setting, set up word breaks according to the language we are working in (programs are often set up for English word breaks), exceptions to automatic word breaks (orthographic and style correction), define the criteria to differentiate one paragraph from the other, control the presence of widows and orphans, review the matching or the type of relationship between baselines of different type pages, overrun of an image with a text, incorporation of chapters, etcetera.</p>
+<h3>Typographic fonts</h3>
+<p>Computers use two types of fonts: Outline fonts and bitmap fonts.</p>
+<p><em>Bitmap fonts:</em> Called fixed size fonts. They define each character by means of a dots grid for a specific type size. For this reason, only the type sizes available in the system folder may be used.<br />
+<em>Outline fonts:</em> Usually called scalable fonts. They may be scaled in all type sizes. Each character is defined using a mathematical formula of curves, which may be scaled to an arbitrary type size</p>
+<div class="wp-caption alignnone" style="width: 710px"><a href="http://www.oert.org/wp-content/uploads/2012/07/T03A_06-mapabits_contorno.png"><img title="Fuente de mapa de bits y mapa de contorno de una letra" src="http://www.oert.org/wp-content/uploads/2012/07/T03A_06-mapabits_contorno.png" alt="Fuente de mapa de bits y mapa de contorno de una letra" width="700" height="525" /></a><p class="wp-caption-text">A la izquierda: fuente de mapa de bits. A la derecha: fuente de contorno.</p></div>
+<p>There are two kinds of standards in the category of outline fonts. TrueType fonts (TTF), PostScript fonts (PS1, PS2, PS3). There is a third format, OpenType (OTF), which is currently under development. Both the TrueType and the Post- Script, may be used in different platforms (Macintosh/PC) or Mac OS/Windows operative systems, but specific files for each one of them. On the other hand, OpenType fonts use a single file for both platforms.</p>
+<p>They are called «outline fonts» because they describe the shape of the letter by means of dots that define lines and curves. They have an independent resolution, thus they can be scaled to arbitrary type sizes without loosing resolution. The possibility of scaling a font depends on the program or operative system used. For the fonts to be seen in any output device, by the screen pixels or by a laser or inkjet printer, a conversion process called «rasterization» is performed, which consists of translation the font outline in a pattern of dots located in a grid.</p>
+<p>When there are not enough dots to conform the outline of the font, there are failures that affect the original features of the letter. A very common example is that the width of the letter stem unjustifiably varies To avoid such deformations, the fonts have codified information in the file.</p>
+<div id="attachment_860" class="wp-caption alignnone" style="width: 711px"><a href="http://www.oert.org/wp-content/uploads/2012/07/T03A_07-metric.jpg"><img class="size-full wp-image-860" title="Métricas de la fuente" src="http://www.oert.org/wp-content/uploads/2012/07/T03A_07-metric.jpg" alt="Métricas de la fuente" width="701" height="526" /></a><p class="wp-caption-text">Entre la información codificada la fuente se encuentran las métricas, por ejemplo el ancho del carácter.</p></div>
+<h3>Technical differences between True Type and PostScript</h3>
+<p><strong>a) </strong>They use different math calculations to describe their curves.</p>
+<p><strong>b) </strong>TrueType fonts are more easily scalable. They contain specific instructions to control their manifestation and thus, preserve their features and legibility. Careful adjustments are made, such as equalizing the weight of the stem in order to prevent the disappearance of parts of the form or to avoid having other parts looking thinner than normal.</p>
+<p><strong>c)</strong> Both MacOs and Windows (in all their versions) directly support TrueType fonts. They are pre-visualized on the screen and sent to the printer, as bitmaps or as recognizable fonts. PostSCript fonts are only accepted directly by the OS system. To scale a PostScript font in MacOs or in Windows it is necessary to install a program called ATM (Adobe Type Manager), which allows to see the font on the screen and converts it to make it easy to print in no PostScript printers. Technically, ATM is not necessary to print PostScript fonts in PostScript printers, but it is necessary in order to see them on the PC’s screen.</p>
+<p><strong>d)</strong> They have different physical storage: TrueType fonts have all the information stored in one file, while PostScript fonts require two: one for screen pre-visualization or outline and another one with the metric information.</p>
+<div id="attachment_861" class="wp-caption alignnone" style="width: 711px"><a href="http://www.oert.org/wp-content/uploads/2012/07/T03A_08-mapa_caracteres.jpg"><img class="size-full wp-image-861" title="Mapa o sets de caracteres de una fuente" src="http://www.oert.org/wp-content/uploads/2012/07/T03A_08-mapa_caracteres.jpg" alt="Mapa de caracteres de una fuente" width="701" height="526" /></a><p class="wp-caption-text">Mapa de carecteres de Alegreya.</p></div>
+<h3>OpenType Characteristics</h3>
+<p>Fonts have a code assigned to the characters that allow the computer to process electric impulses coming from the keyboard. TrueType and PostScript fonts have an 8 bits encoding system that allow a maximum of 256 characters in a font. This is a limitation because many languages need more than 256 characters for writing and because many times it is necessary to write in more than one language with the same font. The 8 bit families solve this problem with fonts for each language (for example: Cyrillic, Hebrew, Latin). OpenType, with 16 bits, admit more than 65.000 characters. They use Unicode to standardize the encoding system which assigns a unique ID to each character used in the world. Windows XP and MacOs operative systems use the same system to give multilingual support to program developers.</p>
+<div id="go-gallery-1759-3" class="go-gallery-container go-gallery-1759 gog-dots has-pager cycle">
+<div class="go-gallery-inner">
+<ul class="slides">
+<li>
+<div class="image"><img width="700" height="525" src="http://www.oert.org/wp-content/uploads/2012/09/T03A_19-glifos_indesign_completa.jpg" class="attachment-large" alt="Paleta de glifos de una fuente OpenType" />
+</div><div class="description">Paleta de glifos de una fuente OpenType.</div>
+</li>
+<li>
+<div class="image"><img width="701" height="526" src="http://www.oert.org/wp-content/uploads/2012/09/T03A_18-glifos_indesign_detalle.jpg" class="attachment-large" alt="Detalle de la paleta de glifos de una fuente OpenType" />
+</div><div class="description">Detalle de la paleta de glifos de una fuente OpenType.</div>
+</li>
+<li>
+<div class="image"><img width="700" height="525" src="http://www.oert.org/wp-content/uploads/2012/09/T03A_17-ligaduras_st_ct.jpg" class="attachment-large" alt="Ligaduras contextuales de una fuente OpenType" />
+</div><div class="description">Ligaduras contextuales de una fuente OpenType.</div>
+</li>
+</ul>
+<div class="pager"></div>
+</div>
+<script type="text/javascript" charset="utf-8">jQuery(function($) { $(function () { $("#go-gallery-1759-3 .slides").cycle({fx: "scrollHorz", navigation: false, pager: true, pager: "#go-gallery-1759-3 .pager"}); }); });</script>
+</div>
+
+<p>OpenType fonts have three purposes:</p>
+<ol>
+<li>The font format is multiplatform: it works in MacOs, in Windows, and in Linux/Unix.</li>
+<li>They are compatible with Unicode to facilitate the production and functioning of multilingual programs.</li>
+<li>They provide support for complex writings and typographic refinements.</li>
+</ol>
+<p>OpenType, developed together with Microsoft and Adobe spreads the load of language in three layers: the font, the operative system and the application or program.</p>
+<p>The current drawback of OpenType is that it is compatible with Windows and Linux, but in MacOs it is limited to Adobe applications.</p>
+<div id="attachment_862" class="wp-caption alignnone" style="width: 711px"><a href="http://www.oert.org/wp-content/uploads/2012/07/T03A_09y10-iconosfuentes.jpg"><img class="size-full wp-image-862" title="T03A_09y10-iconosfuentes" src="http://www.oert.org/wp-content/uploads/2012/07/T03A_09y10-iconosfuentes.jpg" alt="Formatos de fuentes y cantidad de archivos que la componen" width="701" height="526" /></a><p class="wp-caption-text">Los formatos de fuentes y la cantidad de archivos que las componen.</p></div>
+<h3>Font installing</h3>
+<p>To install a new font in Windows, we recommend following these steps:</p>
+<ol>
+<li>Go to the Start Menu and access the control panel.</li>
+<li>Click on the Fonts folder.</li>
+<li>In the Archive menu, click on Install new font.</li>
+<li>Click on the unit and in the folder that contains the fonts you want to add.</li>
+<li>Double click on the desired font.</li>
+</ol>
+<p>You can obtain the same results by accessing the control panel via My PC (system hard disk), accessing the Windows folder, double clicking on the Fonts folder and dragging the desired fonts from the source unit.</p>
+<div id="attachment_863" class="wp-caption alignnone" style="width: 710px"><a href="http://www.oert.org/wp-content/uploads/2012/07/T03A_11-cargafuentes_windows2.jpg"><img class="size-full wp-image-863" title="Carga de fuentes en Windows" src="http://www.oert.org/wp-content/uploads/2012/07/T03A_11-cargafuentes_windows2.jpg" alt="Carga de fuentes en Windows" width="700" height="525" /></a><p class="wp-caption-text">Carga de fuentes en Windows</p></div>
+<h3>Installing a new font in MacOs</h3>
+<p>Fonts are stored in the fonts folder in the System Folder. A selection of fonts is already installed with the operative system. We can install as many fonts as we want as long as the machine has enough memory, but if we abuse of this operation we can make the use of other programs more complicated. Thus, it is advisable to install only the necessary font folders. Steps to be followed:</p>
+<ol>
+<li>Double click on the hard disk icon.</li>
+<li>Find the font you wish to install and drag it to the system font folder.</li>
+</ol>
+<p>This way of loading fonts is not very advisable because we operate on the machine system.</p>
+<div id="attachment_864" class="wp-caption alignnone" style="width: 711px"><a href="http://www.oert.org/wp-content/uploads/2012/07/T03A_12-cargafuentes_mac.jpg"><img class="size-full wp-image-864" title="Instalar una fuente en MacOs" src="http://www.oert.org/wp-content/uploads/2012/07/T03A_12-cargafuentes_mac.jpg" alt="Instalar una fuente en MacOs" width="701" height="526" /></a><p class="wp-caption-text">Instalar una fuente en MacOs.</p></div>
+<h3>Install a font with a font manager</h3>
+<p>To avoid problems with PostScript fonts and eliminate sources recommend adding a font manager. Different programs have some differences but the steps are:</p>
+<ol>
+<li>Open the program and click Add Sources tab.</li>
+<li>Sourcing choose to add fonts from a local hard drive, CD-ROM, a floppy disk or a network server. Locate the folder that contains the font files to install.</li>
+<li>Double-click or drag and drop the icon of the selected sources on Target list (could be a existing set or create a new one).</li>
+<li>Select the font and Activate.</li>
+</ol>
+<div id="go-gallery-1763-4" class="go-gallery-container go-gallery-1763 gog-dots has-pager cycle">
+<div class="go-gallery-inner">
+<ul class="slides">
+<li>
+<div class="image"><img width="701" height="526" src="http://www.oert.org/wp-content/uploads/2012/09/T03A_16-cargafuentes_fontexplorer.jpg" class="attachment-large" alt="Cargar fuentes eb FontExplorer: paso 4" />
+</div></li>
+<li>
+<div class="image"><img width="701" height="526" src="http://www.oert.org/wp-content/uploads/2012/09/T03A_15-cargafuentes_fontexplorer.jpg" class="attachment-large" alt="Cargar fuentes eb FontExplorer: paso 3" />
+</div><div class="description">Cargar fuentes en FontExplorer</div>
+</li>
+<li>
+<div class="image"><img width="701" height="526" src="http://www.oert.org/wp-content/uploads/2012/09/T03A_14-cargafuentes_fontexplorer.jpg" class="attachment-large" alt="Cargar fuentes eb FontExplorer: paso 2" />
+</div><div class="description">Cargar fuentes en FontExplorer</div>
+</li>
+<li>
+<div class="image"><img width="701" height="526" src="http://www.oert.org/wp-content/uploads/2012/09/T03A_13-cargafuentes_fontexplorer.jpg" class="attachment-large" alt="Cargar fuentes eb FontExplorer: paso 4" />
+</div><div class="description">Cargar fuentes en FontExplorer</div>
+</li>
+</ul>
+<div class="pager"></div>
+</div>
+<script type="text/javascript" charset="utf-8">jQuery(function($) { $(function () { $("#go-gallery-1763-4 .slides").cycle({fx: "scrollHorz", navigation: false, pager: true, pager: "#go-gallery-1763-4 .pager"}); }); });</script>
+</div>
+
+<p class="icl_post_in_other_langs">Esta entrada también está disponible en: <a href="http://www.oert.org/tipografia-y-autoedicion-de-textos/">Spanish</a></p>                   
+                  
+                  <div class="like_this_section clearfix">
+					<div class="google_like">
+					<g:plusone href="http://www.oert.org" size="medium"></g:plusone>
+					</div>	                  
+                     <div class="twitter_like">
+                     <a href="http://twitter.com/share" class="twitter-share-button" data-via="oert.org" data-lang="es" data-size="medium">Tweet</a>
+                     </div>
+                     <div class="fb_like">
+                     <fb:like href="http%3A%2F%2Fwww.oert.org%2Fen%2Ftypography-and-desktop-publishing%2F" layout="button_count" show_faces="false" width="450" height="30"></fb:like>
+                     </div>
+                     <div class="printfriendly"><a href="http://www.printfriendly.com/print?url=http://www.oert.org/en/typography-and-desktop-publishing/" rel="nofollow" onclick="window.print(); return false;"><img src="http://cdn.printfriendly.com/button-print-gry20.png" alt="Print Friendly" /></a></div>				</div> <!-- #end -->
+
+
+          				
+              </div> <!-- post #end -->
+              
+              
+               
+ 			<div class="post-navigation clearfix">
+                                                            <a class="post-prev" href="http://www.oert.org/en/type-size-units-and-measuring-instruments/"><em>Previous post</em><span>Type size, units and measuring instruments</span></a>
+                                                                <a class="post-next" href="http://www.oert.org/en/character-map/"><em>Next post</em><span>Character map</span></a>
+                                 </div>
+            
+            
+              </div> <!-- single post content #end -->
+          		<div class="realated_post clearfix">
+<h3>Related Posts</h3><ul class="realated_postlist clearfix">
+            <li class="clearfix"> 
+      
+     <h3> <a href="http://www.oert.org/en/text-image-dingbats-and-decorative-elements/">Text, image, dingbats and decorative elements</a></h3> 
+     <p class="date clearfix"> <span>April 27, 2012</span></p>
+     <p>Dingbats and decorative elements as elements of the typographic case. Function and types of dingbats and decorative elements. Double function: characters or image. Letters as images or characters. Relations.
+</p>
+            </li>
+                        <li class="clearfix"> 
+      
+     <h3> <a href="http://www.oert.org/en/design-and-morphological-operations-with-typography/">Design and morphological operations with typography</a></h3> 
+     <p class="date clearfix"> <span>April 27, 2012</span></p>
+     <p>Typeface family as a system. Aspects to be considered when designing a related group of characters: choosing the historical and cultural context, structural relations, stroke and terminal features. character weight and word color, distinctive characters and terminals. Axes for the construction of styles.</p>
+            </li>
+                        <li class="clearfix"> 
+      
+     <h3> <a href="http://www.oert.org/en/typographic-programs/">Typographic Programs</a></h3> 
+     <p class="date clearfix"> <span>April 27, 2012</span></p>
+     <p>System of systems. Typographic programs, serial families and super families. Construction criteria. Uses. Description of some programs.
+</p>
+            </li>
+                        <li class="clearfix"> 
+      
+     <h3> <a href="http://www.oert.org/en/typographic-styles/">Typographic styles</a></h3> 
+     <p class="date clearfix"> <span>April 27, 2012</span></p>
+     <p>Functions and convention in the use of styles. Traditional axes. Recognizing designed variants and the effects of digital distortion. Small capitals: character weight and line color.</p>
+            </li>
+            </ul>
+</div>
+		
+        
+          <div id="comments" class="clearfix"> 
+<div id="comments" class="comments-area">
+<div id="respond">
+<div class="fb-social-plugin fb-comments" id="commentform" data-href="http://www.oert.org/en/typography-and-desktop-publishing/" data-width="700"></div>
+</div></div>
+</div>
+          
+             </div>
+	<div id="dynamic-content"></div>        
+  </div> <!-- content #end -->
+<script type="text/javascript" language="javascript" >
+var root_path_js = 'http://www.oert.org/';
+</script>
+<script type="text/javascript" language="javascript" src="http://www.oert.org/wp-content/themes/WikiBase/library/js/article_detail.js" ></script>
+
+      <div id="lang_sel"  >
+    <ul>
+        <li><a href="#" class="lang_sel_sel icl-en">
+                            
+            <img  class="iclflag" src="http://www.oert.org/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png" alt="en" />                                
+            &nbsp;English</a>                                    
+            <ul>
+                                <li class="icl-es">          
+                    <a rel="alternate" hreflang="es" href="http://www.oert.org/tipografia-y-autoedicion-de-textos/">
+                                    
+                    <img  class="iclflag" src="http://www.oert.org/wp-content/plugins/sitepress-multilingual-cms/res/flags/es.png" alt="es" />&nbsp;                    
+                                        Español                    </a>
+                </li>
+                            </ul>            
+             
+                    </li>
+    </ul>    
+</div>
+ <!-- selector de idiomas -->
+<div id="sidebar">
+	<div class="widget"><h3><span>Recursos</span></h3><div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-404" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-404"><a href="http://www.oert.org/en/the-project/">The project</a></li>
+<li id="menu-item-405" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-405"><a href="http://www.oert.org/en/the-authors/">The Authors</a></li>
+<li id="menu-item-406" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-406"><a href="http://www.oert.org/en/editorial-board/">Editorial Committee</a></li>
+<li id="menu-item-407" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-407"><a href="http://www.oert.org/en/the-team/">The Team</a></li>
+<li id="menu-item-408" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-408"><a href="http://www.oert.org/en/our-backers/">Our backers</a></li>
+<li id="menu-item-718" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-718"><a href="http://www.oert.org/en/faq/">FAQ</a></li>
+<li id="menu-item-409" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-409"><a href="http://www.oert.org/en/contact-us/">Contact us</a></li>
+</ul></div></div><div class="widget"><h3><span>Páginas</span></h3><div class="menu-main-menu-ingles-container"><ul id="menu-main-menu-ingles" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-404"><a href="http://www.oert.org/en/the-project/">The project</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-405"><a href="http://www.oert.org/en/the-authors/">The Authors</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-406"><a href="http://www.oert.org/en/editorial-board/">Editorial Committee</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-407"><a href="http://www.oert.org/en/the-team/">The Team</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-408"><a href="http://www.oert.org/en/our-backers/">Our backers</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-718"><a href="http://www.oert.org/en/faq/">FAQ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-409"><a href="http://www.oert.org/en/contact-us/">Contact us</a></li>
+</ul></div></div></div> <!-- sidebar right--> 
+<div id="bottom"></div>
+<script type='text/javascript' src='http://www.oert.org/wp-content/themes/WikiBase/library/js/jquery.simplemodal.js'></script>
+<script type='text/javascript' src='http://www.oert.org/wp-content/themes/WikiBase/library/js/basic.js'></script>
+<div id="basic-modal-content" class="clearfix" style="display:none;">
+<form name="send_to_frnd" id="send_to_frnd" action="http://www.oert.org/en/typography-and-desktop-publishing/" method="post" >
+<input type="hidden" id="send_to_Frnd_pid" name="pid" value="628" />
+<input type="hidden" name="sendact" value="email_frnd" />
+	<h3>Send To Friend</h3>
+    <p id="reply_send_success" class="sucess_msg" style="display:none;"></p>
+	<div class="row clearfix" ><label>Friend Name : <span>*</span></label><input name="to_name" id="to_name" type="text"  /><span id="to_nameInfo"></span></div>
+ 	<div class="row  clearfix" ><label> Email : <span>*</span></label><input name="to_email" id="to_email" type="text"  /><span id="to_emailInfo"></span></div>
+	<div class="row  clearfix" ><label>Your Name : <span>*</span></label><input name="yourname" id="yourname" type="text"  /><span id="yournameInfo"></span></div>
+ 	<div class="row  clearfix" ><label> Email : <span>*</span></label><input name="youremail" id="youremail" type="text"  /><span id="youremailInfo"></span></div>
+	<div class="row  clearfix" ><label>Subject : <span>*</span></label><input name="frnd_subject" value="About Typography and desktop publishing" id="frnd_subject" type="text"  /></div>
+	<div class="row  clearfix" ><label>Comments : <span>*</span></label>
+     <textarea name="frnd_comments" id="frnd_comments" cols="" rows="" >Hi there, do check out the information about this Article.</textarea></div>
+	<input name="Send" type="submit" value="Send " class="button " />
+</form>
+</div>
+<script type="text/javascript" src="http://www.oert.org/wp-content/themes/WikiBase/library/js/email_frnd_validation.js"></script>
+<!-- here -->   </div> <!-- wrapper #end -->
+  
+<div id="footer" class="clearfix">
+<div id="footer_in">
+<p class="copy"><a rel="license" href="http://creativecommons.org/licenses/by-sa/2.5/ar/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/2.5/ar/80x15.png" /></a> <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Open Educational Resources for Typography</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.oert.org/" property="cc:attributionName" rel="cc:attributionURL">OERT</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.5/ar/">Creative Commons Attribution-ShareAlike 2.5 Argentina License</a>.</p>
+<p class="fr"><span class="designby">Alojado en </span>
+<span class="wiroos"><a href="http://www.wiroos.com" title="Wiroos">Wiroos</a></span>
+</p>	
+</div></div> <!-- footer #end -->
+
+        <script type="text/javascript">
+          var pfHeaderImgUrl = '';
+          var pfHeaderTagline = '';
+          var pfdisableClickToDel = '0';
+          var pfHideImages = '0';
+          var pfImageDisplayStyle = 'right';
+          var pfDisableEmail = '0';
+          var pfDisablePDF = '0';
+          var pfDisablePrint = '0';
+          var pfCustomCSS = '';
+
+          // PrintFriendly
+          var e = document.createElement('script'); e.type="text/javascript";
+          e.src = 'http://cdn.printfriendly.com/printfriendly.js';
+          document.getElementsByTagName('head')[0].appendChild(e);
+      </script>
+<script type='text/javascript' src='http://www.oert.org/wp-content/themes/WikiBase/library/js/livesearch.js?ver=1'></script>
+<script type='text/javascript' src='http://www.oert.org/wp-content/themes/WikiBase/library/js/jquery.hoveraccordion.min.js?ver=1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var FB_WP=FB_WP||{};FB_WP.queue={_methods:[],flushed:false,add:function(fn){FB_WP.queue.flushed?fn():FB_WP.queue._methods.push(fn)},flush:function(){for(var fn;fn=FB_WP.queue._methods.shift();){fn()}FB_WP.queue.flushed=true}};window.fbAsyncInit=function(){FB.init({"channelUrl":"http:\/\/www.oert.org\/wp-content\/plugins\/facebook\/channel.php","xfbml":true,"appId":"285109618260716"});if(FB_WP && FB_WP.queue && FB_WP.queue.flush){FB_WP.queue.flush()}}
+/* ]]> */
+</script>
+<div id="fb-root"></div><script type="text/javascript">(function(d){var id="facebook-jssdk";if(!d.getElementById(id)){var js=d.createElement("script"),ref=d.getElementsByTagName("script")[0];js.id=id,js.async=true,js.src="http:\/\/connect.facebook.net\/es_ES\/all.js",ref.parentNode.insertBefore(js,ref)}})(document)</script>
+<script type='text/javascript' src=''></script>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27724959-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script><script type="text/javascript">
+	//<![CDATA[
+		function initBelle() {
+			Belle.AjaxURL		= "http://www.oert.org/en//?sajax=1"
+			// Initialize Livesearch
+			Belle.LiveSearch	= new LiveSearch( "Escribe y obten resultados al instante" )
+			}
+		jQuery(document).ready( function() { initBelle() })
+	//]]>
+	</script>
+<!-- LOAD JAVASCRIPT LATE - JUST BEFORE THE BODY TAG 
+		 That way the browser will have loaded the images
+	  	 and will know the width of the images. No need to
+		 specify the width in the CSS or inline. -->
+
+	<!-- jQuery library - Please load it from Google API's -->
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+
+	<!-- jQuery UI Widget and Effects Core (custom download)
+		 You can make your own at: http://jqueryui.com/download -->
+	<script src="http://www.oert.org/wp-content/themes/WikiBase/library/js/jquery-ui-1.8.18.custom.min.js" type="text/javascript"></script>
+	
+	<!-- Latest version of jQuery Mouse Wheel by Brandon Aaron
+		 You will find it here: http://brandonaaron.net/code/mousewheel/demos -->
+	<script src="http://www.oert.org/wp-content/themes/WikiBase/library/js/jquery.mousewheel.min.js" type="text/javascript"></script>
+
+	<!-- Smooth Div Scroll 1.2 minified-->
+	<script src="http://www.oert.org/wp-content/themes/WikiBase/library/js/jquery.smoothdivscroll-1.2-min.js" type="text/javascript"></script>
+
+	<!-- If you want to look at the uncompressed version you find it at
+		 js/jquery.smoothDivScroll-1.2.js -->
+
+	<!-- Plugin initialization -->
+	<script type="text/javascript">
+		jQuery(document).ready(function () {
+			jQuery("#logoParade").smoothDivScroll({
+				autoScrollingMode: "always",
+				autoScrollingDirection: "endlessloopright",
+				autoScrollingStep: 1,
+				autoScrollingInterval: 25 
+			});
+
+			// Logo parade
+			jQuery("#logoParade").bind("mouseover", function () {
+				jQuery(this).smoothDivScroll("stopAutoScrolling");
+			}).bind("mouseout", function () {
+				jQuery(this).smoothDivScroll("startAutoScrolling");
+			});
+
+		});
+		
+	</script>	
+	
+</body></html>

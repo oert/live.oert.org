@@ -1,0 +1,12 @@
+#header, #page_nav, .breadcrumb, #sidebar, #footer, #bottom, #comments, #respond, .realated_post, #categories_strip, .pos_navigation, .article_tools, 
+.like_this_section, .post-navigation, #content p.post_info a.i_rss, #content p.post_info span a.i_comment, #content p.post_info span a.i_like  {
+  display: none !important;
+}
+body, #main, #content, .column, #articletext, #footer, img, .main_photo, .product_details {
+  float: none !important;
+  width: auto !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  border:none !important;
+}
+ 

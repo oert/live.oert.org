@@ -1,0 +1,523 @@
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<title>
+  Typography and typographic systems&nbsp;|&nbsp;OERT</title>
+
+<link rel="stylesheet" href="http://www.oert.org/wp-content/plugins/sitepress-multilingual-cms/res/css/language-selector.css?v=2.6.0" type="text/css" media="all" />
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="stylesheet" type="text/css" href="http://www.oert.org/wp-content/themes/WikiBase/style.css" media="screen" />
+<link rel="shortcut icon" type="image/png" href="http://www.oert.org/wp-content/uploads/favicon.ico" />
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.oert.org/en/feed/" />
+<link rel="pingback" href="http://www.oert.org/xmlrpc.php" />
+
+<link rel="stylesheet" type="text/css" href="http://www.oert.org/wp-content/themes/WikiBase/library/css/print.css" media="print" />
+<link rel="Stylesheet" type="text/css" href="http://www.oert.org/wp-content/themes/WikiBase/library/css/smoothDivScroll.css" />
+
+<script src="http://connect.facebook.net/es_ES/all.js#xfbml=1"></script>
+<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+<script src="https://apis.google.com/js/plusone.js" type="text/javascript"></script>
+
+
+ <link href="http://www.oert.org/wp-content/themes/WikiBase/custom.css" rel="stylesheet" type="text/css">
+<script language="javascript" type="text/javascript">
+	function hasClass(ele,cls) {
+	return ele.className.match(new RegExp('(\\s|^)'+cls+'(\\s|$)'));
+	}
+
+    function addClass(ele,cls) {
+    if (!this.hasClass(ele,cls)) ele.className += " "+cls;
+    }
+    function removeClass(ele,cls) {
+    if (hasClass(ele,cls)) {
+        var reg = new RegExp('(\\s|^)'+cls+'(\\s|$)');
+        ele.className=ele.className.replace(reg,' ');
+    }
+    }
+
+    function showHideDiv(sids,divids)
+    {
+		//alert(sids);
+		//alert(divids);
+        var divstyle = new String();
+		var spanstyle = new String();
+		var spansid = new String();
+		spansid = document.getElementById(sids);
+        divstyle = document.getElementById(divids).style.display;
+        if(divstyle.toLowerCase()=="block" || divstyle == "")
+        {
+            document.getElementById(divids).style.display = "none";
+			removeClass(spansid,'neg');
+			addClass(spansid,'pos');
+        }
+        else
+        {
+            document.getElementById(divids).style.display = "block";
+			removeClass(spansid,'pos');
+			addClass(spansid,'neg');
+        }
+    }
+    </script>
+    <script type="text/javascript">
+        $(document).ready( function() {
+            $('#menu-recursos').hoverAccordion({
+                keepHeight:true,
+                activateItem: 3,
+                speed: 400
+            });
+        });
+    </script>
+        
+<link rel="dns-prefetch" href="//connect.facebook.net" />
+<link rel="alternate" type="application/rss+xml" title="OERT &raquo; Typography and typographic systems Comments Feed" href="http://www.oert.org/en/typography-and-typographic-systems/feed/" />
+<link rel='stylesheet' id='wpml-cms-nav-css-css'  href='http://www.oert.org/wp-content/plugins/wpml-cms-nav/res/css/navigation.css?ver=1.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='cms-navigation-style-base-css'  href='http://www.oert.org/wp-content/plugins/wpml-cms-nav/res/css/cms-navigation-base.css?ver=1.2.7' type='text/css' media='screen' />
+<link rel='stylesheet' id='cms-navigation-style-css'  href='http://www.oert.org/wp-content/plugins/wpml-cms-nav/res/css/cms-navigation.css?ver=1.2.7' type='text/css' media='screen' />
+<link rel='stylesheet' id='good-old-gallery-theme-css'  href='http://www.oert.org/wp-content/plugins/good-old-gallery/themes/good-old-gallery-dots/good-old-gallery-dots.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='good-old-gallery-css'  href='http://www.oert.org/wp-content/plugins/good-old-gallery/assets/css/good-old-gallery.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='facebook-css'  href='http://www.oert.org/wp-content/plugins/facebook/static/css/style.min.css?ver=1.3.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.oert.org/wp-includes/js/jquery/jquery.js?ver=1.8.3'></script>
+<script type='text/javascript' src='http://www.oert.org/wp-content/themes/WikiBase/library/js/functions.js?ver=1'></script>
+<script type='text/javascript' src='http://www.oert.org/wp-includes/js/comment-reply.min.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://www.oert.org/wp-content/plugins/good-old-gallery/plugins/cycle/jquery.cycle.all.min.js?ver=3.5.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.oert.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.oert.org/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Text, image, dingbats and decorative elements' href='http://www.oert.org/en/text-image-dingbats-and-decorative-elements/' />
+<link rel='next' title='Typography and information layout' href='http://www.oert.org/en/typography-and-information-layout/' />
+<meta name="generator" content="WordPress 3.5.1" />
+<link rel='shortlink' href='http://www.oert.org/?p=670' />
+
+	<!-- This site uses Good Old Gallery, get it from http://wp.unwi.se/good-old-gallery -->
+
+        <style type="text/css" media="screen">
+          div.printfriendly {
+            margin: 0px 0px 0px 0px;;
+          }
+          div.printfriendly a, div.printfriendly a:link, div.printfriendly a:visited {
+            text-decoration: none;
+            font-size: 14px;
+            color: #99cc00;
+            vertical-align: bottom;
+            border: none;
+          }
+
+          .printfriendly a:hover {
+            cursor: pointer;
+          }
+
+          .printfriendly a img  {
+            border: none;
+            padding:0;
+            margin-right: 6px;
+            display:inline-block;
+            box-shadow: none;
+            -webkit-box-shadow: none;
+            -moz-box-shadow: none;
+          }
+          .printfriendly a span{
+            vertical-align: bottom;
+          }
+          .pf-alignleft {
+            float: left;
+          }
+          .pf-alignright {
+            float: right;
+          }
+          div.pf-aligncenter {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            text-align: center;
+          }
+        </style>
+        <style type="text/css" media="print">
+          .printfriendly {
+            display: none;
+          }
+        </style>
+<script type="text/javascript">var icl_lang = 'en';var icl_home = 'http://www.oert.org/en/';</script>
+<script type="text/javascript" src="http://www.oert.org/wp-content/plugins/sitepress-multilingual-cms/res/js/sitepress.js"></script>
+<meta name="generator" content="WPML ver:2.6.0 stt:1,2;0" />
+<link rel="alternate" hreflang="es_ES" href="http://www.oert.org/tipografia-y-sistemas-tipograficos/" />
+
+<style type="text/css">#lang_sel a, #lang_sel a.lang_sel_sel{color:#444444;}#lang_sel a:hover, #lang_sel a.lang_sel_sel:hover{color:#000000;}#lang_sel a.lang_sel_sel, #lang_sel a.lang_sel_sel:visited{background-color:#f5f4f2;}#lang_sel a.lang_sel_sel:hover{background-color:#eeeeee;}#lang_sel li ul a, #lang_sel li ul a:visited{color:#444444;}#lang_sel li ul a:hover{color:#000000;}#lang_sel li ul a, #lang_sel li ul a:link, #lang_sel li ul a:visited{background-color:#f5f4f2;}#lang_sel li ul a:hover{background-color:#eeeeee;}#lang_sel a, #lang_sel a:visited{border-color:#cdcdcd;} #lang_sel ul ul{border-top:1px solid #cdcdcd;}</style>
+
+<style type="text/css">#lang_sel  {width: 195px; margin-bottom:24px;}
+#lang_sel a {font-size:12px;}
+#lang_sel li {width:192px; }
+
+</style>		<link href="http://www.oert.org/wp-content/themes/WikiBase/skins/1-default.css" rel="stylesheet" type="text/css" />
+
+
+<link href='http://boakes.org/most-wanted?v=0.1.9v' />
+<link rel="canonical" href="http://www.oert.org/en/typography-and-typographic-systems/"/>
+<meta property="og:site_name" content="OERT" />
+<meta property="og:type" content="article" />
+<meta property="og:locale" content="es_ES" />
+<meta property="fb:app_id" content="285109618260716" />
+<meta property="og:url" content="http://www.oert.org/en/typography-and-typographic-systems/" />
+<meta property="og:title" content="Typography and typographic systems" />
+<meta property="og:description" content="Program as system. Constants and variables. Open or closed system. Program and project. Elements of the program as tools used to inform, persuade, and communicate. Graphic piece characteristics. Derived identity." />
+<meta property="article:published_time" content="2012-04-27T05:55:49+00:00" />
+<meta property="article:modified_time" content="2012-10-30T15:01:59+00:00" />
+<meta property="article:author" content="http://www.oert.org/en/author/admin/" />
+<meta property="article:section" content="Text" />
+<meta property="article:tag" content="Theory" />
+</head>
+<body class="single single-post postid-670 single-format-standard">
+<div id="header">   
+<div id="header_in" class="clearfix">
+<div class="logo"> 
+   <div class="blog-title"><a href="http://www.oert.org/en//">OERT</a> 
+		
+		 <p class="blog-description">
+		  Open Educational Resources for Typography		</p>
+   </div> 
+   </div>
+                        <div class="header_right">
+        	<p>Última actualización: <span>April 7, 2013</span></p>
+                        <form method="get" id="searchform" action="http://www.oert.org/en/">
+<div id="search-form-wrap">
+<label for="s" id="search-label">Buscar:</label>
+<input type="text" id="s" name="s" accesskey="4" value="" />
+<input type="hidden" name="stype" value="ajsearch" />
+<input type="submit" name="stype" value="Search" style="display:none;" class="b_search" />
+<span id="searchreset" title="Reset Search"></span>
+<span id="searchload"></span>
+</div>
+</form>
+
+                    </div>               
+   </div> 
+ </div>   <!-- header #end -->     <div id="wrapper" class="clearfix">  
+  		<div id="content" >
+         <div id="current-content">
+                 <div class="breadcrumb clearfix">
+        <a rel="nofollow" href="http://www.oert.org/en/">Home</a>  <a href="http://www.oert.org/en/category/part1/" title="View all posts in Theory">Theory</a>  <a href="http://www.oert.org/en/category/part1/part1-2/" title="View all posts in Text">Text</a>  Typography and typographic systems        </div>
+             
+                       
+        <div class="single_post">
+        <h1 class="head">Typography and typographic systems</h1>
+ 		  		                  <p class="post_info clearfix post_info_single"><span>Posted by <a href="http://www.oert.org/en/author/admin/" title="Posts by OERT" rel="author">OERT</a> - Apr 27, 2012 </span>
+                     <span class="i_cate"> <a href="http://www.oert.org/en/category/part1/part1-2/" title="View all posts in Text" rel="category tag">Text</a>, <a href="http://www.oert.org/en/category/part1/" title="View all posts in Theory" rel="category tag">Theory</a> </span>
+                      <span> <a href="http://www.oert.org/en/typography-and-typographic-systems/#commentarea"  class="i_comment" ><fb:comments-count xmlns="http://ogp.me/ns/fb#" href="http://www.oert.org/en/typography-and-typographic-systems/"></fb:comments-count> Comments </a></span>                      
+                      <a href="http://www.oert.org/en//?cat=23&amp;feed=rss2" class="i_rss">Receive Updates For This Category</a>
+                      
+                       </p>
+                       
+                       
+					              
+              
+              <div id="post-670" class="posts clearfix">               		               
+              		
+              		<!-- Templatic Article Tools #end -->
+              		
+              		              		
+              		<!-- Templatic Article Tools #end -->
+
+                      <p class="autor">Created by: Pablo Cosgaya In collaboration with: Julieta Goluscio Reviewed by: Guadalupe Gomis &#8211; Natalia Pano</p>
+<p class="note">Artículo en proceso de traducción </p>
+<p class="bajada">Karl Gerstner understands a program as a system in which the set of its formal configuration components are organized according to a law that regulates its combinations, and thus, its possible meanings.</p>
+<p>A general definition will let us know which system is a set of interrelated elements which contribute to a specific purpose. It might be useful to define the concepts that are part of this definition. </p>
+<p>As we are talking about typography, design and communication, we will say that the set of elements is a group of graphic and non-graphic blocks which conform a communication campaign (posters, leaflets, graphic and audiovisual signals, stationery, tickets, promotional items, to name a few); by interrelated we mean that they share stylistic, syntactic and semantic criteria which articulate them and the specific purpose they pursue is what is expected from the campaign: to inform, to persuade, to identify, or several of these at the same time. </p>
+<p>A system, then, will be conformed by a few variable and constant characteristics in the elements which make it up. Among others, the choice and typographic treatment, the presence or absence of images, the style, the format, the proportions (between the formats of each element, between its components and between the blocks of text and the margins), its chromatic characteristics, the type of information, the reading type and conditions, the printing quality, the writing tone.</p>
+<h3>Closed system, open system</h3>
+<p>A closed system is one in which the constant characteristics predominate in the different pieces or elements that make up the system. It is often more monotonous, lacking the surprise effect and, many times, predictable. One of the advantages of a closed system is that it is easily recognized.  </p>
+<p>An open system is that in which the pieces or elements that conform it show more variable characteristics than constant ones.  Given its diversity, it is visually richer, but it might be difficult to recognize some of its elements as belonging to that system.</p>
+<h3>The program</h3>
+<p>There are people who maintain that a program is the function that relates the different graphic pieces of the system. It is an operation that should achieve that its element, in spite of their differences, be perceived as part of the very same system.  However, as shown by the definition of the word, program refers to a list of instructions previously designed to fulfill this or that purpose.  </p>
+<p>So we can talk about the program when a number of possibilities or applications (instructions) suited to different situations, and which allow for coherence within diversity is established beforehand. </p>
+<p>Thus, the program defines constant criteria that help us arrange the diversity both for formal as for conceptual aspects (conceptual breaking up of the pieces.) </p>
+<p>Programmatic thought can be applied to different axis: programs can be developed based on typographic criteria (combinations, line breaks or relations between type sizes and leading, etc. —see examples at the end—), photographic criteria (shooting range, framing), chromatic criteria (tint, saturation) or we may create a program that organizes a complex operation where several programs are combined at the same time, i.e., a program of programs or a logic plan.  </p>
+<p>Thus, a system may be simultaneously guided by one or more programs.  But not necessarily every system will be guided by one or several programs. That is to say, a system may consist of elements with constant characteristics that had not been planned as a program. </p>
+<h3>Elements of a system</h3>
+<p>In an article published some time ago in the tipoGráfica magazine, Norberto Chavez states that a graphic message, is not, but is useful for. “…The graphics message shows (…) its character of machine, of tool, of technical wit useful for producing some specific practical results.” And these results are, as we have already mentioned: to inform, to persuade, to communicate.  Further on, he asserts that the message must fulfill six functions: (1) getting the sender in touch with the recipient; (2) informing the recipient about what the sender wants; (3) persuading the recipient about what it is said; (4) showing the sender and his attributes so as to let the origin be known; (5) explaining how that should be read and (6) pleasing the recipient. That is to say: contact, information, persuasion, identification, conventionality and esthetic.</p>
+<div id="go-gallery-1388-1" class="go-gallery-container go-gallery-1388 gog-dots has-pager cycle">
+<div class="go-gallery-inner">
+<ul class="slides">
+<li>
+<div class="image"><img width="700" height="526" src="http://www.oert.org/wp-content/uploads/2012/08/T05A-sist01_Cozzi.jpg" class="attachment-large" alt="Sistema" />
+</div><div class="description">Alumna: Fernanda Cozzi</div>
+</li>
+<li>
+<div class="image"><img width="701" height="526" src="http://www.oert.org/wp-content/uploads/2012/08/T05A-sist04_Guisado-Vilardebo-Villanueva.jpg" class="attachment-large" alt="Sistemas" />
+</div><div class="description">Alumnos: Guisado, Vilardebó, Villanueva</div>
+</li>
+<li>
+<div class="image"><img width="700" height="526" src="http://www.oert.org/wp-content/uploads/2012/08/T05A-sist02_Cerdá-Ulicki-Faggi.jpg" class="attachment-large" alt="Sistemas" />
+</div><div class="description">Alumnos: Patricia Faggi, Ana Laura Cerdá y Federico Ulicki</div>
+</li>
+<li>
+<div class="image"><img width="700" height="526" src="http://www.oert.org/wp-content/uploads/2012/08/T05A-sist03_Cerdá-Ulicki-Faggi.jpg" class="attachment-large" alt="Sistemas" />
+</div><div class="description">Alumnos: Patricia Faggi, Ana Laura Cerdá y Federico Ulicki</div>
+</li>
+</ul>
+<div class="pager"></div>
+</div>
+<script type="text/javascript" charset="utf-8">jQuery(function($) { $(function () { $("#go-gallery-1388-1 .slides").cycle({fx: "scrollHorz", navigation: false, pager: true, pager: "#go-gallery-1388-1 .pager"}); }); });</script>
+</div>
+
+<h3>Poster</h3>
+<p>A poster is a specific piece of communication: its message is transmitted throughout distance and many times the recipient is in motion. The recipient cannot take it with him to read it later (as he may do with a newspaper or a magazine), and that is why the poster should transmit its whole message in the place where it is seen. </p>
+<p>If we may sum it up even more, we can say that the nucleus of the message a poster should transmit is constituted by the classic functions of visual communication: to communicate the what (in this case, an event), the when (the period of time when it will take place, and if necessary, the date and time), the where (place or places) and the who (the event organizer.) In order for this piece to meet this goal (to transmit the content, to inform the recipient), the proportions of its components, the treatment of color, the images and the text should be displayed in such a way that (as Chaves says) «they produce some effect on the recipient which is favorable to the intentions of the sender: to pay more attention to it, to understand it as it is intended, to make it personal, to feel oneself identified with the ideas transmitted, to feel joy at contemplating the message…» </p>
+<p>No doubt that apart from the rhetoric and significant resources to which we resort to, a poster is a graphic piece characterized by its shortness. Minimun, clear, quick, shocking.  Other attributes are: clarity, impact, good form. A poster for an event should inform the name of the event (if necessary, a description), date and time of the event (pay special attention in the case of periods of time, that is, when the event includes different activities) and the place of the event (again, we should pay attention to the fact mentioned above: one or several places.) An of course, we must identify the event and its organizer, our client.</p>
+<h3>Informative leaflet</h3>
+<p>An informative leaflet is a complex element. It does not behave neither as a piece of art, nor as a poster. It shares many of their goals, but its content is different. And so are the conditions under which the recipient gets access to it. He will certainly have time to read it, and he can take it with him.  Going back to the analysis made by Norberto Chaves, we may see that out of the six functions the message should fulfill (contact, information, persuasion, identification, conventionality an esthetic), in the case of the informative leaflet, special care should be put in the treatment of the second one (information).  </p>
+<p>Information in the leaflet is transmitted by means of texts with different characteristics, with different levels of complexity and development. In order to guide our practice, we will mention some of the most frequent types of text in this piece of communication.</p>
+<h5>Informative text about the event</h5>
+<p>It has to do with the subject or purpose which is the reason for the event. It defines and delimits it; it explains the organizer&#8217;s approach, their points of view, the selection criteria for the participants. It is a text where ideological and technical contents predominate. </p>
+<h5>Informative texts on each activity</h5>
+<p>It is basic information, data for the potential audience to know where and when something will happen. </p>
+<p>Sometimes a small specific explanation may be included in the information. For a better reading of this data, they are usually processed and arranged in such so as to make it more accessible and easier to perceive within all the information regarding the event. </p>
+<p>Thus, the reader is simultaneously informed about more than a single piece of information, reading it in a manner that is not linear. That is to say, charts and graphics with double and sometimes triple entries are produced.</p>
+<h5>Textos informativos sobre cada actividad</h5>
+<p>Se trata de información básica, datos para que el potencial asistente se entere dónde y cuándo sucede qué cosa. A veces puede incluirse entre los datos alguna explicación específica menor. Para una mejor lectura de estos datos, se los suele procesar y ordenar de forma tal que sea más fácil acceder a ellos y percibirlos dentro de la totalidad de la información del evento. Así, el lector se informa simultáneamente de más de un dato, en un tipo de lectura que no es lineal. Para ello, se confeccionan cuadros y gráficos de doble y a veces de triple entrada.</p>
+<h3>Other pieces: Ticket</h3>
+<p>A ticket for an event has a specific function which is not that neither of informing nor of persuading, but it will be used as an element that allows access to the event. However, it should be somehow related to the other elements in the system that allow for it to be identified with the event. It requires special care in order to avoid falsifications or adulterations if the access is not free; thus we resort to special colors, security marks (stamps, tags) and sometimes they are even printed with non-conventional procedures, which are supposed to be of difficult access for counterfeits. </p>
+<p>The information contained in it is similar to that in the poster: it will inform about the event, date and time (in general or about the specific activity) and place where the activity will take place. It is also numbered for internal control and it includes specific information such as row, seat, etc. </p>
+<h3>Some examples</h3>
+<h4>Promotion for The New York Times</h4>
+<p>The receiver gets a promotion leaflet in the position of figure 1. When he opens it, he gets image 2, and thus, with each new foldout, 3 and 4, the format is duplicated, the text becomes persistent and the type sizes get bigger. After the dramatic climax which is shown in «…sell, sell, sell!» (image 4) it is rounded off with an advertising text inviting to advertise in the magazine (image 5: the purpose of the piece.) </p>
+<p>Reading is affected by a rhythmical intensification and remains incorporated into a typographic composition. It consists of a sequence where the text (its content) and the typography (its shape) are simultaneously developed on each paper foldout. At the same time, in each instance there are parts hierarchically organized over other by adequate treatment of space and type size growth.</p>
+<h4>Identity program for boîte à musique:</h4>
+<p>In this second example we will see pieces belonging to a music store, integrated by means of a very peculiar typographic program. From the store brand (image 6) a structure was designed (image 7) where the constants of the brand (boîte à musique) are maintained and a typographic miscellany frame (rules with a width related to the stroke of the type that makes up the brand). Taking as guidelines the directions created by the brand, a structure which considers a few variations in format, proportions and possible configurations was built.  </p>
+<p>Each of these configurations allows for the brand to adapt to the specific characteristics of the pieces on which it is applied, be them advertisements (8 and 10) or stationary (9).</p>
+<h4>Identity for Bech Electronic Centre</h4>
+<p>This identity program answers the following questions: who? (Bech, the owner), what? (Electronic, the goods), how? (Centre, how it is offered.) </p>
+<p>The coincidence with the initials of the brand (bec) is exploited in a crossword puzzle. Different letter combinations to combine the company’s name are practiced, with horizontal predominance in one case, and with vertical predominance in the other. </p>
+<p>The presence of these combinations, adapted to the different proportions and formats of each piece (advertisement, promotional material, stationary) identifies the sender and unifies the system, based mainly on typographic resources.</p>
+<div class="ref_box"><strong>Bibliography</strong></p>
+<ul>
+<li>GERSTNER, Karl. <em>Diseñar programas.</em> Gustavo Gili, Barcelona, 1979.</li>
+<li>CHAVEZ, Norberto. «Pequeña teoría del cartel» en <em>revista tpG 7 y 8</em>. Buenos Aires, 1989.</li>
+<li>MIJKSENAAR, Paul. <em>Diseño de la información, una introducción</em>. Gustavo Gili, Barcelona, 2001.</li>
+</ul>
+<p></p></div>
+<p class="icl_post_in_other_langs">Esta entrada también está disponible en: <a href="http://www.oert.org/tipografia-y-sistemas-tipograficos/">Spanish</a></p>                   
+                  
+                  <div class="like_this_section clearfix">
+					<div class="google_like">
+					<g:plusone href="http://www.oert.org" size="medium"></g:plusone>
+					</div>	                  
+                     <div class="twitter_like">
+                     <a href="http://twitter.com/share" class="twitter-share-button" data-via="oert.org" data-lang="es" data-size="medium">Tweet</a>
+                     </div>
+                     <div class="fb_like">
+                     <fb:like href="http%3A%2F%2Fwww.oert.org%2Fen%2Ftypography-and-typographic-systems%2F" layout="button_count" show_faces="false" width="450" height="30"></fb:like>
+                     </div>
+                     <div class="printfriendly"><a href="http://www.printfriendly.com/print?url=http://www.oert.org/en/typography-and-typographic-systems/" rel="nofollow" onclick="window.print(); return false;"><img src="http://cdn.printfriendly.com/button-print-gry20.png" alt="Print Friendly" /></a></div>				</div> <!-- #end -->
+
+
+          				
+              </div> <!-- post #end -->
+              
+              
+               
+ 			<div class="post-navigation clearfix">
+                                                            <a class="post-prev" href="http://www.oert.org/en/text-image-dingbats-and-decorative-elements/"><em>Previous post</em><span>Text, image, dingbats and decorative elements</span></a>
+                                                                <a class="post-next" href="http://www.oert.org/en/typography-and-information-layout/"><em>Next post</em><span>Typography and information layout</span></a>
+                                 </div>
+            
+            
+              </div> <!-- single post content #end -->
+          		<div class="realated_post clearfix">
+<h3>Related Posts</h3><ul class="realated_postlist clearfix">
+            <li class="clearfix"> 
+      
+     <h3> <a href="http://www.oert.org/en/typography-and-information-layout/">Typography and information layout</a></h3> 
+     <p class="date clearfix"> <span>April 27, 2012</span></p>
+     <p>Contents to be communicated. Definition of the media or the piece. Types of contents: identity, textual information, graphic information, data grids, etc., to create the necessary graphic and typographic repertoire. Choosing the graphic tools. Controlled combination of text, image, dingbats, and decorative elements to transmit content in the best possible way.</p>
+            </li>
+                        <li class="clearfix"> 
+      
+     <h3> <a href="http://www.oert.org/en/family-classification-selection-and-combination/">Family classification, selection, and combination.</a></h3> 
+     <p class="date clearfix"> <span>April 27, 2012</span></p>
+     <p>Different typeface classifications. Uses. Criteria of selection based on function and/or style. Combination criteria. Aspects to be considered when combining. Combinations and the design piece. Legibility and reading conditions.
+</p>
+            </li>
+                        <li class="clearfix"> 
+      
+     <h3> <a href="http://www.oert.org/en/basic-concepts/">Basic concepts</a></h3> 
+     <p class="date clearfix"> <span>April 27, 2012</span></p>
+     <p>Basic concepts for text setting: type family; type size, units and measuring instruments; typographic variables; spatial relations in words, lines and paragraphs; typographic color; the paragraph as the fundamental unit in a piece of work; text attributes; margins; word division; legibility and orthography for editors.</p>
+            </li>
+                        <li class="clearfix"> 
+      
+     <h3> <a href="http://www.oert.org/en/text-image-dingbats-and-decorative-elements/">Text, image, dingbats and decorative elements</a></h3> 
+     <p class="date clearfix"> <span>April 27, 2012</span></p>
+     <p>Dingbats and decorative elements as elements of the typographic case. Function and types of dingbats and decorative elements. Double function: characters or image. Letters as images or characters. Relations.
+</p>
+            </li>
+            </ul>
+</div>
+		
+        
+          <div id="comments" class="clearfix"> 
+<div id="comments" class="comments-area">
+<div id="respond">
+<div class="fb-social-plugin fb-comments" id="commentform" data-href="http://www.oert.org/en/typography-and-typographic-systems/" data-width="700"></div>
+</div></div>
+</div>
+          
+             </div>
+	<div id="dynamic-content"></div>        
+  </div> <!-- content #end -->
+<script type="text/javascript" language="javascript" >
+var root_path_js = 'http://www.oert.org/';
+</script>
+<script type="text/javascript" language="javascript" src="http://www.oert.org/wp-content/themes/WikiBase/library/js/article_detail.js" ></script>
+
+      <div id="lang_sel"  >
+    <ul>
+        <li><a href="#" class="lang_sel_sel icl-en">
+                            
+            <img  class="iclflag" src="http://www.oert.org/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png" alt="en" />                                
+            &nbsp;English</a>                                    
+            <ul>
+                                <li class="icl-es">          
+                    <a rel="alternate" hreflang="es" href="http://www.oert.org/tipografia-y-sistemas-tipograficos/">
+                                    
+                    <img  class="iclflag" src="http://www.oert.org/wp-content/plugins/sitepress-multilingual-cms/res/flags/es.png" alt="es" />&nbsp;                    
+                                        Español                    </a>
+                </li>
+                            </ul>            
+             
+                    </li>
+    </ul>    
+</div>
+ <!-- selector de idiomas -->
+<div id="sidebar">
+	<div class="widget"><h3><span>Recursos</span></h3><div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-404" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-404"><a href="http://www.oert.org/en/the-project/">The project</a></li>
+<li id="menu-item-405" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-405"><a href="http://www.oert.org/en/the-authors/">The Authors</a></li>
+<li id="menu-item-406" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-406"><a href="http://www.oert.org/en/editorial-board/">Editorial Committee</a></li>
+<li id="menu-item-407" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-407"><a href="http://www.oert.org/en/the-team/">The Team</a></li>
+<li id="menu-item-408" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-408"><a href="http://www.oert.org/en/our-backers/">Our backers</a></li>
+<li id="menu-item-718" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-718"><a href="http://www.oert.org/en/faq/">FAQ</a></li>
+<li id="menu-item-409" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-409"><a href="http://www.oert.org/en/contact-us/">Contact us</a></li>
+</ul></div></div><div class="widget"><h3><span>Páginas</span></h3><div class="menu-main-menu-ingles-container"><ul id="menu-main-menu-ingles" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-404"><a href="http://www.oert.org/en/the-project/">The project</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-405"><a href="http://www.oert.org/en/the-authors/">The Authors</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-406"><a href="http://www.oert.org/en/editorial-board/">Editorial Committee</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-407"><a href="http://www.oert.org/en/the-team/">The Team</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-408"><a href="http://www.oert.org/en/our-backers/">Our backers</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-718"><a href="http://www.oert.org/en/faq/">FAQ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-409"><a href="http://www.oert.org/en/contact-us/">Contact us</a></li>
+</ul></div></div></div> <!-- sidebar right--> 
+<div id="bottom"></div>
+<script type='text/javascript' src='http://www.oert.org/wp-content/themes/WikiBase/library/js/jquery.simplemodal.js'></script>
+<script type='text/javascript' src='http://www.oert.org/wp-content/themes/WikiBase/library/js/basic.js'></script>
+<div id="basic-modal-content" class="clearfix" style="display:none;">
+<form name="send_to_frnd" id="send_to_frnd" action="http://www.oert.org/en/typography-and-typographic-systems/" method="post" >
+<input type="hidden" id="send_to_Frnd_pid" name="pid" value="670" />
+<input type="hidden" name="sendact" value="email_frnd" />
+	<h3>Send To Friend</h3>
+    <p id="reply_send_success" class="sucess_msg" style="display:none;"></p>
+	<div class="row clearfix" ><label>Friend Name : <span>*</span></label><input name="to_name" id="to_name" type="text"  /><span id="to_nameInfo"></span></div>
+ 	<div class="row  clearfix" ><label> Email : <span>*</span></label><input name="to_email" id="to_email" type="text"  /><span id="to_emailInfo"></span></div>
+	<div class="row  clearfix" ><label>Your Name : <span>*</span></label><input name="yourname" id="yourname" type="text"  /><span id="yournameInfo"></span></div>
+ 	<div class="row  clearfix" ><label> Email : <span>*</span></label><input name="youremail" id="youremail" type="text"  /><span id="youremailInfo"></span></div>
+	<div class="row  clearfix" ><label>Subject : <span>*</span></label><input name="frnd_subject" value="About Typography and typographic systems" id="frnd_subject" type="text"  /></div>
+	<div class="row  clearfix" ><label>Comments : <span>*</span></label>
+     <textarea name="frnd_comments" id="frnd_comments" cols="" rows="" >Hi there, do check out the information about this Article.</textarea></div>
+	<input name="Send" type="submit" value="Send " class="button " />
+</form>
+</div>
+<script type="text/javascript" src="http://www.oert.org/wp-content/themes/WikiBase/library/js/email_frnd_validation.js"></script>
+<!-- here -->   </div> <!-- wrapper #end -->
+  
+<div id="footer" class="clearfix">
+<div id="footer_in">
+<p class="copy"><a rel="license" href="http://creativecommons.org/licenses/by-sa/2.5/ar/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/2.5/ar/80x15.png" /></a> <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Open Educational Resources for Typography</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.oert.org/" property="cc:attributionName" rel="cc:attributionURL">OERT</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.5/ar/">Creative Commons Attribution-ShareAlike 2.5 Argentina License</a>.</p>
+<p class="fr"><span class="designby">Alojado en </span>
+<span class="wiroos"><a href="http://www.wiroos.com" title="Wiroos">Wiroos</a></span>
+</p>	
+</div></div> <!-- footer #end -->
+
+        <script type="text/javascript">
+          var pfHeaderImgUrl = '';
+          var pfHeaderTagline = '';
+          var pfdisableClickToDel = '0';
+          var pfHideImages = '0';
+          var pfImageDisplayStyle = 'right';
+          var pfDisableEmail = '0';
+          var pfDisablePDF = '0';
+          var pfDisablePrint = '0';
+          var pfCustomCSS = '';
+
+          // PrintFriendly
+          var e = document.createElement('script'); e.type="text/javascript";
+          e.src = 'http://cdn.printfriendly.com/printfriendly.js';
+          document.getElementsByTagName('head')[0].appendChild(e);
+      </script>
+<script type='text/javascript' src='http://www.oert.org/wp-content/themes/WikiBase/library/js/livesearch.js?ver=1'></script>
+<script type='text/javascript' src='http://www.oert.org/wp-content/themes/WikiBase/library/js/jquery.hoveraccordion.min.js?ver=1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var FB_WP=FB_WP||{};FB_WP.queue={_methods:[],flushed:false,add:function(fn){FB_WP.queue.flushed?fn():FB_WP.queue._methods.push(fn)},flush:function(){for(var fn;fn=FB_WP.queue._methods.shift();){fn()}FB_WP.queue.flushed=true}};window.fbAsyncInit=function(){FB.init({"channelUrl":"http:\/\/www.oert.org\/wp-content\/plugins\/facebook\/channel.php","xfbml":true,"appId":"285109618260716"});if(FB_WP && FB_WP.queue && FB_WP.queue.flush){FB_WP.queue.flush()}}
+/* ]]> */
+</script>
+<div id="fb-root"></div><script type="text/javascript">(function(d){var id="facebook-jssdk";if(!d.getElementById(id)){var js=d.createElement("script"),ref=d.getElementsByTagName("script")[0];js.id=id,js.async=true,js.src="http:\/\/connect.facebook.net\/es_ES\/all.js",ref.parentNode.insertBefore(js,ref)}})(document)</script>
+<script type='text/javascript' src=''></script>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27724959-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script><script type="text/javascript">
+	//<![CDATA[
+		function initBelle() {
+			Belle.AjaxURL		= "http://www.oert.org/en//?sajax=1"
+			// Initialize Livesearch
+			Belle.LiveSearch	= new LiveSearch( "Escribe y obten resultados al instante" )
+			}
+		jQuery(document).ready( function() { initBelle() })
+	//]]>
+	</script>
+<!-- LOAD JAVASCRIPT LATE - JUST BEFORE THE BODY TAG 
+		 That way the browser will have loaded the images
+	  	 and will know the width of the images. No need to
+		 specify the width in the CSS or inline. -->
+
+	<!-- jQuery library - Please load it from Google API's -->
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+
+	<!-- jQuery UI Widget and Effects Core (custom download)
+		 You can make your own at: http://jqueryui.com/download -->
+	<script src="http://www.oert.org/wp-content/themes/WikiBase/library/js/jquery-ui-1.8.18.custom.min.js" type="text/javascript"></script>
+	
+	<!-- Latest version of jQuery Mouse Wheel by Brandon Aaron
+		 You will find it here: http://brandonaaron.net/code/mousewheel/demos -->
+	<script src="http://www.oert.org/wp-content/themes/WikiBase/library/js/jquery.mousewheel.min.js" type="text/javascript"></script>
+
+	<!-- Smooth Div Scroll 1.2 minified-->
+	<script src="http://www.oert.org/wp-content/themes/WikiBase/library/js/jquery.smoothdivscroll-1.2-min.js" type="text/javascript"></script>
+
+	<!-- If you want to look at the uncompressed version you find it at
+		 js/jquery.smoothDivScroll-1.2.js -->
+
+	<!-- Plugin initialization -->
+	<script type="text/javascript">
+		jQuery(document).ready(function () {
+			jQuery("#logoParade").smoothDivScroll({
+				autoScrollingMode: "always",
+				autoScrollingDirection: "endlessloopright",
+				autoScrollingStep: 1,
+				autoScrollingInterval: 25 
+			});
+
+			// Logo parade
+			jQuery("#logoParade").bind("mouseover", function () {
+				jQuery(this).smoothDivScroll("stopAutoScrolling");
+			}).bind("mouseout", function () {
+				jQuery(this).smoothDivScroll("startAutoScrolling");
+			});
+
+		});
+		
+	</script>	
+	
+</body></html>

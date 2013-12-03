@@ -1,0 +1,499 @@
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<title>
+  Variables tipográficas&nbsp;|&nbsp;OERT</title>
+
+<link rel="stylesheet" href="wp-content/plugins/sitepress-multilingual-cms/res/css/language-selector.css?v=2.6.0" type="text/css" media="all" />
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="stylesheet" type="text/css" href="wp-content/themes/WikiBase/style.css" media="screen" />
+<link rel="shortcut icon" type="image/png" href="wp-content/uploads/favicon.ico" />
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="index.html?cat=&amp;feed=rss2" />
+<link rel="pingback" href="xmlrpc.php" />
+
+<link rel="stylesheet" type="text/css" href="wp-content/themes/WikiBase/library/css/print.css" media="print" />
+<link rel="Stylesheet" type="text/css" href="wp-content/themes/WikiBase/library/css/smoothDivScroll.css" />
+
+<script src="http://connect.facebook.net/es_ES/all.js#xfbml=1"></script>
+<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+<script src="https://apis.google.com/js/plusone.js" type="text/javascript"></script>
+
+
+ <link href="wp-content/themes/WikiBase/custom.css" rel="stylesheet" type="text/css">
+<script language="javascript" type="text/javascript">
+	function hasClass(ele,cls) {
+	return ele.className.match(new RegExp('(\\s|^)'+cls+'(\\s|$)'));
+	}
+
+    function addClass(ele,cls) {
+    if (!this.hasClass(ele,cls)) ele.className += " "+cls;
+    }
+    function removeClass(ele,cls) {
+    if (hasClass(ele,cls)) {
+        var reg = new RegExp('(\\s|^)'+cls+'(\\s|$)');
+        ele.className=ele.className.replace(reg,' ');
+    }
+    }
+
+    function showHideDiv(sids,divids)
+    {
+		//alert(sids);
+		//alert(divids);
+        var divstyle = new String();
+		var spanstyle = new String();
+		var spansid = new String();
+		spansid = document.getElementById(sids);
+        divstyle = document.getElementById(divids).style.display;
+        if(divstyle.toLowerCase()=="block" || divstyle == "")
+        {
+            document.getElementById(divids).style.display = "none";
+			removeClass(spansid,'neg');
+			addClass(spansid,'pos');
+        }
+        else
+        {
+            document.getElementById(divids).style.display = "block";
+			removeClass(spansid,'pos');
+			addClass(spansid,'neg');
+        }
+    }
+    </script>
+    <script type="text/javascript">
+        $(document).ready( function() {
+            $('#menu-recursos').hoverAccordion({
+                keepHeight:true,
+                activateItem: 3,
+                speed: 400
+            });
+        });
+    </script>
+        
+<link rel="dns-prefetch" href="http://connect.facebook.net/" />
+<link rel="alternate" type="application/rss+xml" title="OERT &raquo; Variables tipográficas RSS de los comentarios" href="variables-tipograficas/feed/index.html" />
+<link rel='stylesheet' id='wpml-cms-nav-css-css'  href='wp-content/plugins/wpml-cms-nav/res/css/navigation.css?ver=1.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='cms-navigation-style-base-css'  href='wp-content/plugins/wpml-cms-nav/res/css/cms-navigation-base.css?ver=1.2.7' type='text/css' media='screen' />
+<link rel='stylesheet' id='cms-navigation-style-css'  href='wp-content/plugins/wpml-cms-nav/res/css/cms-navigation.css?ver=1.2.7' type='text/css' media='screen' />
+<link rel='stylesheet' id='good-old-gallery-theme-css'  href='wp-content/plugins/good-old-gallery/themes/good-old-gallery-dots/good-old-gallery-dots.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='good-old-gallery-css'  href='wp-content/plugins/good-old-gallery/assets/css/good-old-gallery.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='facebook-css'  href='wp-content/plugins/facebook/static/css/style.min.css?ver=1.3.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.oert.org/wp-includes/js/jquery/jquery.js?ver=1.8.3'></script>
+<script type='text/javascript' src='wp-content/themes/WikiBase/library/js/functions.js?ver=1'></script>
+<script type='text/javascript' src='http://www.oert.org/wp-includes/js/comment-reply.min.js?ver=3.5.1'></script>
+<script type='text/javascript' src='wp-content/plugins/good-old-gallery/plugins/cycle/jquery.cycle.all.min.js?ver=3.5.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.oert.org/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Programas tipográficos' href='index.html?p=173' />
+<link rel='next' title='Estructura, trazo y contraforma de los caracteres tipográficos' href='index.html?p=177' />
+<meta name="generator" content="WordPress 3.5.1" />
+<link rel='shortlink' href='index.html?p=175' />
+
+	<!-- This site uses Good Old Gallery, get it from http://wp.unwi.se/good-old-gallery -->
+
+        <style type="text/css" media="screen">
+          div.printfriendly {
+            margin: 0px 0px 0px 0px;;
+          }
+          div.printfriendly a, div.printfriendly a:link, div.printfriendly a:visited {
+            text-decoration: none;
+            font-size: 14px;
+            color: #99cc00;
+            vertical-align: bottom;
+            border: none;
+          }
+
+          .printfriendly a:hover {
+            cursor: pointer;
+          }
+
+          .printfriendly a img  {
+            border: none;
+            padding:0;
+            margin-right: 6px;
+            display:inline-block;
+            box-shadow: none;
+            -webkit-box-shadow: none;
+            -moz-box-shadow: none;
+          }
+          .printfriendly a span{
+            vertical-align: bottom;
+          }
+          .pf-alignleft {
+            float: left;
+          }
+          .pf-alignright {
+            float: right;
+          }
+          div.pf-aligncenter {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            text-align: center;
+          }
+        </style>
+        <style type="text/css" media="print">
+          .printfriendly {
+            display: none;
+          }
+        </style>
+<script type="text/javascript">var icl_lang = 'es';var icl_home = 'http://www.oert.org/';</script>
+<script type="text/javascript" src="wp-content/plugins/sitepress-multilingual-cms/res/js/sitepress.js"></script>
+<meta name="generator" content="WPML ver:2.6.0 stt:2,1;0" />
+<link rel="alternate" hreflang="en_US" href="index.html?p=640" />
+
+<style type="text/css">#lang_sel a, #lang_sel a.lang_sel_sel{color:#444444;}#lang_sel a:hover, #lang_sel a.lang_sel_sel:hover{color:#000000;}#lang_sel a.lang_sel_sel, #lang_sel a.lang_sel_sel:visited{background-color:#f5f4f2;}#lang_sel a.lang_sel_sel:hover{background-color:#eeeeee;}#lang_sel li ul a, #lang_sel li ul a:visited{color:#444444;}#lang_sel li ul a:hover{color:#000000;}#lang_sel li ul a, #lang_sel li ul a:link, #lang_sel li ul a:visited{background-color:#f5f4f2;}#lang_sel li ul a:hover{background-color:#eeeeee;}#lang_sel a, #lang_sel a:visited{border-color:#cdcdcd;} #lang_sel ul ul{border-top:1px solid #cdcdcd;}</style>
+
+<style type="text/css">#lang_sel  {width: 195px; margin-bottom:24px;}
+#lang_sel a {font-size:12px;}
+#lang_sel li {width:192px; }
+
+</style>		<link href="wp-content/themes/WikiBase/skins/1-default.css" rel="stylesheet" type="text/css" />
+
+
+<link href='http://boakes.org/most-wanted?v=0.1.9v' />
+<link rel="canonical" href="index.html?p=175"/>
+<meta property="og:site_name" content="OERT" />
+<meta property="og:type" content="article" />
+<meta property="og:locale" content="es_ES" />
+<meta property="fb:app_id" content="285109618260716" />
+<meta property="og:url" content="http://www.oert.org/variables-tipograficas/" />
+<meta property="og:title" content="Variables tipográficas" />
+<meta property="og:description" content="Funciones y convención en el uso de las variables. Ejes tradicionales. Reconocimiento de variables diseñadas y efectos de la deformación digital. Versalitas: color de signo y de línea." />
+<meta property="article:published_time" content="2012-01-10T00:59:35+00:00" />
+<meta property="article:modified_time" content="2012-11-02T13:41:36+00:00" />
+<meta property="article:author" content="http://www.oert.org/author/admin/" />
+<meta property="article:section" content="Letra" />
+<meta property="article:tag" content="Teoría" />
+<meta property="og:image" content="http://www.oert.org/wp-content/uploads/2012/09/T01A_12-variables_peso_ancho_eje.jpg" />
+<meta property="og:image:width" content="700" />
+<meta property="og:image:height" content="525" />
+</head>
+<body class="single single-post postid-175 single-format-standard">
+<div id="header">   
+<div id="header_in" class="clearfix">
+<div class="logo"> 
+   <div class="blog-title"><a href="index.html">OERT</a> 
+		
+		 <p class="blog-description">
+		  Open Educational Resources for Typography		</p>
+   </div> 
+   </div>
+                        <div class="header_right">
+        	<p>Última actualización: <span>April 7, 2013</span></p>
+                        <form method="get" id="searchform" action="index.html">
+<div id="search-form-wrap">
+<label for="s" id="search-label">Buscar por:</label>
+<input type="text" id="s" name="s" accesskey="4" value="" />
+<input type="hidden" name="stype" value="ajsearch" />
+<input type="submit" name="stype" value="Search" style="display:none;" class="b_search" />
+<span id="searchreset" title="Reset Search"></span>
+<span id="searchload"></span>
+</div>
+</form>
+
+                    </div>               
+   </div> 
+ </div>   <!-- header #end -->     <div id="wrapper" class="clearfix">  
+  		<div id="content" >
+         <div id="current-content">
+                 <div class="breadcrumb clearfix">
+        <a rel="nofollow" href="index.html">Home</a>  <a href="category/parte1/index.html" title="Ver todas las entradas en Teoría">Teoría</a>  <a href="category/parte1/parte1-1/index.html" title="Ver todas las entradas en Letra">Letra</a>  Variables tipográficas        </div>
+             
+                       
+        <div class="single_post">
+        <h1 class="head">Variables tipográficas</h1>
+ 		  		                  <p class="post_info clearfix post_info_single"><span>Posted by <a href="author/admin/index.html" title="Entradas de OERT" rel="author">OERT</a> - ene 10, 2012 </span>
+                     <span class="i_cate"> <a href="category/parte1/parte1-1/index.html" title="Ver todas las entradas en Letra" rel="category tag">Letra</a>, <a href="category/parte1/index.html" title="Ver todas las entradas en Teoría" rel="category tag">Teoría</a> </span>
+                      <span> <a href="index.html?p=175#commentarea"  class="i_comment" ><fb:comments-count xmlns="http://ogp.me/ns/fb#" href="http://www.oert.org/variables-tipograficas/"></fb:comments-count> comentarios </a></span>                      
+                      <a href="index.html?cat=10&amp;feed=rss2" class="i_rss">Receive Updates For This Category</a>
+                      
+                       </p>
+                       
+                       
+					              
+              
+              <div id="post-175" class="posts clearfix">               		               
+              		
+              		<!-- Templatic Article Tools #end -->
+              		
+              		              		
+              		<!-- Templatic Article Tools #end -->
+
+                      <p class="autor">Elaboración: Natalia Fernández, Paula Ibarra</p>
+<p class="bajada">Las va­ria­bles ti­po­grá­fi­cas son opciones que nos ofrece una misma familia para responder a las di­fe­ren­tes ne­ce­si­da­des de la co­mu­ni­ca­ción vi­sual. Las utilizamos, entre otras cosas, para es­ta­ble­cer dis­tin­tos ni­ve­les de jerarquización den­tro de un tex­to, para al­te­rar el co­lor, para cambiar el rit­mo, etc.</p>
+<p>Las va­ria­bles ti­po­grá­fi­cas son ele­men­tos que, al per­te­ne­cer a un sis­te­ma, de­ben man­te­ner pa­ren­tes­co for­mal con la fa­mi­lia de la que son par­te. En ge­ne­ral, ac­túan so­bre la in­cli­na­ción, el pe­so y el an­cho de la le­tra.</p>
+<h3>In­cli­na­ción</h3>
+<p>Si las va­ria­bles de eje mo­difi­can la in­cli­na­ción de la le­tra, se cam­bia la es­truc­tu­ra y sur­ge una al­te­ra­ción en el rit­mo. Al­gu­nas ve­ces tam­bién pue­de afec­tar el co­lor.</p>
+<p>En al­gu­nos pro­gra­mas exis­te la fun­ción «itá­li­ca», que in­cli­na to­dos los sig­nos en un án­gu­lo de­ter­mi­na­do, pe­ro las itá­li­cas no son solo eso y, ade­más, no to­das las le­tras de­ben te­ner la mis­ma in­cli­na­ción: en la ver­sión itá­li­ca de una fuen­te, el di­se­ño de los sig­nos se ajus­ta pa­ra lo­grar otro co­lor; normalmente, ocu­pa me­nos es­pa­cio que la ver­sión nor­mal y en cier­tos ca­sos (por ejem­plo en las ti­po­gra­fías ro­ma­nas y en al­gu­nas de pa­lo se­co) el di­se­ño de los sig­nos adop­ta ca­rac­te­rís­ti­cas de cur­si­va. Pa­ra co­rro­bo­rar­lo, vea­mos en el si­guien­te ejem­plo có­mo va­ría el di­se­ño de los sig­nos.</p>
+<p><a href="wp-content/uploads/2012/07/T06A_01-rosario_a__variables1.jpg"><img class="alignnone size-full wp-image-796" title="Rosario: variables" src="wp-content/uploads/2012/07/T06A_01-rosario_a__variables1.jpg" alt="Rosario: variables" width="701" height="525" /></a></p>
+<div id="attachment_797" class="wp-caption alignnone" style="width: 711px"><a href="wp-content/uploads/2012/07/T06A_02-rosario_variables_secuencia1.jpg"><img class="size-full wp-image-797" title="Rosario: variables (secuencia)" src="wp-content/uploads/2012/07/T06A_02-rosario_variables_secuencia1.jpg" alt="Rosario: variables (secuencia)" width="701" height="525" /></a><p class="wp-caption-text">El segundo texto está compuesto en Rosario Gris inclinada digitalmente.</p></div>
+<h3>Pe­so</h3>
+<p>Las va­ria­bles de pe­so afec­tan al tra­zo de los sig­nos, lo cual pue­de dar lu­gar a pe­que­ñas mo­dificaciones es­truc­tu­ra­les. Lo que se al­te­ra prin­ci­pal­men­te es el co­lor ti­po­gráfico, ya que cambia la relación entre el ancho del trazo y las contraformas de cada signo tipográfico.</p>
+<p>Pa­ra usar una ti­po­gra­fía ne­gri­ta o <em>bold</em>, hay que te­ner la va­ria­ble co­rres­pon­dien­te; no es con­ve­nien­te con­ver­tir una fuen­te nor­mal en ne­gri­ta por me­dios elec­tró­ni­cos. La va­ria­ble ne­gri­ta es­tá específica­mente di­se­ña­da pa­ra fun­cio­nar co­mo tal, en cam­bio a la variable construida digitalmente  se le suma un contorno al­re­de­dor de ca­da sig­no, modifican­do las contraformas, los ajus­tes y —en el ca­so de las ti­po­gra­fías ro­ma­nas— el con­tras­te en­tre finos y grue­sos de los trazos graduales.</p>
+<p><a href="wp-content/uploads/2012/07/T06A_03-variables_stroke1.jpg"><img class="alignnone size-full wp-image-798" title="Variables de peso" src="wp-content/uploads/2012/07/T06A_03-variables_stroke1.jpg" alt="Variables de peso" width="701" height="526" /></a></p>
+<h3>An­cho</h3>
+<p>En las va­ria­bles de an­cho, se pro­du­ce un cam­bio en la es­truc­tu­ra de la le­tra tal que so­la­men­te se mo­difican las pro­por­cio­nes, aun­que el tra­zo no va­ría. Se al­te­ra el ren­di­mien­to (en pri­mer lu­gar) y tam­bién el co­lor del tex­to.</p>
+<p>Las fuen­tes con­den­sa­das y ex­pan­di­das tam­bién es­tán di­se­ña­das es­pe­cial­men­te, por eso tam­po­co de­be­mos mo­di­ficar el an­cho por me­dios elec­tró­ni­cos, ya que se de­for­man los sig­nos.</p>
+<p>Es­to es más no­to­rio en ti­po­gra­fías de tra­zo uni­for­me: al con­den­sar­las o ex­pan­dir­las elec­tró­ni­ca­men­te, per­de­mos la uni­for­mi­dad del tra­zo.</p>
+<div id="go-gallery-984-1" class="go-gallery-container go-gallery-984 gog-dots has-pager cycle">
+<div class="go-gallery-inner">
+<ul class="slides">
+<li>
+<div class="image"><a href="wp-content/uploads/2012/07/T06A_04-myriad_condensada11.jpeg">
+<img width="701" height="526" src="wp-content/uploads/2012/07/T06A_04-myriad_condensada11.jpeg" class="attachment-large" alt="Myriad condensada" />
+</a>
+</div></li>
+<li>
+<div class="image"><a href="wp-content/uploads/2012/07/T06A_05_eurostile_expandida11.jpeg">
+<img width="701" height="526" src="wp-content/uploads/2012/07/T06A_05_eurostile_expandida11.jpeg" class="attachment-large" alt="Eurostile expandida" />
+</a>
+</div></li>
+<li>
+<div class="image"><a href="wp-content/uploads/2012/07/T06A_07-texto_expandido1.jpeg">
+<img width="701" height="526" src="wp-content/uploads/2012/07/T06A_07-texto_expandido1.jpeg" class="attachment-large" alt="Texto Expandido" />
+</a>
+</div></li>
+</ul>
+<div class="pager"></div>
+</div>
+<script type="text/javascript" charset="utf-8">jQuery(function($) { $(function () { $("#go-gallery-984-1 .slides").cycle({fx: "scrollHorz", navigation: false, pager: true, pager: "#go-gallery-984-1 .pager"}); }); });</script>
+</div>
+
+<h3>Ver­sa­li­tas</h3>
+<p>Por úl­ti­mo, den­tro de es­ta des­crip­ción de va­ria­bles, po­de­mos men­cio­nar tam­bién a las ver­sa­li­tas. Las ver­sa­li­tas son al­fa­be­tos con es­truc­tu­ras de ma­yús­cu­las, pe­ro que man­tie­nen la al­tu­ra de los sig­nos de ca­ja ba­ja. Nos ser­vi­mos de es­ta op­ción, por ejem­plo, si ne­ce­si­ta­mos uti­li­zar ma­yús­cu­las y no que­re­mos ge­ne­rar irre­gu­la­ri­da­des en el co­lor del tex­to.</p>
+<p>En el grá­fico, de arri­ba ha­cia aba­jo: la pa­la­bra com­pues­ta en mi­nús­cu­las, lue­go en ver­sa­li­tas y, final­men­te, las ver­sa­li­tas «de má­qui­na», que son una re­duc­ción de los sig­nos al 75% de su ta­ma­ño. En­tre los co­nflic­tos que es­to pre­sen­ta se puede mencionar: en pri­mer lu­gar, las ver­sa­li­tas ar­ti­ficiales no tie­nen la al­tu­ra de las mi­nús­cu­las y, en se­gun­do lu­gar, tam­po­co con­ser­van el co­lor de las mis­mas.</p>
+<p>Los cri­te­rios men­cio­na­dos en es­te apun­te no son los úni­cos que se pue­den to­mar pa­ra de­ci­dir la crea­ción de va­ria­bles ti­po­gráficas, pe­ro sí son los más uti­li­za­dos.</p>
+<p><a href="wp-content/uploads/2012/07/T06A_06-versalitas1.jpg"><img class="alignnone size-full wp-image-801" title="Calluna: versalitas" src="wp-content/uploads/2012/07/T06A_06-versalitas1.jpg" alt="Calluna: versalitas" width="701" height="526" /></a></p>
+<p class="icl_post_in_other_langs">Esta entrada también está disponible en: <a href="index.html?p=640">Inglés</a></p>                   
+                  
+                  <div class="like_this_section clearfix">
+					<div class="google_like">
+					<g:plusone href="http://www.oert.org" size="medium"></g:plusone>
+					</div>	                  
+                     <div class="twitter_like">
+                     <a href="http://twitter.com/share" class="twitter-share-button" data-via="oert.org" data-lang="es" data-size="medium">Tweet</a>
+                     </div>
+                     <div class="fb_like">
+                     <fb:like href="http%3A%2F%2Fwww.oert.org%2Fvariables-tipograficas%2F" layout="button_count" show_faces="false" width="450" height="30"></fb:like>
+                     </div>
+                     <div class="printfriendly"><a href="http://www.printfriendly.com/print?url=http://www.oert.org/variables-tipograficas/" rel="nofollow" onclick="window.print(); return false;"><img src="http://cdn.printfriendly.com/button-print-gry20.png" alt="Print Friendly" /></a></div>				</div> <!-- #end -->
+
+
+          				
+              </div> <!-- post #end -->
+              
+              
+               
+ 			<div class="post-navigation clearfix">
+                                                            <a class="post-prev" href="index.html?p=173"><em>Previous post</em><span>Programas tipográficos</span></a>
+                                                                <a class="post-next" href="index.html?p=177"><em>Next post</em><span>Estructura, trazo y contraforma de los caracteres tipográficos</span></a>
+                                 </div>
+            
+            
+              </div> <!-- single post content #end -->
+          		<div class="realated_post clearfix">
+<h3>Related Posts</h3><ul class="realated_postlist clearfix">
+            <li class="clearfix"> 
+      
+     <h3> <a href="index.html?p=193">Familia tipográfica</a></h3> 
+     <p class="date clearfix"> <span>September 10, 2012</span></p>
+     <p>Definición. Familia como sistema. Componentes de la caja tipográfica. Variables tipográficas. Ejes de construcción de variables: históricos y contemporáneos. Revisión de aspectos que se mantienen y modifican en el sistema de variables.</p>
+            </li>
+                        <li class="clearfix"> 
+      
+     <h3> <a href="index.html?p=191">Mayúsculas, minúsculas, números y signos</a></h3> 
+     <p class="date clearfix"> <span>September 10, 2012</span></p>
+     <p>Origen, relaciones y connotaciones del sistema de mayúsculas y del de minúsculas. Relaciones verticales. Legibilidad de mayúsculas y minúsculas. Características formales y función de números. Signos de entonación, puntuación y auxiliares: forma y ubicación. Las fracciones.</p>
+            </li>
+                        <li class="clearfix"> 
+      
+     <h3> <a href="index.html?p=183">Anatomía tipográfica</a></h3> 
+     <p class="date clearfix"> <span>September 10, 2012</span></p>
+     <p>Partes de la letra: ubicación y definición.</p>
+            </li>
+                        <li class="clearfix"> 
+      
+     <h3> <a href="index.html?p=179">Proporciones del alfabeto latino</a></h3> 
+     <p class="date clearfix"> <span>September 10, 2012</span></p>
+     <p>Tecnología de producción y forma resultante. Mayúsculas trajanas y su conversión en modelo. Estructuras básicas y conformación de grupos de anchos comunes. Grupos por parentesco morfológico. Anchos históricos y contemporáneos.</p>
+            </li>
+            </ul>
+</div>
+		
+        
+          <div id="comments" class="clearfix"> 
+<div id="comments" class="comments-area">
+<div id="respond">
+<div class="fb-social-plugin fb-comments" id="commentform" data-href="http://www.oert.org/variables-tipograficas/" data-width="700"></div>
+</div></div>
+</div>
+          
+             </div>
+	<div id="dynamic-content"></div>        
+  </div> <!-- content #end -->
+<script type="text/javascript" language="javascript" >
+var root_path_js = 'http://www.oert.org/';
+</script>
+<script type="text/javascript" language="javascript" src="wp-content/themes/WikiBase/library/js/article_detail.js" ></script>
+
+      <div id="lang_sel"  >
+    <ul>
+        <li><a href="index.html?p=175#" class="lang_sel_sel icl-es">
+                            
+            <img  class="iclflag" src="wp-content/plugins/sitepress-multilingual-cms/res/flags/es.png" alt="es" />                                
+            &nbsp;Español</a>                                    
+            <ul>
+                                <li class="icl-en">          
+                    <a rel="alternate" hreflang="en" href="index.html?p=640">
+                                    
+                    <img  class="iclflag" src="wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png" alt="en" />&nbsp;                    
+                                        English                    </a>
+                </li>
+                            </ul>            
+             
+                    </li>
+    </ul>    
+</div>
+ <!-- selector de idiomas -->
+<div id="sidebar">
+	<div class="widget"><h3><span>Recursos</span></h3><div class="menu-recursos-container"><ul id="menu-recursos" class="menu"><li id="menu-item-2003" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2003"><a href="category/parte1/index.html">Teoría</a>
+<ul class="sub-menu">
+	<li id="menu-item-2004" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2004"><a href="category/parte1/parte1-1/index.html">Letra</a></li>
+	<li id="menu-item-2005" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2005"><a href="category/parte1/parte1-2/index.html">Texto</a></li>
+	<li id="menu-item-2006" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2006"><a href="category/parte1/parte1-3/index.html">Página</a></li>
+</ul>
+</li>
+<li id="menu-item-2007" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2007"><a href="category/parte2/index.html">Práctica</a>
+<ul class="sub-menu">
+	<li id="menu-item-2008" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2008"><a href="category/parte2/parte2-1/index.html">Letra</a></li>
+	<li id="menu-item-2009" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2009"><a href="category/parte2/parte2-2/index.html">Texto</a></li>
+	<li id="menu-item-2010" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2010"><a href="category/parte2/parte2-3/index.html">Página</a></li>
+</ul>
+</li>
+<li id="menu-item-2011" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2011"><a href="category/parte3/index.html">Historia</a></li>
+</ul></div></div><div class="widget"><h3><span>Páginas</span></h3><div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-37" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37"><a href="el-proyecto/index.html">El proyecto</a></li>
+<li id="menu-item-62" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-62"><a href="los-autores/index.html">Los autores</a></li>
+<li id="menu-item-63" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-63"><a href="comite-editorial/index.html">Comité Editorial</a></li>
+<li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36"><a href="equipo-de-trabajo-2/index.html">Equipo de trabajo</a></li>
+<li id="menu-item-38" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38"><a href="apoyan-este-proyecto-2/index.html">Apoyan este proyecto&#8230;</a></li>
+<li id="menu-item-568" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-568"><a href="preguntas-frecuentes/index.html">Preguntas Frecuentes</a></li>
+<li id="menu-item-39" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39"><a href="contacto-2/index.html">Contacto</a></li>
+</ul></div></div></div> <!-- sidebar right--> 
+<div id="bottom"></div>
+<script type='text/javascript' src='wp-content/themes/WikiBase/library/js/jquery.simplemodal.js'></script>
+<script type='text/javascript' src='wp-content/themes/WikiBase/library/js/basic.js'></script>
+<div id="basic-modal-content" class="clearfix" style="display:none;">
+<form name="send_to_frnd" id="send_to_frnd" action="index.html?p=175" method="post" >
+<input type="hidden" id="send_to_Frnd_pid" name="pid" value="175" />
+<input type="hidden" name="sendact" value="email_frnd" />
+	<h3>Send To Friend</h3>
+    <p id="reply_send_success" class="sucess_msg" style="display:none;"></p>
+	<div class="row clearfix" ><label>Friend Name : <span>*</span></label><input name="to_name" id="to_name" type="text"  /><span id="to_nameInfo"></span></div>
+ 	<div class="row  clearfix" ><label> Correo electrónico : <span>*</span></label><input name="to_email" id="to_email" type="text"  /><span id="to_emailInfo"></span></div>
+	<div class="row  clearfix" ><label>Your Name : <span>*</span></label><input name="yourname" id="yourname" type="text"  /><span id="yournameInfo"></span></div>
+ 	<div class="row  clearfix" ><label> Correo electrónico : <span>*</span></label><input name="youremail" id="youremail" type="text"  /><span id="youremailInfo"></span></div>
+	<div class="row  clearfix" ><label>Asunto : <span>*</span></label><input name="frnd_subject" value="About Variables tipográficas" id="frnd_subject" type="text"  /></div>
+	<div class="row  clearfix" ><label>Comentarios : <span>*</span></label>
+     <textarea name="frnd_comments" id="frnd_comments" cols="" rows="" >Hi there, do check out the information about this Article.</textarea></div>
+	<input name="Send" type="submit" value="Send " class="button " />
+</form>
+</div>
+<script type="text/javascript" src="wp-content/themes/WikiBase/library/js/email_frnd_validation.js"></script>
+<!-- here -->   </div> <!-- wrapper #end -->
+  
+<div id="footer" class="clearfix">
+<div id="footer_in">
+<p class="copy"><a rel="license" href="http://creativecommons.org/licenses/by-sa/2.5/ar/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/2.5/ar/80x15.png" /></a> <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Open Educational Resources for Typography</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="index.html" property="cc:attributionName" rel="cc:attributionURL">OERT</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.5/ar/">Creative Commons Attribution-ShareAlike 2.5 Argentina License</a>.</p>
+<p class="fr"><span class="designby">Alojado en </span>
+<span class="wiroos"><a href="http://www.wiroos.com" title="Wiroos">Wiroos</a></span>
+</p>	
+</div></div> <!-- footer #end -->
+
+        <script type="text/javascript">
+          var pfHeaderImgUrl = '';
+          var pfHeaderTagline = '';
+          var pfdisableClickToDel = '0';
+          var pfHideImages = '0';
+          var pfImageDisplayStyle = 'right';
+          var pfDisableEmail = '0';
+          var pfDisablePDF = '0';
+          var pfDisablePrint = '0';
+          var pfCustomCSS = '';
+
+          // PrintFriendly
+          var e = document.createElement('script'); e.type="text/javascript";
+          e.src = 'http://cdn.printfriendly.com/printfriendly.js';
+          document.getElementsByTagName('head')[0].appendChild(e);
+      </script>
+<script type='text/javascript' src='wp-content/themes/WikiBase/library/js/livesearch.js?ver=1'></script>
+<script type='text/javascript' src='wp-content/themes/WikiBase/library/js/jquery.hoveraccordion.min.js?ver=1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var FB_WP=FB_WP||{};FB_WP.queue={_methods:[],flushed:false,add:function(fn){FB_WP.queue.flushed?fn():FB_WP.queue._methods.push(fn)},flush:function(){for(var fn;fn=FB_WP.queue._methods.shift();){fn()}FB_WP.queue.flushed=true}};window.fbAsyncInit=function(){FB.init({"channelUrl":"http:\/\/www.oert.org\/wp-content\/plugins\/facebook\/channel.php","xfbml":true,"appId":"285109618260716"});if(FB_WP && FB_WP.queue && FB_WP.queue.flush){FB_WP.queue.flush()}}
+/* ]]> */
+</script>
+<div id="fb-root"></div><script type="text/javascript">(function(d){var id="facebook-jssdk";if(!d.getElementById(id)){var js=d.createElement("script"),ref=d.getElementsByTagName("script")[0];js.id=id,js.async=true,js.src="http:\/\/connect.facebook.net\/es_ES\/all.js",ref.parentNode.insertBefore(js,ref)}})(document)</script>
+<script type='text/javascript' src='index.html?p=175'></script>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27724959-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script><script type="text/javascript">
+	//<![CDATA[
+		function initBelle() {
+			Belle.AjaxURL		= "http://www.oert.org/?sajax=1"
+			// Initialize Livesearch
+			Belle.LiveSearch	= new LiveSearch( "Escribe y obten resultados al instante" )
+			}
+		jQuery(document).ready( function() { initBelle() })
+	//]]>
+	</script>
+<!-- LOAD JAVASCRIPT LATE - JUST BEFORE THE BODY TAG 
+		 That way the browser will have loaded the images
+	  	 and will know the width of the images. No need to
+		 specify the width in the CSS or inline. -->
+
+	<!-- jQuery library - Please load it from Google API's -->
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+
+	<!-- jQuery UI Widget and Effects Core (custom download)
+		 You can make your own at: http://jqueryui.com/download -->
+	<script src="wp-content/themes/WikiBase/library/js/jquery-ui-1.8.18.custom.min.js" type="text/javascript"></script>
+	
+	<!-- Latest version of jQuery Mouse Wheel by Brandon Aaron
+		 You will find it here: http://brandonaaron.net/code/mousewheel/demos -->
+	<script src="wp-content/themes/WikiBase/library/js/jquery.mousewheel.min.js" type="text/javascript"></script>
+
+	<!-- Smooth Div Scroll 1.2 minified-->
+	<script src="wp-content/themes/WikiBase/library/js/jquery.smoothdivscroll-1.2-min.js" type="text/javascript"></script>
+
+	<!-- If you want to look at the uncompressed version you find it at
+		 js/jquery.smoothDivScroll-1.2.js -->
+
+	<!-- Plugin initialization -->
+	<script type="text/javascript">
+		jQuery(document).ready(function () {
+			jQuery("#logoParade").smoothDivScroll({
+				autoScrollingMode: "always",
+				autoScrollingDirection: "endlessloopright",
+				autoScrollingStep: 1,
+				autoScrollingInterval: 25 
+			});
+
+			// Logo parade
+			jQuery("#logoParade").bind("mouseover", function () {
+				jQuery(this).smoothDivScroll("stopAutoScrolling");
+			}).bind("mouseout", function () {
+				jQuery(this).smoothDivScroll("startAutoScrolling");
+			});
+
+		});
+		
+	</script>	
+	
+</body></html>

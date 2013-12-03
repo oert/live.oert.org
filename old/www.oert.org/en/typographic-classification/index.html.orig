@@ -1,0 +1,555 @@
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<title>
+  Typographic classification&nbsp;|&nbsp;OERT</title>
+
+<link rel="stylesheet" href="http://www.oert.org/wp-content/plugins/sitepress-multilingual-cms/res/css/language-selector.css?v=2.6.0" type="text/css" media="all" />
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="stylesheet" type="text/css" href="http://www.oert.org/wp-content/themes/WikiBase/style.css" media="screen" />
+<link rel="shortcut icon" type="image/png" href="http://www.oert.org/wp-content/uploads/favicon.ico" />
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.oert.org/en/feed/" />
+<link rel="pingback" href="http://www.oert.org/xmlrpc.php" />
+
+<link rel="stylesheet" type="text/css" href="http://www.oert.org/wp-content/themes/WikiBase/library/css/print.css" media="print" />
+<link rel="Stylesheet" type="text/css" href="http://www.oert.org/wp-content/themes/WikiBase/library/css/smoothDivScroll.css" />
+
+<script src="http://connect.facebook.net/es_ES/all.js#xfbml=1"></script>
+<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+<script src="https://apis.google.com/js/plusone.js" type="text/javascript"></script>
+
+
+ <link href="http://www.oert.org/wp-content/themes/WikiBase/custom.css" rel="stylesheet" type="text/css">
+<script language="javascript" type="text/javascript">
+	function hasClass(ele,cls) {
+	return ele.className.match(new RegExp('(\\s|^)'+cls+'(\\s|$)'));
+	}
+
+    function addClass(ele,cls) {
+    if (!this.hasClass(ele,cls)) ele.className += " "+cls;
+    }
+    function removeClass(ele,cls) {
+    if (hasClass(ele,cls)) {
+        var reg = new RegExp('(\\s|^)'+cls+'(\\s|$)');
+        ele.className=ele.className.replace(reg,' ');
+    }
+    }
+
+    function showHideDiv(sids,divids)
+    {
+		//alert(sids);
+		//alert(divids);
+        var divstyle = new String();
+		var spanstyle = new String();
+		var spansid = new String();
+		spansid = document.getElementById(sids);
+        divstyle = document.getElementById(divids).style.display;
+        if(divstyle.toLowerCase()=="block" || divstyle == "")
+        {
+            document.getElementById(divids).style.display = "none";
+			removeClass(spansid,'neg');
+			addClass(spansid,'pos');
+        }
+        else
+        {
+            document.getElementById(divids).style.display = "block";
+			removeClass(spansid,'pos');
+			addClass(spansid,'neg');
+        }
+    }
+    </script>
+    <script type="text/javascript">
+        $(document).ready( function() {
+            $('#menu-recursos').hoverAccordion({
+                keepHeight:true,
+                activateItem: 3,
+                speed: 400
+            });
+        });
+    </script>
+        
+<link rel="dns-prefetch" href="//connect.facebook.net" />
+<link rel="alternate" type="application/rss+xml" title="OERT &raquo; Typographic classification Comments Feed" href="http://www.oert.org/en/typographic-classification/feed/" />
+<link rel='stylesheet' id='wpml-cms-nav-css-css'  href='http://www.oert.org/wp-content/plugins/wpml-cms-nav/res/css/navigation.css?ver=1.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='cms-navigation-style-base-css'  href='http://www.oert.org/wp-content/plugins/wpml-cms-nav/res/css/cms-navigation-base.css?ver=1.2.7' type='text/css' media='screen' />
+<link rel='stylesheet' id='cms-navigation-style-css'  href='http://www.oert.org/wp-content/plugins/wpml-cms-nav/res/css/cms-navigation.css?ver=1.2.7' type='text/css' media='screen' />
+<link rel='stylesheet' id='facebook-css'  href='http://www.oert.org/wp-content/plugins/facebook/static/css/style.min.css?ver=1.3.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.oert.org/wp-includes/js/jquery/jquery.js?ver=1.8.3'></script>
+<script type='text/javascript' src='http://www.oert.org/wp-content/themes/WikiBase/library/js/functions.js?ver=1'></script>
+<script type='text/javascript' src='http://www.oert.org/wp-includes/js/comment-reply.min.js?ver=3.5.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.oert.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.oert.org/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Typographic anatomy' href='http://www.oert.org/en/typographic-anatomy/' />
+<link rel='next' title='Latin alphabet proportions' href='http://www.oert.org/en/latin-alphabet-proportions/' />
+<meta name="generator" content="WordPress 3.5.1" />
+<link rel='shortlink' href='http://www.oert.org/?p=634' />
+
+	<!-- This site uses Good Old Gallery, get it from http://wp.unwi.se/good-old-gallery -->
+
+        <style type="text/css" media="screen">
+          div.printfriendly {
+            margin: 0px 0px 0px 0px;;
+          }
+          div.printfriendly a, div.printfriendly a:link, div.printfriendly a:visited {
+            text-decoration: none;
+            font-size: 14px;
+            color: #99cc00;
+            vertical-align: bottom;
+            border: none;
+          }
+
+          .printfriendly a:hover {
+            cursor: pointer;
+          }
+
+          .printfriendly a img  {
+            border: none;
+            padding:0;
+            margin-right: 6px;
+            display:inline-block;
+            box-shadow: none;
+            -webkit-box-shadow: none;
+            -moz-box-shadow: none;
+          }
+          .printfriendly a span{
+            vertical-align: bottom;
+          }
+          .pf-alignleft {
+            float: left;
+          }
+          .pf-alignright {
+            float: right;
+          }
+          div.pf-aligncenter {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            text-align: center;
+          }
+        </style>
+        <style type="text/css" media="print">
+          .printfriendly {
+            display: none;
+          }
+        </style>
+<script type="text/javascript">var icl_lang = 'en';var icl_home = 'http://www.oert.org/en/';</script>
+<script type="text/javascript" src="http://www.oert.org/wp-content/plugins/sitepress-multilingual-cms/res/js/sitepress.js"></script>
+<meta name="generator" content="WPML ver:2.6.0 stt:1,2;0" />
+<link rel="alternate" hreflang="es_ES" href="http://www.oert.org/clasificacion-tipografica/" />
+
+<style type="text/css">#lang_sel a, #lang_sel a.lang_sel_sel{color:#444444;}#lang_sel a:hover, #lang_sel a.lang_sel_sel:hover{color:#000000;}#lang_sel a.lang_sel_sel, #lang_sel a.lang_sel_sel:visited{background-color:#f5f4f2;}#lang_sel a.lang_sel_sel:hover{background-color:#eeeeee;}#lang_sel li ul a, #lang_sel li ul a:visited{color:#444444;}#lang_sel li ul a:hover{color:#000000;}#lang_sel li ul a, #lang_sel li ul a:link, #lang_sel li ul a:visited{background-color:#f5f4f2;}#lang_sel li ul a:hover{background-color:#eeeeee;}#lang_sel a, #lang_sel a:visited{border-color:#cdcdcd;} #lang_sel ul ul{border-top:1px solid #cdcdcd;}</style>
+
+<style type="text/css">#lang_sel  {width: 195px; margin-bottom:24px;}
+#lang_sel a {font-size:12px;}
+#lang_sel li {width:192px; }
+
+</style>		<link href="http://www.oert.org/wp-content/themes/WikiBase/skins/1-default.css" rel="stylesheet" type="text/css" />
+
+
+<link href='http://boakes.org/most-wanted?v=0.1.9v' />
+<link rel="canonical" href="http://www.oert.org/en/typographic-classification/"/>
+<meta property="og:site_name" content="OERT" />
+<meta property="og:type" content="article" />
+<meta property="og:locale" content="es_ES" />
+<meta property="fb:app_id" content="285109618260716" />
+<meta property="og:url" content="http://www.oert.org/en/typographic-classification/" />
+<meta property="og:title" content="Typographic classification" />
+<meta property="og:description" content="Classification as a tool for analysis and study. Classification criteria. Different classifications. Stylistic characteristics, important contributors and families in each historical period." />
+<meta property="article:published_time" content="2012-04-27T05:45:45+00:00" />
+<meta property="article:modified_time" content="2012-11-02T13:27:43+00:00" />
+<meta property="article:author" content="http://www.oert.org/en/author/admin/" />
+<meta property="article:section" content="Letter" />
+<meta property="article:tag" content="Theory" />
+</head>
+<body class="single single-post postid-634 single-format-standard">
+<div id="header">   
+<div id="header_in" class="clearfix">
+<div class="logo"> 
+   <div class="blog-title"><a href="http://www.oert.org/en//">OERT</a> 
+		
+		 <p class="blog-description">
+		  Open Educational Resources for Typography		</p>
+   </div> 
+   </div>
+                        <div class="header_right">
+        	<p>Última actualización: <span>April 7, 2013</span></p>
+                        <form method="get" id="searchform" action="http://www.oert.org/en/">
+<div id="search-form-wrap">
+<label for="s" id="search-label">Buscar:</label>
+<input type="text" id="s" name="s" accesskey="4" value="" />
+<input type="hidden" name="stype" value="ajsearch" />
+<input type="submit" name="stype" value="Search" style="display:none;" class="b_search" />
+<span id="searchreset" title="Reset Search"></span>
+<span id="searchload"></span>
+</div>
+</form>
+
+                    </div>               
+   </div> 
+ </div>   <!-- header #end -->     <div id="wrapper" class="clearfix">  
+  		<div id="content" >
+         <div id="current-content">
+                 <div class="breadcrumb clearfix">
+        <a rel="nofollow" href="http://www.oert.org/en/">Home</a>  <a href="http://www.oert.org/en/category/part1/" title="View all posts in Theory">Theory</a>  <a href="http://www.oert.org/en/category/part1/part1-1/" title="View all posts in Letter">Letter</a>  Typographic classification        </div>
+             
+                       
+        <div class="single_post">
+        <h1 class="head">Typographic classification</h1>
+ 		  		                  <p class="post_info clearfix post_info_single"><span>Posted by <a href="http://www.oert.org/en/author/admin/" title="Posts by OERT" rel="author">OERT</a> - Apr 27, 2012 </span>
+                     <span class="i_cate"> <a href="http://www.oert.org/en/category/part1/part1-1/" title="View all posts in Letter" rel="category tag">Letter</a>, <a href="http://www.oert.org/en/category/part1/" title="View all posts in Theory" rel="category tag">Theory</a> </span>
+                      <span> <a href="http://www.oert.org/en/typographic-classification/#commentarea"  class="i_comment" ><fb:comments-count xmlns="http://ogp.me/ns/fb#" href="http://www.oert.org/en/typographic-classification/"></fb:comments-count> Comments </a></span>                      
+                      <a href="http://www.oert.org/en//?cat=22&amp;feed=rss2" class="i_rss">Receive Updates For This Category</a>
+                      
+                       </p>
+                       
+                       
+					              
+              
+              <div id="post-634" class="posts clearfix">               		               
+              		
+              		<!-- Templatic Article Tools #end -->
+              		
+              		              		
+              		<!-- Templatic Article Tools #end -->
+
+                      <p class="autor">Elaboración: Natalia Fernández</p>
+<p class="note">Artículo en proceso de traducción </p>
+<h3>Typographic classification</h3>
+<blockquote><p>«Those ambiguities, redundancies and deficiencies remind us of those Dr Fanz Kuhn attributes to a certain Chinese encyclopedia called Celestial Emporium of Benevolent Knowledge´s Taxonomy. In its remote pages it is written that the animals are divided into: (a) belonging to the emperor, (b) embalmed, (c) tame, (d) sucking pigs, (e) sirens, (f) fabulous, (g) stray dogs, (h) included in the present classification, (i) frenzied, (j) innumerable, (k) drawn with a very fine camelhair brush, (l) et cetera, (m) having just broken the water pitcher, (n) that from a long way off look like flies.».<cite>Jorge Luis Borges. “El idioma analítico de John Wilkins”, en <em>Otras Inquisiciones</em>, Buenos Aires, Emecé, 1996.</cite></p></blockquote>
+<p>from giving us several typographic , stylistic, historic, and cultural references. </p>
+<p>Classification systems based on historic criteria are useful to analyze typography designed up to the mid-20th century. It is useful to know them in order to understand the influence the merging of new technologies and the better use of ancient knowledge had on the evolution of typographic design, apart from being a great tool to strengthen historic associations or for the search of families in catalogues. There have been many attempts to establish a classification system capable of arranging the existing typographic styles. The main ones are:</p>
+<p><strong>1921 </strong>Francis Thibaudeau. He organizes his classification in 4 styles, basing it in the contrast of strokes and stems terminals.</p>
+<p><strong>1954 </strong>Maximilien Vox. He proposes a historic classification, this is one of the best known models. It includes 9 styles.</p>
+<p><strong>1958 </strong>Aldo Novarese. Based on the Thibadeau system, he establishes 10 styles differentiated depending on the morphology of terminals.</p>
+<p><strong>1962</strong> DIN 16518-ATypI (Association Typographique Internationale). It adopts and completes the system developed by Vox. (10 styles)</p>
+<p><strong>1963</strong> Giuseppe Pellitieri. He establishes a morphologic classification of 10 styles, based on the differences between strokes and terminals.</p>
+<p><strong>1965</strong> British Standards Institution (bs 2961 system) (9 styles)</p>
+<p><strong>1979</strong> Jean Alessandrini. He also bases his classification on morphologic characteristics. He establishes 15 different styles.</p>
+<p><strong>1992</strong> Christopher Perfect. He adopts a historic criterion to establish 7 styles.</p>
+<p><strong>1997</strong> Robert Bringhurst. He relates typographic styles to main artistic movements. He defines 8 styles.</p>
+<p>There are many ways to classify and many different classification systems, but regardless of the system we adopt, we have to know which things to analyze in typeface families in order to decide how to group them or how to separate them.</p>
+<h3>XVth Century</h3>
+<p><strong>1450 </strong>Johannes Gutenberg, in Germany, uses for the first time the movable type printing. The first lead types tried to imitate the calligraphy with which handwritten books were written.<br />
+<strong>1470. </strong>In Venice, type carvers took humanist writings as a model.</p>
+<h4>1470 Roman or Venetian Humanist</h4>
+<ul>
+<li>Gradual light contrast stroke. The modulation axis is oblique and very tilted.</li>
+<li>Short and thick terminals, oblique ascenders.</li>
+<li>Little or no difference between the heights of capitals and ascenders.</li>
+<li>Tilted &#8220;e&#8221; crossbar.</li>
+</ul>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/07/T05A-02_lin_rom-humanistas.jpg"><img class="alignnone size-full wp-image-813" title="Romanas humanistas" src="http://www.oert.org/wp-content/uploads/2012/07/T05A-02_lin_rom-humanistas.jpg" alt="Romanas humanistas" width="700" height="525" /></a></p>
+<h4>1490 Oldstyle Roman</h4>
+<ul>
+<li>Gradual medium contrast stroke and oblique modulation axis 	</li>
+<li>Light and sharp terminals, oblique ascenders and in lower case support.</li>
+<li>Capitals height is lower than that of ascenders.</li>
+<li>Horizontal “e” crossbar.</li>
+</ul>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/07/T05A-03_lin_rom-antiguas.jpg"><img class="alignnone size-full wp-image-814" title="Romanas antiguas" src="http://www.oert.org/wp-content/uploads/2012/07/T05A-03_lin_rom-antiguas.jpg" alt="Romanas antiguas" width="701" height="525" /></a></p>
+<h3>XVIth Century</h3>
+<p><strong>1501 </strong>Francesco Griffo carved the first italic characters at the request of Aldo Manuzio. The spreading of the printing press throughout Europe promoted the growth and improvement of characters design. Carving techniques and the craft of engraving types evolved allowing for finer and more precise corrections.</p>
+<h3>XVIIth Century</h3>
+<p><strong>1692 </strong>Louis XIV ordered an experts committee to develop a new type the characters of which had to be created based on scientific principles. The engineers who were summoned defined this type of letter with rigorous geometry; Louis Simonneau engraved the matrix on copper sheets and the typographer Grandjean engraved the moulds to reduce the master alphabet to the type of text which will be known as Romain du Roi (King’s Roman).</p>
+<h4> 1690 Transitional Roman</h4>
+<ul>
+<li>Gradual medium or high contrast stroke. The modulation axis is vertical or almost vertical.</li>
+<li>Light terminals, slightly oblique or horizontal ascenders and lower case support.</li>
+<li>Capitals height is lower that that of ascenders.</li>
+</ul>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/07/T05A-04_lin_rom-transicion.jpg"><img class="alignnone size-full wp-image-815" title="Romanas de transición" src="http://www.oert.org/wp-content/uploads/2012/07/T05A-04_lin_rom-transicion.jpg" alt="Romanas de transición" width="701" height="525" /></a></p>
+<h3>XVIIIth Century</h3>
+<p>Typography became a more formal discipline; the development of theoretical content is reflected by the number of typography manuals that were published at this time. </p>
+<p><strong>1700</strong> John Baskerville improved the press, the papers and the inks used for printing.</p>
+<p><strong>1764</strong> The Didots improved the system of typographic measurement.</p>
+<h4>1780 Modern Roman</h4>
+<ul>
+<li>Gradual high contrast stroke and vertical modulation axis.</li>
+<li>Filiform terminals.</li>
+</ul>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/07/T05A-05_lin_rom-modernas.jpg"><img class="alignnone size-full wp-image-816" title="Romanas modernas" src="http://www.oert.org/wp-content/uploads/2012/07/T05A-05_lin_rom-modernas.jpg" alt="Romanas modernas" width="701" height="525" /></a></p>
+<h3>XIXh Century</h3>
+<p>Industrial revolution brought about mass production. The advertising needed to sell those products demanded new kinds of more flamboyant letters. The invention of the pantograph carver made the development of new typographic designs more accessible. With the invention of linotype (in 1886) and monotype (in 1887), the composition of texts became a mechanic process.</p>
+<h4>1810 Mechanic or Egyptian</h4>
+<ul>
+<li>Uniform stroke (or gradual of little contrast and vertical modulation axis).</li>
+<li>Straight terminals, with the same(or almost the same) width as the stroke.</li>
+<li>High x height</li>
+</ul>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/07/T05A-06_lin_egipcias.jpg"><img class="alignnone size-full wp-image-817" title="Egipcias" src="http://www.oert.org/wp-content/uploads/2012/07/T05A-06_lin_egipcias.jpg" alt="Egipcias" width="701" height="525" /></a></p>
+<h4>1810 Grotesque Sans serif</h4>
+<ul>
+<li>Uniform stroke or with little contrast between thin and thick (vertical modulation).</li>
+<li> High x height.</li>
+<li>Slight squaring of curves.</li>
+</ul>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/07/T05A-07_lin_sans-grotescas.jpg"><img class="alignnone size-full wp-image-818" title="Grotescas" src="http://www.oert.org/wp-content/uploads/2012/07/T05A-07_lin_sans-grotescas.jpg" alt="Grotescas" width="701" height="525" /></a></p>
+<h3>XXh Century</h3>
+<p><strong>1954</strong> Commercial photocomposers began to be used. Typography can be superimposed and distorted. </p>
+<p><strong>1985</strong> Apple launched the Macintosh and the laser printer together with the first desktop publishing programs. With the Internet, digital typography working in the multimedia environments, added new dimensions to written language.</p>
+<h4>1920 Geometric Sans serif </h4>
+<ul>
+<li>Uniform stroke.</li>
+<li>Synthetic structures based on simple geometrical figures.</li>
+<li>Many times the «a» has no ascender stroke.</li>
+</ul>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/07/T05A-08_lin_sans-geo.jpg"><img class="alignnone size-full wp-image-819" title="Lineales geométricas" src="http://www.oert.org/wp-content/uploads/2012/07/T05A-08_lin_sans-geo.jpg" alt="Lineales geométricas" width="701" height="525" /></a></p>
+<h4>1920 Humanistic Sans serif</h4>
+<ul>
+<li>Uniform or slightly gradual stoke • Based on classic structures.</li>
+<li>Letter «a» has ascender lace.</li>
+<li>Generally the letter«g» has a closed tail and ear.</li>
+</ul>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/07/T05A-09_lin_sans-humanisticas.jpg"><img class="alignnone size-full wp-image-820" title="Lineales humanísticas" src="http://www.oert.org/wp-content/uploads/2012/07/T05A-09_lin_sans-humanisticas.jpg" alt="Lineales humanísticas" width="701" height="525" /></a></p>
+<h4>1930 Hybrids o glyphic</h4>
+<ul>
+<li>Gradual stroke.</li>
+<li>Based on classic structures.</li>
+<li>Triangular terminals, inspired on letters carved on stones.</li>
+</ul>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/07/T05A-10_lin_hibridas.jpg"><img class="alignnone size-full wp-image-821" title="Híbridas" src="http://www.oert.org/wp-content/uploads/2012/07/T05A-10_lin_hibridas.jpg" alt="Híbridas" width="701" height="526" /></a></p>
+<h4>1985 Electronic</h4>
+<p>The stroke and interletter space are based on the pixel to function on the screen. Each size needs a specific drawing.</p>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/07/T05A-11_lin_electronicas.jpg"><img class="alignnone size-full wp-image-822" title="Electrónicas" src="http://www.oert.org/wp-content/uploads/2012/07/T05A-11_lin_electronicas.jpg" alt="Electrónicas" width="701" height="526" /></a></p>
+<p>Let&#8217;s review other criteria for classifying fonts that are not based on historical periods, but rather in the arguments or evidence used to design inspiration. These fonts generally are not recommended for long or compose texts in small sizes. Some possible discussion groups for families who were excluded are:</p>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/07/T05A-01_cat-anacronicas.jpg"><img class="alignnone size-full wp-image-812" title="Anacrónicas" src="http://www.oert.org/wp-content/uploads/2012/07/T05A-01_cat-anacronicas.jpg" alt="Categorías anacrónicas" width="701" height="525" /></a></p>
+<p class="note">Note: This is only one of many possible classifications, and though there may be several points of view, none of them will disagree as to the characteristics of each typeface family, but only as to the way of assessing similarities and differences.</p>
+<div class="ref_box"><strong>Bibliography</strong></p>
+<ul>
+<li>MARTINEZ DE SOUSA, José. <em>Manual de edición y autoedición,</em> Ediciones Pirámide. 1999.</li>
+<li>HALLEY, Allan. <em>Hot designers make cool fonts.</em> Rockport Publishers. 1998.</li>
+<li>CEREZO, José María. <em>Diseñadores en la nebulosa.</em> Editorial Biblioteca Nueva. 1997.</li>
+<li>BLACKWELL, Lewis. <em>Tipografía del siglo xx. Remix.</em> Editorial Gustavo Gili. 1998.</li>
+<li>DE BUEN UNNA, Jorge. <em> Manual de diseño editorial. 3.ª edición, corregida y aumentada. </em>Trea Ediciones, España, 2009.</li>
+<li>GÁLVEZ PIZARRO, Francisco. <em>Educación tipográfica, una introducción a la tipografía,</em> Universidad Diego Portales, Chile, 2004.</li>
+<li>BRINGHURST, Robert. <em>Los elementos del estilo tipográfico,</em> Libros sobre libros / Fondo de Cultura Económica, México, 2008.</li>
+</ul>
+<p></p></div>
+<p class="icl_post_in_other_langs">Esta entrada también está disponible en: <a href="http://www.oert.org/clasificacion-tipografica/">Spanish</a></p>                   
+                  
+                  <div class="like_this_section clearfix">
+					<div class="google_like">
+					<g:plusone href="http://www.oert.org" size="medium"></g:plusone>
+					</div>	                  
+                     <div class="twitter_like">
+                     <a href="http://twitter.com/share" class="twitter-share-button" data-via="oert.org" data-lang="es" data-size="medium">Tweet</a>
+                     </div>
+                     <div class="fb_like">
+                     <fb:like href="http%3A%2F%2Fwww.oert.org%2Fen%2Ftypographic-classification%2F" layout="button_count" show_faces="false" width="450" height="30"></fb:like>
+                     </div>
+                     <div class="printfriendly"><a href="http://www.printfriendly.com/print?url=http://www.oert.org/en/typographic-classification/" rel="nofollow" onclick="window.print(); return false;"><img src="http://cdn.printfriendly.com/button-print-gry20.png" alt="Print Friendly" /></a></div>				</div> <!-- #end -->
+
+
+          				
+              </div> <!-- post #end -->
+              
+              
+               
+ 			<div class="post-navigation clearfix">
+                                                            <a class="post-prev" href="http://www.oert.org/en/typographic-anatomy/"><em>Previous post</em><span>Typographic anatomy</span></a>
+                                                                <a class="post-next" href="http://www.oert.org/en/latin-alphabet-proportions/"><em>Next post</em><span>Latin alphabet proportions</span></a>
+                                 </div>
+            
+            
+              </div> <!-- single post content #end -->
+          		<div class="realated_post clearfix">
+<h3>Related Posts</h3><ul class="realated_postlist clearfix">
+            <li class="clearfix"> 
+      
+     <h3> <a href="http://www.oert.org/en/text-image-dingbats-and-decorative-elements/">Text, image, dingbats and decorative elements</a></h3> 
+     <p class="date clearfix"> <span>April 27, 2012</span></p>
+     <p>Dingbats and decorative elements as elements of the typographic case. Function and types of dingbats and decorative elements. Double function: characters or image. Letters as images or characters. Relations.
+</p>
+            </li>
+                        <li class="clearfix"> 
+      
+     <h3> <a href="http://www.oert.org/en/design-and-morphological-operations-with-typography/">Design and morphological operations with typography</a></h3> 
+     <p class="date clearfix"> <span>April 27, 2012</span></p>
+     <p>Typeface family as a system. Aspects to be considered when designing a related group of characters: choosing the historical and cultural context, structural relations, stroke and terminal features. character weight and word color, distinctive characters and terminals. Axes for the construction of styles.</p>
+            </li>
+                        <li class="clearfix"> 
+      
+     <h3> <a href="http://www.oert.org/en/typographic-programs/">Typographic Programs</a></h3> 
+     <p class="date clearfix"> <span>April 27, 2012</span></p>
+     <p>System of systems. Typographic programs, serial families and super families. Construction criteria. Uses. Description of some programs.
+</p>
+            </li>
+                        <li class="clearfix"> 
+      
+     <h3> <a href="http://www.oert.org/en/typographic-styles/">Typographic styles</a></h3> 
+     <p class="date clearfix"> <span>April 27, 2012</span></p>
+     <p>Functions and convention in the use of styles. Traditional axes. Recognizing designed variants and the effects of digital distortion. Small capitals: character weight and line color.</p>
+            </li>
+            </ul>
+</div>
+		
+        
+          <div id="comments" class="clearfix"> 
+<div id="comments" class="comments-area">
+<div id="respond">
+<div class="fb-social-plugin fb-comments" id="commentform" data-href="http://www.oert.org/en/typographic-classification/" data-width="700"></div>
+</div></div>
+</div>
+          
+             </div>
+	<div id="dynamic-content"></div>        
+  </div> <!-- content #end -->
+<script type="text/javascript" language="javascript" >
+var root_path_js = 'http://www.oert.org/';
+</script>
+<script type="text/javascript" language="javascript" src="http://www.oert.org/wp-content/themes/WikiBase/library/js/article_detail.js" ></script>
+
+      <div id="lang_sel"  >
+    <ul>
+        <li><a href="#" class="lang_sel_sel icl-en">
+                            
+            <img  class="iclflag" src="http://www.oert.org/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png" alt="en" />                                
+            &nbsp;English</a>                                    
+            <ul>
+                                <li class="icl-es">          
+                    <a rel="alternate" hreflang="es" href="http://www.oert.org/clasificacion-tipografica/">
+                                    
+                    <img  class="iclflag" src="http://www.oert.org/wp-content/plugins/sitepress-multilingual-cms/res/flags/es.png" alt="es" />&nbsp;                    
+                                        Español                    </a>
+                </li>
+                            </ul>            
+             
+                    </li>
+    </ul>    
+</div>
+ <!-- selector de idiomas -->
+<div id="sidebar">
+	<div class="widget"><h3><span>Recursos</span></h3><div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-404" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-404"><a href="http://www.oert.org/en/the-project/">The project</a></li>
+<li id="menu-item-405" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-405"><a href="http://www.oert.org/en/the-authors/">The Authors</a></li>
+<li id="menu-item-406" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-406"><a href="http://www.oert.org/en/editorial-board/">Editorial Committee</a></li>
+<li id="menu-item-407" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-407"><a href="http://www.oert.org/en/the-team/">The Team</a></li>
+<li id="menu-item-408" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-408"><a href="http://www.oert.org/en/our-backers/">Our backers</a></li>
+<li id="menu-item-718" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-718"><a href="http://www.oert.org/en/faq/">FAQ</a></li>
+<li id="menu-item-409" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-409"><a href="http://www.oert.org/en/contact-us/">Contact us</a></li>
+</ul></div></div><div class="widget"><h3><span>Páginas</span></h3><div class="menu-main-menu-ingles-container"><ul id="menu-main-menu-ingles" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-404"><a href="http://www.oert.org/en/the-project/">The project</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-405"><a href="http://www.oert.org/en/the-authors/">The Authors</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-406"><a href="http://www.oert.org/en/editorial-board/">Editorial Committee</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-407"><a href="http://www.oert.org/en/the-team/">The Team</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-408"><a href="http://www.oert.org/en/our-backers/">Our backers</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-718"><a href="http://www.oert.org/en/faq/">FAQ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-409"><a href="http://www.oert.org/en/contact-us/">Contact us</a></li>
+</ul></div></div></div> <!-- sidebar right--> 
+<div id="bottom"></div>
+<script type='text/javascript' src='http://www.oert.org/wp-content/themes/WikiBase/library/js/jquery.simplemodal.js'></script>
+<script type='text/javascript' src='http://www.oert.org/wp-content/themes/WikiBase/library/js/basic.js'></script>
+<div id="basic-modal-content" class="clearfix" style="display:none;">
+<form name="send_to_frnd" id="send_to_frnd" action="http://www.oert.org/en/typographic-classification/" method="post" >
+<input type="hidden" id="send_to_Frnd_pid" name="pid" value="634" />
+<input type="hidden" name="sendact" value="email_frnd" />
+	<h3>Send To Friend</h3>
+    <p id="reply_send_success" class="sucess_msg" style="display:none;"></p>
+	<div class="row clearfix" ><label>Friend Name : <span>*</span></label><input name="to_name" id="to_name" type="text"  /><span id="to_nameInfo"></span></div>
+ 	<div class="row  clearfix" ><label> Email : <span>*</span></label><input name="to_email" id="to_email" type="text"  /><span id="to_emailInfo"></span></div>
+	<div class="row  clearfix" ><label>Your Name : <span>*</span></label><input name="yourname" id="yourname" type="text"  /><span id="yournameInfo"></span></div>
+ 	<div class="row  clearfix" ><label> Email : <span>*</span></label><input name="youremail" id="youremail" type="text"  /><span id="youremailInfo"></span></div>
+	<div class="row  clearfix" ><label>Subject : <span>*</span></label><input name="frnd_subject" value="About Typographic classification" id="frnd_subject" type="text"  /></div>
+	<div class="row  clearfix" ><label>Comments : <span>*</span></label>
+     <textarea name="frnd_comments" id="frnd_comments" cols="" rows="" >Hi there, do check out the information about this Article.</textarea></div>
+	<input name="Send" type="submit" value="Send " class="button " />
+</form>
+</div>
+<script type="text/javascript" src="http://www.oert.org/wp-content/themes/WikiBase/library/js/email_frnd_validation.js"></script>
+<!-- here -->   </div> <!-- wrapper #end -->
+  
+<div id="footer" class="clearfix">
+<div id="footer_in">
+<p class="copy"><a rel="license" href="http://creativecommons.org/licenses/by-sa/2.5/ar/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/2.5/ar/80x15.png" /></a> <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Open Educational Resources for Typography</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.oert.org/" property="cc:attributionName" rel="cc:attributionURL">OERT</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.5/ar/">Creative Commons Attribution-ShareAlike 2.5 Argentina License</a>.</p>
+<p class="fr"><span class="designby">Alojado en </span>
+<span class="wiroos"><a href="http://www.wiroos.com" title="Wiroos">Wiroos</a></span>
+</p>	
+</div></div> <!-- footer #end -->
+
+        <script type="text/javascript">
+          var pfHeaderImgUrl = '';
+          var pfHeaderTagline = '';
+          var pfdisableClickToDel = '0';
+          var pfHideImages = '0';
+          var pfImageDisplayStyle = 'right';
+          var pfDisableEmail = '0';
+          var pfDisablePDF = '0';
+          var pfDisablePrint = '0';
+          var pfCustomCSS = '';
+
+          // PrintFriendly
+          var e = document.createElement('script'); e.type="text/javascript";
+          e.src = 'http://cdn.printfriendly.com/printfriendly.js';
+          document.getElementsByTagName('head')[0].appendChild(e);
+      </script>
+<script type='text/javascript' src='http://www.oert.org/wp-content/themes/WikiBase/library/js/livesearch.js?ver=1'></script>
+<script type='text/javascript' src='http://www.oert.org/wp-content/themes/WikiBase/library/js/jquery.hoveraccordion.min.js?ver=1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var FB_WP=FB_WP||{};FB_WP.queue={_methods:[],flushed:false,add:function(fn){FB_WP.queue.flushed?fn():FB_WP.queue._methods.push(fn)},flush:function(){for(var fn;fn=FB_WP.queue._methods.shift();){fn()}FB_WP.queue.flushed=true}};window.fbAsyncInit=function(){FB.init({"channelUrl":"http:\/\/www.oert.org\/wp-content\/plugins\/facebook\/channel.php","xfbml":true,"appId":"285109618260716"});if(FB_WP && FB_WP.queue && FB_WP.queue.flush){FB_WP.queue.flush()}}
+/* ]]> */
+</script>
+<div id="fb-root"></div><script type="text/javascript">(function(d){var id="facebook-jssdk";if(!d.getElementById(id)){var js=d.createElement("script"),ref=d.getElementsByTagName("script")[0];js.id=id,js.async=true,js.src="http:\/\/connect.facebook.net\/es_ES\/all.js",ref.parentNode.insertBefore(js,ref)}})(document)</script>
+<script type='text/javascript' src=''></script>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27724959-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script><script type="text/javascript">
+	//<![CDATA[
+		function initBelle() {
+			Belle.AjaxURL		= "http://www.oert.org/en//?sajax=1"
+			// Initialize Livesearch
+			Belle.LiveSearch	= new LiveSearch( "Escribe y obten resultados al instante" )
+			}
+		jQuery(document).ready( function() { initBelle() })
+	//]]>
+	</script>
+<!-- LOAD JAVASCRIPT LATE - JUST BEFORE THE BODY TAG 
+		 That way the browser will have loaded the images
+	  	 and will know the width of the images. No need to
+		 specify the width in the CSS or inline. -->
+
+	<!-- jQuery library - Please load it from Google API's -->
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+
+	<!-- jQuery UI Widget and Effects Core (custom download)
+		 You can make your own at: http://jqueryui.com/download -->
+	<script src="http://www.oert.org/wp-content/themes/WikiBase/library/js/jquery-ui-1.8.18.custom.min.js" type="text/javascript"></script>
+	
+	<!-- Latest version of jQuery Mouse Wheel by Brandon Aaron
+		 You will find it here: http://brandonaaron.net/code/mousewheel/demos -->
+	<script src="http://www.oert.org/wp-content/themes/WikiBase/library/js/jquery.mousewheel.min.js" type="text/javascript"></script>
+
+	<!-- Smooth Div Scroll 1.2 minified-->
+	<script src="http://www.oert.org/wp-content/themes/WikiBase/library/js/jquery.smoothdivscroll-1.2-min.js" type="text/javascript"></script>
+
+	<!-- If you want to look at the uncompressed version you find it at
+		 js/jquery.smoothDivScroll-1.2.js -->
+
+	<!-- Plugin initialization -->
+	<script type="text/javascript">
+		jQuery(document).ready(function () {
+			jQuery("#logoParade").smoothDivScroll({
+				autoScrollingMode: "always",
+				autoScrollingDirection: "endlessloopright",
+				autoScrollingStep: 1,
+				autoScrollingInterval: 25 
+			});
+
+			// Logo parade
+			jQuery("#logoParade").bind("mouseover", function () {
+				jQuery(this).smoothDivScroll("stopAutoScrolling");
+			}).bind("mouseout", function () {
+				jQuery(this).smoothDivScroll("startAutoScrolling");
+			});
+
+		});
+		
+	</script>	
+	
+</body></html>

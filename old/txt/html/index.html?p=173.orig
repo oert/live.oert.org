@@ -1,0 +1,490 @@
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<title>
+  Programas tipográficos&nbsp;|&nbsp;OERT</title>
+
+<link rel="stylesheet" href="http://www.oert.org/wp-content/plugins/sitepress-multilingual-cms/res/css/language-selector.css?v=2.6.0" type="text/css" media="all" />
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="stylesheet" type="text/css" href="http://www.oert.org/wp-content/themes/WikiBase/style.css" media="screen" />
+<link rel="shortcut icon" type="image/png" href="http://www.oert.org/wp-content/uploads/favicon.ico" />
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.oert.org/feed/" />
+<link rel="pingback" href="http://www.oert.org/xmlrpc.php" />
+
+<link rel="stylesheet" type="text/css" href="http://www.oert.org/wp-content/themes/WikiBase/library/css/print.css" media="print" />
+<link rel="Stylesheet" type="text/css" href="http://www.oert.org/wp-content/themes/WikiBase/library/css/smoothDivScroll.css" />
+
+<script src="http://connect.facebook.net/es_ES/all.js#xfbml=1"></script>
+<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+<script src="https://apis.google.com/js/plusone.js" type="text/javascript"></script>
+
+
+ <link href="http://www.oert.org/wp-content/themes/WikiBase/custom.css" rel="stylesheet" type="text/css">
+<script language="javascript" type="text/javascript">
+	function hasClass(ele,cls) {
+	return ele.className.match(new RegExp('(\\s|^)'+cls+'(\\s|$)'));
+	}
+
+    function addClass(ele,cls) {
+    if (!this.hasClass(ele,cls)) ele.className += " "+cls;
+    }
+    function removeClass(ele,cls) {
+    if (hasClass(ele,cls)) {
+        var reg = new RegExp('(\\s|^)'+cls+'(\\s|$)');
+        ele.className=ele.className.replace(reg,' ');
+    }
+    }
+
+    function showHideDiv(sids,divids)
+    {
+		//alert(sids);
+		//alert(divids);
+        var divstyle = new String();
+		var spanstyle = new String();
+		var spansid = new String();
+		spansid = document.getElementById(sids);
+        divstyle = document.getElementById(divids).style.display;
+        if(divstyle.toLowerCase()=="block" || divstyle == "")
+        {
+            document.getElementById(divids).style.display = "none";
+			removeClass(spansid,'neg');
+			addClass(spansid,'pos');
+        }
+        else
+        {
+            document.getElementById(divids).style.display = "block";
+			removeClass(spansid,'pos');
+			addClass(spansid,'neg');
+        }
+    }
+    </script>
+    <script type="text/javascript">
+        $(document).ready( function() {
+            $('#menu-recursos').hoverAccordion({
+                keepHeight:true,
+                activateItem: 3,
+                speed: 400
+            });
+        });
+    </script>
+        
+<link rel="dns-prefetch" href="//connect.facebook.net" />
+<link rel="alternate" type="application/rss+xml" title="OERT &raquo; Programas tipográficos RSS de los comentarios" href="http://www.oert.org/programas-tipograficos/feed/" />
+<link rel='stylesheet' id='wpml-cms-nav-css-css'  href='http://www.oert.org/wp-content/plugins/wpml-cms-nav/res/css/navigation.css?ver=1.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='cms-navigation-style-base-css'  href='http://www.oert.org/wp-content/plugins/wpml-cms-nav/res/css/cms-navigation-base.css?ver=1.2.7' type='text/css' media='screen' />
+<link rel='stylesheet' id='cms-navigation-style-css'  href='http://www.oert.org/wp-content/plugins/wpml-cms-nav/res/css/cms-navigation.css?ver=1.2.7' type='text/css' media='screen' />
+<link rel='stylesheet' id='facebook-css'  href='http://www.oert.org/wp-content/plugins/facebook/static/css/style.min.css?ver=1.3.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.oert.org/wp-includes/js/jquery/jquery.js?ver=1.8.3'></script>
+<script type='text/javascript' src='http://www.oert.org/wp-content/themes/WikiBase/library/js/functions.js?ver=1'></script>
+<script type='text/javascript' src='http://www.oert.org/wp-includes/js/comment-reply.min.js?ver=3.5.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.oert.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.oert.org/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Diseño y operaciones morfológicas con tipografía' href='http://www.oert.org/diseno-y-operaciones-morfologicas-con-tipografia-2/' />
+<link rel='next' title='Variables tipográficas' href='http://www.oert.org/variables-tipograficas/' />
+<meta name="generator" content="WordPress 3.5.1" />
+<link rel='shortlink' href='http://www.oert.org/?p=173' />
+
+	<!-- This site uses Good Old Gallery, get it from http://wp.unwi.se/good-old-gallery -->
+
+        <style type="text/css" media="screen">
+          div.printfriendly {
+            margin: 0px 0px 0px 0px;;
+          }
+          div.printfriendly a, div.printfriendly a:link, div.printfriendly a:visited {
+            text-decoration: none;
+            font-size: 14px;
+            color: #99cc00;
+            vertical-align: bottom;
+            border: none;
+          }
+
+          .printfriendly a:hover {
+            cursor: pointer;
+          }
+
+          .printfriendly a img  {
+            border: none;
+            padding:0;
+            margin-right: 6px;
+            display:inline-block;
+            box-shadow: none;
+            -webkit-box-shadow: none;
+            -moz-box-shadow: none;
+          }
+          .printfriendly a span{
+            vertical-align: bottom;
+          }
+          .pf-alignleft {
+            float: left;
+          }
+          .pf-alignright {
+            float: right;
+          }
+          div.pf-aligncenter {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            text-align: center;
+          }
+        </style>
+        <style type="text/css" media="print">
+          .printfriendly {
+            display: none;
+          }
+        </style>
+<script type="text/javascript">var icl_lang = 'es';var icl_home = 'http://www.oert.org/';</script>
+<script type="text/javascript" src="http://www.oert.org/wp-content/plugins/sitepress-multilingual-cms/res/js/sitepress.js"></script>
+<meta name="generator" content="WPML ver:2.6.0 stt:2,1;0" />
+<link rel="alternate" hreflang="en_US" href="http://www.oert.org/en/typographic-programs/" />
+
+<style type="text/css">#lang_sel a, #lang_sel a.lang_sel_sel{color:#444444;}#lang_sel a:hover, #lang_sel a.lang_sel_sel:hover{color:#000000;}#lang_sel a.lang_sel_sel, #lang_sel a.lang_sel_sel:visited{background-color:#f5f4f2;}#lang_sel a.lang_sel_sel:hover{background-color:#eeeeee;}#lang_sel li ul a, #lang_sel li ul a:visited{color:#444444;}#lang_sel li ul a:hover{color:#000000;}#lang_sel li ul a, #lang_sel li ul a:link, #lang_sel li ul a:visited{background-color:#f5f4f2;}#lang_sel li ul a:hover{background-color:#eeeeee;}#lang_sel a, #lang_sel a:visited{border-color:#cdcdcd;} #lang_sel ul ul{border-top:1px solid #cdcdcd;}</style>
+
+<style type="text/css">#lang_sel  {width: 195px; margin-bottom:24px;}
+#lang_sel a {font-size:12px;}
+#lang_sel li {width:192px; }
+
+</style>		<link href="http://www.oert.org/wp-content/themes/WikiBase/skins/1-default.css" rel="stylesheet" type="text/css" />
+
+
+<link href='http://boakes.org/most-wanted?v=0.1.9v' />
+<link rel="canonical" href="http://www.oert.org/programas-tipograficos/"/>
+<meta property="og:site_name" content="OERT" />
+<meta property="og:type" content="article" />
+<meta property="og:locale" content="es_ES" />
+<meta property="fb:app_id" content="285109618260716" />
+<meta property="og:url" content="http://www.oert.org/programas-tipograficos/" />
+<meta property="og:title" content="Programas tipográficos" />
+<meta property="og:description" content="Sistema de sistemas. Programas tipográficos, familias seriales y superfamilias. Criterios de construcción. Utilidad. Descripción de algunos programas." />
+<meta property="article:published_time" content="2012-01-10T00:59:08+00:00" />
+<meta property="article:modified_time" content="2012-09-20T13:27:21+00:00" />
+<meta property="article:author" content="http://www.oert.org/author/admin/" />
+<meta property="article:section" content="Letra" />
+<meta property="article:tag" content="Teoría" />
+<meta property="og:image" content="http://www.oert.org/wp-content/uploads/2012/07/T06B_01-programa_univers.jpg" />
+<meta property="og:image:width" content="700" />
+<meta property="og:image:height" content="525" />
+</head>
+<body class="single single-post postid-173 single-format-standard">
+<div id="header">   
+<div id="header_in" class="clearfix">
+<div class="logo"> 
+   <div class="blog-title"><a href="http://www.oert.org//">OERT</a> 
+		
+		 <p class="blog-description">
+		  Open Educational Resources for Typography		</p>
+   </div> 
+   </div>
+                        <div class="header_right">
+        	<p>Última actualización: <span>April 7, 2013</span></p>
+                        <form method="get" id="searchform" action="http://www.oert.org">
+<div id="search-form-wrap">
+<label for="s" id="search-label">Buscar por:</label>
+<input type="text" id="s" name="s" accesskey="4" value="" />
+<input type="hidden" name="stype" value="ajsearch" />
+<input type="submit" name="stype" value="Search" style="display:none;" class="b_search" />
+<span id="searchreset" title="Reset Search"></span>
+<span id="searchload"></span>
+</div>
+</form>
+
+                    </div>               
+   </div> 
+ </div>   <!-- header #end -->     <div id="wrapper" class="clearfix">  
+  		<div id="content" >
+         <div id="current-content">
+                 <div class="breadcrumb clearfix">
+        <a rel="nofollow" href="http://www.oert.org">Home</a>  <a href="http://www.oert.org/category/parte1/" title="Ver todas las entradas en Teoría">Teoría</a>  <a href="http://www.oert.org/category/parte1/parte1-1/" title="Ver todas las entradas en Letra">Letra</a>  Programas tipográficos        </div>
+             
+                       
+        <div class="single_post">
+        <h1 class="head">Programas tipográficos</h1>
+ 		  		                  <p class="post_info clearfix post_info_single"><span>Posted by <a href="http://www.oert.org/author/admin/" title="Entradas de OERT" rel="author">OERT</a> - ene 10, 2012 </span>
+                     <span class="i_cate"> <a href="http://www.oert.org/category/parte1/parte1-1/" title="Ver todas las entradas en Letra" rel="category tag">Letra</a>, <a href="http://www.oert.org/category/parte1/" title="Ver todas las entradas en Teoría" rel="category tag">Teoría</a> </span>
+                      <span> <a href="http://www.oert.org/programas-tipograficos/#commentarea"  class="i_comment" ><fb:comments-count xmlns="http://ogp.me/ns/fb#" href="http://www.oert.org/programas-tipograficos/"></fb:comments-count> comentarios </a></span>                      
+                      <a href="http://www.oert.org/?cat=10&amp;feed=rss2" class="i_rss">Receive Updates For This Category</a>
+                      
+                       </p>
+                       
+                       
+					              
+              
+              <div id="post-173" class="posts clearfix">               		               
+              		
+              		<!-- Templatic Article Tools #end -->
+              		
+              		              		
+              		<!-- Templatic Article Tools #end -->
+
+                      <p class="autor">Elaboración: Marcela Romero</p>
+<blockquote><p>«Co­mo di­se­ña­dor de li­bros, he rea­li­za­do va­rios ejem­pla­res com­ple­jos en don­de de­bía uti­li­zar más de una ti­po­gra­fía con el pro­pó­si­to de cla­ri­ficar la in­for­ma­ción en el tex­to y ge­ne­ral­men­te, en esos ca­sos, lo más útil era to­mar una ti­po­gra­fía sans y una se­rif. No obs­tan­te el pro­ble­ma ra­di­ca­ba siem­pre en cuá­les ele­gir&#8230; Com­pren­dí que la me­jor re­la­ción en un tex­to era la re­la­ción de una ti­po­gra­fía se­rif y una sans que de­ri­va­ran una de la otra». <cite>Mar­tin Ma­joor, en “Mi filosofía del diseño tipográfico”, <em>Revista tipoGráfica 53.</em></cite></p></blockquote>
+<p>Es­te pro­ble­ma que pre­sen­ta Ma­joor y la so­lu­ción que pro­po­ne co­mo res­pues­ta pueden ser observados en va­rios ejem­plos concretos en el tiempo. A me­dia­dos de es­te si­glo, ya era co­mún el uso de la fo­to­com­po­si­ción, apa­re­cían los pri­me­ros or­de­na­do­res y las le­tras trans­fe­ri­bles. En ese con­tex­to, la ti­po­gra­fía Uni­vers (1954/57), di­se­ña­da por Adrián Fru­ti­ger pa­ra De­berny &amp; Peig­not, fue el pri­me­ro de esos programas. Fru­ti­ger pro­pu­so un mé­to­do de or­de­na­mien­to ra­cio­nal de la gran can­ti­dad de va­ria­bles que com­po­nían a es­ta fa­mi­lia, con va­ria­cio­nes de pe­so, an­cho y eje. En total, los sistemas que com­po­nen a es­te pro­gra­ma ti­po­grá­fi­co eran veintiuno.</p>
+<p>Más tar­de, el pro­gra­ma Uni­vers fue co­mer­cia­li­za­do por Mo­noty­pe Cor­po­ra­tion. Es­ta fa­mi­lia te­nía la pretensión de ser uni­ver­sal, adap­ta­ble a to­do ti­po de com­po­si­ción (li­no­ti­po, ti­pos mó­vi­les, fo­to­com­po­si­ción), al contar con ver­sio­nes di­se­ña­das pa­ra ca­da mé­to­do de im­pre­sión.</p>
+<p>Has­ta es­te mo­men­to no ha­bía exis­ti­do nun­ca una fa­mi­lia con un nú­me­ro tan ex­ten­so de va­ria­bles y el mo­do de pre­sen­ta­ción re­for­za­ba la idea pro­gra­má­ti­ca con que se ha­bían ge­ne­ra­do. Fru­ti­ger pro­pu­so aban­do­nar los tér­mi­nos «ne­gra», «es­tre­cha», etc. y reem­pla­zar­los por un sis­te­ma nu­mé­ri­co que es­ta­ble­cía las re­la­cio­nes en­tre las va­ria­bles.</p>
+<div id="attachment_781" class="wp-caption alignnone" style="width: 710px"><a href="http://www.oert.org/wp-content/uploads/2012/07/T06B_01-programa_univers.jpg"><img class="size-full wp-image-781" title="Programa: Univers" src="http://www.oert.org/wp-content/uploads/2012/07/T06B_01-programa_univers.jpg" alt="Programa: Univers" width="700" height="525" /></a><p class="wp-caption-text">El centro del sistema está en la Univers 55, equivalente al tipo estándar. El eje vertical muestra diferentes pesos del trazo (toda variable que comience con la misma decena tiene el mismo grosor). El eje horizontal organiza los anchos de los signos, desde los más anchos hasta los más estrechos, con sus respectivas versiones itálicas. Las unidades impares identifican a las redondas, las pares a las itálicas. Si se mira una columna del esquema se verá signos de igual ancho y eje y su color se irá incrementando al ensanchase el trazo.</p></div>
+<p>El pro­gra­ma Uni­vers per­mi­te al usua­rio ob­te­ner una am­plia ga­ma de con­tras­tes de co­lor, an­cho, in­cli­na­ción y pe­so pa­ra sa­tis­fa­cer las ne­ce­si­da­des de je­rar­qui­za­ción de un tex­to com­ple­jo den­tro de una so­la fa­mi­lia ti­po­grá­fi­ca.</p>
+<h3>Fa­mi­lias se­ria­les</h3>
+<p>Es­te nom­bre es pro­pues­to por Mu­riel Pa­ris en el Bre­ve Ma­nual de Com­po­si­ción Ti­po­grá­fi­ca (Pa­rís, 1999) pa­ra re­fe­rir­se a fa­mi­lias ti­po­grá­fi­cas con más de un es­ti­lo, co­mo lo son Ro­tis, Sto­ne, Lu­ci­da, The­sis, Of­fi­ci­na, Relato y Sca­la en­tre mu­chas otras.</p>
+<div id="attachment_1789" class="wp-caption alignnone" style="width: 710px"><a href="http://www.oert.org/wp-content/uploads/2012/01/T06B_02-familias_seriales1.jpg"><img class="size-full wp-image-1789" title="Familias seriales" src="http://www.oert.org/wp-content/uploads/2012/01/T06B_02-familias_seriales1.jpg" alt="Familias seriales" width="700" height="525" /></a><p class="wp-caption-text">Los contornos negros corresponden a variables con serif, los signos verdes a la sans serif.</p></div>
+<p>Hay cla­ros an­te­ce­den­tes de fa­mi­lias se­ria­les en la his­to­ria. Ale­jan­dro Lo Cel­so ci­ta al­gu­nos en su no­ta «La fa­mi­lia se­rial. Nue­va es­pe­cie en la flo­ra y fau­na ti­po­grá­fi­cas», pu­bli­ca­da en re­vis­ta ti­po­Grá­fi­ca nú­me­ro 47, co­mo el ca­so de Ro­mu­lus, de Jan van Krim­pen, crea­da pa­ra Ens­che­dé y Mo­noty­pe a co­mien­zos de la dé­ca­da del 30.</p>
+<p>Se­gún Lo Cel­so, las pri­me­ras se­ria­les con­tem­po­rá­neas son De­mos, de Ge­rard Un­ger, di­se­ña­da pa­ra la em­pre­sa ale­ma­na Hell en 1976. Consiste en una ti­po­gra­fía con se­rif y en 3 pe­sos, que con­tem­pla­ba la ba­ja re­so­lu­ción de las pan­ta­llas en ese mo­men­to. Al año si­guien­te, Hell im­ple­men­tó el uso de Pra­xis, una sans di­se­ña­da so­bre los mis­mos ele­men­tos bá­si­cos. Más tar­de se su­mó al pro­gra­ma Flora, una itá­li­ca. Si bien no fue­ron di­se­ña­das des­de su ori­gen co­mo una se­rial, fun­cio­nan co­mo tal.</p>
+<div id="attachment_783" class="wp-caption alignnone" style="width: 710px"><a href="http://www.oert.org/wp-content/uploads/2012/07/T06B_03-programa_hamburge.jpg"><img class="size-full wp-image-783" title="Programa: Rotis" src="http://www.oert.org/wp-content/uploads/2012/07/T06B_03-programa_hamburge.jpg" alt="Programa: Rotis" width="700" height="525" /></a><p class="wp-caption-text">Programa: Rotis, manufacturado por Agfa Compugraphic.</p></div>
+<h4>Lu­ci­da</h4>
+<p>El pro­gra­ma Lu­ci­da (1984) in­te­gra una sans y una se­rif, pen­sa­das pa­ra ser im­pre­sas sin deteriorarse en una im­pre­so­ra lá­ser de 300 dpi. Se han de­sa­rro­lla­do tam­bién en es­te pro­gra­ma al­fa­be­tos ma­te­má­ti­cos, fo­né­ti­cos o de sig­nos mo­noes­pa­cia­dos.</p>
+<div id="attachment_784" class="wp-caption alignnone" style="width: 710px"><a href="http://www.oert.org/wp-content/uploads/2012/07/T06B_04-programa_lucida.jpg"><img class="size-full wp-image-784" title="Programa: Lucida" src="http://www.oert.org/wp-content/uploads/2012/07/T06B_04-programa_lucida.jpg" alt="Programa: Lucida" width="700" height="525" /></a><p class="wp-caption-text">Lucida Sans (Kris Holmes y Charles Bigelow, 1984); 9, Lucida Regular, Itálica, Bold y Bold Itálica. Lucida presenta serifas robustas y formas sintéticas que resisten la erosión producida por la baja resolución de las impresoras de escritorio.</p></div>
+<h4>Ro­tis</h4>
+<p>Otl Ai­cher plan­teó en 1984 el pro­gra­ma Ro­tis, in­te­gra­do por 4 sis­te­mas: uno se­rif, uno sans y dos in­ter­me­dios (Ro­tis Se­rif –ro­ma­na–, Ro­tis Sans Se­rif –gro­tes­ca o de pa­lo se­co–, Ro­tis Se­mi Se­rif –se­mi ro­ma­na– y Ro­tis Se­mi Sans –se­mi gro­tes­ca). Las dos va­ria­bles hí­bri­das pre­sen­tan la tran­si­ción en­tre un sis­te­ma y otro, al mantener los ras­gos bá­si­cos. Es­te pro­gra­ma am­plió las po­si­bi­li­da­des de re­so­lu­ción de je­rar­quías den­tro de una mis­ma fa­mi­lia y fue uno de los pri­me­ros di­se­ños ti­po­grá­fi­cos di­gi­ta­les.</p>
+<h4>Sto­ne</h4>
+<p>Otro pro­gra­ma ti­po­grá­fi­co es Sto­ne, di­se­ña­do por Sum­mer Sto­ne en 1984/87, con 18 va­ria­bles que abar­can, ade­más del es­ti­lo, re­que­ri­mien­tos téc­ni­cos de re­pro­duc­ción, pa­ra re­sis­tir di­fe­ren­tes re­so­lu­cio­nes sin per­der le­gi­bi­li­dad.</p>
+<p>Sto­ne con­tie­ne tres sub­fa­mi­lias: se­rif, sans e in­for­mal, en ro­ma­na e itá­li­ca; y en tres co­lo­res: me­dium, se­mi­bold y bold.</p>
+<div id="attachment_785" class="wp-caption alignnone" style="width: 710px"><a href="http://www.oert.org/wp-content/uploads/2012/07/T06B_05-programa_stone.jpg"><img class="size-full wp-image-785" title="Programa: Stone" src="http://www.oert.org/wp-content/uploads/2012/07/T06B_05-programa_stone.jpg" alt="Programa: Stone" width="700" height="525" /></a><p class="wp-caption-text">Stone contiene tres subfamilias: serif, sans e informal, en romana e itálica; y en tres colores: medium, semibold y bold.</p></div>
+<h4>The­sis</h4>
+<p>Fue di­se­ña­da en 1994 por Lu­c(as) de Goot co­mo te­sis de gra­dua­ción de sus es­tu­dios uni­ver­si­ta­rios en Ho­lan­da. Es un pro­gra­ma ti­po­grá­fi­co que ofre­ce tres al­ter­na­ti­vas: The­sis The­Sans, The­Se­rif y The­Mix. Ca­da uno de es­tos tres sis­te­mas cuen­ta con ocho va­ria­bles de pe­so, ade­más de nú­me­ros ma­yús­cu­los y mi­nús­cu­los, sím­bo­los ma­te­má­ti­cos y misceláneas, lo que sumaba 144 fuen­tes en to­tal. Uno de sus ob­je­ti­vos fue crear un pro­gra­ma que pu­die­ra ser uti­li­za­do co­mo ti­po­gra­fía ins­ti­tu­cio­nal, de manera de resolver con una so­la fa­mi­lia to­da las ne­ce­si­da­des de co­mu­ni­ca­ción.</p>
+<div id="attachment_786" class="wp-caption alignnone" style="width: 710px"><a href="http://www.oert.org/wp-content/uploads/2012/07/T06B_06-programa_thesis.jpg"><img class="size-full wp-image-786" title="Programa: Thesis" src="http://www.oert.org/wp-content/uploads/2012/07/T06B_06-programa_thesis.jpg" alt="Programa: Thesis" width="700" height="525" /></a><p class="wp-caption-text">Thesis Serif, Thesis Mix y Thesis Sans, diseñadas por Luc(as) de Groot en un proceso que tomó 5 años.</p></div>
+<h4>Sca­la</h4>
+<p>Es­te pro­gra­ma in­clu­ye Sca­la Se­rif (1990), Sca­la Sans (1993) y Sca­la Je­wels (1996) y fue di­se­ña­do por el ho­lan­dés Mar­tin Ma­joor. Se ideó co­mo ti­po­gra­fía ins­ti­tu­cio­nal pa­ra el Vre­den­burg Mu­sic Cen­tre de Utrech. La se­rif tie­ne cla­ras in­fluen­cias de Bem­bo y la sans es un des­pren­di­mien­to de la se­rif. La Sca­la Je­wels con­tie­ne 4 va­ria­bles dis­play ba­sa­das en las ca­pi­ta­les de Sca­la Bold.</p>
+<p>Ma­joor ha di­se­ña­do también otras se­ria­les: Te­le­font (list y text) pa­ra que PTT (una com­pa­ñía te­le­fó­ni­ca ho­lan­de­sa) uti­li­ce en sus guías te­le­fó­ni­cas; y Se­ria (sans y se­rif) pen­sa­da pa­ra tex­tos li­te­ra­rios, de có­mo­da lec­tu­ra.</p>
+<div id="attachment_787" class="wp-caption alignnone" style="width: 710px"><a href="http://www.oert.org/wp-content/uploads/2012/07/T06B_07-programa_scala.jpg"><img class="size-full wp-image-787" title="Programa: Scala" src="http://www.oert.org/wp-content/uploads/2012/07/T06B_07-programa_scala.jpg" alt="Programa: Scala" width="700" height="525" /></a><p class="wp-caption-text">El dibujo de las estructuras de las versiones romanas e itálicas de Scala y Scala Sans permiten apreciar su parentesco estructural. Este sistema ha sido adopta¬do como tipografía de uso corriente en ediciones periódicas.</p></div>
+<p>En la actualidad son múltiples los proyectos tipográficos pensados como programas o familias seriales, dando respuesta a diferentes funciones y/o estilos.</p>
+<div class="ref_box"><strong>Bibliografía</strong></p>
+<ul>
+<li>MC LEAN, Ruari. <em>Manual tipográfico.</em> Tellus, Madrid, 1988.</li>
+<li>COPPOLA , N. y FONTANA , R.,<em> Apuntes de tipografía.</em> 1985.</li>
+<li>DE BUEN UNNA, Jorge. <em> Manual de diseño editorial. 3.ª edición, corregida y aumentada. </em>Trea Ediciones, España, 2009.</li>
+<li>LO CELSO, Alejandro, “La familia serial. Nueva especie en la flora y fauna tipográficas”, <em>Revista tipoGráfica 47.</em></li>
+<li>MAJOOR, Martin, “Mi filosofía del diseño tipográfico”, <em>Revista tipoGráfica 53.</em></li>
+</ul>
+<p></p></div>
+<p class="icl_post_in_other_langs">Esta entrada también está disponible en: <a href="http://www.oert.org/en/typographic-programs/">Inglés</a></p>                   
+                  
+                  <div class="like_this_section clearfix">
+					<div class="google_like">
+					<g:plusone href="http://www.oert.org" size="medium"></g:plusone>
+					</div>	                  
+                     <div class="twitter_like">
+                     <a href="http://twitter.com/share" class="twitter-share-button" data-via="oert.org" data-lang="es" data-size="medium">Tweet</a>
+                     </div>
+                     <div class="fb_like">
+                     <fb:like href="http%3A%2F%2Fwww.oert.org%2Fprogramas-tipograficos%2F" layout="button_count" show_faces="false" width="450" height="30"></fb:like>
+                     </div>
+                     <div class="printfriendly"><a href="http://www.printfriendly.com/print?url=http://www.oert.org/programas-tipograficos/" rel="nofollow" onclick="window.print(); return false;"><img src="http://cdn.printfriendly.com/button-print-gry20.png" alt="Print Friendly" /></a></div>				</div> <!-- #end -->
+
+
+          				
+              </div> <!-- post #end -->
+              
+              
+               
+ 			<div class="post-navigation clearfix">
+                                                            <a class="post-prev" href="http://www.oert.org/diseno-y-operaciones-morfologicas-con-tipografia-2/"><em>Previous post</em><span>Diseño y operaciones morfológicas con tipografía</span></a>
+                                                                <a class="post-next" href="http://www.oert.org/variables-tipograficas/"><em>Next post</em><span>Variables tipográficas</span></a>
+                                 </div>
+            
+            
+              </div> <!-- single post content #end -->
+          		<div class="realated_post clearfix">
+<h3>Related Posts</h3><ul class="realated_postlist clearfix">
+            <li class="clearfix"> 
+      
+     <h3> <a href="http://www.oert.org/familia-tipografica/">Familia tipográfica</a></h3> 
+     <p class="date clearfix"> <span>September 10, 2012</span></p>
+     <p>Definición. Familia como sistema. Componentes de la caja tipográfica. Variables tipográficas. Ejes de construcción de variables: históricos y contemporáneos. Revisión de aspectos que se mantienen y modifican en el sistema de variables.</p>
+            </li>
+                        <li class="clearfix"> 
+      
+     <h3> <a href="http://www.oert.org/mayusculas-minusculas-numeros-y-signos/">Mayúsculas, minúsculas, números y signos</a></h3> 
+     <p class="date clearfix"> <span>September 10, 2012</span></p>
+     <p>Origen, relaciones y connotaciones del sistema de mayúsculas y del de minúsculas. Relaciones verticales. Legibilidad de mayúsculas y minúsculas. Características formales y función de números. Signos de entonación, puntuación y auxiliares: forma y ubicación. Las fracciones.</p>
+            </li>
+                        <li class="clearfix"> 
+      
+     <h3> <a href="http://www.oert.org/anatomia-tipografica/">Anatomía tipográfica</a></h3> 
+     <p class="date clearfix"> <span>September 10, 2012</span></p>
+     <p>Partes de la letra: ubicación y definición.</p>
+            </li>
+                        <li class="clearfix"> 
+      
+     <h3> <a href="http://www.oert.org/proporciones-del-alfabeto-latino/">Proporciones del alfabeto latino</a></h3> 
+     <p class="date clearfix"> <span>September 10, 2012</span></p>
+     <p>Tecnología de producción y forma resultante. Mayúsculas trajanas y su conversión en modelo. Estructuras básicas y conformación de grupos de anchos comunes. Grupos por parentesco morfológico. Anchos históricos y contemporáneos.</p>
+            </li>
+            </ul>
+</div>
+		
+        
+          <div id="comments" class="clearfix"> 
+<div id="comments" class="comments-area">
+<div id="respond">
+<div class="fb-social-plugin fb-comments" id="commentform" data-href="http://www.oert.org/programas-tipograficos/" data-width="700"></div>
+</div></div>
+</div>
+          
+             </div>
+	<div id="dynamic-content"></div>        
+  </div> <!-- content #end -->
+<script type="text/javascript" language="javascript" >
+var root_path_js = 'http://www.oert.org/';
+</script>
+<script type="text/javascript" language="javascript" src="http://www.oert.org/wp-content/themes/WikiBase/library/js/article_detail.js" ></script>
+
+      <div id="lang_sel"  >
+    <ul>
+        <li><a href="#" class="lang_sel_sel icl-es">
+                            
+            <img  class="iclflag" src="http://www.oert.org/wp-content/plugins/sitepress-multilingual-cms/res/flags/es.png" alt="es" />                                
+            &nbsp;Español</a>                                    
+            <ul>
+                                <li class="icl-en">          
+                    <a rel="alternate" hreflang="en" href="http://www.oert.org/en/typographic-programs/">
+                                    
+                    <img  class="iclflag" src="http://www.oert.org/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png" alt="en" />&nbsp;                    
+                                        English                    </a>
+                </li>
+                            </ul>            
+             
+                    </li>
+    </ul>    
+</div>
+ <!-- selector de idiomas -->
+<div id="sidebar">
+	<div class="widget"><h3><span>Recursos</span></h3><div class="menu-recursos-container"><ul id="menu-recursos" class="menu"><li id="menu-item-2003" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2003"><a href="http://www.oert.org/category/parte1/">Teoría</a>
+<ul class="sub-menu">
+	<li id="menu-item-2004" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2004"><a href="http://www.oert.org/category/parte1/parte1-1/">Letra</a></li>
+	<li id="menu-item-2005" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2005"><a href="http://www.oert.org/category/parte1/parte1-2/">Texto</a></li>
+	<li id="menu-item-2006" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2006"><a href="http://www.oert.org/category/parte1/parte1-3/">Página</a></li>
+</ul>
+</li>
+<li id="menu-item-2007" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2007"><a href="http://www.oert.org/category/parte2/">Práctica</a>
+<ul class="sub-menu">
+	<li id="menu-item-2008" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2008"><a href="http://www.oert.org/category/parte2/parte2-1/">Letra</a></li>
+	<li id="menu-item-2009" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2009"><a href="http://www.oert.org/category/parte2/parte2-2/">Texto</a></li>
+	<li id="menu-item-2010" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2010"><a href="http://www.oert.org/category/parte2/parte2-3/">Página</a></li>
+</ul>
+</li>
+<li id="menu-item-2011" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2011"><a href="http://www.oert.org/category/parte3/">Historia</a></li>
+</ul></div></div><div class="widget"><h3><span>Páginas</span></h3><div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-37" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37"><a href="http://www.oert.org/el-proyecto/">El proyecto</a></li>
+<li id="menu-item-62" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-62"><a href="http://www.oert.org/los-autores/">Los autores</a></li>
+<li id="menu-item-63" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-63"><a href="http://www.oert.org/comite-editorial/">Comité Editorial</a></li>
+<li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36"><a href="http://www.oert.org/equipo-de-trabajo-2/">Equipo de trabajo</a></li>
+<li id="menu-item-38" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38"><a href="http://www.oert.org/apoyan-este-proyecto-2/">Apoyan este proyecto&#8230;</a></li>
+<li id="menu-item-568" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-568"><a href="http://www.oert.org/preguntas-frecuentes/">Preguntas Frecuentes</a></li>
+<li id="menu-item-39" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39"><a href="http://www.oert.org/contacto-2/">Contacto</a></li>
+</ul></div></div></div> <!-- sidebar right--> 
+<div id="bottom"></div>
+<script type='text/javascript' src='http://www.oert.org/wp-content/themes/WikiBase/library/js/jquery.simplemodal.js'></script>
+<script type='text/javascript' src='http://www.oert.org/wp-content/themes/WikiBase/library/js/basic.js'></script>
+<div id="basic-modal-content" class="clearfix" style="display:none;">
+<form name="send_to_frnd" id="send_to_frnd" action="http://www.oert.org/programas-tipograficos/" method="post" >
+<input type="hidden" id="send_to_Frnd_pid" name="pid" value="173" />
+<input type="hidden" name="sendact" value="email_frnd" />
+	<h3>Send To Friend</h3>
+    <p id="reply_send_success" class="sucess_msg" style="display:none;"></p>
+	<div class="row clearfix" ><label>Friend Name : <span>*</span></label><input name="to_name" id="to_name" type="text"  /><span id="to_nameInfo"></span></div>
+ 	<div class="row  clearfix" ><label> Correo electrónico : <span>*</span></label><input name="to_email" id="to_email" type="text"  /><span id="to_emailInfo"></span></div>
+	<div class="row  clearfix" ><label>Your Name : <span>*</span></label><input name="yourname" id="yourname" type="text"  /><span id="yournameInfo"></span></div>
+ 	<div class="row  clearfix" ><label> Correo electrónico : <span>*</span></label><input name="youremail" id="youremail" type="text"  /><span id="youremailInfo"></span></div>
+	<div class="row  clearfix" ><label>Asunto : <span>*</span></label><input name="frnd_subject" value="About Programas tipográficos" id="frnd_subject" type="text"  /></div>
+	<div class="row  clearfix" ><label>Comentarios : <span>*</span></label>
+     <textarea name="frnd_comments" id="frnd_comments" cols="" rows="" >Hi there, do check out the information about this Article.</textarea></div>
+	<input name="Send" type="submit" value="Send " class="button " />
+</form>
+</div>
+<script type="text/javascript" src="http://www.oert.org/wp-content/themes/WikiBase/library/js/email_frnd_validation.js"></script>
+<!-- here -->   </div> <!-- wrapper #end -->
+  
+<div id="footer" class="clearfix">
+<div id="footer_in">
+<p class="copy"><a rel="license" href="http://creativecommons.org/licenses/by-sa/2.5/ar/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/2.5/ar/80x15.png" /></a> <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Open Educational Resources for Typography</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.oert.org/" property="cc:attributionName" rel="cc:attributionURL">OERT</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.5/ar/">Creative Commons Attribution-ShareAlike 2.5 Argentina License</a>.</p>
+<p class="fr"><span class="designby">Alojado en </span>
+<span class="wiroos"><a href="http://www.wiroos.com" title="Wiroos">Wiroos</a></span>
+</p>	
+</div></div> <!-- footer #end -->
+
+        <script type="text/javascript">
+          var pfHeaderImgUrl = '';
+          var pfHeaderTagline = '';
+          var pfdisableClickToDel = '0';
+          var pfHideImages = '0';
+          var pfImageDisplayStyle = 'right';
+          var pfDisableEmail = '0';
+          var pfDisablePDF = '0';
+          var pfDisablePrint = '0';
+          var pfCustomCSS = '';
+
+          // PrintFriendly
+          var e = document.createElement('script'); e.type="text/javascript";
+          e.src = 'http://cdn.printfriendly.com/printfriendly.js';
+          document.getElementsByTagName('head')[0].appendChild(e);
+      </script>
+<script type='text/javascript' src='http://www.oert.org/wp-content/themes/WikiBase/library/js/livesearch.js?ver=1'></script>
+<script type='text/javascript' src='http://www.oert.org/wp-content/themes/WikiBase/library/js/jquery.hoveraccordion.min.js?ver=1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var FB_WP=FB_WP||{};FB_WP.queue={_methods:[],flushed:false,add:function(fn){FB_WP.queue.flushed?fn():FB_WP.queue._methods.push(fn)},flush:function(){for(var fn;fn=FB_WP.queue._methods.shift();){fn()}FB_WP.queue.flushed=true}};window.fbAsyncInit=function(){FB.init({"channelUrl":"http:\/\/www.oert.org\/wp-content\/plugins\/facebook\/channel.php","xfbml":true,"appId":"285109618260716"});if(FB_WP && FB_WP.queue && FB_WP.queue.flush){FB_WP.queue.flush()}}
+/* ]]> */
+</script>
+<div id="fb-root"></div><script type="text/javascript">(function(d){var id="facebook-jssdk";if(!d.getElementById(id)){var js=d.createElement("script"),ref=d.getElementsByTagName("script")[0];js.id=id,js.async=true,js.src="http:\/\/connect.facebook.net\/es_ES\/all.js",ref.parentNode.insertBefore(js,ref)}})(document)</script>
+<script type='text/javascript' src=''></script>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27724959-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script><script type="text/javascript">
+	//<![CDATA[
+		function initBelle() {
+			Belle.AjaxURL		= "http://www.oert.org/?sajax=1"
+			// Initialize Livesearch
+			Belle.LiveSearch	= new LiveSearch( "Escribe y obten resultados al instante" )
+			}
+		jQuery(document).ready( function() { initBelle() })
+	//]]>
+	</script>
+<!-- LOAD JAVASCRIPT LATE - JUST BEFORE THE BODY TAG 
+		 That way the browser will have loaded the images
+	  	 and will know the width of the images. No need to
+		 specify the width in the CSS or inline. -->
+
+	<!-- jQuery library - Please load it from Google API's -->
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+
+	<!-- jQuery UI Widget and Effects Core (custom download)
+		 You can make your own at: http://jqueryui.com/download -->
+	<script src="http://www.oert.org/wp-content/themes/WikiBase/library/js/jquery-ui-1.8.18.custom.min.js" type="text/javascript"></script>
+	
+	<!-- Latest version of jQuery Mouse Wheel by Brandon Aaron
+		 You will find it here: http://brandonaaron.net/code/mousewheel/demos -->
+	<script src="http://www.oert.org/wp-content/themes/WikiBase/library/js/jquery.mousewheel.min.js" type="text/javascript"></script>
+
+	<!-- Smooth Div Scroll 1.2 minified-->
+	<script src="http://www.oert.org/wp-content/themes/WikiBase/library/js/jquery.smoothdivscroll-1.2-min.js" type="text/javascript"></script>
+
+	<!-- If you want to look at the uncompressed version you find it at
+		 js/jquery.smoothDivScroll-1.2.js -->
+
+	<!-- Plugin initialization -->
+	<script type="text/javascript">
+		jQuery(document).ready(function () {
+			jQuery("#logoParade").smoothDivScroll({
+				autoScrollingMode: "always",
+				autoScrollingDirection: "endlessloopright",
+				autoScrollingStep: 1,
+				autoScrollingInterval: 25 
+			});
+
+			// Logo parade
+			jQuery("#logoParade").bind("mouseover", function () {
+				jQuery(this).smoothDivScroll("stopAutoScrolling");
+			}).bind("mouseout", function () {
+				jQuery(this).smoothDivScroll("startAutoScrolling");
+			});
+
+		});
+		
+	</script>	
+	
+</body></html>

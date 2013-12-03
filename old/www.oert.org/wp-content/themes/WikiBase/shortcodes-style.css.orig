@@ -1,0 +1,167 @@
+/*-----------------------------------------------------------------------------------*/
+/*   Shortcodes 
+/*-----------------------------------------------------------------------------------*/
+/* buttons --------------------  */
+#content p.alert {
+    background: url("images/i_alert.png") no-repeat scroll 12px 13px #FFD9C8;
+    border: 1px solid #F0BAA2;
+	padding: 15px 15px 15px 40px;
+	color:red;
+}
+#content p.alert br { display: none; }
+
+#content p.download {
+    background: url("images/i_download.png") no-repeat scroll 10px 13px #EDFCD5;
+	border: 1px solid #D4EBAF;
+	padding: 15px 15px 15px 35px;
+	color: #9C0;
+}
+#content p.info {
+    background: url("images/i_note2.png") no-repeat scroll 12px 13px #EEEEEE;
+    border : 1px solid #CCCCCC;
+	padding: 15px 15px 15px 40px;
+}
+
+#content p.autor {
+	background: url("images/i_autor.png") no-repeat scroll 12px 13px;
+    border: 1px solid #e5e5e5;
+    padding: 12px 15px 15px 38px;
+	color: #777;
+    font-size: 14px;	
+    line-height: 18px;
+    font-family: "Rosario";	
+}
+
+#content p.autor img {
+	position: absolute;
+	left:3px;
+	top:13px;
+    margin-right:10px;
+    float: left;
+}
+
+
+#content p.note {
+    background: url("images/i_info.png") no-repeat scroll 14px 13px #FEF6D2;
+    border: 1px solid #EFE3AE;
+	padding: 15px 15px 15px 40px;
+	color: #df7900;
+	/*font-size: inherit !important;*/
+}
+
+.small_button {  float:left; margin:0 15px 15px 0; }
+#content .small_button a { margin-left:15px; display:block; float:left; font:bold 14px Arial, Helvetica, sans-serif;  padding:9px 25px 9px 10px; color: #FFFFFF; text-shadow: 1px 1px 1px #333333; text-decoration: none;}
+hr { clear: both; padding:20px 0 0 0; height:1px; }
+
+#content .small_button a:hover {background-position: right -35px;}
+
+#content .red {background: url("images/b_red_l.png") no-repeat scroll left top transparent;}
+#content .red:hover {background-position: left -35px;}
+#content .red a {background: url("images/b_red_r.png") no-repeat scroll right top transparent;}
+
+#content .grey {background: url("images/b_grey_l.png") no-repeat scroll left top transparent;}
+#content .grey:hover {background-position: left -35px;}
+#content .grey a {background: url("images/b_grey_r.png") no-repeat scroll right top transparent; color: #666666; text-shadow: 1px 1px 1px #FFFFFF;}
+
+#content .black {background: url("images/b_black_l.png") no-repeat scroll left top transparent;}
+#content .black:hover {background-position: left -35px;}
+#content .black a {background: url("images/b_black_r.png") no-repeat scroll right top transparent;}
+
+#content .blue {background: url("images/b_blue_l.png") no-repeat scroll left top transparent;}
+#content .blue:hover {background-position: left -35px;}
+#content .blue a {background: url("images/b_blue_r.png") no-repeat scroll right top transparent;}
+
+#content .lightblue {background: url("images/b_lightblue_l.png") no-repeat scroll left top transparent;}
+#content .lightblue:hover {background-position: left -35px;}
+#content .lightblue a {background: url("images/b_lightblue_r.png") no-repeat scroll right top transparent;}
+
+#content .purple {background: url("images/b_purple_l.png") no-repeat scroll left top transparent;}
+#content .purple:hover {background-position: left -35px;}
+#content .purple a {background: url("images/b_purple_r.png") no-repeat scroll right top transparent;}
+
+#content .magenta {background: url("images/b_magenta_l.png") no-repeat scroll left top transparent;}
+#content .magenta:hover {background-position: left -35px;}
+#content .magenta a {background: url("images/b_magenta_r.png") no-repeat scroll right top transparent;}
+
+#content .green {background: url("images/b_green_l.png") no-repeat scroll left top transparent;}
+#content .green:hover {background-position: left -35px;}
+#content .green a {background: url("images/b_green_r.png") no-repeat scroll right top transparent;}
+
+#content .orange {background: url("images/b_orange_l.png") no-repeat scroll left top transparent;}
+#content .orange:hover {background-position: left -35px;}
+#content .orange a {background: url("images/b_orange_r.png") no-repeat scroll right top transparent;}
+
+#content .yellow {background: url("images/b_yellow_l.png") no-repeat scroll left top transparent;}
+#content .yellow:hover {background-position: left -35px;}
+#content .yellow a {background: url("images/b_yellow_r.png") no-repeat scroll right top transparent;}
+
+#content .pink {background: url("images/b_pink_l.png") no-repeat scroll left top transparent;}
+#content .pink:hover {background-position: left -35px;}
+#content .pink a {background: url("images/b_pink_r.png") no-repeat scroll right top transparent;}
+
+/* About Author --------------------  */
+#content .about_author  {  
+	background: none repeat scroll 0 0 #EEEEEE;
+    border: 1px solid #CCCCCC;
+    box-shadow: 1px 1px 1px #DDDDDD;
+    color: #444444;
+    text-shadow: 1px 1px 1px #FFFFFF;
+	border-radius: 10px 10px 10px 10px;
+    clear: both;
+    height: 100%;
+    margin: 20px 0;
+    overflow: hidden;
+    padding: 20px;
+}
+   
+#content .about_author img { float:left; margin:0 18px 15px 0; }
+#content .about_author h4 { margin-top:0; margin-bottom:5px; }
+#content .about_author br { display:none; }
+
+/* check list view --------------------  */
+#content .check_list ul {list-style:none; padding-left:0px; margin: 15px 0;}
+#content .check_list ul li { list-style:none; margin:0 0 8px 0; padding-left:25px; background: url("images/tick.png") no-repeat scroll left top transparent;}
+#content .check_list ul li ul  { margin:0; padding-left:15px; list-style:none; }
+#content .check_list ul li ul li  { margin:8px 0 8px 0 ; }
+
+/* boxes --------------------  */
+#content .boxes  {   height:100%; overflow:hidden; padding:20px; margin:20px 0; 
+-webkit-border-radius: 10px; -khtml-border-radius: 10px; -moz-border-radius: 10px; box-shadow: 1px 1px 1px #DDDDDD; color: #444444; text-shadow: 1px 1px 1px #FFFFFF; }
+#content .boxes h3 { margin:0;  }
+#content .boxes br { display:none; }
+.small { width:21%; float:left; margin:0 20px 20px 0 !important; }
+#content .warning_box, #content .download_box, #content .info_box, 
+#content .about_box, #content .alert_box { padding-left:85px; } 
+#content .normal_box {background: none repeat scroll 0 0 #F4F4F4; border: 1px solid #D7D7D7;}
+#content .warning_box {background: url("images/box_warning.png") no-repeat scroll 13px 18px #FDE3E3; border: 1px solid #DBA7A7;}
+#content .download_box {background: url("images/box_download.png") no-repeat scroll 13px 13px #D8F3D1; border: 1px solid #7AB16B;}
+#content .about_box {background: url("images/box_about.png") no-repeat scroll 13px 13px #E5EBFF; border: 1px solid #A4ADC9;}
+#content .info_box {background: url("images/box_info.png") no-repeat scroll 13px 13px #DDF4FF; border: 1px solid #8EC1D8;}  
+#content .alert_box {background: url("images/box_alert.png") no-repeat scroll 13px 13px #FFFDDF; border: 1px solid #DFB150;}
+.entry p.dropcaps {  padding:20px 10px 0 0;  }
+.entry p.dropcaps:first-letter { font-size:40px; float:left; margin-right:8px; margin-top:5px; line-height:35px;  } 
+#content .ref_box {border-top: 1px solid #DDD; height:100%; overflow:hidden; padding:20px; margin:20px 0;}  
+
+
+/* content columns define ----------- */
+.two_thirds { width:60%; padding:0 50px 0 0; }
+.two_thirds_last { width:62%;  }
+.clear_spacer { clear:both; width:100%; }
+
+.one_half_column, .one_third_column, .one_third_column_last, .one_fourth_column, .one_fourth_column_last { margin-bottom:30px; }
+.one_half_column { width:45%;  }
+.one_third_column { width:30%; padding:0 50px 0 0;  }
+.one_third_column_last { width:29%;   }
+.one_fourth_column { width:20%; padding:0 60px 0 0; }
+.one_fourth_column_last { width:20%;  }
+
+.one_half_column br, .one_third_column br, .one_third_column_last br, .one_fourth_column br, .one_fourth_column_last br, .two_thirds_last br, .two_thirds br { display:none; }
+.entry .one_half_column h3, .two_thirds h3, .two_thirds_last h3, .entry .one_third_column h3, .entry .one_third_column_last h3,
+.entry .one_fourth_column h3, .entry .one_fourth_column_last h3,
+.entry .one_half_column h4, .two_thirds h4, .two_thirds_last h4, .entry .one_third_column h4, .entry .one_third_column_last h4,
+.entry .one_fourth_column h4, .entry .one_fourth_column_last h4,
+.entry .one_half_column h5, .two_thirds h5, .two_thirds_last h5, .entry .one_third_column h5, .entry .one_third_column_last h5,
+.entry .one_fourth_column h5, .entry .one_fourth_column_last h5,
+.entry .one_half_column h6, .two_thirds h6, .two_thirds_last h6, .entry .one_third_column h6, .entry .one_third_column_last h6,
+.entry .one_fourth_column h6, .entry .one_fourth_column_last h6
+{ margin-top:0;  }

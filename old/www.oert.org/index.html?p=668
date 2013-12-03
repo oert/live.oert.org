@@ -1,0 +1,497 @@
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<title>
+  Family classification, selection, and combination.&nbsp;|&nbsp;OERT</title>
+
+<link rel="stylesheet" href="wp-content/plugins/sitepress-multilingual-cms/res/css/language-selector.css?v=2.6.0" type="text/css" media="all" />
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="stylesheet" type="text/css" href="wp-content/themes/WikiBase/style.css" media="screen" />
+<link rel="shortcut icon" type="image/png" href="wp-content/uploads/favicon.ico" />
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="en/index.html?cat=&amp;feed=rss2" />
+<link rel="pingback" href="xmlrpc.php" />
+
+<link rel="stylesheet" type="text/css" href="wp-content/themes/WikiBase/library/css/print.css" media="print" />
+<link rel="Stylesheet" type="text/css" href="wp-content/themes/WikiBase/library/css/smoothDivScroll.css" />
+
+<script src="http://connect.facebook.net/es_ES/all.js#xfbml=1"></script>
+<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+<script src="https://apis.google.com/js/plusone.js" type="text/javascript"></script>
+
+
+ <link href="wp-content/themes/WikiBase/custom.css" rel="stylesheet" type="text/css">
+<script language="javascript" type="text/javascript">
+	function hasClass(ele,cls) {
+	return ele.className.match(new RegExp('(\\s|^)'+cls+'(\\s|$)'));
+	}
+
+    function addClass(ele,cls) {
+    if (!this.hasClass(ele,cls)) ele.className += " "+cls;
+    }
+    function removeClass(ele,cls) {
+    if (hasClass(ele,cls)) {
+        var reg = new RegExp('(\\s|^)'+cls+'(\\s|$)');
+        ele.className=ele.className.replace(reg,' ');
+    }
+    }
+
+    function showHideDiv(sids,divids)
+    {
+		//alert(sids);
+		//alert(divids);
+        var divstyle = new String();
+		var spanstyle = new String();
+		var spansid = new String();
+		spansid = document.getElementById(sids);
+        divstyle = document.getElementById(divids).style.display;
+        if(divstyle.toLowerCase()=="block" || divstyle == "")
+        {
+            document.getElementById(divids).style.display = "none";
+			removeClass(spansid,'neg');
+			addClass(spansid,'pos');
+        }
+        else
+        {
+            document.getElementById(divids).style.display = "block";
+			removeClass(spansid,'pos');
+			addClass(spansid,'neg');
+        }
+    }
+    </script>
+    <script type="text/javascript">
+        $(document).ready( function() {
+            $('#menu-recursos').hoverAccordion({
+                keepHeight:true,
+                activateItem: 3,
+                speed: 400
+            });
+        });
+    </script>
+        
+<link rel="dns-prefetch" href="http://connect.facebook.net/" />
+<link rel="alternate" type="application/rss+xml" title="OERT &raquo; Family classification, selection, and combination. Comments Feed" href="en/family-classification-selection-and-combination/feed/index.html" />
+<link rel='stylesheet' id='wpml-cms-nav-css-css'  href='wp-content/plugins/wpml-cms-nav/res/css/navigation.css?ver=1.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='cms-navigation-style-base-css'  href='wp-content/plugins/wpml-cms-nav/res/css/cms-navigation-base.css?ver=1.2.7' type='text/css' media='screen' />
+<link rel='stylesheet' id='cms-navigation-style-css'  href='wp-content/plugins/wpml-cms-nav/res/css/cms-navigation.css?ver=1.2.7' type='text/css' media='screen' />
+<link rel='stylesheet' id='facebook-css'  href='wp-content/plugins/facebook/static/css/style.min.css?ver=1.3.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.oert.org/wp-includes/js/jquery/jquery.js?ver=1.8.3'></script>
+<script type='text/javascript' src='wp-content/themes/WikiBase/library/js/functions.js?ver=1'></script>
+<script type='text/javascript' src='http://www.oert.org/wp-includes/js/comment-reply.min.js?ver=3.5.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.oert.org/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Basic concepts' href='index.html?p=667' />
+<link rel='next' title='Text, image, dingbats and decorative elements' href='index.html?p=666' />
+<meta name="generator" content="WordPress 3.5.1" />
+<link rel='shortlink' href='index.html?p=668' />
+
+	<!-- This site uses Good Old Gallery, get it from http://wp.unwi.se/good-old-gallery -->
+
+        <style type="text/css" media="screen">
+          div.printfriendly {
+            margin: 0px 0px 0px 0px;;
+          }
+          div.printfriendly a, div.printfriendly a:link, div.printfriendly a:visited {
+            text-decoration: none;
+            font-size: 14px;
+            color: #99cc00;
+            vertical-align: bottom;
+            border: none;
+          }
+
+          .printfriendly a:hover {
+            cursor: pointer;
+          }
+
+          .printfriendly a img  {
+            border: none;
+            padding:0;
+            margin-right: 6px;
+            display:inline-block;
+            box-shadow: none;
+            -webkit-box-shadow: none;
+            -moz-box-shadow: none;
+          }
+          .printfriendly a span{
+            vertical-align: bottom;
+          }
+          .pf-alignleft {
+            float: left;
+          }
+          .pf-alignright {
+            float: right;
+          }
+          div.pf-aligncenter {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            text-align: center;
+          }
+        </style>
+        <style type="text/css" media="print">
+          .printfriendly {
+            display: none;
+          }
+        </style>
+<script type="text/javascript">var icl_lang = 'en';var icl_home = 'http://www.oert.org/en/';</script>
+<script type="text/javascript" src="wp-content/plugins/sitepress-multilingual-cms/res/js/sitepress.js"></script>
+<meta name="generator" content="WPML ver:2.6.0 stt:1,2;0" />
+<link rel="alternate" hreflang="es_ES" href="index.html?p=167" />
+
+<style type="text/css">#lang_sel a, #lang_sel a.lang_sel_sel{color:#444444;}#lang_sel a:hover, #lang_sel a.lang_sel_sel:hover{color:#000000;}#lang_sel a.lang_sel_sel, #lang_sel a.lang_sel_sel:visited{background-color:#f5f4f2;}#lang_sel a.lang_sel_sel:hover{background-color:#eeeeee;}#lang_sel li ul a, #lang_sel li ul a:visited{color:#444444;}#lang_sel li ul a:hover{color:#000000;}#lang_sel li ul a, #lang_sel li ul a:link, #lang_sel li ul a:visited{background-color:#f5f4f2;}#lang_sel li ul a:hover{background-color:#eeeeee;}#lang_sel a, #lang_sel a:visited{border-color:#cdcdcd;} #lang_sel ul ul{border-top:1px solid #cdcdcd;}</style>
+
+<style type="text/css">#lang_sel  {width: 195px; margin-bottom:24px;}
+#lang_sel a {font-size:12px;}
+#lang_sel li {width:192px; }
+
+</style>		<link href="wp-content/themes/WikiBase/skins/1-default.css" rel="stylesheet" type="text/css" />
+
+
+<link href='http://boakes.org/most-wanted?v=0.1.9v' />
+<link rel="canonical" href="index.html?p=668"/>
+<meta property="og:site_name" content="OERT" />
+<meta property="og:type" content="article" />
+<meta property="og:locale" content="es_ES" />
+<meta property="fb:app_id" content="285109618260716" />
+<meta property="og:url" content="http://www.oert.org/en/family-classification-selection-and-combination/" />
+<meta property="og:title" content="Family classification, selection, and combination." />
+<meta property="og:description" content="Different typeface classifications. Uses. Criteria of selection based on function and/or style. Combination criteria. Aspects to be considered when combining. Combinations and the design piece. Legibility and reading conditions." />
+<meta property="article:published_time" content="2012-04-27T05:55:25+00:00" />
+<meta property="article:modified_time" content="2012-10-30T15:09:41+00:00" />
+<meta property="article:author" content="http://www.oert.org/en/author/admin/" />
+<meta property="article:section" content="Text" />
+<meta property="article:tag" content="Theory" />
+</head>
+<body class="single single-post postid-668 single-format-standard">
+<div id="header">   
+<div id="header_in" class="clearfix">
+<div class="logo"> 
+   <div class="blog-title"><a href="en/index.html">OERT</a> 
+		
+		 <p class="blog-description">
+		  Open Educational Resources for Typography		</p>
+   </div> 
+   </div>
+                        <div class="header_right">
+        	<p>Última actualización: <span>April 7, 2013</span></p>
+                        <form method="get" id="searchform" action="en/index.html">
+<div id="search-form-wrap">
+<label for="s" id="search-label">Buscar:</label>
+<input type="text" id="s" name="s" accesskey="4" value="" />
+<input type="hidden" name="stype" value="ajsearch" />
+<input type="submit" name="stype" value="Search" style="display:none;" class="b_search" />
+<span id="searchreset" title="Reset Search"></span>
+<span id="searchload"></span>
+</div>
+</form>
+
+                    </div>               
+   </div> 
+ </div>   <!-- header #end -->     <div id="wrapper" class="clearfix">  
+  		<div id="content" >
+         <div id="current-content">
+                 <div class="breadcrumb clearfix">
+        <a rel="nofollow" href="en/index.html">Home</a>  <a href="en/category/part1/index.html" title="View all posts in Theory">Theory</a>  <a href="en/category/part1/part1-2/index.html" title="View all posts in Text">Text</a>  Family classification, selection, and combination.        </div>
+             
+                       
+        <div class="single_post">
+        <h1 class="head">Family classification, selection, and combination.</h1>
+ 		  		                  <p class="post_info clearfix post_info_single"><span>Posted by <a href="en/author/admin/index.html" title="Posts by OERT" rel="author">OERT</a> - Apr 27, 2012 </span>
+                     <span class="i_cate"> <a href="en/category/part1/part1-2/index.html" title="View all posts in Text" rel="category tag">Text</a>, <a href="en/category/part1/index.html" title="View all posts in Theory" rel="category tag">Theory</a> </span>
+                      <span> <a href="index.html?p=668#commentarea"  class="i_comment" ><fb:comments-count xmlns="http://ogp.me/ns/fb#" href="http://www.oert.org/en/family-classification-selection-and-combination/"></fb:comments-count> Comments </a></span>                      
+                      <a href="en/index.html?cat=23&amp;feed=rss2" class="i_rss">Receive Updates For This Category</a>
+                      
+                       </p>
+                       
+                       
+					              
+              
+              <div id="post-668" class="posts clearfix">               		               
+              		
+              		<!-- Templatic Article Tools #end -->
+              		
+              		              		
+              		<!-- Templatic Article Tools #end -->
+
+                      <p class="autor">Created by: Pablo Cosgaya, Marcela Romero &#8211; Supervised by: Natalia Pano</p>
+<h3>Family classification</h3>
+<p class="note">Artículo en proceso de traducción </p>
+<p>A rational approach to the study of the great variety of existing families implies minimal notions of classification systems. First it is necessary to know the characteristics of the families available in detail. It is not convenient to indiscriminately collect a large number of families with an origin or quality difficult for us to define. Once we have observed them and know them in detail, we can arrange them in our file, keeping in mind some of the best known classification systems. In the Design, Typography and Graphic Arts Dictionary, José Martínez de Sousa mentions twenty three different typographic classification systems. Among them, we can mention:</p>
+<ul>
+<li>The Thibaudeau system (developed between 1920 and 1924), that presents four styles: romans (oldstyle and modern), Egyptian, sans serif and of writing and fantasy. This system is the simplest of all and does not give room to confusions.</li>
+<li>The Vox-ATypI (developed by Maximilien Vox and adopted by the International Typographical Union in 1964) presents 9 styles: handwritten, humanistic, garaldes (contraction of Garamond and Aldus), real (or transitional), didone (contraction of Didot and Bidoni), Egyptian, linear, incised and script.</li>
+<li>Other systems, such as the one by Aldo Novarese, the one by Andrea Pellitteri and the one by Jean Alessandrini, though they are not as popular as the two mentioned above.</li>
+</ul>
+<p>Each system adopts classification criteria that unfortunately are not homogeneous: historic criteria (oldstyle, transitional, modern) coexists with formal criteria (serif, sans serif, geometric), functional (text, fantasy, labeling) or with those referred to production technology (incised, script, handwritten, calligraphic). Problems in nomenclature and weakness to include newly designed families, experimental families, or multi-style families into the system’s categories, to mention some of the most outstanding cases, make the classification task more complex, and let us conclude that there is not an efficient system to classify all the existing families. It is important to bear in mind that the most important systems (Thibaudeau, 1924; Vox-ATypI, 1964) were elaborated before the irruption of the desktop publishing software, i.e., before the design and development of a large part of contemporary families. </p>
+<p>So what criteria should we follow?) Why should we learn these concepts? Knowing the systems and the criteria that regulate them allows us to put some order in the search, selection and filing of the available families. It helps us find similar families to replace those for which we have no fonts available. It is also important to know the systems because some of the criteria used in classification systems constitute cultural and historic traditions shared by readers from all times.</p>
+<div id="attachment_1461" class="wp-caption alignnone" style="width: 711px"><a href="wp-content/uploads/2012/08/T03A_01_vox.jpg"><img class="size-full wp-image-1461" title="La clasificación Vox" src="wp-content/uploads/2012/08/T03A_01_vox.jpg" alt="La clasificación Vox" width="701" height="526" /></a><p class="wp-caption-text">La clasificación del francés Maximilien Vox (1954) busca las semejanzas de los tipos en función de la similitud de sus trazos. En 1964, la Asociación Tipográfica Internacional adoptó este sistema, por lo que desde entonces se lo conoce como sistema Vox-ATypI.</p></div>
+<h3>Typeface family selection</h3>
+<p>The typographic choice is a fundamental decision in any piece of communication design. It must adjust itself to the characteristics of the contact (both in meaning and in structure) and to the intention with which the project is devised. Before choosing a family, we can ask ourselves some questions in order to direct the work: </p>
+<ul>
+<li>Do we need a typeface to compose reading texts, promotional posters or edition titles? Do we need variables? </li>
+<li>Is the text educational, informative, promotional, for amusement purposes or experimental? If educational, for which level of education? elementary school, high school or university?</li>
+<li>Which will be our target audience? Formal or informal? Age? Preferences?</li>
+<li>Must the appearance of the piece be traditional or modern? Does it belong to a definite style?</li>
+<li>What kind of printed material will it be? (a poster, a package, a book, a magazine, television?</li>
+<li>Which will be the printing method and the paper quality? Will it be printed in color?</li>
+</ul>
+<p>From the point of view of meaning, an adequate choice of typeface family can help express states of mind, emotions, or associations to certain institutions, products, lifestyles, or historic periods, as needed. We should not let only our personal taste lead us, it is important to imagine the effect the chosen family will have on the reader. </p>
+<p>We can also choose a family based on the relation it establishes with the images that will surround it, or if it is a long text, based on its performance, i.e., the number of characters that fit in a page. We should not forget that not only the typeface selection but also the kind of typographic composition of the piece will have an influence on the result.</p>
+<div id="attachment_1463" class="wp-caption alignnone" style="width: 710px"><a href="wp-content/uploads/2012/09/T03A_04_ill.jpg"><img class="size-full wp-image-1463" title="Serif y sans serif" src="wp-content/uploads/2012/09/T03A_04_ill.jpg" alt="Serif y sans serif" width="700" height="525" /></a><p class="wp-caption-text">¿Serif o sanserif? En el ejemplo de la izquierda (Arial, 72 pt), es imposible saber si dice «ciento once», «tres» o la palabra inglesa «Ill» (enfermo). A la derecha: la misma palabra compuesta en Georgia 72 pt. (Del Manual de tipografía de Ruari Mc Lean).</p></div>
+<h3>Family combination</h3>
+<p>In order to combine families it is necessary to define guidelines, criteria and arguments, as there are no too precise recipes as to this. An intuitive typeface combination frequently offers surprising and novel solutions.</p>
+<p>Some criteria to bear in mind: </p>
+<ul>
+<li>AChoosing the simple combination of one type to compose the text and another for the titles, or to combine several families throughout the whole work, knowing that we will have to make some adjustments in space (interletter and leading), size (type size corrections between one family and the other to compensate for the difference in x height) and weight, correcting optical irregularities in words and lines of text.</li>
+<li>Controlling typographic color of blocks and being careful as to general presentation, respecting the hierarchy of each element.</li>
+<li>Keeping in mind that using alternatively more that two typeface styles in a same project could be visually confusing or tiring for the reader.</li>
+<li>To not be limited only by the relation between alphabetic characters: a relationship between letters from one style and numbers and signs from another can be created. It is highly advisable to know in depth each typeface family.</li>
+<li>Finally, verifying if the selected combination works or if the same results may be obtained with variations in width of the type page, in type size, in spacing and in the use of variables (color, structure).</li>
+</ul>
+<div id="attachment_1464" class="wp-caption alignnone" style="width: 710px"><a href="wp-content/uploads/2012/09/T03A_02_fantasia.jpg"><img class="size-full wp-image-1464" title="Letras de fantasía" src="wp-content/uploads/2012/09/T03A_02_fantasia.jpg" alt="Letras de fantasía" width="700" height="525" /></a><p class="wp-caption-text">Las familias de fantasía están basadas en motivos arquitectónicos, decorativos, antropomórficos, etcétera. Su uso se limita a capitulares o palabras cortas, pero nunca se emplean para componer textos. Alumnos (de arriba a abajo, de izquierda a derecha): Daniela Raskobsky, Mariana De Mattia, Luciano Costilla, Martín De Marchi</p></div>
+<p>&nbsp;</p>
+<h3>Some considerations</h3>
+<ul>
+<li>If our goal is to compose a legible text, classic families can help us, as they do not present unusual or extravagant characteristics that can distract the reader, for example: Garamond, Bembo, Plantin, Baskerville, Minion, Scala Serif.</li>
+<li>Though the difference in legibility between some groups may not seem very noticeable, it can be stated that families with terminal create less confusions in readers than the sans serif monotonous and ambiguous forms.</li>
+<li>Terminals improve reading flow through the line, in horizontal direction.</li>
+<li>For a long, continuous text (literature, newspapers and magazines) it is preferable to compose the text in a family that has terminals. In other areas of communication where legibility is essential but reading happens quickly and synthetically (as in the case of signposting, for example) sans serif types are preferred. The same happens with other kind of pieces, like posters or advertisements.</li>
+<li>Each word’s silhouette (called bouma by the Armenian typographer Hrant Papazian) is a very important factor in legibility: words composed in capitals produce uniform and difficult to differentiate «gray rectangles» (boumas). Words composed in lower case, on the other hand, are considerably more legible because their boumas are more different from each other.</li>
+</ul>
+<div id="attachment_1465" class="wp-caption alignnone" style="width: 711px"><a href="wp-content/uploads/2012/09/T03A_02_ejemplos.jpg"><img class="size-full wp-image-1465" title="Ejemplo: Física de los superhéroes" src="wp-content/uploads/2012/09/T03A_02_ejemplos.jpg" alt="Física de los superhéroes" width="701" height="526" /></a><p class="wp-caption-text">Alumnos (de izquierda a derecha) N.N., Laura Dattoli.</p></div>
+<p>&nbsp;</p>
+<div class="ref_box"><strong>Bibliography</strong></p>
+<ul>
+<li>MARTÍNEZ DE SOUSA, José. <em>Diccionario de edición, tipografía y artes gráficas.</em> Trea, Gijón. 2001.</li>
+<li>SPIEKERMANN, Erik y GINGER, E.M.. <em>Stop Stealing Sheep.</em> Adobe Press, Mountain View, 1993.</li>
+<li>McLEAN, Ruari. <em>Manual de tipografía</em>. Hermann Blume. Barcelona, 1987.</li>
+<li>SOLOMON, Martin, «Extrañas parejas tipográficas» en <em>tipoGráfica 5</em>.</li>
+</ul>
+<p></p></div>
+<p class="icl_post_in_other_langs">Esta entrada también está disponible en: <a href="index.html?p=167">Spanish</a></p>                   
+                  
+                  <div class="like_this_section clearfix">
+					<div class="google_like">
+					<g:plusone href="http://www.oert.org" size="medium"></g:plusone>
+					</div>	                  
+                     <div class="twitter_like">
+                     <a href="http://twitter.com/share" class="twitter-share-button" data-via="oert.org" data-lang="es" data-size="medium">Tweet</a>
+                     </div>
+                     <div class="fb_like">
+                     <fb:like href="http%3A%2F%2Fwww.oert.org%2Fen%2Ffamily-classification-selection-and-combination%2F" layout="button_count" show_faces="false" width="450" height="30"></fb:like>
+                     </div>
+                     <div class="printfriendly"><a href="http://www.printfriendly.com/print?url=http://www.oert.org/en/family-classification-selection-and-combination/" rel="nofollow" onclick="window.print(); return false;"><img src="http://cdn.printfriendly.com/button-print-gry20.png" alt="Print Friendly" /></a></div>				</div> <!-- #end -->
+
+
+          				
+              </div> <!-- post #end -->
+              
+              
+               
+ 			<div class="post-navigation clearfix">
+                                                            <a class="post-prev" href="index.html?p=667"><em>Previous post</em><span>Basic concepts</span></a>
+                                                                <a class="post-next" href="index.html?p=666"><em>Next post</em><span>Text, image, dingbats and decorative elements</span></a>
+                                 </div>
+            
+            
+              </div> <!-- single post content #end -->
+          		<div class="realated_post clearfix">
+<h3>Related Posts</h3><ul class="realated_postlist clearfix">
+            <li class="clearfix"> 
+      
+     <h3> <a href="index.html?p=669">Typography and information layout</a></h3> 
+     <p class="date clearfix"> <span>April 27, 2012</span></p>
+     <p>Contents to be communicated. Definition of the media or the piece. Types of contents: identity, textual information, graphic information, data grids, etc., to create the necessary graphic and typographic repertoire. Choosing the graphic tools. Controlled combination of text, image, dingbats, and decorative elements to transmit content in the best possible way.</p>
+            </li>
+                        <li class="clearfix"> 
+      
+     <h3> <a href="index.html?p=670">Typography and typographic systems</a></h3> 
+     <p class="date clearfix"> <span>April 27, 2012</span></p>
+     <p>Program as system. Constants and variables. Open or closed system. Program and project. Elements of the program as tools used to inform, persuade, and communicate. Graphic piece characteristics. Derived identity.
+</p>
+            </li>
+                        <li class="clearfix"> 
+      
+     <h3> <a href="index.html?p=667">Basic concepts</a></h3> 
+     <p class="date clearfix"> <span>April 27, 2012</span></p>
+     <p>Basic concepts for text setting: type family; type size, units and measuring instruments; typographic variables; spatial relations in words, lines and paragraphs; typographic color; the paragraph as the fundamental unit in a piece of work; text attributes; margins; word division; legibility and orthography for editors.</p>
+            </li>
+                        <li class="clearfix"> 
+      
+     <h3> <a href="index.html?p=666">Text, image, dingbats and decorative elements</a></h3> 
+     <p class="date clearfix"> <span>April 27, 2012</span></p>
+     <p>Dingbats and decorative elements as elements of the typographic case. Function and types of dingbats and decorative elements. Double function: characters or image. Letters as images or characters. Relations.
+</p>
+            </li>
+            </ul>
+</div>
+		
+        
+          <div id="comments" class="clearfix"> 
+<div id="comments" class="comments-area">
+<div id="respond">
+<div class="fb-social-plugin fb-comments" id="commentform" data-href="http://www.oert.org/en/family-classification-selection-and-combination/" data-width="700"></div>
+</div></div>
+</div>
+          
+             </div>
+	<div id="dynamic-content"></div>        
+  </div> <!-- content #end -->
+<script type="text/javascript" language="javascript" >
+var root_path_js = 'http://www.oert.org/';
+</script>
+<script type="text/javascript" language="javascript" src="wp-content/themes/WikiBase/library/js/article_detail.js" ></script>
+
+      <div id="lang_sel"  >
+    <ul>
+        <li><a href="index.html?p=668#" class="lang_sel_sel icl-en">
+                            
+            <img  class="iclflag" src="wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png" alt="en" />                                
+            &nbsp;English</a>                                    
+            <ul>
+                                <li class="icl-es">          
+                    <a rel="alternate" hreflang="es" href="index.html?p=167">
+                                    
+                    <img  class="iclflag" src="wp-content/plugins/sitepress-multilingual-cms/res/flags/es.png" alt="es" />&nbsp;                    
+                                        Español                    </a>
+                </li>
+                            </ul>            
+             
+                    </li>
+    </ul>    
+</div>
+ <!-- selector de idiomas -->
+<div id="sidebar">
+	<div class="widget"><h3><span>Recursos</span></h3><div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-404" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-404"><a href="en/the-project/index.html">The project</a></li>
+<li id="menu-item-405" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-405"><a href="en/the-authors/index.html">The Authors</a></li>
+<li id="menu-item-406" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-406"><a href="en/editorial-board/index.html">Editorial Committee</a></li>
+<li id="menu-item-407" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-407"><a href="en/the-team/index.html">The Team</a></li>
+<li id="menu-item-408" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-408"><a href="en/our-backers/index.html">Our backers</a></li>
+<li id="menu-item-718" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-718"><a href="en/faq/index.html">FAQ</a></li>
+<li id="menu-item-409" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-409"><a href="en/contact-us/index.html">Contact us</a></li>
+</ul></div></div><div class="widget"><h3><span>Páginas</span></h3><div class="menu-main-menu-ingles-container"><ul id="menu-main-menu-ingles" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-404"><a href="en/the-project/index.html">The project</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-405"><a href="en/the-authors/index.html">The Authors</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-406"><a href="en/editorial-board/index.html">Editorial Committee</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-407"><a href="en/the-team/index.html">The Team</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-408"><a href="en/our-backers/index.html">Our backers</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-718"><a href="en/faq/index.html">FAQ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-409"><a href="en/contact-us/index.html">Contact us</a></li>
+</ul></div></div></div> <!-- sidebar right--> 
+<div id="bottom"></div>
+<script type='text/javascript' src='wp-content/themes/WikiBase/library/js/jquery.simplemodal.js'></script>
+<script type='text/javascript' src='wp-content/themes/WikiBase/library/js/basic.js'></script>
+<div id="basic-modal-content" class="clearfix" style="display:none;">
+<form name="send_to_frnd" id="send_to_frnd" action="index.html?p=668" method="post" >
+<input type="hidden" id="send_to_Frnd_pid" name="pid" value="668" />
+<input type="hidden" name="sendact" value="email_frnd" />
+	<h3>Send To Friend</h3>
+    <p id="reply_send_success" class="sucess_msg" style="display:none;"></p>
+	<div class="row clearfix" ><label>Friend Name : <span>*</span></label><input name="to_name" id="to_name" type="text"  /><span id="to_nameInfo"></span></div>
+ 	<div class="row  clearfix" ><label> Email : <span>*</span></label><input name="to_email" id="to_email" type="text"  /><span id="to_emailInfo"></span></div>
+	<div class="row  clearfix" ><label>Your Name : <span>*</span></label><input name="yourname" id="yourname" type="text"  /><span id="yournameInfo"></span></div>
+ 	<div class="row  clearfix" ><label> Email : <span>*</span></label><input name="youremail" id="youremail" type="text"  /><span id="youremailInfo"></span></div>
+	<div class="row  clearfix" ><label>Subject : <span>*</span></label><input name="frnd_subject" value="About Family classification, selection, and combination." id="frnd_subject" type="text"  /></div>
+	<div class="row  clearfix" ><label>Comments : <span>*</span></label>
+     <textarea name="frnd_comments" id="frnd_comments" cols="" rows="" >Hi there, do check out the information about this Article.</textarea></div>
+	<input name="Send" type="submit" value="Send " class="button " />
+</form>
+</div>
+<script type="text/javascript" src="wp-content/themes/WikiBase/library/js/email_frnd_validation.js"></script>
+<!-- here -->   </div> <!-- wrapper #end -->
+  
+<div id="footer" class="clearfix">
+<div id="footer_in">
+<p class="copy"><a rel="license" href="http://creativecommons.org/licenses/by-sa/2.5/ar/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/2.5/ar/80x15.png" /></a> <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Open Educational Resources for Typography</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="index.html" property="cc:attributionName" rel="cc:attributionURL">OERT</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.5/ar/">Creative Commons Attribution-ShareAlike 2.5 Argentina License</a>.</p>
+<p class="fr"><span class="designby">Alojado en </span>
+<span class="wiroos"><a href="http://www.wiroos.com" title="Wiroos">Wiroos</a></span>
+</p>	
+</div></div> <!-- footer #end -->
+
+        <script type="text/javascript">
+          var pfHeaderImgUrl = '';
+          var pfHeaderTagline = '';
+          var pfdisableClickToDel = '0';
+          var pfHideImages = '0';
+          var pfImageDisplayStyle = 'right';
+          var pfDisableEmail = '0';
+          var pfDisablePDF = '0';
+          var pfDisablePrint = '0';
+          var pfCustomCSS = '';
+
+          // PrintFriendly
+          var e = document.createElement('script'); e.type="text/javascript";
+          e.src = 'http://cdn.printfriendly.com/printfriendly.js';
+          document.getElementsByTagName('head')[0].appendChild(e);
+      </script>
+<script type='text/javascript' src='wp-content/themes/WikiBase/library/js/livesearch.js?ver=1'></script>
+<script type='text/javascript' src='wp-content/themes/WikiBase/library/js/jquery.hoveraccordion.min.js?ver=1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var FB_WP=FB_WP||{};FB_WP.queue={_methods:[],flushed:false,add:function(fn){FB_WP.queue.flushed?fn():FB_WP.queue._methods.push(fn)},flush:function(){for(var fn;fn=FB_WP.queue._methods.shift();){fn()}FB_WP.queue.flushed=true}};window.fbAsyncInit=function(){FB.init({"channelUrl":"http:\/\/www.oert.org\/wp-content\/plugins\/facebook\/channel.php","xfbml":true,"appId":"285109618260716"});if(FB_WP && FB_WP.queue && FB_WP.queue.flush){FB_WP.queue.flush()}}
+/* ]]> */
+</script>
+<div id="fb-root"></div><script type="text/javascript">(function(d){var id="facebook-jssdk";if(!d.getElementById(id)){var js=d.createElement("script"),ref=d.getElementsByTagName("script")[0];js.id=id,js.async=true,js.src="http:\/\/connect.facebook.net\/es_ES\/all.js",ref.parentNode.insertBefore(js,ref)}})(document)</script>
+<script type='text/javascript' src='index.html?p=668'></script>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27724959-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script><script type="text/javascript">
+	//<![CDATA[
+		function initBelle() {
+			Belle.AjaxURL		= "http://www.oert.org/en//?sajax=1"
+			// Initialize Livesearch
+			Belle.LiveSearch	= new LiveSearch( "Escribe y obten resultados al instante" )
+			}
+		jQuery(document).ready( function() { initBelle() })
+	//]]>
+	</script>
+<!-- LOAD JAVASCRIPT LATE - JUST BEFORE THE BODY TAG 
+		 That way the browser will have loaded the images
+	  	 and will know the width of the images. No need to
+		 specify the width in the CSS or inline. -->
+
+	<!-- jQuery library - Please load it from Google API's -->
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+
+	<!-- jQuery UI Widget and Effects Core (custom download)
+		 You can make your own at: http://jqueryui.com/download -->
+	<script src="wp-content/themes/WikiBase/library/js/jquery-ui-1.8.18.custom.min.js" type="text/javascript"></script>
+	
+	<!-- Latest version of jQuery Mouse Wheel by Brandon Aaron
+		 You will find it here: http://brandonaaron.net/code/mousewheel/demos -->
+	<script src="wp-content/themes/WikiBase/library/js/jquery.mousewheel.min.js" type="text/javascript"></script>
+
+	<!-- Smooth Div Scroll 1.2 minified-->
+	<script src="wp-content/themes/WikiBase/library/js/jquery.smoothdivscroll-1.2-min.js" type="text/javascript"></script>
+
+	<!-- If you want to look at the uncompressed version you find it at
+		 js/jquery.smoothDivScroll-1.2.js -->
+
+	<!-- Plugin initialization -->
+	<script type="text/javascript">
+		jQuery(document).ready(function () {
+			jQuery("#logoParade").smoothDivScroll({
+				autoScrollingMode: "always",
+				autoScrollingDirection: "endlessloopright",
+				autoScrollingStep: 1,
+				autoScrollingInterval: 25 
+			});
+
+			// Logo parade
+			jQuery("#logoParade").bind("mouseover", function () {
+				jQuery(this).smoothDivScroll("stopAutoScrolling");
+			}).bind("mouseout", function () {
+				jQuery(this).smoothDivScroll("startAutoScrolling");
+			});
+
+		});
+		
+	</script>	
+	
+</body></html>

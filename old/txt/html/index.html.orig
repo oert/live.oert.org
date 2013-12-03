@@ -1,0 +1,645 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<title>
+Open Educational Resources for Typography&nbsp;|&nbsp;OERT</title>
+
+<link rel="stylesheet" href="http://www.oert.org/wp-content/plugins/sitepress-multilingual-cms/res/css/language-selector.css?v=2.6.0" type="text/css" media="all" />
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="stylesheet" type="text/css" href="http://www.oert.org/wp-content/themes/WikiBase/style.css" media="screen" />
+<link rel="shortcut icon" type="image/png" href="http://www.oert.org/wp-content/uploads/favicon.ico" />
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.oert.org/feed/" />
+<link rel="pingback" href="http://www.oert.org/xmlrpc.php" />
+
+<link rel="stylesheet" type="text/css" href="http://www.oert.org/wp-content/themes/WikiBase/library/css/print.css" media="print" />
+<link rel="Stylesheet" type="text/css" href="http://www.oert.org/wp-content/themes/WikiBase/library/css/smoothDivScroll.css" />
+
+<script src="http://connect.facebook.net/es_ES/all.js#xfbml=1"></script>
+<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+<script src="https://apis.google.com/js/plusone.js" type="text/javascript"></script>
+
+
+ <link href="http://www.oert.org/wp-content/themes/WikiBase/custom.css" rel="stylesheet" type="text/css">
+<script language="javascript" type="text/javascript">
+	function hasClass(ele,cls) {
+	return ele.className.match(new RegExp('(\\s|^)'+cls+'(\\s|$)'));
+	}
+
+    function addClass(ele,cls) {
+    if (!this.hasClass(ele,cls)) ele.className += " "+cls;
+    }
+    function removeClass(ele,cls) {
+    if (hasClass(ele,cls)) {
+        var reg = new RegExp('(\\s|^)'+cls+'(\\s|$)');
+        ele.className=ele.className.replace(reg,' ');
+    }
+    }
+
+    function showHideDiv(sids,divids)
+    {
+		//alert(sids);
+		//alert(divids);
+        var divstyle = new String();
+		var spanstyle = new String();
+		var spansid = new String();
+		spansid = document.getElementById(sids);
+        divstyle = document.getElementById(divids).style.display;
+        if(divstyle.toLowerCase()=="block" || divstyle == "")
+        {
+            document.getElementById(divids).style.display = "none";
+			removeClass(spansid,'neg');
+			addClass(spansid,'pos');
+        }
+        else
+        {
+            document.getElementById(divids).style.display = "block";
+			removeClass(spansid,'pos');
+			addClass(spansid,'neg');
+        }
+    }
+    </script>
+    <script type="text/javascript">
+        $(document).ready( function() {
+            $('#menu-recursos').hoverAccordion({
+                keepHeight:true,
+                activateItem: 3,
+                speed: 400
+            });
+        });
+    </script>
+        
+<link rel="dns-prefetch" href="//connect.facebook.net" />
+<link rel='stylesheet' id='wpml-cms-nav-css-css'  href='http://www.oert.org/wp-content/plugins/wpml-cms-nav/res/css/navigation.css?ver=1.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='cms-navigation-style-base-css'  href='http://www.oert.org/wp-content/plugins/wpml-cms-nav/res/css/cms-navigation-base.css?ver=1.2.7' type='text/css' media='screen' />
+<link rel='stylesheet' id='cms-navigation-style-css'  href='http://www.oert.org/wp-content/plugins/wpml-cms-nav/res/css/cms-navigation.css?ver=1.2.7' type='text/css' media='screen' />
+<script type='text/javascript' src='http://www.oert.org/wp-includes/js/jquery/jquery.js?ver=1.8.3'></script>
+<script type='text/javascript' src='http://www.oert.org/wp-content/themes/WikiBase/library/js/functions.js?ver=1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.oert.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.oert.org/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.5.1" />
+
+	<!-- This site uses Good Old Gallery, get it from http://wp.unwi.se/good-old-gallery -->
+
+        <style type="text/css" media="screen">
+          div.printfriendly {
+            margin: 0px 0px 0px 0px;;
+          }
+          div.printfriendly a, div.printfriendly a:link, div.printfriendly a:visited {
+            text-decoration: none;
+            font-size: 14px;
+            color: #99cc00;
+            vertical-align: bottom;
+            border: none;
+          }
+
+          .printfriendly a:hover {
+            cursor: pointer;
+          }
+
+          .printfriendly a img  {
+            border: none;
+            padding:0;
+            margin-right: 6px;
+            display:inline-block;
+            box-shadow: none;
+            -webkit-box-shadow: none;
+            -moz-box-shadow: none;
+          }
+          .printfriendly a span{
+            vertical-align: bottom;
+          }
+          .pf-alignleft {
+            float: left;
+          }
+          .pf-alignright {
+            float: right;
+          }
+          div.pf-aligncenter {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            text-align: center;
+          }
+        </style>
+        <style type="text/css" media="print">
+          .printfriendly {
+            display: none;
+          }
+        </style>
+<script type="text/javascript">var icl_lang = 'es';var icl_home = 'http://www.oert.org/';</script>
+<script type="text/javascript" src="http://www.oert.org/wp-content/plugins/sitepress-multilingual-cms/res/js/sitepress.js"></script>
+<meta name="generator" content="WPML ver:2.6.0 stt:2,1;0" />
+<link rel="alternate" hreflang="en_US" href="http://www.oert.org/en/" />
+
+<style type="text/css">#lang_sel a, #lang_sel a.lang_sel_sel{color:#444444;}#lang_sel a:hover, #lang_sel a.lang_sel_sel:hover{color:#000000;}#lang_sel a.lang_sel_sel, #lang_sel a.lang_sel_sel:visited{background-color:#f5f4f2;}#lang_sel a.lang_sel_sel:hover{background-color:#eeeeee;}#lang_sel li ul a, #lang_sel li ul a:visited{color:#444444;}#lang_sel li ul a:hover{color:#000000;}#lang_sel li ul a, #lang_sel li ul a:link, #lang_sel li ul a:visited{background-color:#f5f4f2;}#lang_sel li ul a:hover{background-color:#eeeeee;}#lang_sel a, #lang_sel a:visited{border-color:#cdcdcd;} #lang_sel ul ul{border-top:1px solid #cdcdcd;}</style>
+
+<style type="text/css">#lang_sel  {width: 195px; margin-bottom:24px;}
+#lang_sel a {font-size:12px;}
+#lang_sel li {width:192px; }
+
+</style>		<link href="http://www.oert.org/wp-content/themes/WikiBase/skins/1-default.css" rel="stylesheet" type="text/css" />
+
+
+<link href='http://boakes.org/most-wanted?v=0.1.9v' />
+<link rel="canonical" href="http://www.oert.org/"/>
+<meta property="og:site_name" content="OERT" />
+<meta property="og:type" content="website" />
+<meta property="og:locale" content="es_ES" />
+<meta property="fb:app_id" content="285109618260716" />
+<meta property="og:title" content="OERT" />
+<meta property="og:description" content="Open Educational Resources for Typography" />
+<meta property="og:url" content="http://www.oert.org" />
+</head>
+<body class="home blog">
+<div id="header">   
+<div id="header_in" class="clearfix">
+<div class="logo"> 
+   <div class="blog-title"><a href="http://www.oert.org//">OERT</a> 
+		
+		 <p class="blog-description">
+		  Open Educational Resources for Typography		</p>
+   </div> 
+   </div>
+                        <div class="header_right">
+        	<p>Última actualización: <span>April 7, 2013</span></p>
+                    </div>               
+   </div> 
+ </div>   <!-- header #end -->     <div id="wrapper" class="clearfix">  
+<script type="text/javascript" language="javascript">var rootfolderpath = 'http://www.oert.org/wp-content/themes/WikiBase/images/';</script>
+<script type="text/javascript"  language="javascript" src="http://www.oert.org/wp-content/themes/WikiBase/library/js/dhtmlgoodies_calendar.js"></script>
+<script type="text/javascript"  language="javascript" src="http://www.oert.org/wp-content/themes/WikiBase/library/js/taber.js"></script>
+<div id="content" class="clearfix">    
+    <div id="searchbox" class="clearfix">
+            <div class="searchbox_top"></div>
+            <div class="searchbox_center">
+                 <div class="searchbox_bottom">
+                    <h3>Buscar recursos </h3>                                    
+                    <div class="searchfield">
+                        <form method="get" id="searchform" action="http://www.oert.org">
+<div id="search-form-wrap">
+<label for="s" id="search-label">Buscar por:</label>
+<input type="text" id="s" name="s" accesskey="4" value="" />
+<input type="hidden" name="stype" value="ajsearch" />
+<input type="submit" name="stype" value="Search" style="display:none;" class="b_search" />
+<span id="searchreset" title="Reset Search"></span>
+<span id="searchload"></span>
+</div>
+</form>
+
+                    </div>
+                    <p> <span class="note">Live Search:  Type for information &amp; search straight away</span>  
+                    
+                    <a href="javascript:void(0);" onclick="show_hide_advanced_search();" class="advanced_search"> + búsqueda avanzada</a> </p>
+                    
+                    
+                    
+                    <script type="text/javascript" >
+                    function show_hide_advanced_search()
+                    {
+                        if(document.getElementById('advanced_search').style.display == 'none')
+                        {
+                            document.getElementById('advanced_search').style.display = ''
+                        }else
+                        {
+                            document.getElementById('advanced_search').style.display = 'none';
+                        }
+                    }
+                    function sformcheck()
+                    {
+                        if(document.getElementById('adv_s').value=="")
+                        {
+                            alert('Ingresar parámetro de búsqueda');
+                            document.getElementById('adv_s').focus();
+                            return false;
+                        }
+                        return true;
+                    }
+                    </script>
+                    
+                    <!-- adv search #start -->
+                    <form method="get" id="adv_searchform" action="http://www.oert.org/" name="searchform" onsubmit="return sformcheck();">
+                    <div id="advanced_search" style="display:none;">
+                        <h3> Búsqueda avanzada</h3>
+                        <div class="row">
+                            <label>Todas estas palabras</label>
+                            <input name="s" id="adv_s" type="text" class="textfield large" />
+                            <input type="hidden" name="stype" value="ajsearch" />
+                        </div>
+                        
+                        <div class="row">
+                            <label>Categoría</label>                                          
+                              <select name='catdrop' id='catdrop' class='select' >
+	<option value='0' selected='selected'>select category</option>
+	<option class="level-0" value="6">Teoría</option>
+	<option class="level-1" value="10">&nbsp;&nbsp;&nbsp;Letra</option>
+	<option class="level-1" value="9">&nbsp;&nbsp;&nbsp;Texto</option>
+	<option class="level-1" value="11">&nbsp;&nbsp;&nbsp;Página</option>
+	<option class="level-0" value="7">Práctica</option>
+	<option class="level-1" value="14">&nbsp;&nbsp;&nbsp;Letra</option>
+	<option class="level-1" value="13">&nbsp;&nbsp;&nbsp;Texto</option>
+	<option class="level-1" value="12">&nbsp;&nbsp;&nbsp;Página</option>
+	<option class="level-0" value="8">Historia</option>
+</select>
+ 
+                        </div>
+                        
+                        <div class="row">
+                            <label>Fecha </label>
+                            <input name="todate" type="text" class="textfield" />
+                             <img src="http://www.oert.org/wp-content/themes/WikiBase/images/cal.gif" alt="Calendar" class="i_calendar" onclick="displayCalendar(document.searchform.todate,'yyyy-mm-dd',this)"  />
+                            hasta                                            
+                           <input name="frmdate" type="text" class="textfield"  />
+                           <img src="http://www.oert.org/wp-content/themes/WikiBase/images/cal.gif" alt="Calendar" class="i_calendar" onclick="displayCalendar(document.searchform.frmdate,'yyyy-mm-dd',this)"  />                                              
+                        </div>
+                        
+                        <div class="row">
+                            <label>Autor</label>
+                            <input name="articleauthor" type="text" class="textfield"  />
+                            <span> Autor (nombre exácto)</span> 
+                            <input name="exactyes" type="checkbox" value="1" />
+                        </div>
+                            <input name="searbutton" type="submit" value="Advanced Search" class="b_advsearch" />
+                        
+                    </div> <!-- adv search #end -->
+                    </form>
+                </div>
+            </div>
+    
+    </div> <!-- searchbox #end -->
+        <div class="wiki_statistics clearfix">
+        <span class="title">OERT en cifras</span>
+        <span class="status"> 96 <small>Total de artículos</small> </span>
+        <span class="status"> 10 <small>Categorías</small> </span>
+        <span class="status"> 0 <small>Comentarios</small> </span>
+    </div>        
+<div id="current-content"> <!-- Please Don't Delete this current-content Div it's compulsory for Ajax Search -->
+     <div class="widget">        
+           
+  <div class="tabber" id="tab1">
+
+  <div class="tabbertab">
+    <h2><a name="tab1">Artículos destacados</a></h2>
+      
+    			                      <div class="feature-box clearfix">
+    			
+                
+    
+                  <div class="subheading">
+                    <a href="http://www.oert.org/familia-tipografica/" title="Show/hide additional information">
+                   Familia tipográfica <small class="featured"> Featured</small>  </a> <span class="pos" id="t1s193" onclick="showHideDiv('t1s193','t1d193');"></span>
+                    
+                   
+                    </div>
+                     
+                     <p class="post_info clearfix">
+					    		<span>septiembre 10, 2012 </span>
+       		<span class="i_cate"> <a href="http://www.oert.org/category/parte1/parte1-1/" title="Ver todas las entradas en Letra" rel="category tag">Letra</a>, <a href="http://www.oert.org/category/parte1/" title="Ver todas las entradas en Teoría" rel="category tag">Teoría</a> </span>
+       		<span> <a href="http://www.oert.org/familia-tipografica/#commentarea"  class="i_comment" ><fb:comments-count xmlns="http://ogp.me/ns/fb#" href="http://www.oert.org/familia-tipografica/"></fb:comments-count> comentarios </a></span>
+                         </p>
+                    
+                
+                  <div  class="options-box" id="t1d193" style="display:none;">
+                     	
+                                     <a class="post_img" href="http://www.oert.org/familia-tipografica/">
+             <img width="75" height="75" src="http://www.oert.org/wp-content/uploads/2012/07/T02A_04-variablesfamilias2-150x150.jpg" class=" wp-post-image" alt="Variables tipográficas" />             </a>
+                        
+             	  
+                 <p>  <span class="highlight_word"></span>Definici<span class="highlight_word"></span>ó<span class="highlight_word"></span>n<span class="highlight_word"></span>. <span class="highlight_word"></span>Familia<span class="highlight_word"></span> <span class="highlight_word"></span>como<span class="highlight_word"></span> <span class="highlight_word"></span>sistema<span class="highlight_word"></span>. <span class="highlight_word"></span>Componentes<span class="highlight_word"></span> <span class="highlight_word"></span>de<span class="highlight_word"></span> <span class="highlight_word"></span>la<span class="highlight_word"></span> <span class="highlight_word"></span>caja<span class="highlight_word"></span> <span class="highlight_word"></span>tipogr<span class="highlight_word"></span>á<span class="highlight_word"></span>fica<span class="highlight_word"></span>. <span class="highlight_word"></span>Variables<span class="highlight_word"></span> <span class="highlight_word"></span>tipogr<span class="highlight_word"></span>á<span class="highlight_word"></span>ficas<span class="highlight_word"></span>. <span class="highlight_word"></span>Ejes<span class="highlight_word"></span> <span class="highlight_word"></span>de<span class="highlight_word"></span> <span class="highlight_word"></span>construcci<span class="highlight_word"></span>ó<span class="highlight_word"></span>n<span class="highlight_word"></span> <span class="highlight_word"></span>de<span class="highlight_word"></span> <span class="highlight_word"></span>variables<span class="highlight_word"></span>: <span class="highlight_word"></span>hist<span class="highlight_word"></span>ó<span class="highlight_word"></span>ricos<span class="highlight_word"></span> <span class="highlight_word"></span>y<span class="highlight_word"></span> <span class="highlight_word"></span>contempor<span class="highlight_word"></span>á<span class="highlight_word"></span>neos<span class="highlight_word"></span>. <span class="highlight_word"></span>Revisi<span class="highlight_word"></span>ó<span class="highlight_word"></span>n<span class="highlight_word"></span> <span class="highlight_word"></span>de<span class="highlight_word"></span> <span class="highlight_word"></span>aspectos<span class="highlight_word"></span> <span class="highlight_word"></span>que<span class="highlight_word"></span> <span class="highlight_word"></span>se<span class="highlight_word"></span> <span class="highlight_word"></span>mantienen<span class="highlight_word"></span> <span class="highlight_word"></span>y<span class="highlight_word"></span> <span class="highlight_word"></span>modifican<span class="highlight_word"></span> <span class="highlight_word"></span>en<span class="highlight_word"></span> <span class="highlight_word"></span>el<span class="highlight_word"></span> <span class="highlight_word"></span>sistema<span class="highlight_word"></span> <span class="highlight_word"></span>de<span class="highlight_word"></span> <span class="highlight_word"></span>variables<span class="highlight_word"></span>.</p>
+                <p class="more">  <a href="http://www.oert.org/familia-tipografica/" class="more">Read More</a> </p>
+                        
+                        
+                        
+                    </div> <!-- content #end -->
+              </div> <!-- featured box #end -->
+              
+                                  <div class="feature-box clearfix">
+    			
+                
+    
+                  <div class="subheading">
+                    <a href="http://www.oert.org/anatomia-tipografica/" title="Show/hide additional information">
+                   Anatomía tipográfica <small class="featured"> Featured</small>  </a> <span class="pos" id="t1s183" onclick="showHideDiv('t1s183','t1d183');"></span>
+                    
+                   
+                    </div>
+                     
+                     <p class="post_info clearfix">
+					    		<span>septiembre 10, 2012 </span>
+       		<span class="i_cate"> <a href="http://www.oert.org/category/parte1/parte1-1/" title="Ver todas las entradas en Letra" rel="category tag">Letra</a>, <a href="http://www.oert.org/category/parte1/" title="Ver todas las entradas en Teoría" rel="category tag">Teoría</a> </span>
+       		<span> <a href="http://www.oert.org/anatomia-tipografica/#commentarea"  class="i_comment" ><fb:comments-count xmlns="http://ogp.me/ns/fb#" href="http://www.oert.org/anatomia-tipografica/"></fb:comments-count> comentarios </a></span>
+                         </p>
+                    
+                
+                  <div  class="options-box" id="t1d183" style="display:none;">
+                     	
+                                     <a class="post_img" href="http://www.oert.org/anatomia-tipografica/">
+             <img width="75" height="75" src="http://www.oert.org/wp-content/uploads/2012/07/T04B_01-anatomia_tipografica-150x150.jpg" class=" wp-post-image" alt="Anatomía tipográfica" />             </a>
+                        
+             	  
+                 <p>  <span class="highlight_word"></span>Partes<span class="highlight_word"></span> <span class="highlight_word"></span>de<span class="highlight_word"></span> <span class="highlight_word"></span>la<span class="highlight_word"></span> <span class="highlight_word"></span>letra<span class="highlight_word"></span>: <span class="highlight_word"></span>ubicaci<span class="highlight_word"></span>ó<span class="highlight_word"></span>n<span class="highlight_word"></span> <span class="highlight_word"></span>y<span class="highlight_word"></span> <span class="highlight_word"></span>definici<span class="highlight_word"></span>ó<span class="highlight_word"></span>n<span class="highlight_word"></span>.</p>
+                <p class="more">  <a href="http://www.oert.org/anatomia-tipografica/" class="more">Read More</a> </p>
+                        
+                        
+                        
+                    </div> <!-- content #end -->
+              </div> <!-- featured box #end -->
+              
+                                  <div class="feature-box clearfix">
+    			
+                
+    
+                  <div class="subheading">
+                    <a href="http://www.oert.org/recursos-graficos-para-ediciones-periodicas/" title="Show/hide additional information">
+                   Recursos gráficos para ediciones periódicas <small class="featured"> Featured</small>  </a> <span class="pos" id="t1s147" onclick="showHideDiv('t1s147','t1d147');"></span>
+                    
+                   
+                    </div>
+                     
+                     <p class="post_info clearfix">
+					    		<span>septiembre 10, 2012 </span>
+       		<span class="i_cate"> <a href="http://www.oert.org/category/parte1/parte1-3/" title="Ver todas las entradas en Página" rel="category tag">Página</a>, <a href="http://www.oert.org/category/parte1/" title="Ver todas las entradas en Teoría" rel="category tag">Teoría</a> </span>
+       		<span> <a href="http://www.oert.org/recursos-graficos-para-ediciones-periodicas/#commentarea"  class="i_comment" ><fb:comments-count xmlns="http://ogp.me/ns/fb#" href="http://www.oert.org/recursos-graficos-para-ediciones-periodicas/"></fb:comments-count> comentarios </a></span>
+                         </p>
+                    
+                
+                  <div  class="options-box" id="t1d147" style="display:none;">
+                     	
+                                     <a class="post_img" href="http://www.oert.org/recursos-graficos-para-ediciones-periodicas/">
+             <img width="75" height="75" src="http://www.oert.org/wp-content/uploads/2012/08/T07_02_titulares-150x150.jpg" class=" wp-post-image" alt="Titulares" />             </a>
+                        
+             	  
+                 <p>  <span class="highlight_word"></span>Maquetas<span class="highlight_word"></span> <span class="highlight_word"></span>de<span class="highlight_word"></span> <span class="highlight_word"></span>ediciones<span class="highlight_word"></span> <span class="highlight_word"></span>peri<span class="highlight_word"></span>ó<span class="highlight_word"></span>dicas<span class="highlight_word"></span>: <span class="highlight_word"></span>constantes<span class="highlight_word"></span> <span class="highlight_word"></span>y<span class="highlight_word"></span> <span class="highlight_word"></span>variables<span class="highlight_word"></span>. <span class="highlight_word"></span>Estructura<span class="highlight_word"></span> <span class="highlight_word"></span>de<span class="highlight_word"></span> <span class="highlight_word"></span>publicaci<span class="highlight_word"></span>ó<span class="highlight_word"></span>n<span class="highlight_word"></span>. <span class="highlight_word"></span>Recursos<span class="highlight_word"></span> <span class="highlight_word"></span>de<span class="highlight_word"></span> <span class="highlight_word"></span>navegaci<span class="highlight_word"></span>ó<span class="highlight_word"></span>n<span class="highlight_word"></span>. <span class="highlight_word"></span>Edici<span class="highlight_word"></span>ó<span class="highlight_word"></span>n<span class="highlight_word"></span> <span class="highlight_word"></span>de<span class="highlight_word"></span> <span class="highlight_word"></span>textos<span class="highlight_word"></span>: <span class="highlight_word"></span>titulaci<span class="highlight_word"></span>ó<span class="highlight_word"></span>n<span class="highlight_word"></span> (<span class="highlight_word"></span>cintillo<span class="highlight_word"></span>, <span class="highlight_word"></span>volanta<span class="highlight_word"></span>, <span class="highlight_word"></span>t<span class="highlight_word"></span>í<span class="highlight_word"></span>tulo<span class="highlight_word"></span> <span class="highlight_word"></span>o<span class="highlight_word"></span> <span class="highlight_word"></span>titular<span class="highlight_word"></span>, <span class="highlight_word"></span>y<span class="highlight_word"></span> <span class="highlight_word"></span>bajada<span class="highlight_word"></span>, <span class="highlight_word"></span>resumen<span class="highlight_word"></span>, <span class="highlight_word"></span>copete<span class="highlight_word"></span> <span class="highlight_word"></span>o<span class="highlight_word"></span> <span class="highlight_word"></span>sumario<span class="highlight_word"></span>), <span class="highlight_word"></span>elementos<span class="highlight_word"></span> <span class="highlight_word"></span>de<span class="highlight_word"></span> <span class="highlight_word"></span>lectura<span class="highlight_word"></span> <span class="highlight_word"></span>r<span class="highlight_word"></span>á<span class="highlight_word"></span>pida<span class="highlight_word"></span> (<span class="highlight_word"></span>ep<span class="highlight_word"></span>í<span class="highlight_word"></span>grafe<span class="highlight_word"></span>, <span class="highlight_word"></span>destacado<span class="highlight_word"></span>, <span class="highlight_word"></span>notas<span class="highlight_word"></span> <span class="highlight_word"></span>subordinadas<span class="highlight_word"></span>, <span class="highlight_word"></span>tablas<span class="highlight_word"></span>, <span class="highlight_word"></span>res<span class="highlight_word"></span>ú<span class="highlight_word"></span>menes<span class="highlight_word"></span>). <span class="highlight_word"></span>Relaci<span class="highlight_word"></span>ó<span class="highlight_word"></span>n<span class="highlight_word"></span> <span class="highlight_word"></span>entre<span class="highlight_word"></span> <span class="highlight_word"></span>forma<span class="highlight_word"></span> <span class="highlight_word"></span>gr<span class="highlight_word"></span>á<span class="highlight_word"></span>fica<span class="highlight_word"></span> <span class="highlight_word"></span>y<span class="highlight_word"></span> <span class="highlight_word"></span>contenido<span class="highlight_word"></span>.</p>
+                <p class="more">  <a href="http://www.oert.org/recursos-graficos-para-ediciones-periodicas/" class="more">Read More</a> </p>
+                        
+                        
+                        
+                    </div> <!-- content #end -->
+              </div> <!-- featured box #end -->
+              
+                           
+              
+    
+  </div> <!-- tab 1 #end -->
+
+  <div class="tabbertab">
+    <h2>Artículos recientes</h2>
+     			
+		                     <div class="feature-box clearfix">
+                  <div class="subheading">
+                    <a href="http://www.oert.org/familia-tipografica/" title="Show/hide additional information">
+                    Familia tipográfica  <small class="featured"> Featured</small></a><span class="pos"  id="t2s193" onclick="showHideDiv('t2s193','t2d193');"></span>
+                     
+                    </div>
+                     
+                     <p class="post_info clearfix">
+					    		<span>septiembre 10, 2012 </span>
+       		<span class="i_cate"> <a href="http://www.oert.org/category/parte1/parte1-1/" title="Ver todas las entradas en Letra" rel="category tag">Letra</a>, <a href="http://www.oert.org/category/parte1/" title="Ver todas las entradas en Teoría" rel="category tag">Teoría</a> </span>
+       		<span> <a href="http://www.oert.org/familia-tipografica/#commentarea"  class="i_comment" ><fb:comments-count xmlns="http://ogp.me/ns/fb#" href="http://www.oert.org/familia-tipografica/"></fb:comments-count> comentarios </a></span>
+                         </p>
+                    
+                
+                  <div  class="options-box" id="t2d193" style="display:none;">
+                     	
+                                     <a class="post_img" href="http://www.oert.org/familia-tipografica/">
+             <img width="75" height="75" src="http://www.oert.org/wp-content/uploads/2012/07/T02A_04-variablesfamilias2-150x150.jpg" class=" wp-post-image" alt="Variables tipográficas" />             </a>
+                        
+             	  
+                 <p>  <span class="highlight_word"></span>Definici<span class="highlight_word"></span>ó<span class="highlight_word"></span>n<span class="highlight_word"></span>. <span class="highlight_word"></span>Familia<span class="highlight_word"></span> <span class="highlight_word"></span>como<span class="highlight_word"></span> <span class="highlight_word"></span>sistema<span class="highlight_word"></span>. <span class="highlight_word"></span>Componentes<span class="highlight_word"></span> <span class="highlight_word"></span>de<span class="highlight_word"></span> <span class="highlight_word"></span>la<span class="highlight_word"></span> <span class="highlight_word"></span>caja<span class="highlight_word"></span> <span class="highlight_word"></span>tipogr<span class="highlight_word"></span>á<span class="highlight_word"></span>fica<span class="highlight_word"></span>. <span class="highlight_word"></span>Variables<span class="highlight_word"></span> <span class="highlight_word"></span>tipogr<span class="highlight_word"></span>á<span class="highlight_word"></span>ficas<span class="highlight_word"></span>. <span class="highlight_word"></span>Ejes<span class="highlight_word"></span> <span class="highlight_word"></span>de<span class="highlight_word"></span> <span class="highlight_word"></span>construcci<span class="highlight_word"></span>ó<span class="highlight_word"></span>n<span class="highlight_word"></span> <span class="highlight_word"></span>de<span class="highlight_word"></span> <span class="highlight_word"></span>variables<span class="highlight_word"></span>: <span class="highlight_word"></span>hist<span class="highlight_word"></span>ó<span class="highlight_word"></span>ricos<span class="highlight_word"></span> <span class="highlight_word"></span>y<span class="highlight_word"></span> <span class="highlight_word"></span>contempor<span class="highlight_word"></span>á<span class="highlight_word"></span>neos<span class="highlight_word"></span>. <span class="highlight_word"></span>Revisi<span class="highlight_word"></span>ó<span class="highlight_word"></span>n<span class="highlight_word"></span> <span class="highlight_word"></span>de<span class="highlight_word"></span> <span class="highlight_word"></span>aspectos<span class="highlight_word"></span> <span class="highlight_word"></span>que<span class="highlight_word"></span> <span class="highlight_word"></span>se<span class="highlight_word"></span> <span class="highlight_word"></span>mantienen<span class="highlight_word"></span> <span class="highlight_word"></span>y<span class="highlight_word"></span> <span class="highlight_word"></span>modifican<span class="highlight_word"></span> <span class="highlight_word"></span>en<span class="highlight_word"></span> <span class="highlight_word"></span>el<span class="highlight_word"></span> <span class="highlight_word"></span>sistema<span class="highlight_word"></span> <span class="highlight_word"></span>de<span class="highlight_word"></span> <span class="highlight_word"></span>variables<span class="highlight_word"></span>.</p>
+                <p class="more">  <a href="http://www.oert.org/familia-tipografica/" class="more">Read More</a> </p>
+                </div> <!-- content #end -->
+              </div> <!-- featured box #end -->
+              
+                                  <div class="feature-box clearfix">
+                  <div class="subheading">
+                    <a href="http://www.oert.org/mayusculas-minusculas-numeros-y-signos/" title="Show/hide additional information">
+                    Mayúsculas, minúsculas, números y signos </a><span class="pos"  id="t2s191" onclick="showHideDiv('t2s191','t2d191');"></span>
+                     
+                    </div>
+                     
+                     <p class="post_info clearfix">
+					    		<span>septiembre 10, 2012 </span>
+       		<span class="i_cate"> <a href="http://www.oert.org/category/parte1/parte1-1/" title="Ver todas las entradas en Letra" rel="category tag">Letra</a>, <a href="http://www.oert.org/category/parte1/" title="Ver todas las entradas en Teoría" rel="category tag">Teoría</a> </span>
+       		<span> <a href="http://www.oert.org/mayusculas-minusculas-numeros-y-signos/#commentarea"  class="i_comment" ><fb:comments-count xmlns="http://ogp.me/ns/fb#" href="http://www.oert.org/mayusculas-minusculas-numeros-y-signos/"></fb:comments-count> comentarios </a></span>
+                         </p>
+                    
+                
+                  <div  class="options-box" id="t2d191" style="display:none;">
+                     	
+                                     <a class="post_img" href="http://www.oert.org/mayusculas-minusculas-numeros-y-signos/">
+             <img width="75" height="75" src="http://www.oert.org/wp-content/uploads/2012/07/T02B_09-alineacion2-150x150.jpg" class=" wp-post-image" alt="Alineación de los signos no alfabéticos" />             </a>
+                        
+             	  
+                 <p>  <span class="highlight_word"></span>Origen<span class="highlight_word"></span>, <span class="highlight_word"></span>relaciones<span class="highlight_word"></span> <span class="highlight_word"></span>y<span class="highlight_word"></span> <span class="highlight_word"></span>connotaciones<span class="highlight_word"></span> <span class="highlight_word"></span>del<span class="highlight_word"></span> <span class="highlight_word"></span>sistema<span class="highlight_word"></span> <span class="highlight_word"></span>de<span class="highlight_word"></span> <span class="highlight_word"></span>may<span class="highlight_word"></span>ú<span class="highlight_word"></span>sculas<span class="highlight_word"></span> <span class="highlight_word"></span>y<span class="highlight_word"></span> <span class="highlight_word"></span>del<span class="highlight_word"></span> <span class="highlight_word"></span>de<span class="highlight_word"></span> <span class="highlight_word"></span>min<span class="highlight_word"></span>ú<span class="highlight_word"></span>sculas<span class="highlight_word"></span>. <span class="highlight_word"></span>Relaciones<span class="highlight_word"></span> <span class="highlight_word"></span>verticales<span class="highlight_word"></span>. <span class="highlight_word"></span>Legibilidad<span class="highlight_word"></span> <span class="highlight_word"></span>de<span class="highlight_word"></span> <span class="highlight_word"></span>may<span class="highlight_word"></span>ú<span class="highlight_word"></span>sculas<span class="highlight_word"></span> <span class="highlight_word"></span>y<span class="highlight_word"></span> <span class="highlight_word"></span>min<span class="highlight_word"></span>ú<span class="highlight_word"></span>sculas<span class="highlight_word"></span>. <span class="highlight_word"></span>Caracter<span class="highlight_word"></span>í<span class="highlight_word"></span>sticas<span class="highlight_word"></span> <span class="highlight_word"></span>formales<span class="highlight_word"></span> <span class="highlight_word"></span>y<span class="highlight_word"></span> <span class="highlight_word"></span>funci<span class="highlight_word"></span>ó<span class="highlight_word"></span>n<span class="highlight_word"></span> <span class="highlight_word"></span>de<span class="highlight_word"></span> <span class="highlight_word"></span>n<span class="highlight_word"></span>ú<span class="highlight_word"></span>meros<span class="highlight_word"></span>. <span class="highlight_word"></span>Signos<span class="highlight_word"></span> <span class="highlight_word"></span>de<span class="highlight_word"></span> <span class="highlight_word"></span>entonaci<span class="highlight_word"></span>ó<span class="highlight_word"></span>n<span class="highlight_word"></span>, <span class="highlight_word"></span>puntuaci<span class="highlight_word"></span>ó<span class="highlight_word"></span>n<span class="highlight_word"></span> <span class="highlight_word"></span>y<span class="highlight_word"></span> <span class="highlight_word"></span>auxiliares<span class="highlight_word"></span>: <span class="highlight_word"></span>forma<span class="highlight_word"></span> <span class="highlight_word"></span>y<span class="highlight_word"></span> <span class="highlight_word"></span>ubicaci<span class="highlight_word"></span>ó<span class="highlight_word"></span>n<span class="highlight_word"></span>. <span class="highlight_word"></span>Las<span class="highlight_word"></span> <span class="highlight_word"></span>fracciones<span class="highlight_word"></span>.</p>
+                <p class="more">  <a href="http://www.oert.org/mayusculas-minusculas-numeros-y-signos/" class="more">Read More</a> </p>
+                </div> <!-- content #end -->
+              </div> <!-- featured box #end -->
+              
+                                  <div class="feature-box clearfix">
+                  <div class="subheading">
+                    <a href="http://www.oert.org/anatomia-tipografica/" title="Show/hide additional information">
+                    Anatomía tipográfica  <small class="featured"> Featured</small></a><span class="pos"  id="t2s183" onclick="showHideDiv('t2s183','t2d183');"></span>
+                     
+                    </div>
+                     
+                     <p class="post_info clearfix">
+					    		<span>septiembre 10, 2012 </span>
+       		<span class="i_cate"> <a href="http://www.oert.org/category/parte1/parte1-1/" title="Ver todas las entradas en Letra" rel="category tag">Letra</a>, <a href="http://www.oert.org/category/parte1/" title="Ver todas las entradas en Teoría" rel="category tag">Teoría</a> </span>
+       		<span> <a href="http://www.oert.org/anatomia-tipografica/#commentarea"  class="i_comment" ><fb:comments-count xmlns="http://ogp.me/ns/fb#" href="http://www.oert.org/anatomia-tipografica/"></fb:comments-count> comentarios </a></span>
+                         </p>
+                    
+                
+                  <div  class="options-box" id="t2d183" style="display:none;">
+                     	
+                                     <a class="post_img" href="http://www.oert.org/anatomia-tipografica/">
+             <img width="75" height="75" src="http://www.oert.org/wp-content/uploads/2012/07/T04B_01-anatomia_tipografica-150x150.jpg" class=" wp-post-image" alt="Anatomía tipográfica" />             </a>
+                        
+             	  
+                 <p>  <span class="highlight_word"></span>Partes<span class="highlight_word"></span> <span class="highlight_word"></span>de<span class="highlight_word"></span> <span class="highlight_word"></span>la<span class="highlight_word"></span> <span class="highlight_word"></span>letra<span class="highlight_word"></span>: <span class="highlight_word"></span>ubicaci<span class="highlight_word"></span>ó<span class="highlight_word"></span>n<span class="highlight_word"></span> <span class="highlight_word"></span>y<span class="highlight_word"></span> <span class="highlight_word"></span>definici<span class="highlight_word"></span>ó<span class="highlight_word"></span>n<span class="highlight_word"></span>.</p>
+                <p class="more">  <a href="http://www.oert.org/anatomia-tipografica/" class="more">Read More</a> </p>
+                </div> <!-- content #end -->
+              </div> <!-- featured box #end -->
+              
+                          
+                   
+  </div> <!-- tab 2 #end-->
+
+  <div class="tabbertab">
+    <h2>Los más leídos</h2>
+    
+    
+    
+           
+             
+    
+  </div> <!-- tab 3 #end-->
+  
+  
+  
+  <div class="tabbertab">
+    <h2>Comentarios recientes</h2>
+ 		
+    <ul class="recent-comment">
+</ul>
+               
+  </div> <!-- tab 4 #end-->
+</div> <!-- tabber #end -->
+          
+          
+                
+     
+           
+
+</div><div class="widget"><h3><span>
+</span></h3>			<div class="textwidget"><script src="http://ow.ly/kvXjq"></script>
+</div>
+		</div></div><!-- Please Don't Delete this current-content Div it's compulsory for Ajax Search -->
+<div id="dynamic-content"></div>	<!-- Please Don't Delete this dynamic-content Div it's compulsory for Ajax Search -->     
+    <!-- Logo parade -->
+    <div id="sponsors" class="clearfix">
+<span>Apoyan OERT</span>
+	<div id="logoParade">
+		<a href="http://www.growthetype.com" target="_blank"><img src="http://www.oert.org/wp-content/themes/WikiBase/images/backers/logoparade/gtt.png" alt="X. Garrig�s / J. Sempere" border="0" /></a>
+		<a href="http://www.estudio-ch.com" target="_blank"><img src="http://www.oert.org/wp-content/themes/WikiBase/images/backers/logoparade/estudio-ch.png" alt="Crist�bal Henestrosa" border="0" /></a>
+		<a href="http://www.google.com/webfonts" target="_blank"><img src="http://www.oert.org/wp-content/themes/WikiBase/images/backers/logoparade/gwf.png" alt="Google Web Fonts" border="0" /></a>
+		<a href="http://www.tipopepel.com" target="_blank"><img src="http://www.oert.org/wp-content/themes/WikiBase/images/backers/logoparade/tipopepel.png" alt="Josep Patau Bellart" border="0" /></a>
+		<a href="http://www.solunic.at" target="_blank"><img src="http://www.oert.org/wp-content/themes/WikiBase/images/backers/logoparade/solunic.png" alt="Martin Schlagnitweit" border="0" /></a>	
+		<a href="http://www.eduardochang.com" target="_blank"><img src="http://www.oert.org/wp-content/themes/WikiBase/images/backers/logoparade/chang.png" alt="Eduardo Chang" border="0" /></a>
+		<a href="http://www.impallari.com" target="_blank"><img src="http://www.oert.org/wp-content/themes/WikiBase/images/backers/logoparade/impallari.png" alt="Pablo Impallari" border="0" /></a>
+		<a href="http://www.pathawks.com" target="_blank"><img src="http://www.oert.org/wp-content/themes/WikiBase/images/backers/logoparade/hawks.png" alt="Pat Hawks" border="0" /></a>
+		<a href="http://www.tipo-e.com" target="_blank" id="startAtMe"><img src="http://www.oert.org/wp-content/themes/WikiBase/images/backers/logoparade/tipoe.png" alt="Elena Veguillas / Manuel Sesma" border="0" /></a>
+		<a href="http://www.typefacedesign.org" target="_blank"><img src="http://www.oert.org/wp-content/themes/WikiBase/images/backers/logoparade/reading.png" alt="Gerry Leonidas" border="0" /></a>
+		<a href="http://www.type-together.com" target="_blank"><img src="http://www.oert.org/wp-content/themes/WikiBase/images/backers/logoparade/typetogether.png" alt="Type-Together" border="0" /></a>
+		<a href="http://www.sudtipos.com" target="_blank"><img src="http://www.oert.org/wp-content/themes/WikiBase/images/backers/logoparade/sudtipos.png" alt="Sudtipos" border="0" /></a>
+		<a href="http://www.tipo.net.ar" target="_blank"><img src="http://www.oert.org/wp-content/themes/WikiBase/images/backers/logoparade/tiponet.png" alt="Tipo" border="0" /></a>
+		<a href="http://www.jcpagan.com" target="_blank"><img src="http://www.oert.org/wp-content/themes/WikiBase/images/backers/logoparade/ps.png" alt="Pagan & Sharp" border="0" /></a>
+		<a href="http://www.tipocracia.com.br" target="_blank"><img src="http://www.oert.org/wp-content/themes/WikiBase/images/backers/logoparade/tipocracia.png" alt="Tipocracia (Henrique Nardi)" border="0" /></a>
+	</div>
+</div>
+    <!-- fin de logoparade -->
+</div> <!-- content #end -->                     
+<div id="lang_sel"  >
+    <ul>
+        <li><a href="#" class="lang_sel_sel icl-es">
+                            
+            <img  class="iclflag" src="http://www.oert.org/wp-content/plugins/sitepress-multilingual-cms/res/flags/es.png" alt="es" />                                
+            &nbsp;Español</a>                                    
+            <ul>
+                                <li class="icl-en">          
+                    <a rel="alternate" hreflang="en" href="http://www.oert.org/en/">
+                                    
+                    <img  class="iclflag" src="http://www.oert.org/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png" alt="en" />&nbsp;                    
+                                        English                    </a>
+                </li>
+                            </ul>            
+             
+                    </li>
+    </ul>    
+</div>
+ <!-- selector de idiomas -->
+<div id="sidebar">
+	<div class="widget"><h3><span>Recursos</span></h3><div class="menu-recursos-container"><ul id="menu-recursos" class="menu"><li id="menu-item-2003" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2003"><a href="http://www.oert.org/category/parte1/">Teoría</a>
+<ul class="sub-menu">
+	<li id="menu-item-2004" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2004"><a href="http://www.oert.org/category/parte1/parte1-1/">Letra</a></li>
+	<li id="menu-item-2005" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2005"><a href="http://www.oert.org/category/parte1/parte1-2/">Texto</a></li>
+	<li id="menu-item-2006" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2006"><a href="http://www.oert.org/category/parte1/parte1-3/">Página</a></li>
+</ul>
+</li>
+<li id="menu-item-2007" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2007"><a href="http://www.oert.org/category/parte2/">Práctica</a>
+<ul class="sub-menu">
+	<li id="menu-item-2008" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2008"><a href="http://www.oert.org/category/parte2/parte2-1/">Letra</a></li>
+	<li id="menu-item-2009" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2009"><a href="http://www.oert.org/category/parte2/parte2-2/">Texto</a></li>
+	<li id="menu-item-2010" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2010"><a href="http://www.oert.org/category/parte2/parte2-3/">Página</a></li>
+</ul>
+</li>
+<li id="menu-item-2011" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2011"><a href="http://www.oert.org/category/parte3/">Historia</a></li>
+</ul></div></div><div class="widget"><h3><span>Páginas</span></h3><div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-37" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37"><a href="http://www.oert.org/el-proyecto/">El proyecto</a></li>
+<li id="menu-item-62" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-62"><a href="http://www.oert.org/los-autores/">Los autores</a></li>
+<li id="menu-item-63" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-63"><a href="http://www.oert.org/comite-editorial/">Comité Editorial</a></li>
+<li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36"><a href="http://www.oert.org/equipo-de-trabajo-2/">Equipo de trabajo</a></li>
+<li id="menu-item-38" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38"><a href="http://www.oert.org/apoyan-este-proyecto-2/">Apoyan este proyecto&#8230;</a></li>
+<li id="menu-item-568" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-568"><a href="http://www.oert.org/preguntas-frecuentes/">Preguntas Frecuentes</a></li>
+<li id="menu-item-39" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39"><a href="http://www.oert.org/contacto-2/">Contacto</a></li>
+</ul></div></div></div> <!-- sidebar right--> 
+</div> <!-- wrapper #end -->
+  
+<div id="footer" class="clearfix">
+<div id="footer_in">
+<p class="copy"><a rel="license" href="http://creativecommons.org/licenses/by-sa/2.5/ar/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/2.5/ar/80x15.png" /></a> <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Open Educational Resources for Typography</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.oert.org/" property="cc:attributionName" rel="cc:attributionURL">OERT</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.5/ar/">Creative Commons Attribution-ShareAlike 2.5 Argentina License</a>.</p>
+<p class="fr"><span class="designby">Alojado en </span>
+<span class="wiroos"><a href="http://www.wiroos.com" title="Wiroos">Wiroos</a></span>
+</p>	
+</div></div> <!-- footer #end -->
+
+<script type='text/javascript' src='http://www.oert.org/wp-content/themes/WikiBase/library/js/livesearch.js?ver=1'></script>
+<script type='text/javascript' src='http://www.oert.org/wp-content/themes/WikiBase/library/js/jquery.hoveraccordion.min.js?ver=1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var FB_WP=FB_WP||{};FB_WP.queue={_methods:[],flushed:false,add:function(fn){FB_WP.queue.flushed?fn():FB_WP.queue._methods.push(fn)},flush:function(){for(var fn;fn=FB_WP.queue._methods.shift();){fn()}FB_WP.queue.flushed=true}};window.fbAsyncInit=function(){FB.init({"channelUrl":"http:\/\/www.oert.org\/wp-content\/plugins\/facebook\/channel.php","xfbml":true,"appId":"285109618260716"});if(FB_WP && FB_WP.queue && FB_WP.queue.flush){FB_WP.queue.flush()}}
+/* ]]> */
+</script>
+<div id="fb-root"></div><script type="text/javascript">(function(d){var id="facebook-jssdk";if(!d.getElementById(id)){var js=d.createElement("script"),ref=d.getElementsByTagName("script")[0];js.id=id,js.async=true,js.src="http:\/\/connect.facebook.net\/es_ES\/all.js",ref.parentNode.insertBefore(js,ref)}})(document)</script>
+<script type='text/javascript' src=''></script>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27724959-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script><script type="text/javascript">
+	//<![CDATA[
+		function initBelle() {
+			Belle.AjaxURL		= "http://www.oert.org/?sajax=1"
+			// Initialize Livesearch
+			Belle.LiveSearch	= new LiveSearch( "Escribe y obten resultados al instante" )
+			}
+		jQuery(document).ready( function() { initBelle() })
+	//]]>
+	</script>
+<!-- LOAD JAVASCRIPT LATE - JUST BEFORE THE BODY TAG 
+		 That way the browser will have loaded the images
+	  	 and will know the width of the images. No need to
+		 specify the width in the CSS or inline. -->
+
+	<!-- jQuery library - Please load it from Google API's -->
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+
+	<!-- jQuery UI Widget and Effects Core (custom download)
+		 You can make your own at: http://jqueryui.com/download -->
+	<script src="http://www.oert.org/wp-content/themes/WikiBase/library/js/jquery-ui-1.8.18.custom.min.js" type="text/javascript"></script>
+	
+	<!-- Latest version of jQuery Mouse Wheel by Brandon Aaron
+		 You will find it here: http://brandonaaron.net/code/mousewheel/demos -->
+	<script src="http://www.oert.org/wp-content/themes/WikiBase/library/js/jquery.mousewheel.min.js" type="text/javascript"></script>
+
+	<!-- Smooth Div Scroll 1.2 minified-->
+	<script src="http://www.oert.org/wp-content/themes/WikiBase/library/js/jquery.smoothdivscroll-1.2-min.js" type="text/javascript"></script>
+
+	<!-- If you want to look at the uncompressed version you find it at
+		 js/jquery.smoothDivScroll-1.2.js -->
+
+	<!-- Plugin initialization -->
+	<script type="text/javascript">
+		jQuery(document).ready(function () {
+			jQuery("#logoParade").smoothDivScroll({
+				autoScrollingMode: "always",
+				autoScrollingDirection: "endlessloopright",
+				autoScrollingStep: 1,
+				autoScrollingInterval: 25 
+			});
+
+			// Logo parade
+			jQuery("#logoParade").bind("mouseover", function () {
+				jQuery(this).smoothDivScroll("stopAutoScrolling");
+			}).bind("mouseout", function () {
+				jQuery(this).smoothDivScroll("startAutoScrolling");
+			});
+
+		});
+		
+	</script>	
+	
+</body></html>

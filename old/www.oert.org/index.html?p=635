@@ -1,0 +1,512 @@
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<title>
+  Latin alphabet proportions&nbsp;|&nbsp;OERT</title>
+
+<link rel="stylesheet" href="wp-content/plugins/sitepress-multilingual-cms/res/css/language-selector.css?v=2.6.0" type="text/css" media="all" />
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="stylesheet" type="text/css" href="wp-content/themes/WikiBase/style.css" media="screen" />
+<link rel="shortcut icon" type="image/png" href="wp-content/uploads/favicon.ico" />
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="en/index.html?cat=&amp;feed=rss2" />
+<link rel="pingback" href="xmlrpc.php" />
+
+<link rel="stylesheet" type="text/css" href="wp-content/themes/WikiBase/library/css/print.css" media="print" />
+<link rel="Stylesheet" type="text/css" href="wp-content/themes/WikiBase/library/css/smoothDivScroll.css" />
+
+<script src="http://connect.facebook.net/es_ES/all.js#xfbml=1"></script>
+<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+<script src="https://apis.google.com/js/plusone.js" type="text/javascript"></script>
+
+
+ <link href="wp-content/themes/WikiBase/custom.css" rel="stylesheet" type="text/css">
+<script language="javascript" type="text/javascript">
+	function hasClass(ele,cls) {
+	return ele.className.match(new RegExp('(\\s|^)'+cls+'(\\s|$)'));
+	}
+
+    function addClass(ele,cls) {
+    if (!this.hasClass(ele,cls)) ele.className += " "+cls;
+    }
+    function removeClass(ele,cls) {
+    if (hasClass(ele,cls)) {
+        var reg = new RegExp('(\\s|^)'+cls+'(\\s|$)');
+        ele.className=ele.className.replace(reg,' ');
+    }
+    }
+
+    function showHideDiv(sids,divids)
+    {
+		//alert(sids);
+		//alert(divids);
+        var divstyle = new String();
+		var spanstyle = new String();
+		var spansid = new String();
+		spansid = document.getElementById(sids);
+        divstyle = document.getElementById(divids).style.display;
+        if(divstyle.toLowerCase()=="block" || divstyle == "")
+        {
+            document.getElementById(divids).style.display = "none";
+			removeClass(spansid,'neg');
+			addClass(spansid,'pos');
+        }
+        else
+        {
+            document.getElementById(divids).style.display = "block";
+			removeClass(spansid,'pos');
+			addClass(spansid,'neg');
+        }
+    }
+    </script>
+    <script type="text/javascript">
+        $(document).ready( function() {
+            $('#menu-recursos').hoverAccordion({
+                keepHeight:true,
+                activateItem: 3,
+                speed: 400
+            });
+        });
+    </script>
+        
+<link rel="dns-prefetch" href="http://connect.facebook.net/" />
+<link rel="alternate" type="application/rss+xml" title="OERT &raquo; Latin alphabet proportions Comments Feed" href="en/latin-alphabet-proportions/feed/index.html" />
+<link rel='stylesheet' id='wpml-cms-nav-css-css'  href='wp-content/plugins/wpml-cms-nav/res/css/navigation.css?ver=1.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='cms-navigation-style-base-css'  href='wp-content/plugins/wpml-cms-nav/res/css/cms-navigation-base.css?ver=1.2.7' type='text/css' media='screen' />
+<link rel='stylesheet' id='cms-navigation-style-css'  href='wp-content/plugins/wpml-cms-nav/res/css/cms-navigation.css?ver=1.2.7' type='text/css' media='screen' />
+<link rel='stylesheet' id='facebook-css'  href='wp-content/plugins/facebook/static/css/style.min.css?ver=1.3.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.oert.org/wp-includes/js/jquery/jquery.js?ver=1.8.3'></script>
+<script type='text/javascript' src='wp-content/themes/WikiBase/library/js/functions.js?ver=1'></script>
+<script type='text/javascript' src='http://www.oert.org/wp-includes/js/comment-reply.min.js?ver=3.5.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.oert.org/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Typographic classification' href='index.html?p=634' />
+<link rel='next' title='Structure, stroke and counters of the typographic characters.' href='index.html?p=637' />
+<meta name="generator" content="WordPress 3.5.1" />
+<link rel='shortlink' href='index.html?p=635' />
+
+	<!-- This site uses Good Old Gallery, get it from http://wp.unwi.se/good-old-gallery -->
+
+        <style type="text/css" media="screen">
+          div.printfriendly {
+            margin: 0px 0px 0px 0px;;
+          }
+          div.printfriendly a, div.printfriendly a:link, div.printfriendly a:visited {
+            text-decoration: none;
+            font-size: 14px;
+            color: #99cc00;
+            vertical-align: bottom;
+            border: none;
+          }
+
+          .printfriendly a:hover {
+            cursor: pointer;
+          }
+
+          .printfriendly a img  {
+            border: none;
+            padding:0;
+            margin-right: 6px;
+            display:inline-block;
+            box-shadow: none;
+            -webkit-box-shadow: none;
+            -moz-box-shadow: none;
+          }
+          .printfriendly a span{
+            vertical-align: bottom;
+          }
+          .pf-alignleft {
+            float: left;
+          }
+          .pf-alignright {
+            float: right;
+          }
+          div.pf-aligncenter {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            text-align: center;
+          }
+        </style>
+        <style type="text/css" media="print">
+          .printfriendly {
+            display: none;
+          }
+        </style>
+<script type="text/javascript">var icl_lang = 'en';var icl_home = 'http://www.oert.org/en/';</script>
+<script type="text/javascript" src="wp-content/plugins/sitepress-multilingual-cms/res/js/sitepress.js"></script>
+<meta name="generator" content="WPML ver:2.6.0 stt:1,2;0" />
+<link rel="alternate" hreflang="es_ES" href="index.html?p=179" />
+
+<style type="text/css">#lang_sel a, #lang_sel a.lang_sel_sel{color:#444444;}#lang_sel a:hover, #lang_sel a.lang_sel_sel:hover{color:#000000;}#lang_sel a.lang_sel_sel, #lang_sel a.lang_sel_sel:visited{background-color:#f5f4f2;}#lang_sel a.lang_sel_sel:hover{background-color:#eeeeee;}#lang_sel li ul a, #lang_sel li ul a:visited{color:#444444;}#lang_sel li ul a:hover{color:#000000;}#lang_sel li ul a, #lang_sel li ul a:link, #lang_sel li ul a:visited{background-color:#f5f4f2;}#lang_sel li ul a:hover{background-color:#eeeeee;}#lang_sel a, #lang_sel a:visited{border-color:#cdcdcd;} #lang_sel ul ul{border-top:1px solid #cdcdcd;}</style>
+
+<style type="text/css">#lang_sel  {width: 195px; margin-bottom:24px;}
+#lang_sel a {font-size:12px;}
+#lang_sel li {width:192px; }
+
+</style>		<link href="wp-content/themes/WikiBase/skins/1-default.css" rel="stylesheet" type="text/css" />
+
+
+<link href='http://boakes.org/most-wanted?v=0.1.9v' />
+<link rel="canonical" href="index.html?p=635"/>
+<meta property="og:site_name" content="OERT" />
+<meta property="og:type" content="article" />
+<meta property="og:locale" content="es_ES" />
+<meta property="fb:app_id" content="285109618260716" />
+<meta property="og:url" content="http://www.oert.org/en/latin-alphabet-proportions/" />
+<meta property="og:title" content="Latin alphabet proportions" />
+<meta property="og:description" content="Production technology and its influence on shapes. Trajan capitals and their establishment as a model. Basic structures and common width groups. Groups by morphological relation. Historical and contemporary widths." />
+<meta property="article:published_time" content="2012-04-27T05:46:14+00:00" />
+<meta property="article:modified_time" content="2012-11-02T12:16:51+00:00" />
+<meta property="article:author" content="http://www.oert.org/en/author/admin/" />
+<meta property="article:section" content="Letter" />
+<meta property="article:tag" content="Theory" />
+</head>
+<body class="single single-post postid-635 single-format-standard">
+<div id="header">   
+<div id="header_in" class="clearfix">
+<div class="logo"> 
+   <div class="blog-title"><a href="en/index.html">OERT</a> 
+		
+		 <p class="blog-description">
+		  Open Educational Resources for Typography		</p>
+   </div> 
+   </div>
+                        <div class="header_right">
+        	<p>Última actualización: <span>April 7, 2013</span></p>
+                        <form method="get" id="searchform" action="en/index.html">
+<div id="search-form-wrap">
+<label for="s" id="search-label">Buscar:</label>
+<input type="text" id="s" name="s" accesskey="4" value="" />
+<input type="hidden" name="stype" value="ajsearch" />
+<input type="submit" name="stype" value="Search" style="display:none;" class="b_search" />
+<span id="searchreset" title="Reset Search"></span>
+<span id="searchload"></span>
+</div>
+</form>
+
+                    </div>               
+   </div> 
+ </div>   <!-- header #end -->     <div id="wrapper" class="clearfix">  
+  		<div id="content" >
+         <div id="current-content">
+                 <div class="breadcrumb clearfix">
+        <a rel="nofollow" href="en/index.html">Home</a>  <a href="en/category/part1/index.html" title="View all posts in Theory">Theory</a>  <a href="en/category/part1/part1-1/index.html" title="View all posts in Letter">Letter</a>  Latin alphabet proportions        </div>
+             
+                       
+        <div class="single_post">
+        <h1 class="head">Latin alphabet proportions</h1>
+ 		  		                  <p class="post_info clearfix post_info_single"><span>Posted by <a href="en/author/admin/index.html" title="Posts by OERT" rel="author">OERT</a> - Apr 27, 2012 </span>
+                     <span class="i_cate"> <a href="en/category/part1/part1-1/index.html" title="View all posts in Letter" rel="category tag">Letter</a>, <a href="en/category/part1/index.html" title="View all posts in Theory" rel="category tag">Theory</a> </span>
+                      <span> <a href="index.html?p=635#commentarea"  class="i_comment" ><fb:comments-count xmlns="http://ogp.me/ns/fb#" href="http://www.oert.org/en/latin-alphabet-proportions/"></fb:comments-count> Comments </a></span>                      
+                      <a href="en/index.html?cat=22&amp;feed=rss2" class="i_rss">Receive Updates For This Category</a>
+                      
+                       </p>
+                       
+                       
+					              
+              
+              <div id="post-635" class="posts clearfix">               		               
+              		
+              		<!-- Templatic Article Tools #end -->
+              		
+              		              		
+              		<!-- Templatic Article Tools #end -->
+
+                      <p class="autor">Elaboración: Marcela Romero</p>
+<p class="note">Artículo en proceso de traducción </p>
+<blockquote><p>Roman culture not only consolidated the Latin alphabet but also formally developed the signs. We will analyze some of the fundamental factors in these characters’ technology and morphology, without considering the serif and the stroke, so as to focus on its skeleton: the structure.</p></blockquote>
+<h3>Technology and the letter</h3>
+<p>De todas las manifestaciones escritas de los romanos, la que alcanzó Of all the Romans’ written manifestations, the one with the greatest formal development was that of tombstones. It clearly shows a formal and aesthetic search, a clear design intention in each letter and in the typographic alphabet as a whole. The material, stone, had also been used by the Egyptians and the Greeks for the clearest versions of the respective writings. </p>
+<p>The signs carved in stone are one of the first examples of typographic design. The way these symbols were built (flat brush and chisel) influenced the shape of each sign and of the alphabet. Function and technology work together to create characteristics which make up the system.</p>
+<h3>Tombstone writing</h3>
+<p>the beginning they were mono linear. By the end of the Vth century B.C. Greek capitals became geometrically perfect, with great beauty. Occasionally they were altered by the artist, though they always maintained symmetry. Later on Roman influence made them be drawn with a slight difference in width and terminated with a little serif. </p>
+<p>Roman writing took Greek writing but modified the stroke. Roman capitals were painted with a flat brush before they were carved, thus their stroke is gradual. They made optical adjustments in the signs and in the block, which together with the accurate proportion in strokes made these writings beautiful. Also due to the drawing and carving technique the serif or termination appeared, giving the letter support and stability. The gradual stroke and the serif are specific characteristics of Roman typography.</p>
+<h3>Basic structure</h3>
+<p>First we will analyze classic capitals on the basis of the width (or thickness) of the characters and we will then make up groups with characters that share other morphologic characteristics, such as loops, diagonal strokes or crossbars, etc.</p>
+<h3>El ancho de los caracteres</h3>
+<p>In order to visualize more clearly the classic structures and the relations supported by each letter, we will analyze them within sets defined according to the width and height of a round letter (the «O» which, in the case of the Romans, enters within a square) and of a narrow letter (the «E» which in this case is half the width of the «O»). Inside these containers we mark the diagonal strokes and intersections with the circle, to take as references the width and other morphologic characteristics which will help us with the analysis.</p>
+<div id="attachment_830" class="wp-caption alignnone" style="width: 710px"><a href="wp-content/uploads/2012/07/T04A_01-propor_redondas_2.jpg"><img class="size-full wp-image-830  " title="Módulos y letras redondas" src="wp-content/uploads/2012/07/T04A_01-propor_redondas_2.jpg" alt="Módulos y letras redondas" width="700" height="525" /></a><p class="wp-caption-text">Para las romanas clásicas la forma contenedora cuadrada deriva de la proporción de la «O». El segundo contenedor está formado por dos cuadrados con lado igual a la mitad del anterior.</p></div>
+<div id="attachment_839" class="wp-caption alignnone" style="width: 710px"><a href="wp-content/uploads/2012/07/T04A_10-oe.jpg"><img class="size-full wp-image-839" title="Proporciones de la “O” y la “E” clásicas" src="wp-content/uploads/2012/07/T04A_10-oe.jpg" alt="Proporciones de la “O” y la “E” clásicas" width="700" height="525" /></a><p class="wp-caption-text">Proporciones de la “O” y la “E” clásicas.</p></div>
+<p><em>Round Letters:</em> C, D, G, O, Q. They structurally derive from a circle and, as the rest of the Roman structures, they present optical corrections. In this case, upper and lower curves go slightly beyond the baseline. The «O» and the «Q» are as wide as tall, the «C», the «G» and the «D» are slightly narrower than taller.</p>
+<p><em>Wide Letters: </em>M, W. They go beyond the width of the module, that is, they are wider than the «O», and are the widest in the alphabet.</p>
+<p><a href="wp-content/uploads/2012/07/T04A_02-propor_anchas_2.jpg"><img class="size-full wp-image-831" title="Letras anchas" src="wp-content/uploads/2012/07/T04A_02-propor_anchas_2.jpg" alt="Letras anchas" width="700" height="525" /></a></p>
+<p><em>Rectangular Letters: </em>H, U, N, T, A, V, Z. The width of these signs is approximately that of the rectangle defined by the intersection of the circle with the diagonals of the square. As these letters share only the width, further on we will analyze them by making up groups with more characteristics in common.</p>
+<p><a href="wp-content/uploads/2012/07/T04A_03-propor_rectangular_2.jpg"><img class="size-full wp-image-832" title="Letras rectangulares" src="wp-content/uploads/2012/07/T04A_03-propor_rectangular_2.jpg" alt="Letras rectangulares" width="700" height="525" /></a></p>
+<p><em>Narrow Letters 1:</em> B, E, L, F, P, R, S. Their width is approximately half their height.</p>
+<p><a href="wp-content/uploads/2012/07/T04A_04-propor_angostas1_2.jpg"><img class="size-full wp-image-833" title="Letras angostas" src="wp-content/uploads/2012/07/T04A_04-propor_angostas1_2.jpg" alt="Letras angostas" width="700" height="525" /></a></p>
+<p><em>Narrow Letters 2:</em> I, J, K, Y. They are also narrow, but do not share the width with the ones above nor with each other. The «I» is the narrowest, followed by the «J»; the «Y» and the «K» are slightly wider than the narrow module.</p>
+<p><a href="wp-content/uploads/2012/07/T04A_05-propor_angostas2_2.jpg"><img class="size-full wp-image-834" title="Letras angostas" src="wp-content/uploads/2012/07/T04A_05-propor_angostas2_2.jpg" alt="Letras angostas" width="700" height="525" /></a></p>
+<h3>Morphological relationships </h3>
+<p><em>A, V, W, M: </em>they are related by a central apex, built with a similar angle. The end of the apex goes beyond, by optical correction, the height line or the baseline, depending on the letter. The width of the «A» and of the «V» is 3/4 their height. The crossbar in the «A» is located below the geometric center to give it more stability and to compensate for its counter forms.</p>
+<p><a href="wp-content/uploads/2012/07/T04A_06-parentesco_avwm.jpg"><img class="alignnone size-full wp-image-835" title="Parentesco morfológico: diagonales y eje de simetría vertical" src="wp-content/uploads/2012/07/T04A_06-parentesco_avwm.jpg" alt="Parentesco morfológico: diagonales y eje de simetría vertical" width="700" height="525" /></a></p>
+<p>The «M» and the «W» are the widest letters in the alphabet. The «M» is as wide (or slightly wider) as tall while the W is slightly wider.</p>
+<p><em>O, Q, C, D, G: </em>are the ones that derive from the circle. The «O» and the «Q» are visualized as circles, the tail of the Q, in this case, is long and curved, but may vary in shape and size. The width of the «C», the «G» and the «D» is approximately 7/8 their height.</p>
+<p>The «G» presents a short ascender arm, which does not go beyond the geometric center, and which terminates in an «elbow», towards the interior of the letter. This element is not always present. </p>
+<p>The «D» is contained by horizontal strokes above and below, which give it great support. Also, these letters have similar width.</p>
+<p>La «D» está contenida arriba y abajo por trazos horizontales, que le otorgan buen apoyo. Estas letras tienen además un ancho similar.</p>
+<p><a href="wp-content/uploads/2012/07/T04A_07-parentesco_oqcdg.jpg"><img class="alignnone size-full wp-image-836" title="Parentesco: letras redondas" src="wp-content/uploads/2012/07/T04A_07-parentesco_oqcdg.jpg" alt="Parentesco: letras redondas" width="700" height="525" /></a></p>
+<p><em>E, F, L: </em>their width is approximately half their height. In the «E» and the «F» the central stroke is located above the geometric center. They are built by vertical and horizontal strokes.</p>
+<p><a href="wp-content/uploads/2012/07/T04A_08-parentesco_efl.jpg"><img class="alignnone size-full wp-image-837" title="Parentesco: angostas con horizontales y verticales" src="wp-content/uploads/2012/07/T04A_08-parentesco_efl.jpg" alt="Parentesco: angostas con horizontales y verticales" width="700" height="525" /></a></p>
+<p><em>B, P, R: </em>have «loops» in their structure.</p>
+<p>The «B» has two, the upper one smaller than the lower one. The upper part has a width equivalent to half its height, the lower part is slightly wider.</p>
+<p>The «P» and the «R» have a common structure, with a width which is almost half their width. The «P», in this case, has no link between the loop and the stem. This characteristic is not present in every typeface family.</p>
+<p>The tail of the «R» grants the letter support, the total width is 3/4 its height.</p>
+<p><a href="wp-content/uploads/2012/07/T04A_09-parentesco_bpr.jpg"><img class="alignnone size-full wp-image-838" title="Parentesco: angostas con bucles" src="wp-content/uploads/2012/07/T04A_09-parentesco_bpr.jpg" alt="Parentesco: angostas con bucles" width="700" height="525" /></a></p>
+<p><em>X, Y, K: </em>the encounter of the strokes is held in a medium point.</p>
+<p>In the «X» and the «K» this takes place in the optic center, slightly above the geometric one.</p>
+<p>The «K» has two diagonal strokes, an ascender and a descender, both with similar angles. The upper diagonal stroke reaches a width which is 2/3 the height, while the lower one is 3/4 the height.</p>
+<p>The arms of the «Y» come together below the geometric center, allowing the interior counter form to be wider. The angle is similar to that of the «X».</p>
+<p><a href="wp-content/uploads/2012/07/T04A_11-parentesco_xky.jpg"><img class="alignnone size-full wp-image-840" title="Parentesco: diagonales con contraforma superior e inferior" src="wp-content/uploads/2012/07/T04A_11-parentesco_xky.jpg" alt="Parentesco: diagonales con contraforma superior e inferior" width="700" height="525" /></a></p>
+<p><em>H, I, J, T: </em>the «I» works as constructive model of the other three letters.</p>
+<p>The «J» extends, in this case, with a soft curve below the baseline, 1/3 its height. It shares the characteristic of going below the baseline only with the «Q».</p>
+<p>The «H» is solid and stable. The crossbar is located above the geometric center, so that the lower counterform may support the upper one. Its width is approximately ¾ its height.</p>
+<p>The «T» has the stem as the symmetry axis of the crossbar. Its width is similar to that of the «H».</p>
+<p><a href="wp-content/uploads/2012/07/T04A_12-parentesco_hijt.jpg"><img class="alignnone size-full wp-image-841" title="Parentesco: asta vertical" src="wp-content/uploads/2012/07/T04A_12-parentesco_hijt.jpg" alt="Parentesco: asta vertical" width="700" height="525" /></a></p>
+<p><em>S: </em>it is a complex letter. It is formed by a curve and counter-curve with a narrow development. The lower curve derives from a circle which is larger than the upper one, to support it and give it greater back up. It is unstable. Its width is approximately half its height. It shares the type of curves with the rest of the circular signs.</p>
+<p><em>N: </em>it is quite wide, occupying ¾ its height. The diagonal stroke divides the internal counterforms in spaces which are approximately the same, as are the angles. The vortices go beyond the height and the baseline due to optical correction.</p>
+<p><em>U: </em>it is also unstable as it leans on a curve which goes slightly beyond the baseline. Its width is approximately ¾ its height.</p>
+<p><em>Z: </em>It is solid and stable as the supporting arm is a bit longer than the upper arm, with a vortex that goes slightly beyond the case.</p>
+<p><a href="wp-content/uploads/2012/07/T04A_13-s_n_u_z.jpg"><img class="alignnone size-full wp-image-842" title="Sin grupo de parentesco" src="wp-content/uploads/2012/07/T04A_13-s_n_u_z.jpg" alt="Sin grupo de parentesco" width="700" height="525" /></a></p>
+<h3>Comparing proportions with recently designed alphabets</h3>
+<p>In different typographic designs, structures undergo changes that make each family a distinctive one, but basic characteristics are maintained, to make them recognizable. Deeper structural changes affect the width of signs, the height of capitals, of the x, and of ascenders and descenders.</p>
+<p>As regards style, though this is not our main concern today, changes are produced in the stroke (uniform or with different relations between wide ones and thin ones) and in the terminals (serif if present, and cuts in the strokes, in the sans-serif ones). In the Latin alphabet, to take it as example —Trajan, Carol Twombly, 1989— we had taken the «O» to build the container, which based on its width and height was a square. In other cases it will be a rectangle, if the «O» is higher than wider. </p>
+<p>If we analyze the signs in this other example —Rosario, H. Gatti, 2004—, there are many coincidences with the analyses performed for the Trajans.</p>
+<p>If we take Rosario, and we repeat the procedure of looking for the O container, we will see that it is a vertical rectangle (width/height proportion: 3/4). </p>
+<p>When dividing in groups based on differences in width we see that, in general, differences are slighter and the narrow ones are wider. That is to say, there are subtle differences in width and they have to do with the same criteria as those in classic ones. There are two letters where the width is different: the Z, narrower and the S, much wider than its Latin correspondent. The most important difference is that there is less variation in width.</p>
+<p><em>M and W: </em>Are wide, wider than the «O»</p>
+<p><em>O and Q: </em>have almost the same width.</p>
+<p><em>C, D and G: </em>are slightly narrower than the «O» or the «Q», as in the Traja</p>
+<p><a href="wp-content/uploads/2012/07/T04A_14-o_grande.jpg"><img class="alignnone size-full wp-image-843" title="Letra “O” de proporciones contemporáneas" src="wp-content/uploads/2012/07/T04A_14-o_grande.jpg" alt="Letra “O” de proporciones contemporáneas" width="700" height="525" /></a></p>
+<p><a href="wp-content/uploads/2012/07/T04A_15-mw_oqcdg.jpg"><img class="alignnone size-full wp-image-844" title="Grupo de las anchas y las redondas" src="wp-content/uploads/2012/07/T04A_15-mw_oqcdg.jpg" alt="Grupo de las anchas y las redondas" width="700" height="525" /></a></p>
+<p><em>H, U, N, T, A, V and Z:</em> narrower than the round ones (1/5 less) and the «Z» is still a bit narrower.</p>
+<p><em>B, P, R; E, F, L; K, X, Y; S, N, U, Z; H, I, J, T: </em>are narrow, though with differences between each other. «I» is the narrowest one, K» and «X» the widest, just as in Trajans.</p>
+<p><a href="wp-content/uploads/2012/07/T04A_16-efl_bpr_kxy_snuz_hijt.jpg"><img class="alignnone size-full wp-image-845" title="Grupos de anchos" src="wp-content/uploads/2012/07/T04A_16-efl_bpr_kxy_snuz_hijt.jpg" alt="Grupos de anchos" width="700" height="525" /></a></p>
+<p>We may conclude that first, analysis has to be performed on each family, because apart from the general, there are differences, and second, though these may not be noticeable, we can recognize relationships in the criteria that determine widths.</p>
+<p class="icl_post_in_other_langs">Esta entrada también está disponible en: <a href="index.html?p=179">Spanish</a></p>                   
+                  
+                  <div class="like_this_section clearfix">
+					<div class="google_like">
+					<g:plusone href="http://www.oert.org" size="medium"></g:plusone>
+					</div>	                  
+                     <div class="twitter_like">
+                     <a href="http://twitter.com/share" class="twitter-share-button" data-via="oert.org" data-lang="es" data-size="medium">Tweet</a>
+                     </div>
+                     <div class="fb_like">
+                     <fb:like href="http%3A%2F%2Fwww.oert.org%2Fen%2Flatin-alphabet-proportions%2F" layout="button_count" show_faces="false" width="450" height="30"></fb:like>
+                     </div>
+                     <div class="printfriendly"><a href="http://www.printfriendly.com/print?url=http://www.oert.org/en/latin-alphabet-proportions/" rel="nofollow" onclick="window.print(); return false;"><img src="http://cdn.printfriendly.com/button-print-gry20.png" alt="Print Friendly" /></a></div>				</div> <!-- #end -->
+
+
+          				
+              </div> <!-- post #end -->
+              
+              
+               
+ 			<div class="post-navigation clearfix">
+                                                            <a class="post-prev" href="index.html?p=634"><em>Previous post</em><span>Typographic classification</span></a>
+                                                                <a class="post-next" href="index.html?p=637"><em>Next post</em><span>Structure, stroke and counters of the typographic characters.</span></a>
+                                 </div>
+            
+            
+              </div> <!-- single post content #end -->
+          		<div class="realated_post clearfix">
+<h3>Related Posts</h3><ul class="realated_postlist clearfix">
+            <li class="clearfix"> 
+      
+     <h3> <a href="index.html?p=666">Text, image, dingbats and decorative elements</a></h3> 
+     <p class="date clearfix"> <span>April 27, 2012</span></p>
+     <p>Dingbats and decorative elements as elements of the typographic case. Function and types of dingbats and decorative elements. Double function: characters or image. Letters as images or characters. Relations.
+</p>
+            </li>
+                        <li class="clearfix"> 
+      
+     <h3> <a href="index.html?p=642">Design and morphological operations with typography</a></h3> 
+     <p class="date clearfix"> <span>April 27, 2012</span></p>
+     <p>Typeface family as a system. Aspects to be considered when designing a related group of characters: choosing the historical and cultural context, structural relations, stroke and terminal features. character weight and word color, distinctive characters and terminals. Axes for the construction of styles.</p>
+            </li>
+                        <li class="clearfix"> 
+      
+     <h3> <a href="index.html?p=641">Typographic Programs</a></h3> 
+     <p class="date clearfix"> <span>April 27, 2012</span></p>
+     <p>System of systems. Typographic programs, serial families and super families. Construction criteria. Uses. Description of some programs.
+</p>
+            </li>
+                        <li class="clearfix"> 
+      
+     <h3> <a href="index.html?p=640">Typographic styles</a></h3> 
+     <p class="date clearfix"> <span>April 27, 2012</span></p>
+     <p>Functions and convention in the use of styles. Traditional axes. Recognizing designed variants and the effects of digital distortion. Small capitals: character weight and line color.</p>
+            </li>
+            </ul>
+</div>
+		
+        
+          <div id="comments" class="clearfix"> 
+<div id="comments" class="comments-area">
+<div id="respond">
+<div class="fb-social-plugin fb-comments" id="commentform" data-href="http://www.oert.org/en/latin-alphabet-proportions/" data-width="700"></div>
+</div></div>
+</div>
+          
+             </div>
+	<div id="dynamic-content"></div>        
+  </div> <!-- content #end -->
+<script type="text/javascript" language="javascript" >
+var root_path_js = 'http://www.oert.org/';
+</script>
+<script type="text/javascript" language="javascript" src="wp-content/themes/WikiBase/library/js/article_detail.js" ></script>
+
+      <div id="lang_sel"  >
+    <ul>
+        <li><a href="index.html?p=635#" class="lang_sel_sel icl-en">
+                            
+            <img  class="iclflag" src="wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png" alt="en" />                                
+            &nbsp;English</a>                                    
+            <ul>
+                                <li class="icl-es">          
+                    <a rel="alternate" hreflang="es" href="index.html?p=179">
+                                    
+                    <img  class="iclflag" src="wp-content/plugins/sitepress-multilingual-cms/res/flags/es.png" alt="es" />&nbsp;                    
+                                        Español                    </a>
+                </li>
+                            </ul>            
+             
+                    </li>
+    </ul>    
+</div>
+ <!-- selector de idiomas -->
+<div id="sidebar">
+	<div class="widget"><h3><span>Recursos</span></h3><div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-404" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-404"><a href="en/the-project/index.html">The project</a></li>
+<li id="menu-item-405" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-405"><a href="en/the-authors/index.html">The Authors</a></li>
+<li id="menu-item-406" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-406"><a href="en/editorial-board/index.html">Editorial Committee</a></li>
+<li id="menu-item-407" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-407"><a href="en/the-team/index.html">The Team</a></li>
+<li id="menu-item-408" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-408"><a href="en/our-backers/index.html">Our backers</a></li>
+<li id="menu-item-718" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-718"><a href="en/faq/index.html">FAQ</a></li>
+<li id="menu-item-409" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-409"><a href="en/contact-us/index.html">Contact us</a></li>
+</ul></div></div><div class="widget"><h3><span>Páginas</span></h3><div class="menu-main-menu-ingles-container"><ul id="menu-main-menu-ingles" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-404"><a href="en/the-project/index.html">The project</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-405"><a href="en/the-authors/index.html">The Authors</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-406"><a href="en/editorial-board/index.html">Editorial Committee</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-407"><a href="en/the-team/index.html">The Team</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-408"><a href="en/our-backers/index.html">Our backers</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-718"><a href="en/faq/index.html">FAQ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-409"><a href="en/contact-us/index.html">Contact us</a></li>
+</ul></div></div></div> <!-- sidebar right--> 
+<div id="bottom"></div>
+<script type='text/javascript' src='wp-content/themes/WikiBase/library/js/jquery.simplemodal.js'></script>
+<script type='text/javascript' src='wp-content/themes/WikiBase/library/js/basic.js'></script>
+<div id="basic-modal-content" class="clearfix" style="display:none;">
+<form name="send_to_frnd" id="send_to_frnd" action="index.html?p=635" method="post" >
+<input type="hidden" id="send_to_Frnd_pid" name="pid" value="635" />
+<input type="hidden" name="sendact" value="email_frnd" />
+	<h3>Send To Friend</h3>
+    <p id="reply_send_success" class="sucess_msg" style="display:none;"></p>
+	<div class="row clearfix" ><label>Friend Name : <span>*</span></label><input name="to_name" id="to_name" type="text"  /><span id="to_nameInfo"></span></div>
+ 	<div class="row  clearfix" ><label> Email : <span>*</span></label><input name="to_email" id="to_email" type="text"  /><span id="to_emailInfo"></span></div>
+	<div class="row  clearfix" ><label>Your Name : <span>*</span></label><input name="yourname" id="yourname" type="text"  /><span id="yournameInfo"></span></div>
+ 	<div class="row  clearfix" ><label> Email : <span>*</span></label><input name="youremail" id="youremail" type="text"  /><span id="youremailInfo"></span></div>
+	<div class="row  clearfix" ><label>Subject : <span>*</span></label><input name="frnd_subject" value="About Latin alphabet proportions" id="frnd_subject" type="text"  /></div>
+	<div class="row  clearfix" ><label>Comments : <span>*</span></label>
+     <textarea name="frnd_comments" id="frnd_comments" cols="" rows="" >Hi there, do check out the information about this Article.</textarea></div>
+	<input name="Send" type="submit" value="Send " class="button " />
+</form>
+</div>
+<script type="text/javascript" src="wp-content/themes/WikiBase/library/js/email_frnd_validation.js"></script>
+<!-- here -->   </div> <!-- wrapper #end -->
+  
+<div id="footer" class="clearfix">
+<div id="footer_in">
+<p class="copy"><a rel="license" href="http://creativecommons.org/licenses/by-sa/2.5/ar/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/2.5/ar/80x15.png" /></a> <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Open Educational Resources for Typography</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="index.html" property="cc:attributionName" rel="cc:attributionURL">OERT</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.5/ar/">Creative Commons Attribution-ShareAlike 2.5 Argentina License</a>.</p>
+<p class="fr"><span class="designby">Alojado en </span>
+<span class="wiroos"><a href="http://www.wiroos.com" title="Wiroos">Wiroos</a></span>
+</p>	
+</div></div> <!-- footer #end -->
+
+        <script type="text/javascript">
+          var pfHeaderImgUrl = '';
+          var pfHeaderTagline = '';
+          var pfdisableClickToDel = '0';
+          var pfHideImages = '0';
+          var pfImageDisplayStyle = 'right';
+          var pfDisableEmail = '0';
+          var pfDisablePDF = '0';
+          var pfDisablePrint = '0';
+          var pfCustomCSS = '';
+
+          // PrintFriendly
+          var e = document.createElement('script'); e.type="text/javascript";
+          e.src = 'http://cdn.printfriendly.com/printfriendly.js';
+          document.getElementsByTagName('head')[0].appendChild(e);
+      </script>
+<script type='text/javascript' src='wp-content/themes/WikiBase/library/js/livesearch.js?ver=1'></script>
+<script type='text/javascript' src='wp-content/themes/WikiBase/library/js/jquery.hoveraccordion.min.js?ver=1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var FB_WP=FB_WP||{};FB_WP.queue={_methods:[],flushed:false,add:function(fn){FB_WP.queue.flushed?fn():FB_WP.queue._methods.push(fn)},flush:function(){for(var fn;fn=FB_WP.queue._methods.shift();){fn()}FB_WP.queue.flushed=true}};window.fbAsyncInit=function(){FB.init({"channelUrl":"http:\/\/www.oert.org\/wp-content\/plugins\/facebook\/channel.php","xfbml":true,"appId":"285109618260716"});if(FB_WP && FB_WP.queue && FB_WP.queue.flush){FB_WP.queue.flush()}}
+/* ]]> */
+</script>
+<div id="fb-root"></div><script type="text/javascript">(function(d){var id="facebook-jssdk";if(!d.getElementById(id)){var js=d.createElement("script"),ref=d.getElementsByTagName("script")[0];js.id=id,js.async=true,js.src="http:\/\/connect.facebook.net\/es_ES\/all.js",ref.parentNode.insertBefore(js,ref)}})(document)</script>
+<script type='text/javascript' src='index.html?p=635'></script>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27724959-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script><script type="text/javascript">
+	//<![CDATA[
+		function initBelle() {
+			Belle.AjaxURL		= "http://www.oert.org/en//?sajax=1"
+			// Initialize Livesearch
+			Belle.LiveSearch	= new LiveSearch( "Escribe y obten resultados al instante" )
+			}
+		jQuery(document).ready( function() { initBelle() })
+	//]]>
+	</script>
+<!-- LOAD JAVASCRIPT LATE - JUST BEFORE THE BODY TAG 
+		 That way the browser will have loaded the images
+	  	 and will know the width of the images. No need to
+		 specify the width in the CSS or inline. -->
+
+	<!-- jQuery library - Please load it from Google API's -->
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+
+	<!-- jQuery UI Widget and Effects Core (custom download)
+		 You can make your own at: http://jqueryui.com/download -->
+	<script src="wp-content/themes/WikiBase/library/js/jquery-ui-1.8.18.custom.min.js" type="text/javascript"></script>
+	
+	<!-- Latest version of jQuery Mouse Wheel by Brandon Aaron
+		 You will find it here: http://brandonaaron.net/code/mousewheel/demos -->
+	<script src="wp-content/themes/WikiBase/library/js/jquery.mousewheel.min.js" type="text/javascript"></script>
+
+	<!-- Smooth Div Scroll 1.2 minified-->
+	<script src="wp-content/themes/WikiBase/library/js/jquery.smoothdivscroll-1.2-min.js" type="text/javascript"></script>
+
+	<!-- If you want to look at the uncompressed version you find it at
+		 js/jquery.smoothDivScroll-1.2.js -->
+
+	<!-- Plugin initialization -->
+	<script type="text/javascript">
+		jQuery(document).ready(function () {
+			jQuery("#logoParade").smoothDivScroll({
+				autoScrollingMode: "always",
+				autoScrollingDirection: "endlessloopright",
+				autoScrollingStep: 1,
+				autoScrollingInterval: 25 
+			});
+
+			// Logo parade
+			jQuery("#logoParade").bind("mouseover", function () {
+				jQuery(this).smoothDivScroll("stopAutoScrolling");
+			}).bind("mouseout", function () {
+				jQuery(this).smoothDivScroll("startAutoScrolling");
+			});
+
+		});
+		
+	</script>	
+	
+</body></html>

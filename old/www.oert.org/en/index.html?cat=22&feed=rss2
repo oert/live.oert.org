@@ -1,0 +1,822 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>OERT &#187; Letter</title>
+	<atom:link href="http://www.oert.org/en/feed/?cat=22" rel="self" type="application/rss+xml" />
+	<link>http://www.oert.org/en/</link>
+	<description>Open Educational Resources for Typography</description>
+	<lastBuildDate>Sun, 07 Apr 2013 00:05:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Text, image, dingbats and decorative elements</title>
+		<link>http://www.oert.org/en/text-image-dingbats-and-decorative-elements/</link>
+		<comments>http://www.oert.org/en/text-image-dingbats-and-decorative-elements/#comments</comments>
+		<pubDate>Fri, 27 Apr 2012 05:55:38 +0000</pubDate>
+		<dc:creator>OERT</dc:creator>
+				<category><![CDATA[Letter]]></category>
+
+		<guid isPermaLink="false">http://www.oert.org/?p=666</guid>
+		<description><![CDATA[Dingbats and decorative elements as elements of the typographic case. Function and types of dingbats and decorative elements. Double function: characters or image. Letters as images or characters. Relations.
+]]></description>
+				<content:encoded><![CDATA[<p class="autor">Created by: Pablo Cosgaya, Natalia Pano</p>
+<p class="bajada">Apart from capitals and lower case, numbers, punctuation marks and commercial signs, there are other non alphabetic typographic signs: miscellanies. By miscellany we refer not only to dingbats and decorative elements, but also to any graphic element related to the composition.</p>
+<p class="note">Artículo en proceso de traducción </p>
+<p>As regards typography, a text is a set of letters grouped in words; one horizontally placed after the other from left to right forming lines grouped one above the other. This grey stain has its own color, as a result of the family and type size in which it is composed, the chosen variable and the letter-space and leading.</p>
+<p>We use the term <em>miscellany</em> to designate those other elements that may be part of a composition or a of certain piece, coexisting with the text and images and which, as regards composition, play an essential role in the organization of information. That is to say, there is no direct referent for the term miscellany (it is not something physical or material), but it will actually be its function what defines when an element may be considered miscellany or not.</p>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/09/T03B_01_esquema.jpg"><img class="alignnone size-full wp-image-1467" title="Esquema" src="http://www.oert.org/wp-content/uploads/2012/09/T03B_01_esquema.jpg" alt="Esquema" width="701" height="526" /></a></p>
+<p>The term <em>miscellaneous (adjective)</em> is used to categorize those things composed of different elements or different genres. It is a synonymous of mixed, varied. Miscellany is then a broad, comprehensive, sometimes ambiguous term. This is why we can exemplify this concept with different kinds of elements.</p>
+<p>Examples of miscellany are rules, with several uses: underlining, separation of blocks of text, column division, table composition, etc. Just as characters of a typeface have a typographic color (weight) and a certain stroke, rules also have different thickness and strokes (continuous, dotted). It is important to make this aspect compatible with the font family being used.</p>
+<div id="go-gallery-1472-1" class="go-gallery-container go-gallery-1472 gog-dots has-pager cycle">
+<div class="go-gallery-inner">
+<ul class="slides">
+<li>
+<div class="image"><img width="700" height="525" src="http://www.oert.org/wp-content/uploads/2012/09/T03B_07_misc_021.jpg" class="attachment-large" alt="Misceláneas" />
+</div></li>
+<li>
+<div class="image"><img width="700" height="525" src="http://www.oert.org/wp-content/uploads/2012/09/T03B_01_misc1.jpg" class="attachment-large" alt="Misceláneas" />
+</div></li>
+</ul>
+<div class="pager"></div>
+</div>
+<script type="text/javascript" charset="utf-8">jQuery(function($) { $(function () { $("#go-gallery-1472-1 .slides").cycle({fx: "scrollHorz", navigation: false, pager: true, pager: "#go-gallery-1472-1 .pager"}); }); });</script>
+</div>
+
+<p>We can add other groups of signs to the miscellany group, such as vignettes, ornaments and borders, which are formally and significantly related to certain artistic periods. Though the most frequent function of miscellany is to emphasize parts of the text without dominating it all, its use is supplemented by merely decorative applications.</p>
+<p>Another example is those fonts especially designed to be used as miscellany or complements of other families: it is the case of Fella Parts, by Emigré, with many such alternatives in its catalogue. There are also other groups of characters that represent various symbols (zodiac, business, travelling, sports, etc.), such as the Communications group of the Agfatype catalogue. But these characters are sometimes so figurative that, again, only their use will determine if they are miscellaneous in nature.</p>
+<div id="attachment_1468" class="wp-caption alignnone" style="width: 710px"><a href="http://www.oert.org/wp-content/uploads/2012/09/T03B_02_misc_imag.jpg"><img class="size-full wp-image-1468" title="Miscelánea / imagen" src="http://www.oert.org/wp-content/uploads/2012/09/T03B_02_misc_imag.jpg" alt="Imagen / miscelánea" width="700" height="525" /></a><p class="wp-caption-text">Miscelánea de la fuente Almendra, de Ana Sanfelippo</p></div>
+<p>Miscellanies have their antecedents in the initials and borders with which medieval scribes illuminated their manuscripts. Producing a manuscript was expensive and time demanding, values and lifestyle in those times were very different from nowadays. It is a coincidence that those initials and frames were so elaborated. Anyhow, illustration and ornamentation were not mere decorations. There was a concern for the educational value of illustrations and the ability of ornaments to create mystic and spiritual touches.</p>
+<p>Historically, alphabetic and non alphabetic typographic elements were formally similar, as a result of using the same means of reproduction (xylography, stone carving, etc.).</p>
+<p>Technological development and the forthcoming of more modern procedures (wood and lead types, first; hot-type composition and photocomposition later; desktop publishing nowadays) enriched the scene and brought about new situations. In the XIXth century, for example, miscellanies were complex, as they were used in highly elaborated pages, with a lot of Victorian style decoration; the 20th century avant-gardes (Futurism, Constructivism, De Stijl, Dadá, Bauhaus) used them for more functional purposes. They incorporated geometric criteria, simply and powerfully enhancing concepts like dynamism, direction, speed and chaos.</p>
+<p>As the amount of printed material grew larger, their form began to change. Visual impact began to play an essential role, reading was not done line by line but at a glance, and only that which caught one&#8217;s attention was read in detail.</p>
+<p>Text, image and miscellany often coexist, in different pieces, somehow relating with one another. Depending on the harmony or the contrast one wants to generate, these relations can be based on: formal (color, representation form, etc), significant (in reference to styles and certain historic movements) or strictly typographic, (typeface family weight, type size and type of stroke) features.</p>
+<p>In some occasions, the function of each element (alphabetic and non alphabetic) begins to mingle, giving place to different possibilities, among which we can describe the most important ones:</p>
+<p><em>1. Miscellany as image</em>: Increasing their size, miscellany, ornaments and vignettes stress their command in the composition (see example). The disruptions caused by increasing the size may become significant.</p>
+<div id="attachment_1476" class="wp-caption alignnone" style="width: 711px"><a href="http://www.oert.org/wp-content/uploads/2012/09/T03B_05_miscimg_Ross-Mon.jpg"><img class="size-full wp-image-1476" title="Misceláneas como imágenes" src="http://www.oert.org/wp-content/uploads/2012/09/T03B_05_miscimg_Ross-Mon.jpg" alt="Miscelánea como imagen" width="701" height="526" /></a><p class="wp-caption-text">Alumnos: Daniel Ross y Altair Mon</p></div>
+<p><em>2. Images as miscellany</em>: With today’s technology we can reduce an image’s size, reproduce it with a simplified structure and adjust it to typographic criteria, to make it work as miscellany. The signs thus obtained, sometimes compiled and commercialized as typographic fonts, propose non traditional situations, in which opposite relations may come up.</p>
+<p><em>3. Letters as images</em>: A single letter, a word or a group of words may become an image, moving away from their primary function.</p>
+<div id="attachment_1478" class="wp-caption alignnone" style="width: 711px"><a href="http://www.oert.org/wp-content/uploads/2012/09/T03B_04_letramisc_Lluis.jpg"><img class="size-full wp-image-1478" title="Letra como imagen" src="http://www.oert.org/wp-content/uploads/2012/09/T03B_04_letramisc_Lluis.jpg" alt="Miscelánea como letra" width="701" height="526" /></a><p class="wp-caption-text">Alumno: Joaquín Lluis</p></div>
+<p>In the 20th century, the avant-gardes played with these possibilities, destroying regularity and the inertia of traditional composition. An example of these possibilities is calligrams (poems where the text smear adopts a certain form, trying to represent the content of the poem) and futurist compositions with their “words in freedom”.</p>
+<p><em>4. Letters as miscellany</em>: A letter can loose its main textual function or complement it with an ornamental function.</p>
+<p>Thus, miscellany becomes an interesting decorative accessory. The readability of this type of compositions will depend on the designer&#8217;s intentions. We can include capitular initials in this group (see examples: capital letters in Minion Swash Expert Italic). </p>
+<p>In these cases it is very useful to become familiar with the criteria for the selection and combination of typeface families described in the article: <a href="http://www.oert.org/en/family-classification-selection-and-combination/">Family classification, selection, and combination.</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.oert.org/en/text-image-dingbats-and-decorative-elements/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Design and morphological operations with typography</title>
+		<link>http://www.oert.org/en/design-and-morphological-operations-with-typography/</link>
+		<comments>http://www.oert.org/en/design-and-morphological-operations-with-typography/#comments</comments>
+		<pubDate>Fri, 27 Apr 2012 05:48:14 +0000</pubDate>
+		<dc:creator>OERT</dc:creator>
+				<category><![CDATA[Letter]]></category>
+		<category><![CDATA[Theory]]></category>
+
+		<guid isPermaLink="false">http://www.oert.org/?p=642</guid>
+		<description><![CDATA[Typeface family as a system. Aspects to be considered when designing a related group of characters: choosing the historical and cultural context, structural relations, stroke and terminal features. character weight and word color, distinctive characters and terminals. Axes for the construction of styles.]]></description>
+				<content:encoded><![CDATA[<p class="autor">Created by: Pablo Cosgaya, Marcela Romero &#8211; Review: Natalia Pano</p>
+<p class="note">Artículo en proceso de traducción </p>
+<h3>Typographic sign systems</h3>
+<p>As we have already seen, a typeface family is a set of alphabetic and non alphabetic signs which have structural and stylistic features in common, and which make them be perceived as members of a same system. </p>
+<h3>Analysis and adjustments</h3>
+<p>When we decide to design a typographic sign system, we can do so by beginning from a previously defined criterion or by «trial and error», i.e., experimenting without a previously defined plan, entering some parameters, analyzing the results and correcting whatever we find that needs to be adjusted as many times as we consider necessary, until we achieve the desired result. To make sure we are producing a typographic sign system, the proofs obtained after the first operations performed must be deeply and systematically analyzed. It is also convenient to perform comparative studies between families to find different forms to solve similar problems.</p>
+<div id="go-gallery-1482-2" class="go-gallery-container go-gallery-1482 gog-dots has-pager cycle">
+<div class="go-gallery-inner">
+<ul class="slides">
+<li>
+<div class="image"><img width="700" height="525" src="http://www.oert.org/wp-content/uploads/2012/09/T01B_02-m_diferentes.jpg" class="attachment-large" alt="Diferentes “M”" />
+</div></li>
+<li>
+<div class="image"><img width="700" height="525" src="http://www.oert.org/wp-content/uploads/2012/09/T01B_02-g_diferentes.jpg" class="attachment-large" alt="Diferentes “g”" />
+</div></li>
+</ul>
+<div class="pager"></div>
+</div>
+<script type="text/javascript" charset="utf-8">jQuery(function($) { $(function () { $("#go-gallery-1482-2 .slides").cycle({fx: "scrollHorz", navigation: false, pager: true, pager: "#go-gallery-1482-2 .pager"}); }); });</script>
+</div>
+
+<h3>Guide for analysis</h3>
+<p>In order to perform a detailed analysis, we suggest bearing in mind the following aspects:  </p>
+<p><em>Family:</em> To get informed about the context of the original design (in the case of typeface families that existed prior to digital systems) and the context of design of the analyzed version (in the case of families with several versions: Garamond —see examples on the right—, Bodoni, Caslon, Bookman).</p>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/09/T01B_03-garamond_versiones.jpg"><img class="alignnone size-full wp-image-1485" title="Diferentes versiones de Garamond" src="http://www.oert.org/wp-content/uploads/2012/09/T01B_03-garamond_versiones.jpg" alt="Diferentes versiones de Garamond" width="700" height="525" /></a></p>
+<p><em>Structure:</em> To study the proportions of the sign’s components, especially the relation between width and height, capitals’ width, the relation between capitals’ height, lower case, ascenders and descenders, and placement of the center of the signs. Analyze the structural relations between capitals, lower case and between capitals and lower case. Study the type of curves, their anatomy, the presence of symmetry and the degrees of synthesis.</p>
+<div id="go-gallery-1486-3" class="go-gallery-container go-gallery-1486 gog-dots has-pager cycle">
+<div class="go-gallery-inner">
+<ul class="slides">
+<li>
+<div class="image"><img width="700" height="525" src="http://www.oert.org/wp-content/uploads/2012/09/T01B_estructura_angostas_02.jpg" class="attachment-large" alt="Estructura: letras angostas" />
+</div></li>
+<li>
+<div class="image"><img width="700" height="525" src="http://www.oert.org/wp-content/uploads/2012/09/T01B_estructura_angostas_01.jpg" class="attachment-large" alt="Estructuras: letras rectangulares" />
+</div></li>
+<li>
+<div class="image"><img width="700" height="525" src="http://www.oert.org/wp-content/uploads/2012/09/T01B_estructura.jpg" class="attachment-large" alt="Estructura: letras rectangulares" />
+</div></li>
+<li>
+<div class="image"><img width="700" height="525" src="http://www.oert.org/wp-content/uploads/2012/09/T01B_estructura_anchas.jpg" class="attachment-large" alt="Estructura: letras anchas" />
+</div></li>
+<li>
+<div class="image"><img width="700" height="525" src="http://www.oert.org/wp-content/uploads/2012/09/T01B_estructura_redondas.jpg" class="attachment-large" alt="Estructura: módulos y letras redondas" />
+</div></li>
+<li>
+<div class="image"><img width="700" height="525" src="http://www.oert.org/wp-content/uploads/2012/09/T01B_proporciones.jpg" class="attachment-large" alt="Proporciones de mayúsculas y minúsculas" />
+</div></li>
+</ul>
+<div class="pager"></div>
+</div>
+<script type="text/javascript" charset="utf-8">jQuery(function($) { $(function () { $("#go-gallery-1486-3 .slides").cycle({fx: "scrollHorz", navigation: false, pager: true, pager: "#go-gallery-1486-3 .pager"}); }); });</script>
+</div>
+
+<p><em>Stroke:</em> If the stroke is gradual, review the kind of gradualness (light, regular, bold), modulation (or tilting angle of the pen), proportion between thin and thick strokes. If the stroke is uniform, check for the existence or non-existence of optic corrections (Avant Garde, Variex, Futura, Avenir).</p>
+<div id="go-gallery-1494-4" class="go-gallery-container go-gallery-1494 gog-dots has-pager cycle">
+<div class="go-gallery-inner">
+<ul class="slides">
+<li>
+<div class="image"><img width="700" height="525" src="http://www.oert.org/wp-content/uploads/2012/09/T01B_trazogradual.jpg" class="attachment-large" alt="Trazo gradual: contraste y eje de modulación" />
+</div></li>
+<li>
+<div class="image"><img width="700" height="525" src="http://www.oert.org/wp-content/uploads/2012/09/T01B_trazo.jpg" class="attachment-large" alt="Trazo" />
+</div></li>
+</ul>
+<div class="pager"></div>
+</div>
+<script type="text/javascript" charset="utf-8">jQuery(function($) { $(function () { $("#go-gallery-1494-4 .slides").cycle({fx: "scrollHorz", navigation: false, pager: true, pager: "#go-gallery-1494-4 .pager"}); }); });</script>
+</div>
+
+<p><em>Joints</em>: Study the type of joints each sign presents. Their anatomy, the height where the joints take place and the existence or non existence of typographic color corrections.</p>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/09/T01B_uniones.jpg"><img class="alignnone size-full wp-image-1497" title="Uniones" src="http://www.oert.org/wp-content/uploads/2012/09/T01B_uniones.jpg" alt="Uniones" width="700" height="525" /></a></p>
+<p><em>Serif</em>: If they are type families with terminals or serif, study the form of the serif in capital and lower case signs, kind of joint to the stem, typographic color of the serif, differences or similarities in serif according to structure. If they are sans serif families, check the kind of cuts, the directions of cuts (perpendicular to baseline, radial, parallel to the baseline, or other), and differences and similarities of cuts according to structure. </p>
+<div id="go-gallery-1498-5" class="go-gallery-container go-gallery-1498 gog-dots has-pager cycle">
+<div class="go-gallery-inner">
+<ul class="slides">
+<li>
+<div class="image"><img width="700" height="525" src="http://www.oert.org/wp-content/uploads/2012/09/T01B_remateserif.jpg" class="attachment-large" alt="Remates: serif" />
+</div></li>
+<li>
+<div class="image"><img width="700" height="525" src="http://www.oert.org/wp-content/uploads/2012/09/T01B_remates_sans.jpg" class="attachment-large" alt="Remates: sans serif" />
+</div></li>
+<li>
+<div class="image"><img width="700" height="525" src="http://www.oert.org/wp-content/uploads/2012/09/T01B_remates.jpg" class="attachment-large" alt="Remates: serif" />
+</div></li>
+</ul>
+<div class="pager"></div>
+</div>
+<script type="text/javascript" charset="utf-8">jQuery(function($) { $(function () { $("#go-gallery-1498-5 .slides").cycle({fx: "scrollHorz", navigation: false, pager: true, pager: "#go-gallery-1498-5 .pager"}); }); });</script>
+</div>
+
+<p><em>Specific signs</em>: When in the presence of specific signs or original solutions, analyze their structure, their stroke and their terminals, and compare solutions to similar problems in other families. </p>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/09/T01B_signosparticulares.jpg"><img class="alignnone size-full wp-image-1502" title="Signos particulares" src="http://www.oert.org/wp-content/uploads/2012/09/T01B_signosparticulares.jpg" alt="Signos particulares" width="700" height="525" /></a></p>
+<p><em>Variables</em>: If the case requires so, analyze the relations and differences with the variable used or, if there is an absence of variables, study the potential possibility for developing them.</p>
+<p><em>Spacing</em>: As we already know, the design of each sign is composed by the form and also by the counterform (internal and external spaces that surround the sign). When composing a word or a text with a system of signs, the resulting spacing is a part of the characteristics pertaining to that system. The space between letters results from the space to the right of a sign plus the space to the left of the next sign. Spaces that separate one word from the next one are signs which, though not printed, have an essential function in reading. </p>
+<div id="go-gallery-1505-6" class="go-gallery-container go-gallery-1505 gog-dots has-pager cycle">
+<div class="go-gallery-inner">
+<ul class="slides">
+<li>
+<div class="image"><img width="700" height="525" src="http://www.oert.org/wp-content/uploads/2012/09/T01B_interletra1.jpg" class="attachment-large" alt="Interletra" />
+</div></li>
+<li>
+<div class="image"><img width="700" height="525" src="http://www.oert.org/wp-content/uploads/2012/09/T01B_interpalabra1.jpg" class="attachment-large" alt="Interpalabra" />
+</div></li>
+<li>
+<div class="image"><img width="701" height="526" src="http://www.oert.org/wp-content/uploads/2012/09/T01B_04-matrices_garamond2fotoUllrich.jpg" class="attachment-large" alt="Punzones de Garamond" />
+</div></li>
+<li>
+<div class="image"><img width="700" height="525" src="http://www.oert.org/wp-content/uploads/2012/09/T01B_colortexto1.jpg" class="attachment-large" alt="Color de texto" />
+</div></li>
+</ul>
+<div class="pager"></div>
+</div>
+<script type="text/javascript" charset="utf-8">jQuery(function($) { $(function () { $("#go-gallery-1505-6 .slides").cycle({fx: "scrollHorz", navigation: false, pager: true, pager: "#go-gallery-1505-6 .pager"}); }); });</script>
+</div>
+
+<p><em>Adjustments</em>: After analyzing the elements mentioned above, it is possible that specific aspects of the family beyond this analysis may come up, but which must also be included. It also happens that the same criteria applied to different signs do not always have the same result. Once the analysis is complete, we will make the necessary adjustments and some further verification until we consider that the result obtained coincides with the defined criterion. </p>
+<p><em>Categorizations</em>: After analyzing the elements mentioned above, it is possible that specific aspects of the family beyond this analysis may come up, but which must also be included. It also happens that the same criteria applied to different signs do not always have the same result. Once the analysis is complete, we will make the necessary adjustments and some further verification until we consider that the result obtained coincides with the defined criterion. </p>
+<p><em>Reading at different levels</em>: Without getting into a detailed analysis of the aspects related to reading, it would be useful to bear in mind the differences that exist between the reading of experimental typographic signs, distance reading (short and big texts) and reading of texts in long pieces (when it is necessary for typography to «disappear» to make room for the author’s narration).</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.oert.org/en/design-and-morphological-operations-with-typography/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Typographic Programs</title>
+		<link>http://www.oert.org/en/typographic-programs/</link>
+		<comments>http://www.oert.org/en/typographic-programs/#comments</comments>
+		<pubDate>Fri, 27 Apr 2012 05:47:57 +0000</pubDate>
+		<dc:creator>OERT</dc:creator>
+				<category><![CDATA[Letter]]></category>
+		<category><![CDATA[Theory]]></category>
+
+		<guid isPermaLink="false">http://www.oert.org/?p=641</guid>
+		<description><![CDATA[System of systems. Typographic programs, serial families and super families. Construction criteria. Uses. Description of some programs.
+]]></description>
+				<content:encoded><![CDATA[<p class="autor">Created by: Marcela Romero</p>
+<blockquote><p>«As a book designer, I have worked on several complex books in which more than one typeface were needed in order to clarify things in the text and generally, in those cases, it is often quite useful to mix a sans and a serif typeface. The problem was always which ones to choose, though… It became clear to me that the best solution for a complex text was to use a combination of a serif and a sans that share a common ground», <em>Revista tipoGráfica 53.</em></p></blockquote>
+<p>This problem introduced by Majoor and the solution he proposes has several specific examples.<br />
+By the middle of this century photocomposition was already common use, the first computers and transferable letters appeared and in that context, the Univers typeface (1954/57) designed by Adrian Frutiger Deberny &#038; Peignot, was the first of these examples. Frutiger proposed a method to rationally arrange the great number of variables that composed this typeface, with variations in weight, width and axis. This typography program is composed of 21 systems. Later on, the Univers program was commercialized by Monotype Corporation.</p>
+<p>This typeface family had the aspiration of being universal, adaptable to all types of compositions (linotype, movable types, photocomposition) with different versions designed for each printing method.</p>
+<p>Up to now, there has never been a typeface with such an extensive number of variables and its presentation reinforced the programmatic idea with which variables had been generated. Frutiger proposed that the terms &#8220;bold&#8221;, “narrow”, etc be left in disuse and replaced by a numeric system that established the relation between variables.</p>
+<div id="attachment_781" class="wp-caption alignnone" style="width: 710px"><a href="http://www.oert.org/wp-content/uploads/2012/07/T06B_01-programa_univers.jpg"><img class="size-full wp-image-781" title="Programa: Univers" src="http://www.oert.org/wp-content/uploads/2012/07/T06B_01-programa_univers.jpg" alt="Programa: Univers" width="700" height="525" /></a><p class="wp-caption-text">El centro del sistema está en la Univers 55, equivalente al tipo estándar. El eje vertical muestra diferentes pesos del trazo (toda variable que comience con la misma decena tiene el mismo grosor). El eje horizontal organiza los anchos de los signos, desde los más anchos hasta los más estrechos, con sus respectivas versiones itálicas. Las unidades impares identifican a las redondas, las pares a las itálicas. Si se mira una columna del esquema se verá signos de igual ancho y eje y su color se irá incrementando al ensanchase el trazo.</p></div>
+<p>The Univers program allows the user to obtain a wide range of color contrasts, width, tilting, and weight, to meet the needs for a hierarchy in a complex text within a single typeface family.</p>
+<h3>Serial families</h3>
+<p>This name is proposed by Muriel Paris in the Brief Manual of Typographic composition (Paris, 1999) to refer to typeface families with more than one style, such as Rotis, Stone, Lucida, Thesis, Officina, Relato and Scala, among many others.</p>
+<div id="attachment_1789" class="wp-caption alignnone" style="width: 710px"><a href="http://www.oert.org/wp-content/uploads/2012/01/T06B_02-familias_seriales1.jpg"><img class="size-full wp-image-1789" title="Familias seriales" src="http://www.oert.org/wp-content/uploads/2012/01/T06B_02-familias_seriales1.jpg" alt="Familias seriales" width="700" height="525" /></a><p class="wp-caption-text">Los contornos negros corresponden a variables con serif, los signos verdes a la sans serif.</p></div>
+<p>Hay cla­ros an­te­ce­den­tes de fa­mi­lias se­ria­les en la his­to­ria. Ale­jan­dro Lo Cel­so ci­ta al­gu­nos en su no­ta «La fa­mi­lia se­rial. Nue­va es­pe­cie en la flo­ra y fau­na ti­po­grá­fi­cas», pu­bli­ca­da en re­vis­ta ti­po­Grá­fi­ca nú­me­ro 47, co­mo el ca­so de Ro­mu­lus, de Jan van Krim­pen, crea­da pa­ra Ens­che­dé y Mo­noty­pe a co­mien­zos de la dé­ca­da del 30.</p>
+<p>There are clear records of serial families in history. Alejandro Lo Celso mentions some of them in his note “The serial family: New species in the typographic flora and fauna” published in the tipoGrafica Magazine, number 47, as in the case of Romulus, Jan van Krimpen, created for Enschedé and Monotype in the early 30s.</p>
+<p>According to Lo Celso the first contemporary serials are Demos, by Gerard Unger, designed for the German firm Hell in 1976, a typeface with serif and in 3 weights and which took into consideration the low resolution of screens at that moment. The following year, Hell implemented the use of Praxis, a sans designed based on the same basic elements. Later on, Flora, an italic, was added to the program. Even when at the beginning they were not designed as a serial, they function as such.</p>
+<div id="attachment_783" class="wp-caption alignnone" style="width: 710px"><a href="http://www.oert.org/wp-content/uploads/2012/07/T06B_03-programa_hamburge.jpg"><img class="size-full wp-image-783" title="Programa: Rotis" src="http://www.oert.org/wp-content/uploads/2012/07/T06B_03-programa_hamburge.jpg" alt="Programa: Rotis" width="700" height="525" /></a><p class="wp-caption-text">Programa: Rotis, manufacturado por Agfa Compugraphic.</p></div>
+<h4>Lucida</h4>
+<p>The Lucida program (1984) brings together a sans and a serif, devised to be printed in a laser 300 dpi printer without suffering any deterioration. Mathematic, phonetic and monospaced alphabets have also been developed in this program.</p>
+<div id="attachment_784" class="wp-caption alignnone" style="width: 710px"><a href="http://www.oert.org/wp-content/uploads/2012/07/T06B_04-programa_lucida.jpg"><img class="size-full wp-image-784" title="Programa: Lucida" src="http://www.oert.org/wp-content/uploads/2012/07/T06B_04-programa_lucida.jpg" alt="Programa: Lucida" width="700" height="525" /></a><p class="wp-caption-text">Lucida Sans (Kris Holmes y Charles Bigelow, 1984); 9, Lucida Regular, Itálica, Bold y Bold Itálica. Lucida presenta serifas robustas y formas sintéticas que resisten la erosión producida por la baja resolución de las impresoras de escritorio.</p></div>
+<h4>Ro­tis</h4>
+<p>Otl Aicher in 1984 presented the Rotis program composed by 4 systems, one serif, one sans and two intermediate ones (Rotis Serif –Roman–, Rotis Sans Serif –grotesque–, Rotis Semi Serif –semi Roman– and Rotis Semi Sans –semi grotesque). The two hybrid variables present the transition between one system and the other, maintaining the basic features. This program broadened the possibilities for solving hierarchies within a family and was one of the first digital typographic designs.</p>
+<h4>Sto­ne</h4>
+<p>Another typography program is Stone, designed by Summer Stone in 1984/87, with 18 variables that cover not only style but technical reproduction requirements, designed to resist different resolutions without loosing legibility.</p>
+<p>Stone contains 3 subfamilies: serif, sans and informal, in Roman and italic and in 3 colors: medium, semibold and bold.</p>
+<p>Sto­ne con­tie­ne tres sub­fa­mi­lias: se­rif, sans e in­for­mal, en ro­ma­na e itá­li­ca; y en tres co­lo­res: me­dium, se­mi­bold y bold.</p>
+<div id="attachment_785" class="wp-caption alignnone" style="width: 710px"><a href="http://www.oert.org/wp-content/uploads/2012/07/T06B_05-programa_stone.jpg"><img class="size-full wp-image-785" title="Programa: Stone" src="http://www.oert.org/wp-content/uploads/2012/07/T06B_05-programa_stone.jpg" alt="Programa: Stone" width="700" height="525" /></a><p class="wp-caption-text">Stone contiene tres subfamilias: serif, sans e informal, en romana e itálica; y en tres colores: medium, semibold y bold.</p></div>
+<h4>Thesis</h4>
+<p>Was designed in 1994 by Luc(as) de Goot as graduation thesis of his university studies in Holland. It is a typography program that offers 3 alternatives: Thesis TheSans, TheSerif and TheMix. Each of these systems has 8 weight variables, as well as capitals and lower case numbers, mathematic symbols and miscellanea, adding to a total of 144 fonts. One of his objectives was to create a program that could be used as institutional typography which could solve with all communicative needs with a single family.</p>
+<div id="attachment_786" class="wp-caption alignnone" style="width: 710px"><a href="http://www.oert.org/wp-content/uploads/2012/07/T06B_06-programa_thesis.jpg"><img class="size-full wp-image-786" title="Programa: Thesis" src="http://www.oert.org/wp-content/uploads/2012/07/T06B_06-programa_thesis.jpg" alt="Programa: Thesis" width="700" height="525" /></a><p class="wp-caption-text">Thesis Serif, Thesis Mix y Thesis Sans, diseñadas por Luc(as) de Groot en un proceso que tomó 5 años.</p></div>
+<h4>Scala</h4>
+<p>This program includes Scala Serif (1990), Scala Sans (1993) and Scala Jewels (1996) and was designed the Dutch designer Martin Majoor. It was designed as an institutional typography for the Vredenburg Music Centre in Utrech. Serif has clear Bembo influences and the sans is a derivation of the serif. The Scala Jewels contains 4 display variables based in the Scala Bold capitals.</p>
+<p>Majoor has designed other serials. Telefont (list and text) for PT (Dutch telephone company) to use in its telephone directories; Seria (sans and serif) devised for literary texts, easy to read.</p>
+<div id="attachment_787" class="wp-caption alignnone" style="width: 710px"><a href="http://www.oert.org/wp-content/uploads/2012/07/T06B_07-programa_scala.jpg"><img class="size-full wp-image-787" title="Programa: Scala" src="http://www.oert.org/wp-content/uploads/2012/07/T06B_07-programa_scala.jpg" alt="Programa: Scala" width="700" height="525" /></a><p class="wp-caption-text">El dibujo de las estructuras de las versiones romanas e itálicas de Scala y Scala Sans permiten apreciar su parentesco estructural. Este sistema ha sido adopta¬do como tipografía de uso corriente en ediciones periódicas.</p></div>
+<p>Currently there are many families designed as typography programs.</p>
+<div class="ref_box"><strong>Bibliography</strong></p>
+<ul>
+<li>MC LEAN, Ruari. <em>Manual tipográfico.</em> Tellus, Madrid, 1988.</li>
+<li>COPPOLA , N. y FONTANA , R.,<em> Apuntes de tipografía.</em> 1985.</li>
+<li>DE BUEN UNNA, Jorge. <em> Manual de diseño editorial. 3.ª edición, corregida y aumentada. </em>Trea Ediciones, España, 2009.</li>
+<li>LO CELSO, Alejandro, “La familia serial. Nueva especie en la flora y fauna tipográficas”, <em>Revista tipoGráfica 47.</em></li>
+<li>MAJOOR, Martin, “Mi filosofía del diseño tipográfico”, <em>Revista tipoGráfica 53.</em></li>
+</ul>
+<p></p></div>
+]]></content:encoded>
+			<wfw:commentRss>http://www.oert.org/en/typographic-programs/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Typographic styles</title>
+		<link>http://www.oert.org/en/typographic-styles/</link>
+		<comments>http://www.oert.org/en/typographic-styles/#comments</comments>
+		<pubDate>Fri, 27 Apr 2012 05:47:45 +0000</pubDate>
+		<dc:creator>OERT</dc:creator>
+				<category><![CDATA[Letter]]></category>
+		<category><![CDATA[Theory]]></category>
+
+		<guid isPermaLink="false">http://www.oert.org/?p=640</guid>
+		<description><![CDATA[Functions and convention in the use of styles. Traditional axes. Recognizing designed variants and the effects of digital distortion. Small capitals: character weight and line color.]]></description>
+				<content:encoded><![CDATA[<p class="autor">Created by: Natalia Fernández, Paula Ibarra</p>
+<p class="note">Artículo en proceso de traducción </p>
+<p class="bajada">Typographic variables are options offered by one family in response to the different needs of visual communication. We use them, among other things, to establish different levels of hierarchy within a text, to alter color, to change rhythm, etc.</p>
+<p>Typographic variables are elements which, as they belong to a system, must maintain a formal relationship with the family to which they belong. Usually they act on the tilting, weight and width of the letter.</p>
+<h3>Tilting</h3>
+<p>in rhythm. Sometimes the color may also be affected.</p>
+<p>Some programs have the «italic» function which tilts all the signs at a specific angle, but italics are not only that, and besides not all letters should have the same tilting: in the italic version of a font, the design of the signs is adjusted so as to achieve another color, it usually takes less space than the normal version and in certain cases (for instance in roman typefaces and in some sans-serif ones) the design of the signs adopts some cursive characteristics. To verify this, let’s take a look at the example below to see how the design of the sign varies.</p>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/07/T06A_01-rosario_a__variables1.jpg"><img class="alignnone size-full wp-image-796" title="Rosario: variables" src="http://www.oert.org/wp-content/uploads/2012/07/T06A_01-rosario_a__variables1.jpg" alt="Rosario: variables" width="701" height="525" /></a></p>
+<div id="attachment_797" class="wp-caption alignnone" style="width: 711px"><a href="http://www.oert.org/wp-content/uploads/2012/07/T06A_02-rosario_variables_secuencia1.jpg"><img class="size-full wp-image-797" title="Rosario: variables (secuencia)" src="http://www.oert.org/wp-content/uploads/2012/07/T06A_02-rosario_variables_secuencia1.jpg" alt="Rosario: variables (secuencia)" width="701" height="525" /></a><p class="wp-caption-text">El segundo texto está compuesto en Rosario Gris inclinada digitalmente.</p></div>
+<h3>Weight</h3>
+<p>Weight variables affect the stroke of the signs, which may result in small structural modifications. What is mainly altered is the typeface color, as there is a change in the relation between the width of the stroke and the counterform of each typographic sign. </p>
+<p>To use a bold typeface the corresponding variable has to be available, it is not convenient to transform a normal font in a bold one by electronic means.</p>
+<p>The difference is that the bold variable is specifically designed to function as such, while when electronic means are used to alter the font, the machine adds a black border around each sign, modifying the counterforms, the adjustments, and &#8211; in the case of roman typefaces – the contrast between the thick and the thin of gradual strokes.</p>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/07/T06A_03-variables_stroke1.jpg"><img class="alignnone size-full wp-image-798" title="Variables de peso" src="http://www.oert.org/wp-content/uploads/2012/07/T06A_03-variables_stroke1.jpg" alt="Variables de peso" width="701" height="526" /></a></p>
+<h3>Width</h3>
+<p>In width variables, there is a change in the structure of the letter where only the proportions are modified, though the stroke does not vary. The performance is altered (in the first place) and also the color of the text.</p>
+<p>Condensed and expanded fonts are also specially designed, thus we should not modify the width using electronic means, as the signs would become deformed.</p>
+<p>This is more obvious in uniform stroke typefaces: when electronically condensed or expanded they lose the uniformity of the stroke.</p>
+<div id="go-gallery-984-7" class="go-gallery-container go-gallery-984 gog-dots has-pager cycle">
+<div class="go-gallery-inner">
+<ul class="slides">
+<li>
+<div class="image"><a href="http://www.oert.org/wp-content/uploads/2012/07/T06A_04-myriad_condensada11.jpeg">
+<img width="701" height="526" src="http://www.oert.org/wp-content/uploads/2012/07/T06A_04-myriad_condensada11.jpeg" class="attachment-large" alt="Myriad condensada" />
+</a>
+</div></li>
+<li>
+<div class="image"><a href="http://www.oert.org/wp-content/uploads/2012/07/T06A_05_eurostile_expandida11.jpeg">
+<img width="701" height="526" src="http://www.oert.org/wp-content/uploads/2012/07/T06A_05_eurostile_expandida11.jpeg" class="attachment-large" alt="Eurostile expandida" />
+</a>
+</div></li>
+<li>
+<div class="image"><a href="http://www.oert.org/wp-content/uploads/2012/07/T06A_07-texto_expandido1.jpeg">
+<img width="701" height="526" src="http://www.oert.org/wp-content/uploads/2012/07/T06A_07-texto_expandido1.jpeg" class="attachment-large" alt="Texto Expandido" />
+</a>
+</div></li>
+</ul>
+<div class="pager"></div>
+</div>
+<script type="text/javascript" charset="utf-8">jQuery(function($) { $(function () { $("#go-gallery-984-7 .slides").cycle({fx: "scrollHorz", navigation: false, pager: true, pager: "#go-gallery-984-7 .pager"}); }); });</script>
+</div>
+
+<h3>Small Caps</h3>
+<p>Finally, within this description of variables, we can also mention small caps. Small caps are alphabets with capitals’ structure, but which maintain the height of lower case signs. We use this option, for instance, when we need to use capitals but do not want to create irregularities in the color of the text.  </p>
+<p>In the graph, from top to bottom: the word composed in lower case, then in small caps, and finally, in «machine» small caps, which are signs with a 75% reduction in their size. Among the conflicts that result from this we find: first, artificial small caps do not have the same height as lower case, and second, they do not maintain the color of the lower case. Bembo 24 pt was used. </p>
+<p>The criteria mentioned in this text are not the only ones to be followed in order to decide how to create typeface variables, but are the most widely used ones.</p>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/07/T06A_06-versalitas1.jpg"><img class="alignnone size-full wp-image-801" title="Calluna: versalitas" src="http://www.oert.org/wp-content/uploads/2012/07/T06A_06-versalitas1.jpg" alt="Calluna: versalitas" width="701" height="526" /></a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.oert.org/en/typographic-styles/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Structure, stroke and counters of the typographic characters.</title>
+		<link>http://www.oert.org/en/structure-stroke-and-counters-of-the-typographic-characters/</link>
+		<comments>http://www.oert.org/en/structure-stroke-and-counters-of-the-typographic-characters/#comments</comments>
+		<pubDate>Fri, 27 Apr 2012 05:46:37 +0000</pubDate>
+		<dc:creator>OERT</dc:creator>
+				<category><![CDATA[Letter]]></category>
+		<category><![CDATA[Theory]]></category>
+
+		<guid isPermaLink="false">http://www.oert.org/?p=637</guid>
+		<description><![CDATA[Definitions and interaction. Issues to be considered when deciding on the different features that constitute the family. Division of the problem in: structure, stroke and counters, terminals. Resulting identity.]]></description>
+				<content:encoded><![CDATA[<p>Definitions and interaction. Issues to be considered when deciding on the different features that constitute the family. Division of the problem in: structure, stroke and counters, terminals. Resulting identity.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.oert.org/en/structure-stroke-and-counters-of-the-typographic-characters/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Latin alphabet proportions</title>
+		<link>http://www.oert.org/en/latin-alphabet-proportions/</link>
+		<comments>http://www.oert.org/en/latin-alphabet-proportions/#comments</comments>
+		<pubDate>Fri, 27 Apr 2012 05:46:14 +0000</pubDate>
+		<dc:creator>OERT</dc:creator>
+				<category><![CDATA[Letter]]></category>
+		<category><![CDATA[Theory]]></category>
+
+		<guid isPermaLink="false">http://www.oert.org/?p=635</guid>
+		<description><![CDATA[Production technology and its influence on shapes. Trajan capitals and their establishment as a model. Basic structures and common width groups. Groups by morphological relation. Historical and contemporary widths.]]></description>
+				<content:encoded><![CDATA[<p class="autor">Elaboración: Marcela Romero</p>
+<p class="note">Artículo en proceso de traducción </p>
+<blockquote><p>Roman culture not only consolidated the Latin alphabet but also formally developed the signs. We will analyze some of the fundamental factors in these characters’ technology and morphology, without considering the serif and the stroke, so as to focus on its skeleton: the structure.</p></blockquote>
+<h3>Technology and the letter</h3>
+<p>De todas las manifestaciones escritas de los romanos, la que alcanzó Of all the Romans’ written manifestations, the one with the greatest formal development was that of tombstones. It clearly shows a formal and aesthetic search, a clear design intention in each letter and in the typographic alphabet as a whole. The material, stone, had also been used by the Egyptians and the Greeks for the clearest versions of the respective writings. </p>
+<p>The signs carved in stone are one of the first examples of typographic design. The way these symbols were built (flat brush and chisel) influenced the shape of each sign and of the alphabet. Function and technology work together to create characteristics which make up the system.</p>
+<h3>Tombstone writing</h3>
+<p>the beginning they were mono linear. By the end of the Vth century B.C. Greek capitals became geometrically perfect, with great beauty. Occasionally they were altered by the artist, though they always maintained symmetry. Later on Roman influence made them be drawn with a slight difference in width and terminated with a little serif. </p>
+<p>Roman writing took Greek writing but modified the stroke. Roman capitals were painted with a flat brush before they were carved, thus their stroke is gradual. They made optical adjustments in the signs and in the block, which together with the accurate proportion in strokes made these writings beautiful. Also due to the drawing and carving technique the serif or termination appeared, giving the letter support and stability. The gradual stroke and the serif are specific characteristics of Roman typography.</p>
+<h3>Basic structure</h3>
+<p>First we will analyze classic capitals on the basis of the width (or thickness) of the characters and we will then make up groups with characters that share other morphologic characteristics, such as loops, diagonal strokes or crossbars, etc.</p>
+<h3>El ancho de los caracteres</h3>
+<p>In order to visualize more clearly the classic structures and the relations supported by each letter, we will analyze them within sets defined according to the width and height of a round letter (the «O» which, in the case of the Romans, enters within a square) and of a narrow letter (the «E» which in this case is half the width of the «O»). Inside these containers we mark the diagonal strokes and intersections with the circle, to take as references the width and other morphologic characteristics which will help us with the analysis.</p>
+<div id="attachment_830" class="wp-caption alignnone" style="width: 710px"><a href="http://www.oert.org/wp-content/uploads/2012/07/T04A_01-propor_redondas_2.jpg"><img class="size-full wp-image-830  " title="Módulos y letras redondas" src="http://www.oert.org/wp-content/uploads/2012/07/T04A_01-propor_redondas_2.jpg" alt="Módulos y letras redondas" width="700" height="525" /></a><p class="wp-caption-text">Para las romanas clásicas la forma contenedora cuadrada deriva de la proporción de la «O». El segundo contenedor está formado por dos cuadrados con lado igual a la mitad del anterior.</p></div>
+<div id="attachment_839" class="wp-caption alignnone" style="width: 710px"><a href="http://www.oert.org/wp-content/uploads/2012/07/T04A_10-oe.jpg"><img class="size-full wp-image-839" title="Proporciones de la “O” y la “E” clásicas" src="http://www.oert.org/wp-content/uploads/2012/07/T04A_10-oe.jpg" alt="Proporciones de la “O” y la “E” clásicas" width="700" height="525" /></a><p class="wp-caption-text">Proporciones de la “O” y la “E” clásicas.</p></div>
+<p><em>Round Letters:</em> C, D, G, O, Q. They structurally derive from a circle and, as the rest of the Roman structures, they present optical corrections. In this case, upper and lower curves go slightly beyond the baseline. The «O» and the «Q» are as wide as tall, the «C», the «G» and the «D» are slightly narrower than taller.</p>
+<p><em>Wide Letters: </em>M, W. They go beyond the width of the module, that is, they are wider than the «O», and are the widest in the alphabet.</p>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/07/T04A_02-propor_anchas_2.jpg"><img class="size-full wp-image-831" title="Letras anchas" src="http://www.oert.org/wp-content/uploads/2012/07/T04A_02-propor_anchas_2.jpg" alt="Letras anchas" width="700" height="525" /></a></p>
+<p><em>Rectangular Letters: </em>H, U, N, T, A, V, Z. The width of these signs is approximately that of the rectangle defined by the intersection of the circle with the diagonals of the square. As these letters share only the width, further on we will analyze them by making up groups with more characteristics in common.</p>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/07/T04A_03-propor_rectangular_2.jpg"><img class="size-full wp-image-832" title="Letras rectangulares" src="http://www.oert.org/wp-content/uploads/2012/07/T04A_03-propor_rectangular_2.jpg" alt="Letras rectangulares" width="700" height="525" /></a></p>
+<p><em>Narrow Letters 1:</em> B, E, L, F, P, R, S. Their width is approximately half their height.</p>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/07/T04A_04-propor_angostas1_2.jpg"><img class="size-full wp-image-833" title="Letras angostas" src="http://www.oert.org/wp-content/uploads/2012/07/T04A_04-propor_angostas1_2.jpg" alt="Letras angostas" width="700" height="525" /></a></p>
+<p><em>Narrow Letters 2:</em> I, J, K, Y. They are also narrow, but do not share the width with the ones above nor with each other. The «I» is the narrowest, followed by the «J»; the «Y» and the «K» are slightly wider than the narrow module.</p>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/07/T04A_05-propor_angostas2_2.jpg"><img class="size-full wp-image-834" title="Letras angostas" src="http://www.oert.org/wp-content/uploads/2012/07/T04A_05-propor_angostas2_2.jpg" alt="Letras angostas" width="700" height="525" /></a></p>
+<h3>Morphological relationships </h3>
+<p><em>A, V, W, M: </em>they are related by a central apex, built with a similar angle. The end of the apex goes beyond, by optical correction, the height line or the baseline, depending on the letter. The width of the «A» and of the «V» is 3/4 their height. The crossbar in the «A» is located below the geometric center to give it more stability and to compensate for its counter forms.</p>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/07/T04A_06-parentesco_avwm.jpg"><img class="alignnone size-full wp-image-835" title="Parentesco morfológico: diagonales y eje de simetría vertical" src="http://www.oert.org/wp-content/uploads/2012/07/T04A_06-parentesco_avwm.jpg" alt="Parentesco morfológico: diagonales y eje de simetría vertical" width="700" height="525" /></a></p>
+<p>The «M» and the «W» are the widest letters in the alphabet. The «M» is as wide (or slightly wider) as tall while the W is slightly wider.</p>
+<p><em>O, Q, C, D, G: </em>are the ones that derive from the circle. The «O» and the «Q» are visualized as circles, the tail of the Q, in this case, is long and curved, but may vary in shape and size. The width of the «C», the «G» and the «D» is approximately 7/8 their height.</p>
+<p>The «G» presents a short ascender arm, which does not go beyond the geometric center, and which terminates in an «elbow», towards the interior of the letter. This element is not always present. </p>
+<p>The «D» is contained by horizontal strokes above and below, which give it great support. Also, these letters have similar width.</p>
+<p>La «D» está contenida arriba y abajo por trazos horizontales, que le otorgan buen apoyo. Estas letras tienen además un ancho similar.</p>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/07/T04A_07-parentesco_oqcdg.jpg"><img class="alignnone size-full wp-image-836" title="Parentesco: letras redondas" src="http://www.oert.org/wp-content/uploads/2012/07/T04A_07-parentesco_oqcdg.jpg" alt="Parentesco: letras redondas" width="700" height="525" /></a></p>
+<p><em>E, F, L: </em>their width is approximately half their height. In the «E» and the «F» the central stroke is located above the geometric center. They are built by vertical and horizontal strokes.</p>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/07/T04A_08-parentesco_efl.jpg"><img class="alignnone size-full wp-image-837" title="Parentesco: angostas con horizontales y verticales" src="http://www.oert.org/wp-content/uploads/2012/07/T04A_08-parentesco_efl.jpg" alt="Parentesco: angostas con horizontales y verticales" width="700" height="525" /></a></p>
+<p><em>B, P, R: </em>have «loops» in their structure.</p>
+<p>The «B» has two, the upper one smaller than the lower one. The upper part has a width equivalent to half its height, the lower part is slightly wider.</p>
+<p>The «P» and the «R» have a common structure, with a width which is almost half their width. The «P», in this case, has no link between the loop and the stem. This characteristic is not present in every typeface family.</p>
+<p>The tail of the «R» grants the letter support, the total width is 3/4 its height.</p>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/07/T04A_09-parentesco_bpr.jpg"><img class="alignnone size-full wp-image-838" title="Parentesco: angostas con bucles" src="http://www.oert.org/wp-content/uploads/2012/07/T04A_09-parentesco_bpr.jpg" alt="Parentesco: angostas con bucles" width="700" height="525" /></a></p>
+<p><em>X, Y, K: </em>the encounter of the strokes is held in a medium point.</p>
+<p>In the «X» and the «K» this takes place in the optic center, slightly above the geometric one.</p>
+<p>The «K» has two diagonal strokes, an ascender and a descender, both with similar angles. The upper diagonal stroke reaches a width which is 2/3 the height, while the lower one is 3/4 the height.</p>
+<p>The arms of the «Y» come together below the geometric center, allowing the interior counter form to be wider. The angle is similar to that of the «X».</p>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/07/T04A_11-parentesco_xky.jpg"><img class="alignnone size-full wp-image-840" title="Parentesco: diagonales con contraforma superior e inferior" src="http://www.oert.org/wp-content/uploads/2012/07/T04A_11-parentesco_xky.jpg" alt="Parentesco: diagonales con contraforma superior e inferior" width="700" height="525" /></a></p>
+<p><em>H, I, J, T: </em>the «I» works as constructive model of the other three letters.</p>
+<p>The «J» extends, in this case, with a soft curve below the baseline, 1/3 its height. It shares the characteristic of going below the baseline only with the «Q».</p>
+<p>The «H» is solid and stable. The crossbar is located above the geometric center, so that the lower counterform may support the upper one. Its width is approximately ¾ its height.</p>
+<p>The «T» has the stem as the symmetry axis of the crossbar. Its width is similar to that of the «H».</p>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/07/T04A_12-parentesco_hijt.jpg"><img class="alignnone size-full wp-image-841" title="Parentesco: asta vertical" src="http://www.oert.org/wp-content/uploads/2012/07/T04A_12-parentesco_hijt.jpg" alt="Parentesco: asta vertical" width="700" height="525" /></a></p>
+<p><em>S: </em>it is a complex letter. It is formed by a curve and counter-curve with a narrow development. The lower curve derives from a circle which is larger than the upper one, to support it and give it greater back up. It is unstable. Its width is approximately half its height. It shares the type of curves with the rest of the circular signs.</p>
+<p><em>N: </em>it is quite wide, occupying ¾ its height. The diagonal stroke divides the internal counterforms in spaces which are approximately the same, as are the angles. The vortices go beyond the height and the baseline due to optical correction.</p>
+<p><em>U: </em>it is also unstable as it leans on a curve which goes slightly beyond the baseline. Its width is approximately ¾ its height.</p>
+<p><em>Z: </em>It is solid and stable as the supporting arm is a bit longer than the upper arm, with a vortex that goes slightly beyond the case.</p>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/07/T04A_13-s_n_u_z.jpg"><img class="alignnone size-full wp-image-842" title="Sin grupo de parentesco" src="http://www.oert.org/wp-content/uploads/2012/07/T04A_13-s_n_u_z.jpg" alt="Sin grupo de parentesco" width="700" height="525" /></a></p>
+<h3>Comparing proportions with recently designed alphabets</h3>
+<p>In different typographic designs, structures undergo changes that make each family a distinctive one, but basic characteristics are maintained, to make them recognizable. Deeper structural changes affect the width of signs, the height of capitals, of the x, and of ascenders and descenders.</p>
+<p>As regards style, though this is not our main concern today, changes are produced in the stroke (uniform or with different relations between wide ones and thin ones) and in the terminals (serif if present, and cuts in the strokes, in the sans-serif ones). In the Latin alphabet, to take it as example —Trajan, Carol Twombly, 1989— we had taken the «O» to build the container, which based on its width and height was a square. In other cases it will be a rectangle, if the «O» is higher than wider. </p>
+<p>If we analyze the signs in this other example —Rosario, H. Gatti, 2004—, there are many coincidences with the analyses performed for the Trajans.</p>
+<p>If we take Rosario, and we repeat the procedure of looking for the O container, we will see that it is a vertical rectangle (width/height proportion: 3/4). </p>
+<p>When dividing in groups based on differences in width we see that, in general, differences are slighter and the narrow ones are wider. That is to say, there are subtle differences in width and they have to do with the same criteria as those in classic ones. There are two letters where the width is different: the Z, narrower and the S, much wider than its Latin correspondent. The most important difference is that there is less variation in width.</p>
+<p><em>M and W: </em>Are wide, wider than the «O»</p>
+<p><em>O and Q: </em>have almost the same width.</p>
+<p><em>C, D and G: </em>are slightly narrower than the «O» or the «Q», as in the Traja</p>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/07/T04A_14-o_grande.jpg"><img class="alignnone size-full wp-image-843" title="Letra “O” de proporciones contemporáneas" src="http://www.oert.org/wp-content/uploads/2012/07/T04A_14-o_grande.jpg" alt="Letra “O” de proporciones contemporáneas" width="700" height="525" /></a></p>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/07/T04A_15-mw_oqcdg.jpg"><img class="alignnone size-full wp-image-844" title="Grupo de las anchas y las redondas" src="http://www.oert.org/wp-content/uploads/2012/07/T04A_15-mw_oqcdg.jpg" alt="Grupo de las anchas y las redondas" width="700" height="525" /></a></p>
+<p><em>H, U, N, T, A, V and Z:</em> narrower than the round ones (1/5 less) and the «Z» is still a bit narrower.</p>
+<p><em>B, P, R; E, F, L; K, X, Y; S, N, U, Z; H, I, J, T: </em>are narrow, though with differences between each other. «I» is the narrowest one, K» and «X» the widest, just as in Trajans.</p>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/07/T04A_16-efl_bpr_kxy_snuz_hijt.jpg"><img class="alignnone size-full wp-image-845" title="Grupos de anchos" src="http://www.oert.org/wp-content/uploads/2012/07/T04A_16-efl_bpr_kxy_snuz_hijt.jpg" alt="Grupos de anchos" width="700" height="525" /></a></p>
+<p>We may conclude that first, analysis has to be performed on each family, because apart from the general, there are differences, and second, though these may not be noticeable, we can recognize relationships in the criteria that determine widths.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.oert.org/en/latin-alphabet-proportions/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Typographic classification</title>
+		<link>http://www.oert.org/en/typographic-classification/</link>
+		<comments>http://www.oert.org/en/typographic-classification/#comments</comments>
+		<pubDate>Fri, 27 Apr 2012 05:45:45 +0000</pubDate>
+		<dc:creator>OERT</dc:creator>
+				<category><![CDATA[Letter]]></category>
+		<category><![CDATA[Theory]]></category>
+
+		<guid isPermaLink="false">http://www.oert.org/?p=634</guid>
+		<description><![CDATA[Classification as a tool for analysis and study. Classification criteria. Different classifications. Stylistic characteristics, important contributors and families in each historical period.
+]]></description>
+				<content:encoded><![CDATA[<p class="autor">Elaboración: Natalia Fernández</p>
+<p class="note">Artículo en proceso de traducción </p>
+<h3>Typographic classification</h3>
+<blockquote><p>«Those ambiguities, redundancies and deficiencies remind us of those Dr Fanz Kuhn attributes to a certain Chinese encyclopedia called Celestial Emporium of Benevolent Knowledge´s Taxonomy. In its remote pages it is written that the animals are divided into: (a) belonging to the emperor, (b) embalmed, (c) tame, (d) sucking pigs, (e) sirens, (f) fabulous, (g) stray dogs, (h) included in the present classification, (i) frenzied, (j) innumerable, (k) drawn with a very fine camelhair brush, (l) et cetera, (m) having just broken the water pitcher, (n) that from a long way off look like flies.».<cite>Jorge Luis Borges. “El idioma analítico de John Wilkins”, en <em>Otras Inquisiciones</em>, Buenos Aires, Emecé, 1996.</cite></p></blockquote>
+<p>from giving us several typographic , stylistic, historic, and cultural references. </p>
+<p>Classification systems based on historic criteria are useful to analyze typography designed up to the mid-20th century. It is useful to know them in order to understand the influence the merging of new technologies and the better use of ancient knowledge had on the evolution of typographic design, apart from being a great tool to strengthen historic associations or for the search of families in catalogues. There have been many attempts to establish a classification system capable of arranging the existing typographic styles. The main ones are:</p>
+<p><strong>1921 </strong>Francis Thibaudeau. He organizes his classification in 4 styles, basing it in the contrast of strokes and stems terminals.</p>
+<p><strong>1954 </strong>Maximilien Vox. He proposes a historic classification, this is one of the best known models. It includes 9 styles.</p>
+<p><strong>1958 </strong>Aldo Novarese. Based on the Thibadeau system, he establishes 10 styles differentiated depending on the morphology of terminals.</p>
+<p><strong>1962</strong> DIN 16518-ATypI (Association Typographique Internationale). It adopts and completes the system developed by Vox. (10 styles)</p>
+<p><strong>1963</strong> Giuseppe Pellitieri. He establishes a morphologic classification of 10 styles, based on the differences between strokes and terminals.</p>
+<p><strong>1965</strong> British Standards Institution (bs 2961 system) (9 styles)</p>
+<p><strong>1979</strong> Jean Alessandrini. He also bases his classification on morphologic characteristics. He establishes 15 different styles.</p>
+<p><strong>1992</strong> Christopher Perfect. He adopts a historic criterion to establish 7 styles.</p>
+<p><strong>1997</strong> Robert Bringhurst. He relates typographic styles to main artistic movements. He defines 8 styles.</p>
+<p>There are many ways to classify and many different classification systems, but regardless of the system we adopt, we have to know which things to analyze in typeface families in order to decide how to group them or how to separate them.</p>
+<h3>XVth Century</h3>
+<p><strong>1450 </strong>Johannes Gutenberg, in Germany, uses for the first time the movable type printing. The first lead types tried to imitate the calligraphy with which handwritten books were written.<br />
+<strong>1470. </strong>In Venice, type carvers took humanist writings as a model.</p>
+<h4>1470 Roman or Venetian Humanist</h4>
+<ul>
+<li>Gradual light contrast stroke. The modulation axis is oblique and very tilted.</li>
+<li>Short and thick terminals, oblique ascenders.</li>
+<li>Little or no difference between the heights of capitals and ascenders.</li>
+<li>Tilted &#8220;e&#8221; crossbar.</li>
+</ul>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/07/T05A-02_lin_rom-humanistas.jpg"><img class="alignnone size-full wp-image-813" title="Romanas humanistas" src="http://www.oert.org/wp-content/uploads/2012/07/T05A-02_lin_rom-humanistas.jpg" alt="Romanas humanistas" width="700" height="525" /></a></p>
+<h4>1490 Oldstyle Roman</h4>
+<ul>
+<li>Gradual medium contrast stroke and oblique modulation axis 	</li>
+<li>Light and sharp terminals, oblique ascenders and in lower case support.</li>
+<li>Capitals height is lower than that of ascenders.</li>
+<li>Horizontal “e” crossbar.</li>
+</ul>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/07/T05A-03_lin_rom-antiguas.jpg"><img class="alignnone size-full wp-image-814" title="Romanas antiguas" src="http://www.oert.org/wp-content/uploads/2012/07/T05A-03_lin_rom-antiguas.jpg" alt="Romanas antiguas" width="701" height="525" /></a></p>
+<h3>XVIth Century</h3>
+<p><strong>1501 </strong>Francesco Griffo carved the first italic characters at the request of Aldo Manuzio. The spreading of the printing press throughout Europe promoted the growth and improvement of characters design. Carving techniques and the craft of engraving types evolved allowing for finer and more precise corrections.</p>
+<h3>XVIIth Century</h3>
+<p><strong>1692 </strong>Louis XIV ordered an experts committee to develop a new type the characters of which had to be created based on scientific principles. The engineers who were summoned defined this type of letter with rigorous geometry; Louis Simonneau engraved the matrix on copper sheets and the typographer Grandjean engraved the moulds to reduce the master alphabet to the type of text which will be known as Romain du Roi (King’s Roman).</p>
+<h4> 1690 Transitional Roman</h4>
+<ul>
+<li>Gradual medium or high contrast stroke. The modulation axis is vertical or almost vertical.</li>
+<li>Light terminals, slightly oblique or horizontal ascenders and lower case support.</li>
+<li>Capitals height is lower that that of ascenders.</li>
+</ul>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/07/T05A-04_lin_rom-transicion.jpg"><img class="alignnone size-full wp-image-815" title="Romanas de transición" src="http://www.oert.org/wp-content/uploads/2012/07/T05A-04_lin_rom-transicion.jpg" alt="Romanas de transición" width="701" height="525" /></a></p>
+<h3>XVIIIth Century</h3>
+<p>Typography became a more formal discipline; the development of theoretical content is reflected by the number of typography manuals that were published at this time. </p>
+<p><strong>1700</strong> John Baskerville improved the press, the papers and the inks used for printing.</p>
+<p><strong>1764</strong> The Didots improved the system of typographic measurement.</p>
+<h4>1780 Modern Roman</h4>
+<ul>
+<li>Gradual high contrast stroke and vertical modulation axis.</li>
+<li>Filiform terminals.</li>
+</ul>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/07/T05A-05_lin_rom-modernas.jpg"><img class="alignnone size-full wp-image-816" title="Romanas modernas" src="http://www.oert.org/wp-content/uploads/2012/07/T05A-05_lin_rom-modernas.jpg" alt="Romanas modernas" width="701" height="525" /></a></p>
+<h3>XIXh Century</h3>
+<p>Industrial revolution brought about mass production. The advertising needed to sell those products demanded new kinds of more flamboyant letters. The invention of the pantograph carver made the development of new typographic designs more accessible. With the invention of linotype (in 1886) and monotype (in 1887), the composition of texts became a mechanic process.</p>
+<h4>1810 Mechanic or Egyptian</h4>
+<ul>
+<li>Uniform stroke (or gradual of little contrast and vertical modulation axis).</li>
+<li>Straight terminals, with the same(or almost the same) width as the stroke.</li>
+<li>High x height</li>
+</ul>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/07/T05A-06_lin_egipcias.jpg"><img class="alignnone size-full wp-image-817" title="Egipcias" src="http://www.oert.org/wp-content/uploads/2012/07/T05A-06_lin_egipcias.jpg" alt="Egipcias" width="701" height="525" /></a></p>
+<h4>1810 Grotesque Sans serif</h4>
+<ul>
+<li>Uniform stroke or with little contrast between thin and thick (vertical modulation).</li>
+<li> High x height.</li>
+<li>Slight squaring of curves.</li>
+</ul>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/07/T05A-07_lin_sans-grotescas.jpg"><img class="alignnone size-full wp-image-818" title="Grotescas" src="http://www.oert.org/wp-content/uploads/2012/07/T05A-07_lin_sans-grotescas.jpg" alt="Grotescas" width="701" height="525" /></a></p>
+<h3>XXh Century</h3>
+<p><strong>1954</strong> Commercial photocomposers began to be used. Typography can be superimposed and distorted. </p>
+<p><strong>1985</strong> Apple launched the Macintosh and the laser printer together with the first desktop publishing programs. With the Internet, digital typography working in the multimedia environments, added new dimensions to written language.</p>
+<h4>1920 Geometric Sans serif </h4>
+<ul>
+<li>Uniform stroke.</li>
+<li>Synthetic structures based on simple geometrical figures.</li>
+<li>Many times the «a» has no ascender stroke.</li>
+</ul>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/07/T05A-08_lin_sans-geo.jpg"><img class="alignnone size-full wp-image-819" title="Lineales geométricas" src="http://www.oert.org/wp-content/uploads/2012/07/T05A-08_lin_sans-geo.jpg" alt="Lineales geométricas" width="701" height="525" /></a></p>
+<h4>1920 Humanistic Sans serif</h4>
+<ul>
+<li>Uniform or slightly gradual stoke • Based on classic structures.</li>
+<li>Letter «a» has ascender lace.</li>
+<li>Generally the letter«g» has a closed tail and ear.</li>
+</ul>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/07/T05A-09_lin_sans-humanisticas.jpg"><img class="alignnone size-full wp-image-820" title="Lineales humanísticas" src="http://www.oert.org/wp-content/uploads/2012/07/T05A-09_lin_sans-humanisticas.jpg" alt="Lineales humanísticas" width="701" height="525" /></a></p>
+<h4>1930 Hybrids o glyphic</h4>
+<ul>
+<li>Gradual stroke.</li>
+<li>Based on classic structures.</li>
+<li>Triangular terminals, inspired on letters carved on stones.</li>
+</ul>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/07/T05A-10_lin_hibridas.jpg"><img class="alignnone size-full wp-image-821" title="Híbridas" src="http://www.oert.org/wp-content/uploads/2012/07/T05A-10_lin_hibridas.jpg" alt="Híbridas" width="701" height="526" /></a></p>
+<h4>1985 Electronic</h4>
+<p>The stroke and interletter space are based on the pixel to function on the screen. Each size needs a specific drawing.</p>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/07/T05A-11_lin_electronicas.jpg"><img class="alignnone size-full wp-image-822" title="Electrónicas" src="http://www.oert.org/wp-content/uploads/2012/07/T05A-11_lin_electronicas.jpg" alt="Electrónicas" width="701" height="526" /></a></p>
+<p>Let&#8217;s review other criteria for classifying fonts that are not based on historical periods, but rather in the arguments or evidence used to design inspiration. These fonts generally are not recommended for long or compose texts in small sizes. Some possible discussion groups for families who were excluded are:</p>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/07/T05A-01_cat-anacronicas.jpg"><img class="alignnone size-full wp-image-812" title="Anacrónicas" src="http://www.oert.org/wp-content/uploads/2012/07/T05A-01_cat-anacronicas.jpg" alt="Categorías anacrónicas" width="701" height="525" /></a></p>
+<p class="note">Note: This is only one of many possible classifications, and though there may be several points of view, none of them will disagree as to the characteristics of each typeface family, but only as to the way of assessing similarities and differences.</p>
+<div class="ref_box"><strong>Bibliography</strong></p>
+<ul>
+<li>MARTINEZ DE SOUSA, José. <em>Manual de edición y autoedición,</em> Ediciones Pirámide. 1999.</li>
+<li>HALLEY, Allan. <em>Hot designers make cool fonts.</em> Rockport Publishers. 1998.</li>
+<li>CEREZO, José María. <em>Diseñadores en la nebulosa.</em> Editorial Biblioteca Nueva. 1997.</li>
+<li>BLACKWELL, Lewis. <em>Tipografía del siglo xx. Remix.</em> Editorial Gustavo Gili. 1998.</li>
+<li>DE BUEN UNNA, Jorge. <em> Manual de diseño editorial. 3.ª edición, corregida y aumentada. </em>Trea Ediciones, España, 2009.</li>
+<li>GÁLVEZ PIZARRO, Francisco. <em>Educación tipográfica, una introducción a la tipografía,</em> Universidad Diego Portales, Chile, 2004.</li>
+<li>BRINGHURST, Robert. <em>Los elementos del estilo tipográfico,</em> Libros sobre libros / Fondo de Cultura Económica, México, 2008.</li>
+</ul>
+<p></p></div>
+]]></content:encoded>
+			<wfw:commentRss>http://www.oert.org/en/typographic-classification/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Typographic anatomy</title>
+		<link>http://www.oert.org/en/typographic-anatomy/</link>
+		<comments>http://www.oert.org/en/typographic-anatomy/#comments</comments>
+		<pubDate>Fri, 27 Apr 2012 05:45:15 +0000</pubDate>
+		<dc:creator>OERT</dc:creator>
+				<category><![CDATA[Letter]]></category>
+		<category><![CDATA[Theory]]></category>
+
+		<guid isPermaLink="false">http://www.oert.org/?p=630</guid>
+		<description><![CDATA[Parts of the letter: location and definition.]]></description>
+				<content:encoded><![CDATA[<p class="autor">Created by: Natalia Fernández</p>
+<p class="note">Artículo en proceso de traducción </p>
+<h3>Glossary</h3>
+<div class="glosario"></p>
+<p><strong>apophyge: </strong>small curved part, usually ¼ circle, which connects the main stem with the terminals or serifs. </p>
+<p><strong>arm:</strong> horizontal stroke that is free at one end. </p>
+<p><strong>bowl: </strong>it refers to the loops that lean on the baseline. </p>
+<p><strong>cross: </strong>horizontal stroke in the letters «T», «t» and «f».</p>
+<p><strong>crossbar: </strong>horizontal stroke in the letters «e», «f», «t», «A», «H» and «T». </p>
+<p><strong>ear: </strong>small stroke that comes out of the head of the closed tail lower case «g».  </p>
+<p><strong>elbow: </strong>90º joint formed between the straight strokes of the «G». </p>
+<p><strong>encounter: </strong>Abrupt joint of two strokes that intersect at a point.</p>
+<p><strong>eye: </strong>embossing of the type that stick out of the shoulder, which, impregnated with ink, produces the imprint. </p>
+<p><strong>flourish: </strong>stroke. </p>
+<p><strong>foot: </strong>see leg.</p>
+<p><strong>head:</strong> it refers to the upper part of the sign. </p>
+<p><strong>hook: </strong>curved and closed stroke. teardrop: End usually found in the curved strokes in the head of some lower case, for instance the «a», la «f» and the «c». </p>
+<p><strong>interior counterform: </strong>space which is totally or partially enclosed inside a letter. </p>
+<p><strong>joint: </strong>gradual coming together of two strokes that meet to become one. </p>
+<p><strong>leg: </strong>diagonal stroke that serves as support for some letters. </p>
+<p><strong>loop:</strong> curved stroke that encloses a counterform. </p>
+<p><strong>nail: </strong>small stroke, in the shape of a nail, which appears in some «G» letters.</p>
+<p><strong>neck: </strong>stroke that links the head with the tail in the «g». </p>
+<p><strong>shoulder: </strong>part of the kind that is below the eye and which leaves no impression. </p>
+<p><strong>stem: </strong>main stroke of the letter. // descender: has a calligraphic origin, it refers to the direction in which the stroke was made. Usually, descenders are thin and ascending ones are thick. ascender: see above. </p>
+<p><strong>stroke: </strong>is each one of the strokes that conforms the letter. </p>
+<p><strong>tail:</strong> descending stroke that makes «Q» different from «O». It also applies to the descending stroke in «g».   </p>
+<p><strong>terminal: </strong>supplementary element of the stem in those letters that have it. Also called serif. </p>
+<p><strong>vertex: </strong>straight and sharp joint of two strokes.<br />
+</p></div>
+<div id="go-gallery-1780-8" class="go-gallery-container go-gallery-1780 gog-dots has-pager cycle">
+<div class="go-gallery-inner">
+<ul class="slides">
+<li>
+<div class="image"><img width="700" height="526" src="http://www.oert.org/wp-content/uploads/2012/09/T04B-02.jpg" class="attachment-large" alt="Anatomía tipográfica" />
+</div></li>
+<li>
+<div class="image"><img width="700" height="526" src="http://www.oert.org/wp-content/uploads/2012/09/T04B-03.jpg" class="attachment-large" alt="Anatomía tipográfica" />
+</div></li>
+<li>
+<div class="image"><img width="700" height="526" src="http://www.oert.org/wp-content/uploads/2012/09/T04B-04.jpg" class="attachment-large" alt="Anatomía tipográfica" />
+</div></li>
+</ul>
+<div class="pager"></div>
+</div>
+<script type="text/javascript" charset="utf-8">jQuery(function($) { $(function () { $("#go-gallery-1780-8 .slides").cycle({fx: "scrollHorz", navigation: false, pager: true, pager: "#go-gallery-1780-8 .pager"}); }); });</script>
+</div>
+
+]]></content:encoded>
+			<wfw:commentRss>http://www.oert.org/en/typographic-anatomy/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Character map</title>
+		<link>http://www.oert.org/en/character-map/</link>
+		<comments>http://www.oert.org/en/character-map/#comments</comments>
+		<pubDate>Fri, 27 Apr 2012 05:45:01 +0000</pubDate>
+		<dc:creator>OERT</dc:creator>
+				<category><![CDATA[Letter]]></category>
+		<category><![CDATA[Theory]]></category>
+
+		<guid isPermaLink="false">http://www.oert.org/?p=629</guid>
+		<description><![CDATA[Character map of a typeface. Location in the operating system and in desktop publishing software. ]]></description>
+				<content:encoded><![CDATA[<p class="autor">Elaboración: Pablo Cosgaya</p>
+<p class="note">Artículo en proceso de traducción </p>
+<p class="bajada">Apart from knowing spelling and grammar rules, as designers we must be capable of correctly reproducing a message by means of typographic elements. Knowing the location of characters in our keyboard will help with this task.</p>
+<p>Each box identifies a character. The upper part shows the combination of keys needed for it to be typed in Mac and the lower one for it to be typed in Windows. Those systems and programs that support OpenType typographies have a window that shows the possible options for each character. </p>
+<p>It is worth mentioning that these signs may be typed as long as they are included in the family. A good quality digitalization family must have  the full map of characters (256 characters), per each variable. It will be convenient to choose the typeface family to be used based on the requirements of the piece to be composed, verifying that the font to use includes all the characters I need.</p>
+<div id="attachment_849" class="wp-caption alignnone" style="width: 711px"><a href="http://www.oert.org/wp-content/uploads/2012/07/T03B_01-mapa_caracteres.jpg" target="_blank"><img class="size-full wp-image-849 " title="Mapa de caracteres" src="http://www.oert.org/wp-content/uploads/2012/07/T03B_01-mapa_caracteres.jpg" alt="Mapa de caracteres" width="701" height="526" /></a><p class="wp-caption-text">Mapa de caracteres</p></div>
+]]></content:encoded>
+			<wfw:commentRss>http://www.oert.org/en/character-map/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Typography and desktop publishing</title>
+		<link>http://www.oert.org/en/typography-and-desktop-publishing/</link>
+		<comments>http://www.oert.org/en/typography-and-desktop-publishing/#comments</comments>
+		<pubDate>Fri, 27 Apr 2012 05:44:48 +0000</pubDate>
+		<dc:creator>OERT</dc:creator>
+				<category><![CDATA[Letter]]></category>
+		<category><![CDATA[Theory]]></category>
+
+		<guid isPermaLink="false">http://www.oert.org/?p=628</guid>
+		<description><![CDATA[Text composition: manual, mechanical and digital. How to obtain the printing surface. Aspects to consider in desktop-publishing typesetting. Fonts. Characteristics of different formats and their implications in visualization and printing. Font installation.]]></description>
+				<content:encoded><![CDATA[<p class="autor">Elaboración: Pablo Cosgaya, Marcela Romero</p>
+<p class="note">Artículo en proceso de traducción </p>
+<p class="bajada">Apart from calligraphy and common hand writing, there are other forms of composing texts: manual composition, mechanical composition, photocomposition and desktop publishing. Each one of them is the result of successive modifications of previous techniques, which we will describe in this paper.</p>
+<h3>Manual composition</h3>
+<p>Texts are composed line by line with loose types casted individually. In this technique, types are picked by hand from their case, adjusting each line precisely in the composer stick. With that little tool, the line is set on a chase, the mould that holds the page or whole sheet of text. The blocks of images are also added inside the chase. The white spaces, though not printed, occupy in the line their corresponding place, composed with normalized measures.</p>
+<h3>Mechanical composition</h3>
+<p>Technological advances allowed for the mechanization of composition, considerable increasing speed. In the beginning of the 19th century a system was developed with which, in three consecutive stages, a matrix line was composed, then spaces were adjusted and finally the line of text was casted. The procedure was controlled by means of a keyboard and allowed for manual adjustments. After its use, each line could be melted again to recover the metal. Linotype, monotype and Ludlow composition are variants of this technique.</p>
+<h3>Photocomposition</h3>
+<p>In the beginning of the 1960s, with the forthcoming of photocomposition, production speed was once more increased. Besides, this technique allowed for composition in big type sizes.</p>
+<p>Photocomposition consists of several stages: First, the text is introduced in the computer using a keyboard. Apart from letters, the operator can include some formatting commands. The text is displayed in a monitor, together with the information corresponding to the formatting commands, though not as it will be seen in the end, but as straight matter. This is stored and then processed as a negative film, through which a source of light impacts on a photosensitive substrate. The material obtained is developed, reaching the definitive photocomposition.</p>
+<h3>Desktop publishing</h3>
+<p>With the launching of the personal computer (PC) in 1984, the user gained access to a technology that represents the material in the monitor exactly as it is composed. This «interface» between the user and the machine is called WYSIWYG (what you see is what you get). Although in the beginning this technique lacked refinement, it underwent (and still undergoes) a vertiginous evolution.</p>
+<p>Desktop publishing makes it possible to coordinate all the parts that compose the original of an edition in a single machine. It checks and solves several aspects related to quality. Desktop publishing operation is divided into three stages: loading of information (text and images), processing and output.</p>
+<div id="go-gallery-1754-9" class="go-gallery-container go-gallery-1754 gog-dots has-pager cycle">
+<div class="go-gallery-inner">
+<ul class="slides">
+<li>
+<div class="image"><img width="700" height="525" src="http://www.oert.org/wp-content/uploads/2012/09/T03A_01-pantalla_windowsxp2.jpg" class="attachment-large" alt="Pantalla con la interfaz del sistema operativo WindowsXP." />
+</div><div class="description">Pantalla con la interfaz del sistema operativo WindowsXP</div>
+</li>
+<li>
+<div class="image"><img width="700" height="525" src="http://www.oert.org/wp-content/uploads/2012/09/T03A_02-pantalla_mac2.jpg" class="attachment-large" alt="Pantalla con la interfaz del sistema operativo MacOs X." />
+</div><div class="description">Pantalla con la interfaz del sistema operativo MacOsX</div>
+</li>
+</ul>
+<div class="pager"></div>
+</div>
+<script type="text/javascript" charset="utf-8">jQuery(function($) { $(function () { $("#go-gallery-1754-9 .slides").cycle({fx: "scrollHorz", navigation: false, pager: true, pager: "#go-gallery-1754-9 .pager"}); }); });</script>
+</div>
+
+<h3>Entry</h3>
+<p>The loading of information happens through one or several devices at the same time. The tools for loading are: the keyboard, the scanner, and the modem which consists of a transformer of the data received through a telephone line, optic fiber and other types of physical or wireless connections. Information can also be received by means of a connection to networks composed by several machines, to share files, programs or peripheral equipment.</p>
+<h3>Processing</h3>
+<p>Processing is performed with programs designed according to needs: each program (software) carries out a specific task. Thus, there is a program that works as operative system for the machine, one for image digitalization, one to touch up digitalized images, one to produce and to color illustrations, and there are specialized programs in document layout with which all the necessary elements are composed (they are glued): text, photographs, illustrations, etcetera. We will illustrate the interfaces of the two currently most important layout programs: InDesign and QuarkXPress.</p>
+<h3>Output</h3>
+<p>Upon finishing the file processing, output is prepared which, depending on the printer, can have different qualities and resolutions. This process can include the split of color in the paper, pre-printing films or directly on the printing plates. Many times, due to the cost of these processes, the designer must employ outsourced professionals: first he must produce evidence in low resolution printers; then, store the files in optical or magnetic supports (cds, pen drives, DVDs, etc.) to finally send them to specialized workshops.</p>
+<p>No matter which is the selected procedure, the result is the same: an original or matrix to be reproduced. Each composition technique and each output technology has its own characteristics which will be closely related to the final reproduction technique (typographic impression, serigraph printing, offset, digital files, video, etc.). According to the method used in the output process, costs, times and qualities are different.</p>
+<h3>Layout programs</h3>
+<p>This paper contains a listing of aspects to take into consideration so as to be familiar with the use of layout programs. We recommend the reading of the layout notes, the originals of which are available to the students. Manuals and tutorials are also available in internet and in bookstores.</p>
+<div id="go-gallery-1748-10" class="go-gallery-container go-gallery-1748 gog-dots has-pager cycle">
+<div class="go-gallery-inner">
+<ul class="slides">
+<li>
+<div class="image"><img width="700" height="525" src="http://www.oert.org/wp-content/uploads/2012/09/T03A_04-interfase_indesign.jpeg" class="attachment-large" alt="Interfaz InDesign" />
+</div><div class="description">Interfaz InDesign</div>
+</li>
+<li>
+<div class="image"><img width="700" height="525" src="http://www.oert.org/wp-content/uploads/2012/09/T03A_03-interfase_quark.jpg" class="attachment-large" alt="Interfaz QuarkXPress" />
+</div><div class="description">Interfaz QuarkXPress</div>
+</li>
+</ul>
+<div class="pager"></div>
+</div>
+<script type="text/javascript" charset="utf-8">jQuery(function($) { $(function () { $("#go-gallery-1748-10 .slides").cycle({fx: "scrollHorz", navigation: false, pager: true, pager: "#go-gallery-1748-10 .pager"}); }); });</script>
+</div>
+
+<h3>Program operation</h3>
+<p>First, we have to decide which program we will work with. Though in this paper we describe two programs which we consider have similar characteristics, it is unquestionably very important that the program we decide to use must be well known in the market of design studies and pre-printing workshops to avoid incompatibilities.</p>
+<p>Next we will describe the steps to take into consideration so as to become familiar with an unknown program, regardless of which one we have selected:</p>
+<p><strong>a) </strong>Definition of general preferences: Vertical and horizontal measurement units, adding and eliminating pages, visualizing guiding lines (in front of or behind the elements of the page), minimum text visible in the screen, etc.</p>
+<p><strong>b)</strong> Definition of main characteristics of the new document (layout): These are: format, margins, single or double pages (usual in editions) and use of master pages, in case they have been previously elaborated.</p>
+<p><strong>c)</strong> Managing basic tools (Tools bar): Tools for the selection and treatment of text and images, how to define text and image boxes, how to chain texts from independent boxes, how to enlarge and reduce the visualization of the screen, how to scroll through the document, etc.</p>
+<p><strong>d)</strong> Definition of main measures (Measurements bar): Location of each element with x and y coordinates, width and height of type pages, number of columns, typographic selection, space between pairs of letters and in blocks of text (kerning and tracking), line spacing, alignment of text blocks and variations in text style.</p>
+<p><strong>e)</strong> How text is treated: Once the characteristics and location of the type page have been defined, we must define the features of the paragraph: select a type of margin setting, set up word breaks according to the language we are working in (programs are often set up for English word breaks), exceptions to automatic word breaks (orthographic and style correction), define the criteria to differentiate one paragraph from the other, control the presence of widows and orphans, review the matching or the type of relationship between baselines of different type pages, overrun of an image with a text, incorporation of chapters, etcetera.</p>
+<h3>Typographic fonts</h3>
+<p>Computers use two types of fonts: Outline fonts and bitmap fonts.</p>
+<p><em>Bitmap fonts:</em> Called fixed size fonts. They define each character by means of a dots grid for a specific type size. For this reason, only the type sizes available in the system folder may be used.<br />
+<em>Outline fonts:</em> Usually called scalable fonts. They may be scaled in all type sizes. Each character is defined using a mathematical formula of curves, which may be scaled to an arbitrary type size</p>
+<div class="wp-caption alignnone" style="width: 710px"><a href="http://www.oert.org/wp-content/uploads/2012/07/T03A_06-mapabits_contorno.png"><img title="Fuente de mapa de bits y mapa de contorno de una letra" src="http://www.oert.org/wp-content/uploads/2012/07/T03A_06-mapabits_contorno.png" alt="Fuente de mapa de bits y mapa de contorno de una letra" width="700" height="525" /></a><p class="wp-caption-text">A la izquierda: fuente de mapa de bits. A la derecha: fuente de contorno.</p></div>
+<p>There are two kinds of standards in the category of outline fonts. TrueType fonts (TTF), PostScript fonts (PS1, PS2, PS3). There is a third format, OpenType (OTF), which is currently under development. Both the TrueType and the Post- Script, may be used in different platforms (Macintosh/PC) or Mac OS/Windows operative systems, but specific files for each one of them. On the other hand, OpenType fonts use a single file for both platforms.</p>
+<p>They are called «outline fonts» because they describe the shape of the letter by means of dots that define lines and curves. They have an independent resolution, thus they can be scaled to arbitrary type sizes without loosing resolution. The possibility of scaling a font depends on the program or operative system used. For the fonts to be seen in any output device, by the screen pixels or by a laser or inkjet printer, a conversion process called «rasterization» is performed, which consists of translation the font outline in a pattern of dots located in a grid.</p>
+<p>When there are not enough dots to conform the outline of the font, there are failures that affect the original features of the letter. A very common example is that the width of the letter stem unjustifiably varies To avoid such deformations, the fonts have codified information in the file.</p>
+<div id="attachment_860" class="wp-caption alignnone" style="width: 711px"><a href="http://www.oert.org/wp-content/uploads/2012/07/T03A_07-metric.jpg"><img class="size-full wp-image-860" title="Métricas de la fuente" src="http://www.oert.org/wp-content/uploads/2012/07/T03A_07-metric.jpg" alt="Métricas de la fuente" width="701" height="526" /></a><p class="wp-caption-text">Entre la información codificada la fuente se encuentran las métricas, por ejemplo el ancho del carácter.</p></div>
+<h3>Technical differences between True Type and PostScript</h3>
+<p><strong>a) </strong>They use different math calculations to describe their curves.</p>
+<p><strong>b) </strong>TrueType fonts are more easily scalable. They contain specific instructions to control their manifestation and thus, preserve their features and legibility. Careful adjustments are made, such as equalizing the weight of the stem in order to prevent the disappearance of parts of the form or to avoid having other parts looking thinner than normal.</p>
+<p><strong>c)</strong> Both MacOs and Windows (in all their versions) directly support TrueType fonts. They are pre-visualized on the screen and sent to the printer, as bitmaps or as recognizable fonts. PostSCript fonts are only accepted directly by the OS system. To scale a PostScript font in MacOs or in Windows it is necessary to install a program called ATM (Adobe Type Manager), which allows to see the font on the screen and converts it to make it easy to print in no PostScript printers. Technically, ATM is not necessary to print PostScript fonts in PostScript printers, but it is necessary in order to see them on the PC’s screen.</p>
+<p><strong>d)</strong> They have different physical storage: TrueType fonts have all the information stored in one file, while PostScript fonts require two: one for screen pre-visualization or outline and another one with the metric information.</p>
+<div id="attachment_861" class="wp-caption alignnone" style="width: 711px"><a href="http://www.oert.org/wp-content/uploads/2012/07/T03A_08-mapa_caracteres.jpg"><img class="size-full wp-image-861" title="Mapa o sets de caracteres de una fuente" src="http://www.oert.org/wp-content/uploads/2012/07/T03A_08-mapa_caracteres.jpg" alt="Mapa de caracteres de una fuente" width="701" height="526" /></a><p class="wp-caption-text">Mapa de carecteres de Alegreya.</p></div>
+<h3>OpenType Characteristics</h3>
+<p>Fonts have a code assigned to the characters that allow the computer to process electric impulses coming from the keyboard. TrueType and PostScript fonts have an 8 bits encoding system that allow a maximum of 256 characters in a font. This is a limitation because many languages need more than 256 characters for writing and because many times it is necessary to write in more than one language with the same font. The 8 bit families solve this problem with fonts for each language (for example: Cyrillic, Hebrew, Latin). OpenType, with 16 bits, admit more than 65.000 characters. They use Unicode to standardize the encoding system which assigns a unique ID to each character used in the world. Windows XP and MacOs operative systems use the same system to give multilingual support to program developers.</p>
+<div id="go-gallery-1759-11" class="go-gallery-container go-gallery-1759 gog-dots has-pager cycle">
+<div class="go-gallery-inner">
+<ul class="slides">
+<li>
+<div class="image"><img width="700" height="525" src="http://www.oert.org/wp-content/uploads/2012/09/T03A_19-glifos_indesign_completa.jpg" class="attachment-large" alt="Paleta de glifos de una fuente OpenType" />
+</div><div class="description">Paleta de glifos de una fuente OpenType.</div>
+</li>
+<li>
+<div class="image"><img width="701" height="526" src="http://www.oert.org/wp-content/uploads/2012/09/T03A_18-glifos_indesign_detalle.jpg" class="attachment-large" alt="Detalle de la paleta de glifos de una fuente OpenType" />
+</div><div class="description">Detalle de la paleta de glifos de una fuente OpenType.</div>
+</li>
+<li>
+<div class="image"><img width="700" height="525" src="http://www.oert.org/wp-content/uploads/2012/09/T03A_17-ligaduras_st_ct.jpg" class="attachment-large" alt="Ligaduras contextuales de una fuente OpenType" />
+</div><div class="description">Ligaduras contextuales de una fuente OpenType.</div>
+</li>
+</ul>
+<div class="pager"></div>
+</div>
+<script type="text/javascript" charset="utf-8">jQuery(function($) { $(function () { $("#go-gallery-1759-11 .slides").cycle({fx: "scrollHorz", navigation: false, pager: true, pager: "#go-gallery-1759-11 .pager"}); }); });</script>
+</div>
+
+<p>OpenType fonts have three purposes:</p>
+<ol>
+<li>The font format is multiplatform: it works in MacOs, in Windows, and in Linux/Unix.</li>
+<li>They are compatible with Unicode to facilitate the production and functioning of multilingual programs.</li>
+<li>They provide support for complex writings and typographic refinements.</li>
+</ol>
+<p>OpenType, developed together with Microsoft and Adobe spreads the load of language in three layers: the font, the operative system and the application or program.</p>
+<p>The current drawback of OpenType is that it is compatible with Windows and Linux, but in MacOs it is limited to Adobe applications.</p>
+<div id="attachment_862" class="wp-caption alignnone" style="width: 711px"><a href="http://www.oert.org/wp-content/uploads/2012/07/T03A_09y10-iconosfuentes.jpg"><img class="size-full wp-image-862" title="T03A_09y10-iconosfuentes" src="http://www.oert.org/wp-content/uploads/2012/07/T03A_09y10-iconosfuentes.jpg" alt="Formatos de fuentes y cantidad de archivos que la componen" width="701" height="526" /></a><p class="wp-caption-text">Los formatos de fuentes y la cantidad de archivos que las componen.</p></div>
+<h3>Font installing</h3>
+<p>To install a new font in Windows, we recommend following these steps:</p>
+<ol>
+<li>Go to the Start Menu and access the control panel.</li>
+<li>Click on the Fonts folder.</li>
+<li>In the Archive menu, click on Install new font.</li>
+<li>Click on the unit and in the folder that contains the fonts you want to add.</li>
+<li>Double click on the desired font.</li>
+</ol>
+<p>You can obtain the same results by accessing the control panel via My PC (system hard disk), accessing the Windows folder, double clicking on the Fonts folder and dragging the desired fonts from the source unit.</p>
+<div id="attachment_863" class="wp-caption alignnone" style="width: 710px"><a href="http://www.oert.org/wp-content/uploads/2012/07/T03A_11-cargafuentes_windows2.jpg"><img class="size-full wp-image-863" title="Carga de fuentes en Windows" src="http://www.oert.org/wp-content/uploads/2012/07/T03A_11-cargafuentes_windows2.jpg" alt="Carga de fuentes en Windows" width="700" height="525" /></a><p class="wp-caption-text">Carga de fuentes en Windows</p></div>
+<h3>Installing a new font in MacOs</h3>
+<p>Fonts are stored in the fonts folder in the System Folder. A selection of fonts is already installed with the operative system. We can install as many fonts as we want as long as the machine has enough memory, but if we abuse of this operation we can make the use of other programs more complicated. Thus, it is advisable to install only the necessary font folders. Steps to be followed:</p>
+<ol>
+<li>Double click on the hard disk icon.</li>
+<li>Find the font you wish to install and drag it to the system font folder.</li>
+</ol>
+<p>This way of loading fonts is not very advisable because we operate on the machine system.</p>
+<div id="attachment_864" class="wp-caption alignnone" style="width: 711px"><a href="http://www.oert.org/wp-content/uploads/2012/07/T03A_12-cargafuentes_mac.jpg"><img class="size-full wp-image-864" title="Instalar una fuente en MacOs" src="http://www.oert.org/wp-content/uploads/2012/07/T03A_12-cargafuentes_mac.jpg" alt="Instalar una fuente en MacOs" width="701" height="526" /></a><p class="wp-caption-text">Instalar una fuente en MacOs.</p></div>
+<h3>Install a font with a font manager</h3>
+<p>To avoid problems with PostScript fonts and eliminate sources recommend adding a font manager. Different programs have some differences but the steps are:</p>
+<ol>
+<li>Open the program and click Add Sources tab.</li>
+<li>Sourcing choose to add fonts from a local hard drive, CD-ROM, a floppy disk or a network server. Locate the folder that contains the font files to install.</li>
+<li>Double-click or drag and drop the icon of the selected sources on Target list (could be a existing set or create a new one).</li>
+<li>Select the font and Activate.</li>
+</ol>
+<div id="go-gallery-1763-12" class="go-gallery-container go-gallery-1763 gog-dots has-pager cycle">
+<div class="go-gallery-inner">
+<ul class="slides">
+<li>
+<div class="image"><img width="701" height="526" src="http://www.oert.org/wp-content/uploads/2012/09/T03A_16-cargafuentes_fontexplorer.jpg" class="attachment-large" alt="Cargar fuentes eb FontExplorer: paso 4" />
+</div></li>
+<li>
+<div class="image"><img width="701" height="526" src="http://www.oert.org/wp-content/uploads/2012/09/T03A_15-cargafuentes_fontexplorer.jpg" class="attachment-large" alt="Cargar fuentes eb FontExplorer: paso 3" />
+</div><div class="description">Cargar fuentes en FontExplorer</div>
+</li>
+<li>
+<div class="image"><img width="701" height="526" src="http://www.oert.org/wp-content/uploads/2012/09/T03A_14-cargafuentes_fontexplorer.jpg" class="attachment-large" alt="Cargar fuentes eb FontExplorer: paso 2" />
+</div><div class="description">Cargar fuentes en FontExplorer</div>
+</li>
+<li>
+<div class="image"><img width="701" height="526" src="http://www.oert.org/wp-content/uploads/2012/09/T03A_13-cargafuentes_fontexplorer.jpg" class="attachment-large" alt="Cargar fuentes eb FontExplorer: paso 4" />
+</div><div class="description">Cargar fuentes en FontExplorer</div>
+</li>
+</ul>
+<div class="pager"></div>
+</div>
+<script type="text/javascript" charset="utf-8">jQuery(function($) { $(function () { $("#go-gallery-1763-12 .slides").cycle({fx: "scrollHorz", navigation: false, pager: true, pager: "#go-gallery-1763-12 .pager"}); }); });</script>
+</div>
+
+]]></content:encoded>
+			<wfw:commentRss>http://www.oert.org/en/typography-and-desktop-publishing/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

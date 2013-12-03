@@ -1,0 +1,518 @@
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<title>
+  Visual perception and rhythm&nbsp;|&nbsp;OERT</title>
+
+<link rel="stylesheet" href="http://www.oert.org/wp-content/plugins/sitepress-multilingual-cms/res/css/language-selector.css?v=2.6.0" type="text/css" media="all" />
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="stylesheet" type="text/css" href="http://www.oert.org/wp-content/themes/WikiBase/style.css" media="screen" />
+<link rel="shortcut icon" type="image/png" href="http://www.oert.org/wp-content/uploads/favicon.ico" />
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.oert.org/en/feed/" />
+<link rel="pingback" href="http://www.oert.org/xmlrpc.php" />
+
+<link rel="stylesheet" type="text/css" href="http://www.oert.org/wp-content/themes/WikiBase/library/css/print.css" media="print" />
+<link rel="Stylesheet" type="text/css" href="http://www.oert.org/wp-content/themes/WikiBase/library/css/smoothDivScroll.css" />
+
+<script src="http://connect.facebook.net/es_ES/all.js#xfbml=1"></script>
+<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+<script src="https://apis.google.com/js/plusone.js" type="text/javascript"></script>
+
+
+ <link href="http://www.oert.org/wp-content/themes/WikiBase/custom.css" rel="stylesheet" type="text/css">
+<script language="javascript" type="text/javascript">
+	function hasClass(ele,cls) {
+	return ele.className.match(new RegExp('(\\s|^)'+cls+'(\\s|$)'));
+	}
+
+    function addClass(ele,cls) {
+    if (!this.hasClass(ele,cls)) ele.className += " "+cls;
+    }
+    function removeClass(ele,cls) {
+    if (hasClass(ele,cls)) {
+        var reg = new RegExp('(\\s|^)'+cls+'(\\s|$)');
+        ele.className=ele.className.replace(reg,' ');
+    }
+    }
+
+    function showHideDiv(sids,divids)
+    {
+		//alert(sids);
+		//alert(divids);
+        var divstyle = new String();
+		var spanstyle = new String();
+		var spansid = new String();
+		spansid = document.getElementById(sids);
+        divstyle = document.getElementById(divids).style.display;
+        if(divstyle.toLowerCase()=="block" || divstyle == "")
+        {
+            document.getElementById(divids).style.display = "none";
+			removeClass(spansid,'neg');
+			addClass(spansid,'pos');
+        }
+        else
+        {
+            document.getElementById(divids).style.display = "block";
+			removeClass(spansid,'pos');
+			addClass(spansid,'neg');
+        }
+    }
+    </script>
+    <script type="text/javascript">
+        $(document).ready( function() {
+            $('#menu-recursos').hoverAccordion({
+                keepHeight:true,
+                activateItem: 3,
+                speed: 400
+            });
+        });
+    </script>
+        
+<link rel="dns-prefetch" href="//connect.facebook.net" />
+<link rel="alternate" type="application/rss+xml" title="OERT &raquo; Visual perception and rhythm Comments Feed" href="http://www.oert.org/en/visual-perception-and-rhythm/feed/" />
+<link rel='stylesheet' id='wpml-cms-nav-css-css'  href='http://www.oert.org/wp-content/plugins/wpml-cms-nav/res/css/navigation.css?ver=1.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='cms-navigation-style-base-css'  href='http://www.oert.org/wp-content/plugins/wpml-cms-nav/res/css/cms-navigation-base.css?ver=1.2.7' type='text/css' media='screen' />
+<link rel='stylesheet' id='cms-navigation-style-css'  href='http://www.oert.org/wp-content/plugins/wpml-cms-nav/res/css/cms-navigation.css?ver=1.2.7' type='text/css' media='screen' />
+<link rel='stylesheet' id='facebook-css'  href='http://www.oert.org/wp-content/plugins/facebook/static/css/style.min.css?ver=1.3.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.oert.org/wp-includes/js/jquery/jquery.js?ver=1.8.3'></script>
+<script type='text/javascript' src='http://www.oert.org/wp-content/themes/WikiBase/library/js/functions.js?ver=1'></script>
+<script type='text/javascript' src='http://www.oert.org/wp-includes/js/comment-reply.min.js?ver=3.5.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.oert.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.oert.org/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='XVIIth, XVIIIth and XIXth Centuries' href='http://www.oert.org/en/xviith-xviiith-and-xixth-centuries/' />
+<link rel='next' title='Historical Scripts' href='http://www.oert.org/en/historical-scripts/' />
+<meta name="generator" content="WordPress 3.5.1" />
+<link rel='shortlink' href='http://www.oert.org/?p=614' />
+
+	<!-- This site uses Good Old Gallery, get it from http://wp.unwi.se/good-old-gallery -->
+
+        <style type="text/css" media="screen">
+          div.printfriendly {
+            margin: 0px 0px 0px 0px;;
+          }
+          div.printfriendly a, div.printfriendly a:link, div.printfriendly a:visited {
+            text-decoration: none;
+            font-size: 14px;
+            color: #99cc00;
+            vertical-align: bottom;
+            border: none;
+          }
+
+          .printfriendly a:hover {
+            cursor: pointer;
+          }
+
+          .printfriendly a img  {
+            border: none;
+            padding:0;
+            margin-right: 6px;
+            display:inline-block;
+            box-shadow: none;
+            -webkit-box-shadow: none;
+            -moz-box-shadow: none;
+          }
+          .printfriendly a span{
+            vertical-align: bottom;
+          }
+          .pf-alignleft {
+            float: left;
+          }
+          .pf-alignright {
+            float: right;
+          }
+          div.pf-aligncenter {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            text-align: center;
+          }
+        </style>
+        <style type="text/css" media="print">
+          .printfriendly {
+            display: none;
+          }
+        </style>
+<script type="text/javascript">var icl_lang = 'en';var icl_home = 'http://www.oert.org/en/';</script>
+<script type="text/javascript" src="http://www.oert.org/wp-content/plugins/sitepress-multilingual-cms/res/js/sitepress.js"></script>
+<meta name="generator" content="WPML ver:2.6.0 stt:1,2;0" />
+<link rel="alternate" hreflang="es_ES" href="http://www.oert.org/percepcion-visual-y-ritmo/" />
+
+<style type="text/css">#lang_sel a, #lang_sel a.lang_sel_sel{color:#444444;}#lang_sel a:hover, #lang_sel a.lang_sel_sel:hover{color:#000000;}#lang_sel a.lang_sel_sel, #lang_sel a.lang_sel_sel:visited{background-color:#f5f4f2;}#lang_sel a.lang_sel_sel:hover{background-color:#eeeeee;}#lang_sel li ul a, #lang_sel li ul a:visited{color:#444444;}#lang_sel li ul a:hover{color:#000000;}#lang_sel li ul a, #lang_sel li ul a:link, #lang_sel li ul a:visited{background-color:#f5f4f2;}#lang_sel li ul a:hover{background-color:#eeeeee;}#lang_sel a, #lang_sel a:visited{border-color:#cdcdcd;} #lang_sel ul ul{border-top:1px solid #cdcdcd;}</style>
+
+<style type="text/css">#lang_sel  {width: 195px; margin-bottom:24px;}
+#lang_sel a {font-size:12px;}
+#lang_sel li {width:192px; }
+
+</style>		<link href="http://www.oert.org/wp-content/themes/WikiBase/skins/1-default.css" rel="stylesheet" type="text/css" />
+
+
+<link href='http://boakes.org/most-wanted?v=0.1.9v' />
+<link rel="canonical" href="http://www.oert.org/en/visual-perception-and-rhythm/"/>
+<meta property="og:site_name" content="OERT" />
+<meta property="og:type" content="article" />
+<meta property="og:locale" content="es_ES" />
+<meta property="fb:app_id" content="285109618260716" />
+<meta property="og:url" content="http://www.oert.org/en/visual-perception-and-rhythm/" />
+<meta property="og:title" content="Visual perception and rhythm" />
+<meta property="og:description" content="Physiological and cultural aspects that converge in visual perception. Mechanism of vision and visual space exploration. Review of Gestalt laws and other contributions. Optical, geometrical and organic aspects that play a role in perception. Rhythm and its influence on perception an reading." />
+<meta property="article:published_time" content="2012-04-27T05:40:46+00:00" />
+<meta property="article:modified_time" content="2013-03-18T17:32:39+00:00" />
+<meta property="article:author" content="http://www.oert.org/en/author/admin/" />
+<meta property="article:section" content="Letter" />
+<meta property="article:tag" content="Theory" />
+</head>
+<body class="single single-post postid-614 single-format-standard">
+<div id="header">   
+<div id="header_in" class="clearfix">
+<div class="logo"> 
+   <div class="blog-title"><a href="http://www.oert.org/en//">OERT</a> 
+		
+		 <p class="blog-description">
+		  Open Educational Resources for Typography		</p>
+   </div> 
+   </div>
+                        <div class="header_right">
+        	<p>Última actualización: <span>April 7, 2013</span></p>
+                        <form method="get" id="searchform" action="http://www.oert.org/en/">
+<div id="search-form-wrap">
+<label for="s" id="search-label">Buscar:</label>
+<input type="text" id="s" name="s" accesskey="4" value="" />
+<input type="hidden" name="stype" value="ajsearch" />
+<input type="submit" name="stype" value="Search" style="display:none;" class="b_search" />
+<span id="searchreset" title="Reset Search"></span>
+<span id="searchload"></span>
+</div>
+</form>
+
+                    </div>               
+   </div> 
+ </div>   <!-- header #end -->     <div id="wrapper" class="clearfix">  
+  		<div id="content" >
+         <div id="current-content">
+                 <div class="breadcrumb clearfix">
+        <a rel="nofollow" href="http://www.oert.org/en/">Home</a>  <a href="http://www.oert.org/en/category/part1/" title="View all posts in Theory">Theory</a>  <a href="http://www.oert.org/en/category/part1/part1-1/" title="View all posts in Letter">Letter</a>  Visual perception and rhythm        </div>
+             
+                       
+        <div class="single_post">
+        <h1 class="head">Visual perception and rhythm</h1>
+ 		  		                  <p class="post_info clearfix post_info_single"><span>Posted by <a href="http://www.oert.org/en/author/admin/" title="Posts by OERT" rel="author">OERT</a> - Apr 27, 2012 </span>
+                     <span class="i_cate"> <a href="http://www.oert.org/en/category/part1/part1-1/" title="View all posts in Letter" rel="category tag">Letter</a>, <a href="http://www.oert.org/en/category/part1/" title="View all posts in Theory" rel="category tag">Theory</a> </span>
+                      <span> <a href="http://www.oert.org/en/visual-perception-and-rhythm/#commentarea"  class="i_comment" ><fb:comments-count xmlns="http://ogp.me/ns/fb#" href="http://www.oert.org/en/visual-perception-and-rhythm/"></fb:comments-count> Comments </a></span>                      
+                      <a href="http://www.oert.org/en//?cat=22&amp;feed=rss2" class="i_rss">Receive Updates For This Category</a>
+                      
+                       </p>
+                       
+                       
+					              
+              
+              <div id="post-614" class="posts clearfix">               		               
+              		
+              		<!-- Templatic Article Tools #end -->
+              		
+              		              		
+              		<!-- Templatic Article Tools #end -->
+
+                      <p class="autor">Produced by: Marcela Romero. In collaboration with: Inés Puparelli</p>
+<p class="note">Artículo en proceso de traducción </p>
+<p><em>In order to make a good design work we must understand how the physical and cultural mechanisms that are put into play work when we visualize a graphic message. The word «rhythm» comes from the Greek term that means «to flow». Applied to typography, it can contribute to optimizing reading or to the good form (prägnanz) of the page.</em></p>
+<p>When we visualize something it is because «our eyes have been spoken to», they have caused something to become visible within a certain environment, where there are many other things. In the environment there are two large areas that coexist in an indivisible manner, but which have different origins. One is the real world of things, objects and phenomena. There is no intention whatsoever in these things. The other is the area of messages and it is intention what makes it visible. This area is a cultural, not a natural construction. </p>
+<p>Messages are organized, put together on the basis of an intangible structure, they relate to each other with a specific intention. The messages produced are information prepared to be understood by those to whom it is addressed. </p>
+<p>How reality is perceived is based on an empirical substrate, on experience, while how messages are perceived is based on the cultural substrate and as such, it varies with age and with belonging to different cultures. </p>
+<p>The signs in the real environment are indicators (signifiers) which can be «read» depending on the experience, there is no information in them, though they might be used to deduce things. These real signs are not images but representations of themselves. Images, instead, are representations, symbolic constructions, more or less real, more or less abstract, more or less codified. </p>
+<p>Perceiving is actively seeing. It is an activity that can originate in two different ways. One is that in which the eye searches for something, in which the recipient acts as radar and it implies an intention in the person who watches. The other is that in which the eye is surprised by the message and the recipient is a target for that message. It does not look for but is looked by the message. Perception is the result of a combination of innate skills, maturation of the nervous system, and learning. The last one is more decisive in men that in other animals, as other animals are better equipped with innate skills and depend less on learning. </p>
+<p>The difference in perception between a baby and an adult lies not in the visual system nor in the amount of information received, but in the ability to process visual information. This ability improves with practice and experience. </p>
+<p>The development of perception begins with visualizing big differences until the differentiation of small subtleties is achieved. It is more of an intellectual problem than a strictly sensory, physical or neurological matter.</p>
+<div id="attachment_915" class="wp-caption alignnone" style="width: 711px"><a href="http://www.oert.org/wp-content/uploads/2012/07/T01A_01-sistemavisual.jpg"><img class="size-full wp-image-915" title="el ojo y el sistema visual" src="http://www.oert.org/wp-content/uploads/2012/07/T01A_01-sistemavisual.jpg" alt="Sistema visual y partes del ojo" width="701" height="525" /></a><p class="wp-caption-text">Sistema visual y partes del ojo.</p></div>
+<h3>How do we see?</h3>
+<p>The eye is like a photographic camera with a sensitive surface, the retina, located at the back of a rounded ball and all the anterior part of the eye is an optic device that allows focusing the image on the retina. </p>
+<p>Between the moment when the light beam impacts the retina and that when the image forms in the brain many milliseconds go by during which the light information received by the eye undergoes several successive treatments. The image formed at the back of each eye is nothing but the starting point of visual perception. Then it is codified in electrical impulses, which, when transmitted through the visual areas of the brain, are analyzed in terms of knowledge of forms, colors, movements, proportions, etc.</p>
+<div id="attachment_916" class="wp-caption alignnone" style="width: 710px"><a href="http://www.oert.org/wp-content/uploads/2012/07/T01A_02-seriep.jpg"><img class="size-full wp-image-916" title="Distintas “P”" src="http://www.oert.org/wp-content/uploads/2012/07/T01A_02-seriep.jpg" alt="Letras “P” de diferentes estilos" width="700" height="525" /></a><p class="wp-caption-text">Tomando esta serie de letras P como ejemplo, podemos reconocer cuáles son las leyes perceptivas por las cuales algunas nos resultan más pregnantes, más fáciles de recordar, más fuertes, más sencillas o complejas.</p></div>
+<h3>Visual exploration of space</h3>
+<p>The eye perceives by integration, suddenly and simultaneously, the complex shape of an object as a unitary whole. </p>
+<p>The Gestalt theory maintains that shape is perceived by the subject immediately as wholes or collections, with a result that is greater than the sum of the parts. The relations, association, ordering or organization, are established in such a way so as to make the minimum possible perceptive effort. </p>
+<p>This process is ruled by a law of <em>prägnanz</em> (German for good form) of the forms, where the «good forms» prevail as units (see the law of unitary perception). </p>
+<h3>Nature of Visual Perception</h3>
+<p>It is at the higher brain centers that reception and elaboration of sensations supplied by the senses take place. </p>
+<p>These data, which are sometimes kept in our memory, are called images. Only the human being (thanks to its conceptual and abstract intelligence) is capable of relating them with an external object or stimuli. These are the psychic processes that constitute the essence of perception. Such operations transform sensory impression into cognitive image (which may be used).  When the eye sees a group of letters, it is the brain that perceives words. Those words will make sense to the person who knows the language in which they are written. In turn, somebody trained, with experience, will «see» certain formal features in those letters and the acquired knowledge will let him place them within a certain style or historic period. </p>
+<p>We may conclude that we «see» with the brain, the eye only transmits nervous impulses. In the process of perception, the subject, guided by his experience and expectations, values certain features, especially significant ones, ignoring others which he considers irrelevant. Thus, visual perception looks for the meaning of stimuli by attaching recognition to «unchangeable patterns» (i.e. genre or model, for instance: P letters), from which they may then recognize their «circumstantial variables» (or, to put it in other words, peculiarities, for instance: a “P” form the Rosario family —first one from the left—).<br />
+As a conclusion, the phenomena that define perception are: </p>
+<ol>
+<li>Identification, or perceptual recognition of the stimuli: the observer assimilates the stimuli by associating it to other known types, produced in his prior experience.</li>
+<li>Differentiation: the subject discovers in the stimuli those peculiarities that make it similar or different from others.</li>
+</ol>
+<h3>Optic, geometric and organic aspects</h3>
+<p>Our sensory perception, both optic and aesthetic is much more complex than the geometric construction, and it is to it that we must resort when looking for balance between what’s white and what’s black and between forms. </p>
+<p>A task that seems «right» to the eye, can not be geometrically constructed, instead perception requires that certain «corrections» be made to the geometry so as to avoid optic illusions, as the saying goes «it has to be built by rough estimate».</p>
+<p>In order for us to perform this task we have to train our perception and become sensible. For this, we must consider that:</p>
+<ol>
+<li>A geometric square is perceived as wider than higher. Likewise, a geometric circle is perceived as wider than higher. An «optic square and an optic circle» should be built slightly higher than wider so that they may «look» square and circular.</li>
+<li>In a figure transversally divided in two halves, the lower part looks smaller than the upper one. In order to make them equal it is necessary to move the division slightly upwards.</li>
+</ol>
+<div id="attachment_917" class="wp-caption alignnone" style="width: 710px"><a href="http://www.oert.org/wp-content/uploads/2012/07/T01A_03-letrae_ajuste.jpg"><img class="size-full wp-image-917" title="Ajustes ópticos en las contraformas" src="http://www.oert.org/wp-content/uploads/2012/07/T01A_03-letrae_ajuste.jpg" alt="Compensaciones en la letra “E”" width="700" height="525" /></a><p class="wp-caption-text">En el ejemplo de la letra «E» podemos observar que el travesaño, que parece centrado, está ubicado levemente más arriba para compensar el efecto óptico. Para comprobarlo, rotamos la “E” 180º. En la línea inferior podemos ver la sutileza del ajuste óptico: en la de la izquierda el travesaño está geométricamente centrado, luego está la letra rotada y por último la “E” en su posición normal.</p></div>
+<p><strong>3</strong> If two stripes of the same width are taken and one is set in horizontal position and the other in vertical position, the first one will look wider than the second. For them to look the same one of them should be corrected.</p>
+<div id="attachment_918" class="wp-caption alignnone" style="width: 710px"><a href="http://www.oert.org/wp-content/uploads/2012/07/T01A_04-letrah_trazouniforme.jpg"><img class="size-full wp-image-918" title="Ajustes ópticos en el trazo uniforme" src="http://www.oert.org/wp-content/uploads/2012/07/T01A_04-letrah_trazouniforme.jpg" alt="Ajustes en los trazos de una “H” para que sean percibidos como uniformes" width="700" height="526" /></a><p class="wp-caption-text">En este caso, tomamos como ejemplo una letra “H” de trazo uniforme. A la derecha (rotada 90º), podemos apreciar que los trazos, que en el primer ejemplo parecen ser del mismo ancho, están compensados ópticamente. Al rotar el signo, se visualiza la modificación.</p></div>
+<p><strong>4</strong> The eye tends to simplify the data that really exists in a figure, it selects those that will be perceived. Thus, for instance, it tends to round sharp points, angles, eliminating its apexes.</p>
+<div id="attachment_919" class="wp-caption alignnone" style="width: 710px"><a href="http://www.oert.org/wp-content/uploads/2012/07/T01A_05-cuadrados_triangulocirculocuadrado.jpg"><img class="size-full wp-image-919" title="Ajustes ópticos en figuras geométricas simples" src="http://www.oert.org/wp-content/uploads/2012/07/T01A_05-cuadrados_triangulocirculocuadrado.jpg" alt="" width="700" height="525" /></a><p class="wp-caption-text">Arriba: Geométricamente, son todos cuadrados, pero ¿se perciben como tales?<br />Abajo: En este ejemplo podemos verificar que, aunque las tres figuras tienen geométricamente la misma altura, no se perciben del mismo tamaño, pues el círculo y el triángulo se ven más pequeños. También pueden percibirse diferencias en el apoyo de las mismas.</p></div>
+<p><strong>5</strong> A circle and an equilateral triangle built with equal diameter and height will look smaller than a square when put next to it.</p>
+<p>These optic corrections have to be used to adjust figures so that they can be perceived as «correctly built or equal in size or weight».</p>
+<p>From now on the right thing to do is to train the eye, the brain and the hand so that they may serve as measurement tools, making a sensible construction of figures and spaces, trusting what we perceive, and not measurements or geometric forms.</p>
+<p><em>Notion of good form (prägnanz):</em> Good form (Wertheimer) is the strength of the form. It is the dictatorship that the form exerts over ocular movement, as well as its ability to impose itself as a mental image and in memory. </p>
+<p><em>Principle of topological invariance: </em>A form resists the deformation to which it is submitted. This resistance exists as long as the form is a good form. </p>
+<p><em>Principle of masking: </em>A form resists the different disturbances to which it is submitted. The better the form, the more resistant it will be. </p>
+<p><em>Birkhoff’s principle: </em>The more symmetric axis a figure has (regularity, stability) the better the figure will be. </p>
+<p><em>Principle of proximity: </em>The elements in the perceptual field which are isolated, but are neighbors, tend to be considered as collective or totality. </p>
+<p><em>Principle of similarity: </em>In a field of equidistant elements, those that are more similar in form, size or direction, are perceived as related to each other to form a chain or homogenous group. </p>
+<p><em>Principle of memory: </em>Forms are much better perceived when they are more frequently presented. </p>
+<p><em>Principle of hierarchy: </em>A complex form will be a better one when the perception is better oriented by the designer, taking the eye of the recipient from main to accessory. That is to say, when its parts are better hierarchically organized.</p>
+<div id="attachment_920" class="wp-caption alignnone" style="width: 710px"><a href="http://www.oert.org/wp-content/uploads/2012/07/T01A_07-proximidad_cerramiento_continuidad.jpg"><img class="size-full wp-image-920" title="Algunos de los principios de la percepción visual" src="http://www.oert.org/wp-content/uploads/2012/07/T01A_07-proximidad_cerramiento_continuidad.jpg" alt="Principios" width="700" height="525" /></a><p class="wp-caption-text">1. Principio de la proximidad. Este ejemplo podría extrapolarse a la percepción de grupos de letras como palabras en relación a grupos mayores: la línea de texto.<br />2. Principio de similaridad. Este principio podría pensarse en relación a la identificación de jerarquías en el texto (subtítulos, palabras resaltadas, epígrafes, etcétera).<br />3. Principio de cerramiento.<br />4. Principio de continuidad.</p></div>
+<h3>Laws that govern unitary or synthetic perception</h3>
+<p><em>Principle of totality:</em> The whole is different and greater than the sum of the parts.<br />
+<em>Principle of structure: </em>A form is perceived as a whole, regardless of the nature of the parts that constitute it. </p>
+<p><em>Law of dialectics: </em>Every form takes a prominent role over the background on which it is placed. The gaze decides which element of the visual field belongs alternatively to the form or to the background. </p>
+<p><em>Principle of contrast: </em>A form is better perceived as long as a greater contrast is established between it and its background. (It is the principle of «the good form»). </p>
+<p><em>Law of complementation: </em>If a contour is not completely closed, the mind tends to continue or to complete it with the elements that are easier to fit in the form or that are somehow induced by it. </p>
+<p><em>Law of simplicity: </em>In a given graphics field the less complex figures have better form. A simple figure is that which needs less graphemes to create it: less straight line segments, less curves, less angles, less intersections, less changes in direction. </p>
+<p><em>Law of closure: </em>A form will be better as long as its contour is better closed. In effect a form should go back to itself, otherwise it lets the potential form escape through that provoked opening.</p>
+<p><em>Law of continuity: </em>Elements which develop along an axis become good forms. </p>
+<p><em>Law of symmetry: </em>(called of symmetry, of balance, and of inclusion): Elements which organize themselves around a central point, their nucleus, become a good form. </p>
+<p><em>Principle of contour: </em>Those figures with a form that has a greater contrast over the ground are grouped and associated by perception, and are good forms. </p>
+<p><em>Principle of coordinated movement: </em>The different elements that take part in a same movement constitute a good form. </p>
+<p><em>Principle of common fate: </em>A curved lined is conceived as a fragment of a circumference and as a fragment of a line. This principle is related to the stroboscopic effect on which «closure» is based. If visual stimuli follow one another quickly but separately, the image seems to be moving.</p>
+<h3>Rhythm</h3>
+<blockquote><p>«It is worth mentioning once again that in the joint origin of writing and art there was rhythm, the regular stroke, the simple punctuation of non-significant and repeated incisions. the signs (empty) were rhythms and not forms. What is abstract in its origin is a graphism, writing in its origin is art.» <cite>Barthes, Roland. Ensayo en <em>La escritura y la etimología del mundo</em> / R. Campa, Editorial Sudamericana.</cite></p></blockquote>
+<p>There is rhythm in heartbeat and in the way we walk, in how living beings grow and in every form in which nature manifests itself. Then it is not surprising that it is a constant in every human activity. </p>
+<p>Rhythm is essentially repetition and structure, (separates order from chaos). In order to define it we need more than one element, at least one repeated pulse and pause. It may be a simple pulse, where all the elements are equal and uniformly distributed, or complex, with intervals of different duration and elements of different characteristics, but which also repeats itself.  </p>
+<div id="attachment_921" class="wp-caption alignnone" style="width: 711px"><a href="http://www.oert.org/wp-content/uploads/2012/07/T01A_08-texturas-ritmos.jpg"><img class="size-full wp-image-921" title="Texturas y ritmo" src="http://www.oert.org/wp-content/uploads/2012/07/T01A_08-texturas-ritmos.jpg" alt="Diferentes ritmos" width="701" height="525" /></a><p class="wp-caption-text">Contraste de ritmos entre la textura regular producida por la repetición del mismo elemento e intervalo, y la variación de intervalos y tamaños de los elementos.</p></div>
+<p>Though «rhythm» is a word usually related to auditory perception, it is also a determinant within visual perception. Rhythm as regards visual has its most elementary manifestation in the repetition at constant intervals of a same design, thus conforming a texture or «pattern».  </p>
+<div id="attachment_922" class="wp-caption alignnone" style="width: 711px"><a href="http://www.oert.org/wp-content/uploads/2012/07/T01A_09-tipografia-ritmos.jpg"><img class="size-full wp-image-922" title="Ritmo y lectura" src="http://www.oert.org/wp-content/uploads/2012/07/T01A_09-tipografia-ritmos.jpg" alt="Diferentes ritmos en dos puestas tipográficas" width="701" height="525" /></a><p class="wp-caption-text">Dos puestas tipográficas generadas a partir del ritmo, en la primera los intervalos pueden leerse como regulares aunque el elemento cambie, en la segunda el ritmo está generado por la posición de la mancha en el plano y por la presencia de verticales y diagonales.</p></div>
+<p>Typography as a visual discipline is also closely related to it. In a simple line of text we find that the interletter space constitutes regular «blanks» which, at the same time, interact with larger spaces (or silences) that obey to the interword space. Lines of words, separated from each other, are also rhythmically related. The result of the whole depends on the harmony of this set. If this rhythm is constant, relatively regular, the block of text will be of a homogenous grey. </p>
+<div id="attachment_923" class="wp-caption alignnone" style="width: 710px"><a href="http://www.oert.org/wp-content/uploads/2012/07/T01A_10-colordebloqueb.jpg"><img class="size-full wp-image-923" title="Ritmo y color de bloque" src="http://www.oert.org/wp-content/uploads/2012/07/T01A_10-colordebloqueb.jpg" alt="Cambios de ritmo en el texto" width="700" height="525" /></a><p class="wp-caption-text">El ritmo se rompe cuando los espacios internos del texto cambian de tamaño. Estos cambios de ritmo generan dificultades en la lectura.</p></div>
+<p>The rhythm may become more complex without loosing the structure that makes it distinguishable. The use of signs of different morphological characteristics and sizes also modifies it. In typographic work it constitutes an element which is essential to master, because it is the net that contains the layout of the page, the design of a sign, or as we said, the composition of text.</p>
+<p class="icl_post_in_other_langs">Esta entrada también está disponible en: <a href="http://www.oert.org/percepcion-visual-y-ritmo/">Spanish</a></p>                   
+                  
+                  <div class="like_this_section clearfix">
+					<div class="google_like">
+					<g:plusone href="http://www.oert.org" size="medium"></g:plusone>
+					</div>	                  
+                     <div class="twitter_like">
+                     <a href="http://twitter.com/share" class="twitter-share-button" data-via="oert.org" data-lang="es" data-size="medium">Tweet</a>
+                     </div>
+                     <div class="fb_like">
+                     <fb:like href="http%3A%2F%2Fwww.oert.org%2Fen%2Fvisual-perception-and-rhythm%2F" layout="button_count" show_faces="false" width="450" height="30"></fb:like>
+                     </div>
+                     <div class="printfriendly"><a href="http://www.printfriendly.com/print?url=http://www.oert.org/en/visual-perception-and-rhythm/" rel="nofollow" onclick="window.print(); return false;"><img src="http://cdn.printfriendly.com/button-print-gry20.png" alt="Print Friendly" /></a></div>				</div> <!-- #end -->
+
+
+          				
+              </div> <!-- post #end -->
+              
+              
+               
+ 			<div class="post-navigation clearfix">
+                                                            <a class="post-prev" href="http://www.oert.org/en/xviith-xviiith-and-xixth-centuries/"><em>Previous post</em><span>XVIIth, XVIIIth and XIXth Centuries </span></a>
+                                                                <a class="post-next" href="http://www.oert.org/en/historical-scripts/"><em>Next post</em><span>Historical Scripts</span></a>
+                                 </div>
+            
+            
+              </div> <!-- single post content #end -->
+          		<div class="realated_post clearfix">
+<h3>Related Posts</h3><ul class="realated_postlist clearfix">
+            <li class="clearfix"> 
+      
+     <h3> <a href="http://www.oert.org/en/text-image-dingbats-and-decorative-elements/">Text, image, dingbats and decorative elements</a></h3> 
+     <p class="date clearfix"> <span>April 27, 2012</span></p>
+     <p>Dingbats and decorative elements as elements of the typographic case. Function and types of dingbats and decorative elements. Double function: characters or image. Letters as images or characters. Relations.
+</p>
+            </li>
+                        <li class="clearfix"> 
+      
+     <h3> <a href="http://www.oert.org/en/design-and-morphological-operations-with-typography/">Design and morphological operations with typography</a></h3> 
+     <p class="date clearfix"> <span>April 27, 2012</span></p>
+     <p>Typeface family as a system. Aspects to be considered when designing a related group of characters: choosing the historical and cultural context, structural relations, stroke and terminal features. character weight and word color, distinctive characters and terminals. Axes for the construction of styles.</p>
+            </li>
+                        <li class="clearfix"> 
+      
+     <h3> <a href="http://www.oert.org/en/typographic-programs/">Typographic Programs</a></h3> 
+     <p class="date clearfix"> <span>April 27, 2012</span></p>
+     <p>System of systems. Typographic programs, serial families and super families. Construction criteria. Uses. Description of some programs.
+</p>
+            </li>
+                        <li class="clearfix"> 
+      
+     <h3> <a href="http://www.oert.org/en/typographic-styles/">Typographic styles</a></h3> 
+     <p class="date clearfix"> <span>April 27, 2012</span></p>
+     <p>Functions and convention in the use of styles. Traditional axes. Recognizing designed variants and the effects of digital distortion. Small capitals: character weight and line color.</p>
+            </li>
+            </ul>
+</div>
+		
+        
+          <div id="comments" class="clearfix"> 
+<div id="comments" class="comments-area">
+<div id="respond">
+<div class="fb-social-plugin fb-comments" id="commentform" data-href="http://www.oert.org/en/visual-perception-and-rhythm/" data-width="700"></div>
+</div></div>
+</div>
+          
+             </div>
+	<div id="dynamic-content"></div>        
+  </div> <!-- content #end -->
+<script type="text/javascript" language="javascript" >
+var root_path_js = 'http://www.oert.org/';
+</script>
+<script type="text/javascript" language="javascript" src="http://www.oert.org/wp-content/themes/WikiBase/library/js/article_detail.js" ></script>
+
+      <div id="lang_sel"  >
+    <ul>
+        <li><a href="#" class="lang_sel_sel icl-en">
+                            
+            <img  class="iclflag" src="http://www.oert.org/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png" alt="en" />                                
+            &nbsp;English</a>                                    
+            <ul>
+                                <li class="icl-es">          
+                    <a rel="alternate" hreflang="es" href="http://www.oert.org/percepcion-visual-y-ritmo/">
+                                    
+                    <img  class="iclflag" src="http://www.oert.org/wp-content/plugins/sitepress-multilingual-cms/res/flags/es.png" alt="es" />&nbsp;                    
+                                        Español                    </a>
+                </li>
+                            </ul>            
+             
+                    </li>
+    </ul>    
+</div>
+ <!-- selector de idiomas -->
+<div id="sidebar">
+	<div class="widget"><h3><span>Recursos</span></h3><div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-404" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-404"><a href="http://www.oert.org/en/the-project/">The project</a></li>
+<li id="menu-item-405" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-405"><a href="http://www.oert.org/en/the-authors/">The Authors</a></li>
+<li id="menu-item-406" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-406"><a href="http://www.oert.org/en/editorial-board/">Editorial Committee</a></li>
+<li id="menu-item-407" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-407"><a href="http://www.oert.org/en/the-team/">The Team</a></li>
+<li id="menu-item-408" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-408"><a href="http://www.oert.org/en/our-backers/">Our backers</a></li>
+<li id="menu-item-718" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-718"><a href="http://www.oert.org/en/faq/">FAQ</a></li>
+<li id="menu-item-409" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-409"><a href="http://www.oert.org/en/contact-us/">Contact us</a></li>
+</ul></div></div><div class="widget"><h3><span>Páginas</span></h3><div class="menu-main-menu-ingles-container"><ul id="menu-main-menu-ingles" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-404"><a href="http://www.oert.org/en/the-project/">The project</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-405"><a href="http://www.oert.org/en/the-authors/">The Authors</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-406"><a href="http://www.oert.org/en/editorial-board/">Editorial Committee</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-407"><a href="http://www.oert.org/en/the-team/">The Team</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-408"><a href="http://www.oert.org/en/our-backers/">Our backers</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-718"><a href="http://www.oert.org/en/faq/">FAQ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-409"><a href="http://www.oert.org/en/contact-us/">Contact us</a></li>
+</ul></div></div></div> <!-- sidebar right--> 
+<div id="bottom"></div>
+<script type='text/javascript' src='http://www.oert.org/wp-content/themes/WikiBase/library/js/jquery.simplemodal.js'></script>
+<script type='text/javascript' src='http://www.oert.org/wp-content/themes/WikiBase/library/js/basic.js'></script>
+<div id="basic-modal-content" class="clearfix" style="display:none;">
+<form name="send_to_frnd" id="send_to_frnd" action="http://www.oert.org/en/visual-perception-and-rhythm/" method="post" >
+<input type="hidden" id="send_to_Frnd_pid" name="pid" value="614" />
+<input type="hidden" name="sendact" value="email_frnd" />
+	<h3>Send To Friend</h3>
+    <p id="reply_send_success" class="sucess_msg" style="display:none;"></p>
+	<div class="row clearfix" ><label>Friend Name : <span>*</span></label><input name="to_name" id="to_name" type="text"  /><span id="to_nameInfo"></span></div>
+ 	<div class="row  clearfix" ><label> Email : <span>*</span></label><input name="to_email" id="to_email" type="text"  /><span id="to_emailInfo"></span></div>
+	<div class="row  clearfix" ><label>Your Name : <span>*</span></label><input name="yourname" id="yourname" type="text"  /><span id="yournameInfo"></span></div>
+ 	<div class="row  clearfix" ><label> Email : <span>*</span></label><input name="youremail" id="youremail" type="text"  /><span id="youremailInfo"></span></div>
+	<div class="row  clearfix" ><label>Subject : <span>*</span></label><input name="frnd_subject" value="About Visual perception and rhythm" id="frnd_subject" type="text"  /></div>
+	<div class="row  clearfix" ><label>Comments : <span>*</span></label>
+     <textarea name="frnd_comments" id="frnd_comments" cols="" rows="" >Hi there, do check out the information about this Article.</textarea></div>
+	<input name="Send" type="submit" value="Send " class="button " />
+</form>
+</div>
+<script type="text/javascript" src="http://www.oert.org/wp-content/themes/WikiBase/library/js/email_frnd_validation.js"></script>
+<!-- here -->   </div> <!-- wrapper #end -->
+  
+<div id="footer" class="clearfix">
+<div id="footer_in">
+<p class="copy"><a rel="license" href="http://creativecommons.org/licenses/by-sa/2.5/ar/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/2.5/ar/80x15.png" /></a> <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Open Educational Resources for Typography</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.oert.org/" property="cc:attributionName" rel="cc:attributionURL">OERT</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.5/ar/">Creative Commons Attribution-ShareAlike 2.5 Argentina License</a>.</p>
+<p class="fr"><span class="designby">Alojado en </span>
+<span class="wiroos"><a href="http://www.wiroos.com" title="Wiroos">Wiroos</a></span>
+</p>	
+</div></div> <!-- footer #end -->
+
+        <script type="text/javascript">
+          var pfHeaderImgUrl = '';
+          var pfHeaderTagline = '';
+          var pfdisableClickToDel = '0';
+          var pfHideImages = '0';
+          var pfImageDisplayStyle = 'right';
+          var pfDisableEmail = '0';
+          var pfDisablePDF = '0';
+          var pfDisablePrint = '0';
+          var pfCustomCSS = '';
+
+          // PrintFriendly
+          var e = document.createElement('script'); e.type="text/javascript";
+          e.src = 'http://cdn.printfriendly.com/printfriendly.js';
+          document.getElementsByTagName('head')[0].appendChild(e);
+      </script>
+<script type='text/javascript' src='http://www.oert.org/wp-content/themes/WikiBase/library/js/livesearch.js?ver=1'></script>
+<script type='text/javascript' src='http://www.oert.org/wp-content/themes/WikiBase/library/js/jquery.hoveraccordion.min.js?ver=1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var FB_WP=FB_WP||{};FB_WP.queue={_methods:[],flushed:false,add:function(fn){FB_WP.queue.flushed?fn():FB_WP.queue._methods.push(fn)},flush:function(){for(var fn;fn=FB_WP.queue._methods.shift();){fn()}FB_WP.queue.flushed=true}};window.fbAsyncInit=function(){FB.init({"channelUrl":"http:\/\/www.oert.org\/wp-content\/plugins\/facebook\/channel.php","xfbml":true,"appId":"285109618260716"});if(FB_WP && FB_WP.queue && FB_WP.queue.flush){FB_WP.queue.flush()}}
+/* ]]> */
+</script>
+<div id="fb-root"></div><script type="text/javascript">(function(d){var id="facebook-jssdk";if(!d.getElementById(id)){var js=d.createElement("script"),ref=d.getElementsByTagName("script")[0];js.id=id,js.async=true,js.src="http:\/\/connect.facebook.net\/es_ES\/all.js",ref.parentNode.insertBefore(js,ref)}})(document)</script>
+<script type='text/javascript' src=''></script>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27724959-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script><script type="text/javascript">
+	//<![CDATA[
+		function initBelle() {
+			Belle.AjaxURL		= "http://www.oert.org/en//?sajax=1"
+			// Initialize Livesearch
+			Belle.LiveSearch	= new LiveSearch( "Escribe y obten resultados al instante" )
+			}
+		jQuery(document).ready( function() { initBelle() })
+	//]]>
+	</script>
+<!-- LOAD JAVASCRIPT LATE - JUST BEFORE THE BODY TAG 
+		 That way the browser will have loaded the images
+	  	 and will know the width of the images. No need to
+		 specify the width in the CSS or inline. -->
+
+	<!-- jQuery library - Please load it from Google API's -->
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+
+	<!-- jQuery UI Widget and Effects Core (custom download)
+		 You can make your own at: http://jqueryui.com/download -->
+	<script src="http://www.oert.org/wp-content/themes/WikiBase/library/js/jquery-ui-1.8.18.custom.min.js" type="text/javascript"></script>
+	
+	<!-- Latest version of jQuery Mouse Wheel by Brandon Aaron
+		 You will find it here: http://brandonaaron.net/code/mousewheel/demos -->
+	<script src="http://www.oert.org/wp-content/themes/WikiBase/library/js/jquery.mousewheel.min.js" type="text/javascript"></script>
+
+	<!-- Smooth Div Scroll 1.2 minified-->
+	<script src="http://www.oert.org/wp-content/themes/WikiBase/library/js/jquery.smoothdivscroll-1.2-min.js" type="text/javascript"></script>
+
+	<!-- If you want to look at the uncompressed version you find it at
+		 js/jquery.smoothDivScroll-1.2.js -->
+
+	<!-- Plugin initialization -->
+	<script type="text/javascript">
+		jQuery(document).ready(function () {
+			jQuery("#logoParade").smoothDivScroll({
+				autoScrollingMode: "always",
+				autoScrollingDirection: "endlessloopright",
+				autoScrollingStep: 1,
+				autoScrollingInterval: 25 
+			});
+
+			// Logo parade
+			jQuery("#logoParade").bind("mouseover", function () {
+				jQuery(this).smoothDivScroll("stopAutoScrolling");
+			}).bind("mouseout", function () {
+				jQuery(this).smoothDivScroll("startAutoScrolling");
+			});
+
+		});
+		
+	</script>	
+	
+</body></html>

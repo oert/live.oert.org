@@ -1,0 +1,509 @@
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<title>
+  Clasificación, elección y combinación de familias&nbsp;|&nbsp;OERT</title>
+
+<link rel="stylesheet" href="http://www.oert.org/wp-content/plugins/sitepress-multilingual-cms/res/css/language-selector.css?v=2.6.0" type="text/css" media="all" />
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="stylesheet" type="text/css" href="http://www.oert.org/wp-content/themes/WikiBase/style.css" media="screen" />
+<link rel="shortcut icon" type="image/png" href="http://www.oert.org/wp-content/uploads/favicon.ico" />
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.oert.org/feed/" />
+<link rel="pingback" href="http://www.oert.org/xmlrpc.php" />
+
+<link rel="stylesheet" type="text/css" href="http://www.oert.org/wp-content/themes/WikiBase/library/css/print.css" media="print" />
+<link rel="Stylesheet" type="text/css" href="http://www.oert.org/wp-content/themes/WikiBase/library/css/smoothDivScroll.css" />
+
+<script src="http://connect.facebook.net/es_ES/all.js#xfbml=1"></script>
+<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+<script src="https://apis.google.com/js/plusone.js" type="text/javascript"></script>
+
+
+ <link href="http://www.oert.org/wp-content/themes/WikiBase/custom.css" rel="stylesheet" type="text/css">
+<script language="javascript" type="text/javascript">
+	function hasClass(ele,cls) {
+	return ele.className.match(new RegExp('(\\s|^)'+cls+'(\\s|$)'));
+	}
+
+    function addClass(ele,cls) {
+    if (!this.hasClass(ele,cls)) ele.className += " "+cls;
+    }
+    function removeClass(ele,cls) {
+    if (hasClass(ele,cls)) {
+        var reg = new RegExp('(\\s|^)'+cls+'(\\s|$)');
+        ele.className=ele.className.replace(reg,' ');
+    }
+    }
+
+    function showHideDiv(sids,divids)
+    {
+		//alert(sids);
+		//alert(divids);
+        var divstyle = new String();
+		var spanstyle = new String();
+		var spansid = new String();
+		spansid = document.getElementById(sids);
+        divstyle = document.getElementById(divids).style.display;
+        if(divstyle.toLowerCase()=="block" || divstyle == "")
+        {
+            document.getElementById(divids).style.display = "none";
+			removeClass(spansid,'neg');
+			addClass(spansid,'pos');
+        }
+        else
+        {
+            document.getElementById(divids).style.display = "block";
+			removeClass(spansid,'pos');
+			addClass(spansid,'neg');
+        }
+    }
+    </script>
+    <script type="text/javascript">
+        $(document).ready( function() {
+            $('#menu-recursos').hoverAccordion({
+                keepHeight:true,
+                activateItem: 3,
+                speed: 400
+            });
+        });
+    </script>
+        
+<link rel="dns-prefetch" href="//connect.facebook.net" />
+<link rel="alternate" type="application/rss+xml" title="OERT &raquo; Clasificación, elección y combinación de familias RSS de los comentarios" href="http://www.oert.org/clasificacion-eleccion-y-combinacion-de-familias/feed/" />
+<link rel='stylesheet' id='wpml-cms-nav-css-css'  href='http://www.oert.org/wp-content/plugins/wpml-cms-nav/res/css/navigation.css?ver=1.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='cms-navigation-style-base-css'  href='http://www.oert.org/wp-content/plugins/wpml-cms-nav/res/css/cms-navigation-base.css?ver=1.2.7' type='text/css' media='screen' />
+<link rel='stylesheet' id='cms-navigation-style-css'  href='http://www.oert.org/wp-content/plugins/wpml-cms-nav/res/css/cms-navigation.css?ver=1.2.7' type='text/css' media='screen' />
+<link rel='stylesheet' id='facebook-css'  href='http://www.oert.org/wp-content/plugins/facebook/static/css/style.min.css?ver=1.3.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.oert.org/wp-includes/js/jquery/jquery.js?ver=1.8.3'></script>
+<script type='text/javascript' src='http://www.oert.org/wp-content/themes/WikiBase/library/js/functions.js?ver=1'></script>
+<script type='text/javascript' src='http://www.oert.org/wp-includes/js/comment-reply.min.js?ver=3.5.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.oert.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.oert.org/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Tipografía y sistemas tipográficos' href='http://www.oert.org/tipografia-y-sistemas-tipograficos/' />
+<link rel='next' title='Conceptos fundamentales' href='http://www.oert.org/conceptos-fundamentales/' />
+<meta name="generator" content="WordPress 3.5.1" />
+<link rel='shortlink' href='http://www.oert.org/?p=167' />
+
+	<!-- This site uses Good Old Gallery, get it from http://wp.unwi.se/good-old-gallery -->
+
+        <style type="text/css" media="screen">
+          div.printfriendly {
+            margin: 0px 0px 0px 0px;;
+          }
+          div.printfriendly a, div.printfriendly a:link, div.printfriendly a:visited {
+            text-decoration: none;
+            font-size: 14px;
+            color: #99cc00;
+            vertical-align: bottom;
+            border: none;
+          }
+
+          .printfriendly a:hover {
+            cursor: pointer;
+          }
+
+          .printfriendly a img  {
+            border: none;
+            padding:0;
+            margin-right: 6px;
+            display:inline-block;
+            box-shadow: none;
+            -webkit-box-shadow: none;
+            -moz-box-shadow: none;
+          }
+          .printfriendly a span{
+            vertical-align: bottom;
+          }
+          .pf-alignleft {
+            float: left;
+          }
+          .pf-alignright {
+            float: right;
+          }
+          div.pf-aligncenter {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            text-align: center;
+          }
+        </style>
+        <style type="text/css" media="print">
+          .printfriendly {
+            display: none;
+          }
+        </style>
+<script type="text/javascript">var icl_lang = 'es';var icl_home = 'http://www.oert.org/';</script>
+<script type="text/javascript" src="http://www.oert.org/wp-content/plugins/sitepress-multilingual-cms/res/js/sitepress.js"></script>
+<meta name="generator" content="WPML ver:2.6.0 stt:2,1;0" />
+<link rel="alternate" hreflang="en_US" href="http://www.oert.org/en/family-classification-selection-and-combination/" />
+
+<style type="text/css">#lang_sel a, #lang_sel a.lang_sel_sel{color:#444444;}#lang_sel a:hover, #lang_sel a.lang_sel_sel:hover{color:#000000;}#lang_sel a.lang_sel_sel, #lang_sel a.lang_sel_sel:visited{background-color:#f5f4f2;}#lang_sel a.lang_sel_sel:hover{background-color:#eeeeee;}#lang_sel li ul a, #lang_sel li ul a:visited{color:#444444;}#lang_sel li ul a:hover{color:#000000;}#lang_sel li ul a, #lang_sel li ul a:link, #lang_sel li ul a:visited{background-color:#f5f4f2;}#lang_sel li ul a:hover{background-color:#eeeeee;}#lang_sel a, #lang_sel a:visited{border-color:#cdcdcd;} #lang_sel ul ul{border-top:1px solid #cdcdcd;}</style>
+
+<style type="text/css">#lang_sel  {width: 195px; margin-bottom:24px;}
+#lang_sel a {font-size:12px;}
+#lang_sel li {width:192px; }
+
+</style>		<link href="http://www.oert.org/wp-content/themes/WikiBase/skins/1-default.css" rel="stylesheet" type="text/css" />
+
+
+<link href='http://boakes.org/most-wanted?v=0.1.9v' />
+<link rel="canonical" href="http://www.oert.org/clasificacion-eleccion-y-combinacion-de-familias/"/>
+<meta property="og:site_name" content="OERT" />
+<meta property="og:type" content="article" />
+<meta property="og:locale" content="es_ES" />
+<meta property="fb:app_id" content="285109618260716" />
+<meta property="og:url" content="http://www.oert.org/clasificacion-eleccion-y-combinacion-de-familias/" />
+<meta property="og:title" content="Clasificación, elección y combinación de familias" />
+<meta property="og:description" content="Diferentes clasificaciones tipográficas. Utilidad. Criterios de elección según función y/o estilo. Criterios de combinación. Aspectos a controlar en la combinación. Combinación y pieza de diseño. Legibilidad y condiciones de lectura." />
+<meta property="article:published_time" content="2012-01-10T00:57:48+00:00" />
+<meta property="article:modified_time" content="2012-10-30T15:08:55+00:00" />
+<meta property="article:author" content="http://www.oert.org/author/admin/" />
+<meta property="article:section" content="Teoría" />
+<meta property="article:tag" content="Texto" />
+<meta property="og:image" content="http://www.oert.org/wp-content/uploads/2012/08/T03A_02_fantasia.jpg" />
+<meta property="og:image:width" content="700" />
+<meta property="og:image:height" content="525" />
+</head>
+<body class="single single-post postid-167 single-format-standard">
+<div id="header">   
+<div id="header_in" class="clearfix">
+<div class="logo"> 
+   <div class="blog-title"><a href="http://www.oert.org//">OERT</a> 
+		
+		 <p class="blog-description">
+		  Open Educational Resources for Typography		</p>
+   </div> 
+   </div>
+                        <div class="header_right">
+        	<p>Última actualización: <span>April 7, 2013</span></p>
+                        <form method="get" id="searchform" action="http://www.oert.org">
+<div id="search-form-wrap">
+<label for="s" id="search-label">Buscar por:</label>
+<input type="text" id="s" name="s" accesskey="4" value="" />
+<input type="hidden" name="stype" value="ajsearch" />
+<input type="submit" name="stype" value="Search" style="display:none;" class="b_search" />
+<span id="searchreset" title="Reset Search"></span>
+<span id="searchload"></span>
+</div>
+</form>
+
+                    </div>               
+   </div> 
+ </div>   <!-- header #end -->     <div id="wrapper" class="clearfix">  
+  		<div id="content" >
+         <div id="current-content">
+                 <div class="breadcrumb clearfix">
+        <a rel="nofollow" href="http://www.oert.org">Home</a>  <a href="http://www.oert.org/category/parte1/" title="Ver todas las entradas en Teoría">Teoría</a>  Clasificación, elección y combinación de familias        </div>
+             
+                       
+        <div class="single_post">
+        <h1 class="head">Clasificación, elección y combinación de familias</h1>
+ 		  		                  <p class="post_info clearfix post_info_single"><span>Posted by <a href="http://www.oert.org/author/admin/" title="Entradas de OERT" rel="author">OERT</a> - ene 10, 2012 </span>
+                     <span class="i_cate"> <a href="http://www.oert.org/category/parte1/" title="Ver todas las entradas en Teoría" rel="category tag">Teoría</a>, <a href="http://www.oert.org/category/parte1/parte1-2/" title="Ver todas las entradas en Texto" rel="category tag">Texto</a> </span>
+                      <span> <a href="http://www.oert.org/clasificacion-eleccion-y-combinacion-de-familias/#commentarea"  class="i_comment" ><fb:comments-count xmlns="http://ogp.me/ns/fb#" href="http://www.oert.org/clasificacion-eleccion-y-combinacion-de-familias/"></fb:comments-count> comentarios </a></span>                      
+                      <a href="http://www.oert.org/?cat=6&amp;feed=rss2" class="i_rss">Receive Updates For This Category</a>
+                      
+                       </p>
+                       
+                       
+					              
+              
+              <div id="post-167" class="posts clearfix">               		               
+              		
+              		<!-- Templatic Article Tools #end -->
+              		
+              		              		
+              		<!-- Templatic Article Tools #end -->
+
+                      <p class="autor">Elaboración: Pablo Cosgaya, Marcela Romero &#8211; Revisión: Natalia Pano</p>
+<h3>Clasificación tipográfica</h3>
+<p>Una aproximación racional al estudio de la gran variedad de familias existentes implica nociones mínimas de los sistemas de clasificación. En primer lugar, es necesario conocer detalladamente las características de las familias disponibles o a nuestro alcance. Coleccionar en forma indiscriminada grandes cantidades de familias cuyo origen o calidad nos resulta difícil de precisar no es conveniente. Una vez que las hayamos observado y conocido en detalle, podemos ordenarlas en nuestro archivo, teniendo en cuenta alguno de los sistemas de clasificación más conocidos.</p>
+<p>En el Diccionario de Edición, Tipografía y Artes Gráficas, José Martínez de Sousa menciona veintitrés sistemas de clasificación tipográfica diferentes. Entre ellos, podemos citar:</p>
+<ul>
+<li>El sistema Thibaudeau (desarrollado entre 1920 y 1924), que presenta cuatro estilos: romanas (antiguas y modernas), egipcias, palosecos y de escritura y fantasía. Este sistema es el más sencillo de todos y no da lugar a confusiones.</li>
+<li>El sistema Vox-ATypI (desarrollado por Maximilien Vox y adoptado por la Asociación Tipográfica Internacional en 1964) presenta nueve estilos: manuales, humanísticas, garaldas (contracción de Garamond y Aldus), reales (o de transición), didonas (contracción de Didot y Bodoni), mecanas (o egipcias), lineales, incisas y escriptas.</li>
+<li>Otros sistemas, como el de Aldo Novarese, el de Andrea Pellitteri y el de Jean Alessandrini pueden orientarnos en nuestra propia clasificación, aunque no gocen de la popularidad de los dos primeros.</li>
+</ul>
+<p>Cada sistema adopta criterios de clasificación que lamentablemente no son homogéneos: conviven criterios históricos (antiguas, transición, modernas) con criterios formales (serif, sanserif, geométricas), funcionales (texto, fantasía, rotulación) o referidos a la tecnología de producción (incisas, escriptas, manuales, caligráficas).</p>
+<p>Problemas de nomenclatura y debilidad para incorporar en las categorías del sistema a familias de diseños recientes, a familias experimentales, o a familias multiestilo, por citar algunos de los casos más notables, hacen más compleja la tarea de clasificación y nos permiten concluir que no existe un sistema que clasifique con eficiencia la totalidad de las familias existentes. Es necesario tener presente además que los sistemas más importantes (Thibaudeau, 1924; Vox-ATypI, 1964) terminaron de elaborarse antes de la irrupción de la técnica de autoedición, es decir, antes del diseño y desarrollo de una gran parte de las familias contemporáneas.</p>
+<p>¿Entonces? ¿Cómo guiarnos? ¿Para qué aprender estos conceptos? Conocer los sistemas y los criterios que los rigen nos permite poner orden en la búsqueda, la selección y el archivo de las familias con que contemos. Nos ayuda a encontrar familias similares con que reemplazar aquellas de las que no dispongamos fuentes. También es importante conocer los sistemas porque algunos de los criterios utilizados en los sistemas de clasificación constituyen tradiciones culturales e históricas compartidas por los lectores de todas las épocas.</p>
+<div id="attachment_1461" class="wp-caption alignnone" style="width: 711px"><a href="http://www.oert.org/wp-content/uploads/2012/08/T03A_01_vox.jpg"><img class="size-full wp-image-1461" title="La clasificación Vox" src="http://www.oert.org/wp-content/uploads/2012/08/T03A_01_vox.jpg" alt="La clasificación Vox" width="701" height="526" /></a><p class="wp-caption-text">La clasificación del francés Maximilien Vox (1954) busca las semejanzas de los tipos en función de la similitud de sus trazos. En 1964, la Asociación Tipográfica Internacional adoptó este sistema, por lo que desde entonces se lo conoce como sistema Vox-ATypI.</p></div>
+<h3>Elección de familias tipográficas</h3>
+<p>La elección tipográfica es una decisión fundamental en cualquier pieza de diseño de comunicación. Debe ajustarse a las características del contenido (tanto en lo significativo como en lo estructural) y a la intención con que se aborde el proyecto. Antes de elegir una familia, podemos hacernos algunas preguntas para encaminar el trabajo:</p>
+<ul>
+<li>¿Necesitamos tipografía para componer textos de lectura, para carteles promocionales o para títulos de ediciones? ¿Necesitamos variables?</li>
+<li>El texto, ¿es educativo, informativo, promocional, de diversión o experimental? Si es educativo, ¿de qué nivel de enseñanza: primario, secundario o universitario?</li>
+<li>¿A qué público nos dirigimos? ¿Formal o informal? ¿De qué edad? ¿Con qué preferencias?</li>
+<li>El aspecto de la pieza, ¿debe ser tradicional o moderno? ¿Responde a un estilo predefinido?</li>
+<li>¿Cuál será el soporte de aplicación (un cartel, un envase, un libro, una revista, televisión)?</li>
+<li>¿Cuál es el método de impresión y la calidad del papel? ¿La tipografía será impresa a color?</li>
+</ul>
+<p>Desde lo significativo, una adecuada elección de familias puede ayudar a expresar estados de ánimo, emociones o asociaciones con determinadas instituciones, productos, estilos de vida o períodos históricos, según sea necesario. No hay que guiarse solo por gustos personales, sino que es importante imaginar qué efecto producirá la familia escogida en el lector.</p>
+<p>También podemos seleccionar una familia de acuerdo con la relación que establezca con las imágenes que la rodearán o, si se trata de un texto largo, en función del rendimiento, es decir, la cantidad de caracteres que entren por página.</p>
+<p>No debemos perder de vista que, así como la elección tipográfica influye en el mensaje, también influirá el tipo de composición tipográfica de la pieza.</p>
+<div id="attachment_1463" class="wp-caption alignnone" style="width: 710px"><a href="http://www.oert.org/wp-content/uploads/2012/09/T03A_04_ill.jpg"><img class="size-full wp-image-1463" title="Serif y sans serif" src="http://www.oert.org/wp-content/uploads/2012/09/T03A_04_ill.jpg" alt="Serif y sans serif" width="700" height="525" /></a><p class="wp-caption-text">¿Serif o sanserif? En el ejemplo de la izquierda (Arial, 72 pt), es imposible saber si dice «ciento once», «tres» o la palabra inglesa «Ill» (enfermo). A la derecha: la misma palabra compuesta en Georgia 72 pt. (Del Manual de tipografía de Ruari Mc Lean).</p></div>
+<h3>Combinación de familias</h3>
+<p>Para combinar familias, será necesario definir pautas, criterios y argumentos propios, ya que en este tema no existen recetas demasiado precisas. Una combinación tipográfica intuitiva a veces también puede aportar soluciones tan sorprendentes y novedosas como funcionales.</p>
+<p>Algunos criterios a tener en cuenta pueden ser:</p>
+<ul>
+<li>Analizar si conviene optar por la combinación simple de un tipo para la composición de texto y otro para los títulos, o combinar varias familias en todo el trabajo, a sabiendas de que tenemos que realizar ajustes de espaciado (interletrado, interlineado), tamaño (correcciones de cuerpo entre una y otra familia para compensar la diferencia de altura de x) y peso, y que deben corregirse irregularidades ópticas en las palabras y líneas de texto.</li>
+<li>Se debe controlar el color tipográfico de los bloques y ser cuidadosos en la puesta general; es importante respetar las jerarquías de cada elemento.</li>
+<li>Se debe tener en cuenta que usar alternativamente más de dos estilos tipográficos distintos en un mismo proyecto puede resultar visualmente confuso o cansador para el lector.</li>
+<li>La combinación no debe limitarse solamente a la relación entre caracteres alfabéticos: puede crearse una relación entre letras de un estilo y números y signos de puntuación de otro. Es muy recomendable conocer a fondo la cantidad de glifos que posee cada familia tipográfica.</li>
+<li>Finalmente, se debe verificar si la combinación elegida funciona o si podrían cumplirse los mismos objetivos con variaciones en el ancho de caja, en el cuerpo, en el espaciado y en el uso de variables (color, estructura).</li>
+</ul>
+<div id="attachment_1464" class="wp-caption alignnone" style="width: 710px"><a href="http://www.oert.org/wp-content/uploads/2012/09/T03A_02_fantasia.jpg"><img class="size-full wp-image-1464" title="Letras de fantasía" src="http://www.oert.org/wp-content/uploads/2012/09/T03A_02_fantasia.jpg" alt="Letras de fantasía" width="700" height="525" /></a><p class="wp-caption-text">Las familias de fantasía están basadas en motivos arquitectónicos, decorativos, antropomórficos, etcétera. Su uso se limita a capitulares o palabras cortas, pero nunca se emplean para componer textos. Alumnos (de arriba a abajo, de izquierda a derecha): Daniela Raskobsky, Mariana De Mattia, Luciano Costilla, Martín De Marchi</p></div>
+<p>&nbsp;</p>
+<h3>Algunas consideraciones sobre legibilidad</h3>
+<ul>
+<li>Si lo que queremos es componer un texto legible, las familias clásicas pueden ayudarnos, pues no presentan características inusuales o extravagantes que distraigan al lector, por ejemplo: Garamond, Bembo, Plantin, Baskerville, Minion, Scala Serif.</li>
+<li>Aunque la diferencia de legibilidad entre algunos grupos parezca poco apreciable, puede señalarse que las familias con remate producen menos confusiones para el lector que las formas monótonas y ambiguas de las familias palo seco.</li>
+<li>Los remates mejoran el flujo de la lectura a lo largo de la línea, en sentido horizontal.</li>
+<li>Para un texto continuo y largo (literatura, periódicos y revistas) es preferible componer el texto en una familia con remates. En otras áreas de comunicación en las que la legibilidad es clave, pero la lectura se produce en forma rápida y sintética (como en el caso de la señalización, por ejemplo) se prefieren los tipos paloseco. Lo mismo sucede con piezas de otro tipo, como afiches o avisos publicitarios.</li>
+<li>La silueta de cada palabra (a la que el tipógrafo armenio Hrant Papazian llama <em>bouma</em>) es un factor muy importante en la legibilidad: las palabras compuestas en mayúsculas producen «rectángulos grises» (boumas) uniformes y difíciles de diferenciar. Las palabras compuestas en caja baja, en cambio, son considerablemente más legibles ya que sus boumas son más diferentes entre sí.</li>
+</ul>
+<div id="attachment_1465" class="wp-caption alignnone" style="width: 711px"><a href="http://www.oert.org/wp-content/uploads/2012/09/T03A_02_ejemplos.jpg"><img class="size-full wp-image-1465" title="Ejemplo: Física de los superhéroes" src="http://www.oert.org/wp-content/uploads/2012/09/T03A_02_ejemplos.jpg" alt="Física de los superhéroes" width="701" height="526" /></a><p class="wp-caption-text">Alumnos (de izquierda a derecha) N.N., Laura Dattoli.</p></div>
+<p>&nbsp;</p>
+<div class="ref_box"><strong>Bibliografía</strong></p>
+<ul>
+<li>MARTÍNEZ DE SOUSA, José. <em>Diccionario de edición, tipografía y artes gráficas.</em> Trea, Gijón. 2001.</li>
+<li>SPIEKERMANN, Erik y GINGER, E.M.. <em>Stop Stealing Sheep.</em> Adobe Press, Mountain View, 1993.</li>
+<li>McLEAN, Ruari. <em>Manual de tipografía</em>. Hermann Blume. Barcelona, 1987.</li>
+<li>SOLOMON, Martin, «Extrañas parejas tipográficas» en <em>tipoGráfica 5</em>.</li>
+</ul>
+<p></p></div>
+<p class="icl_post_in_other_langs">Esta entrada también está disponible en: <a href="http://www.oert.org/en/family-classification-selection-and-combination/">Inglés</a></p>                   
+                  
+                  <div class="like_this_section clearfix">
+					<div class="google_like">
+					<g:plusone href="http://www.oert.org" size="medium"></g:plusone>
+					</div>	                  
+                     <div class="twitter_like">
+                     <a href="http://twitter.com/share" class="twitter-share-button" data-via="oert.org" data-lang="es" data-size="medium">Tweet</a>
+                     </div>
+                     <div class="fb_like">
+                     <fb:like href="http%3A%2F%2Fwww.oert.org%2Fclasificacion-eleccion-y-combinacion-de-familias%2F" layout="button_count" show_faces="false" width="450" height="30"></fb:like>
+                     </div>
+                     <div class="printfriendly"><a href="http://www.printfriendly.com/print?url=http://www.oert.org/clasificacion-eleccion-y-combinacion-de-familias/" rel="nofollow" onclick="window.print(); return false;"><img src="http://cdn.printfriendly.com/button-print-gry20.png" alt="Print Friendly" /></a></div>				</div> <!-- #end -->
+
+
+          				
+              </div> <!-- post #end -->
+              
+              
+               
+ 			<div class="post-navigation clearfix">
+                                                            <a class="post-prev" href="http://www.oert.org/tipografia-y-sistemas-tipograficos/"><em>Previous post</em><span>Tipografía y sistemas tipográficos</span></a>
+                                                                <a class="post-next" href="http://www.oert.org/conceptos-fundamentales/"><em>Next post</em><span>Conceptos fundamentales</span></a>
+                                 </div>
+            
+            
+              </div> <!-- single post content #end -->
+          		<div class="realated_post clearfix">
+<h3>Related Posts</h3><ul class="realated_postlist clearfix">
+            <li class="clearfix"> 
+      
+     <h3> <a href="http://www.oert.org/familia-tipografica/">Familia tipográfica</a></h3> 
+     <p class="date clearfix"> <span>September 10, 2012</span></p>
+     <p>Definición. Familia como sistema. Componentes de la caja tipográfica. Variables tipográficas. Ejes de construcción de variables: históricos y contemporáneos. Revisión de aspectos que se mantienen y modifican en el sistema de variables.</p>
+            </li>
+                        <li class="clearfix"> 
+      
+     <h3> <a href="http://www.oert.org/mayusculas-minusculas-numeros-y-signos/">Mayúsculas, minúsculas, números y signos</a></h3> 
+     <p class="date clearfix"> <span>September 10, 2012</span></p>
+     <p>Origen, relaciones y connotaciones del sistema de mayúsculas y del de minúsculas. Relaciones verticales. Legibilidad de mayúsculas y minúsculas. Características formales y función de números. Signos de entonación, puntuación y auxiliares: forma y ubicación. Las fracciones.</p>
+            </li>
+                        <li class="clearfix"> 
+      
+     <h3> <a href="http://www.oert.org/anatomia-tipografica/">Anatomía tipográfica</a></h3> 
+     <p class="date clearfix"> <span>September 10, 2012</span></p>
+     <p>Partes de la letra: ubicación y definición.</p>
+            </li>
+                        <li class="clearfix"> 
+      
+     <h3> <a href="http://www.oert.org/proporciones-del-alfabeto-latino/">Proporciones del alfabeto latino</a></h3> 
+     <p class="date clearfix"> <span>September 10, 2012</span></p>
+     <p>Tecnología de producción y forma resultante. Mayúsculas trajanas y su conversión en modelo. Estructuras básicas y conformación de grupos de anchos comunes. Grupos por parentesco morfológico. Anchos históricos y contemporáneos.</p>
+            </li>
+            </ul>
+</div>
+		
+        
+          <div id="comments" class="clearfix"> 
+<div id="comments" class="comments-area">
+<div id="respond"><noscript><ol class="commentlist"><li id="comment-10150727676347842_23642651" class="comment" itemprop="comment" itemscope itemtype="http://schema.org/UserComments"><p><a rel="nofollow" itemprop="creator" href="https://www.facebook.com/profile.php?id=1431076080">Ines Pupareli</a>:</p><p class="metadata"><time itemprop="commentTime" datetime="2012-10-01T19:55:05+0000">1 October, 2012 at 19:55</time></p><div class="comment-content" itemprop="commentText"><p>si pibe, existe la vida fuera de la myriad</p>
+</div></li></ol></noscript>
+<div class="fb-social-plugin fb-comments" id="commentform" data-href="http://www.oert.org/clasificacion-eleccion-y-combinacion-de-familias/" data-width="700"></div>
+</div></div>
+</div>
+          
+             </div>
+	<div id="dynamic-content"></div>        
+  </div> <!-- content #end -->
+<script type="text/javascript" language="javascript" >
+var root_path_js = 'http://www.oert.org/';
+</script>
+<script type="text/javascript" language="javascript" src="http://www.oert.org/wp-content/themes/WikiBase/library/js/article_detail.js" ></script>
+
+      <div id="lang_sel"  >
+    <ul>
+        <li><a href="#" class="lang_sel_sel icl-es">
+                            
+            <img  class="iclflag" src="http://www.oert.org/wp-content/plugins/sitepress-multilingual-cms/res/flags/es.png" alt="es" />                                
+            &nbsp;Español</a>                                    
+            <ul>
+                                <li class="icl-en">          
+                    <a rel="alternate" hreflang="en" href="http://www.oert.org/en/family-classification-selection-and-combination/">
+                                    
+                    <img  class="iclflag" src="http://www.oert.org/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png" alt="en" />&nbsp;                    
+                                        English                    </a>
+                </li>
+                            </ul>            
+             
+                    </li>
+    </ul>    
+</div>
+ <!-- selector de idiomas -->
+<div id="sidebar">
+	<div class="widget"><h3><span>Recursos</span></h3><div class="menu-recursos-container"><ul id="menu-recursos" class="menu"><li id="menu-item-2003" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2003"><a href="http://www.oert.org/category/parte1/">Teoría</a>
+<ul class="sub-menu">
+	<li id="menu-item-2004" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2004"><a href="http://www.oert.org/category/parte1/parte1-1/">Letra</a></li>
+	<li id="menu-item-2005" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2005"><a href="http://www.oert.org/category/parte1/parte1-2/">Texto</a></li>
+	<li id="menu-item-2006" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2006"><a href="http://www.oert.org/category/parte1/parte1-3/">Página</a></li>
+</ul>
+</li>
+<li id="menu-item-2007" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2007"><a href="http://www.oert.org/category/parte2/">Práctica</a>
+<ul class="sub-menu">
+	<li id="menu-item-2008" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2008"><a href="http://www.oert.org/category/parte2/parte2-1/">Letra</a></li>
+	<li id="menu-item-2009" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2009"><a href="http://www.oert.org/category/parte2/parte2-2/">Texto</a></li>
+	<li id="menu-item-2010" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2010"><a href="http://www.oert.org/category/parte2/parte2-3/">Página</a></li>
+</ul>
+</li>
+<li id="menu-item-2011" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2011"><a href="http://www.oert.org/category/parte3/">Historia</a></li>
+</ul></div></div><div class="widget"><h3><span>Páginas</span></h3><div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-37" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37"><a href="http://www.oert.org/el-proyecto/">El proyecto</a></li>
+<li id="menu-item-62" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-62"><a href="http://www.oert.org/los-autores/">Los autores</a></li>
+<li id="menu-item-63" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-63"><a href="http://www.oert.org/comite-editorial/">Comité Editorial</a></li>
+<li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36"><a href="http://www.oert.org/equipo-de-trabajo-2/">Equipo de trabajo</a></li>
+<li id="menu-item-38" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38"><a href="http://www.oert.org/apoyan-este-proyecto-2/">Apoyan este proyecto&#8230;</a></li>
+<li id="menu-item-568" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-568"><a href="http://www.oert.org/preguntas-frecuentes/">Preguntas Frecuentes</a></li>
+<li id="menu-item-39" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39"><a href="http://www.oert.org/contacto-2/">Contacto</a></li>
+</ul></div></div></div> <!-- sidebar right--> 
+<div id="bottom"></div>
+<script type='text/javascript' src='http://www.oert.org/wp-content/themes/WikiBase/library/js/jquery.simplemodal.js'></script>
+<script type='text/javascript' src='http://www.oert.org/wp-content/themes/WikiBase/library/js/basic.js'></script>
+<div id="basic-modal-content" class="clearfix" style="display:none;">
+<form name="send_to_frnd" id="send_to_frnd" action="http://www.oert.org/clasificacion-eleccion-y-combinacion-de-familias/" method="post" >
+<input type="hidden" id="send_to_Frnd_pid" name="pid" value="167" />
+<input type="hidden" name="sendact" value="email_frnd" />
+	<h3>Send To Friend</h3>
+    <p id="reply_send_success" class="sucess_msg" style="display:none;"></p>
+	<div class="row clearfix" ><label>Friend Name : <span>*</span></label><input name="to_name" id="to_name" type="text"  /><span id="to_nameInfo"></span></div>
+ 	<div class="row  clearfix" ><label> Correo electrónico : <span>*</span></label><input name="to_email" id="to_email" type="text"  /><span id="to_emailInfo"></span></div>
+	<div class="row  clearfix" ><label>Your Name : <span>*</span></label><input name="yourname" id="yourname" type="text"  /><span id="yournameInfo"></span></div>
+ 	<div class="row  clearfix" ><label> Correo electrónico : <span>*</span></label><input name="youremail" id="youremail" type="text"  /><span id="youremailInfo"></span></div>
+	<div class="row  clearfix" ><label>Asunto : <span>*</span></label><input name="frnd_subject" value="About Clasificación, elección y combinación de familias" id="frnd_subject" type="text"  /></div>
+	<div class="row  clearfix" ><label>Comentarios : <span>*</span></label>
+     <textarea name="frnd_comments" id="frnd_comments" cols="" rows="" >Hi there, do check out the information about this Article.</textarea></div>
+	<input name="Send" type="submit" value="Send " class="button " />
+</form>
+</div>
+<script type="text/javascript" src="http://www.oert.org/wp-content/themes/WikiBase/library/js/email_frnd_validation.js"></script>
+<!-- here -->   </div> <!-- wrapper #end -->
+  
+<div id="footer" class="clearfix">
+<div id="footer_in">
+<p class="copy"><a rel="license" href="http://creativecommons.org/licenses/by-sa/2.5/ar/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/2.5/ar/80x15.png" /></a> <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Open Educational Resources for Typography</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.oert.org/" property="cc:attributionName" rel="cc:attributionURL">OERT</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.5/ar/">Creative Commons Attribution-ShareAlike 2.5 Argentina License</a>.</p>
+<p class="fr"><span class="designby">Alojado en </span>
+<span class="wiroos"><a href="http://www.wiroos.com" title="Wiroos">Wiroos</a></span>
+</p>	
+</div></div> <!-- footer #end -->
+
+        <script type="text/javascript">
+          var pfHeaderImgUrl = '';
+          var pfHeaderTagline = '';
+          var pfdisableClickToDel = '0';
+          var pfHideImages = '0';
+          var pfImageDisplayStyle = 'right';
+          var pfDisableEmail = '0';
+          var pfDisablePDF = '0';
+          var pfDisablePrint = '0';
+          var pfCustomCSS = '';
+
+          // PrintFriendly
+          var e = document.createElement('script'); e.type="text/javascript";
+          e.src = 'http://cdn.printfriendly.com/printfriendly.js';
+          document.getElementsByTagName('head')[0].appendChild(e);
+      </script>
+<script type='text/javascript' src='http://www.oert.org/wp-content/themes/WikiBase/library/js/livesearch.js?ver=1'></script>
+<script type='text/javascript' src='http://www.oert.org/wp-content/themes/WikiBase/library/js/jquery.hoveraccordion.min.js?ver=1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var FB_WP=FB_WP||{};FB_WP.queue={_methods:[],flushed:false,add:function(fn){FB_WP.queue.flushed?fn():FB_WP.queue._methods.push(fn)},flush:function(){for(var fn;fn=FB_WP.queue._methods.shift();){fn()}FB_WP.queue.flushed=true}};window.fbAsyncInit=function(){FB.init({"channelUrl":"http:\/\/www.oert.org\/wp-content\/plugins\/facebook\/channel.php","xfbml":true,"appId":"285109618260716"});if(FB_WP && FB_WP.queue && FB_WP.queue.flush){FB_WP.queue.flush()}}
+/* ]]> */
+</script>
+<div id="fb-root"></div><script type="text/javascript">(function(d){var id="facebook-jssdk";if(!d.getElementById(id)){var js=d.createElement("script"),ref=d.getElementsByTagName("script")[0];js.id=id,js.async=true,js.src="http:\/\/connect.facebook.net\/es_ES\/all.js",ref.parentNode.insertBefore(js,ref)}})(document)</script>
+<script type='text/javascript' src=''></script>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27724959-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script><script type="text/javascript">
+	//<![CDATA[
+		function initBelle() {
+			Belle.AjaxURL		= "http://www.oert.org/?sajax=1"
+			// Initialize Livesearch
+			Belle.LiveSearch	= new LiveSearch( "Escribe y obten resultados al instante" )
+			}
+		jQuery(document).ready( function() { initBelle() })
+	//]]>
+	</script>
+<!-- LOAD JAVASCRIPT LATE - JUST BEFORE THE BODY TAG 
+		 That way the browser will have loaded the images
+	  	 and will know the width of the images. No need to
+		 specify the width in the CSS or inline. -->
+
+	<!-- jQuery library - Please load it from Google API's -->
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+
+	<!-- jQuery UI Widget and Effects Core (custom download)
+		 You can make your own at: http://jqueryui.com/download -->
+	<script src="http://www.oert.org/wp-content/themes/WikiBase/library/js/jquery-ui-1.8.18.custom.min.js" type="text/javascript"></script>
+	
+	<!-- Latest version of jQuery Mouse Wheel by Brandon Aaron
+		 You will find it here: http://brandonaaron.net/code/mousewheel/demos -->
+	<script src="http://www.oert.org/wp-content/themes/WikiBase/library/js/jquery.mousewheel.min.js" type="text/javascript"></script>
+
+	<!-- Smooth Div Scroll 1.2 minified-->
+	<script src="http://www.oert.org/wp-content/themes/WikiBase/library/js/jquery.smoothdivscroll-1.2-min.js" type="text/javascript"></script>
+
+	<!-- If you want to look at the uncompressed version you find it at
+		 js/jquery.smoothDivScroll-1.2.js -->
+
+	<!-- Plugin initialization -->
+	<script type="text/javascript">
+		jQuery(document).ready(function () {
+			jQuery("#logoParade").smoothDivScroll({
+				autoScrollingMode: "always",
+				autoScrollingDirection: "endlessloopright",
+				autoScrollingStep: 1,
+				autoScrollingInterval: 25 
+			});
+
+			// Logo parade
+			jQuery("#logoParade").bind("mouseover", function () {
+				jQuery(this).smoothDivScroll("stopAutoScrolling");
+			}).bind("mouseout", function () {
+				jQuery(this).smoothDivScroll("startAutoScrolling");
+			});
+
+		});
+		
+	</script>	
+	
+</body></html>
