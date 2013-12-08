@@ -101,5 +101,12 @@ Here is what we have so far:
   {% endfor %}
 {% endfor %}
 </ol>
+</div>
 
+<div style="width:100%;float:left;clear:both">
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
 </div>
