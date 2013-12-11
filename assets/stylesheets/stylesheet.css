@@ -209,7 +209,7 @@ hr {
   margin-top: 1em;
   padding-bottom: 1em;
   border: none;
-  background: transparent url('../images/hr.png') 0 0 no-repeat;
+  /*background: transparent url('../images/hr.png') 0 0 no-repeat;*/
 }
 
 table {
@@ -278,7 +278,6 @@ form {
   content: "»";
   color: #9ddcff;
   padding-right: 0.3em;
-  margin-left: -1.25em;
 }
 
 #main-content h4 {
@@ -338,6 +337,11 @@ blockquote {
   padding: 0 0 0 30px;
 }
 
+ol.category li {
+  list-style: none;
+  padding: 0;
+}
+
 ul li {
   list-style: disc inside;
   padding-left: 20px;
@@ -354,7 +358,7 @@ dl dd {
 }
 
 footer {
-  background: transparent url('../images/hr.png') 0 0 no-repeat;
+  /*background: transparent url('../images/hr.png') 0 0 no-repeat;*/
   margin-top: 40px;
   padding-top: 20px;
   padding-bottom: 30px;
