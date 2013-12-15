@@ -32,8 +32,13 @@ Si bien se puede incluir al periodismo dentro de los cánones básicos de la com
 
 La industria de la información no construye un discurso estructuralmente homogéneo, sino un conjunto complejo de géneros y tipos discursivos. Se trata más bien de un modelo sistémico, compuesto por un conjunto de elementos interactuantes tales que la variación de cualquiera de ellos afecta al conjunto.
 
-[good-old-gallery id="1382"]
+![Alumnos (de izquierda a derecha, de arriba a abajo): Pamela, Blanco, Romina Noriega, Ornella Pagliarvolo, Laura Martín, Gabriela Estevez y Julia Martínez Diana](https://github.com/oert/live.oert.org/raw/gh-pages/es/images/T07_01_nombres.jpg)
 
+Alumnos (de izquierda a derecha, de arriba a abajo): Pamela, Blanco, Romina Noriega, Ornella Pagliarvolo, Laura Martín, Gabriela Estevez y Julia Martínez Diana
+
+![Alumnos (de izquierda a derecha, de arriba a abajo): María Lafita, Julián Villagra, Nicolás Prevettoni, Romina Noriega, Romina Noriega y Gabriela Estevez](https://github.com/oert/live.oert.org/raw/gh-pages/es/images/T07_02_titulares.jpg)
+
+Alumnos (de izquierda a derecha, de arriba a abajo): María Lafita, Julián Villagra, Nicolás Prevettoni, Romina Noriega, Romina Noriega y Gabriela Estevez
 
 #### Algunas características
 
