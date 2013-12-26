@@ -41,7 +41,12 @@ Once the capitals and lower case systems consolidated, the modifications they un
 
 The proportional relations between these heights are specific to each typographic design. In some cases, the height of capitals coincides with the ascenders, or in others, the latter is slightly higher. These proportions, among other characteristics, are the ones that define the identity in each typeface family.
 
-[good-old-gallery id="998"]
+![T02B_02-ascendente_descendente](http://live.oert.org/en-US/images/T02B_02-ascendente_descendente.jpg)
+
+![T02B_01-estructura_mayusc_minusc.jpg](http://live.oert.org/en-US/images/T02B_01-estructura_mayusc_minusc.jpg.jpg)
+
+![T02B_03-relaciones_alturas](http://live.oert.org/en-US/images/T02B_03-relaciones_alturas.jpg)
+
 
 
 ### Capitals, lower case, and legibility
@@ -135,7 +140,12 @@ Those signs that go above the x-height should be aligned with the cap height: * 
 The following ancillary signs are aligned going slightly over the cap height and slightly below the baseline, as they have to include the descenders and their function is to contain text within them: ( ) [ ] { }
 Most commercial and monetary signs have cap height, except for the cent: $ ¥ ¢ £
 
-[good-old-gallery id="992"]
+![T02B_09-alineacion_signospuntuacion](http://live.oert.org/en-US/images/T02B_09-alineacion_signospuntuacion.jpeg)
+
+![T02B_15-excepcion_signosapertura](http://live.oert.org/en-US/images/T02B_15-excepcion_signosapertura.jpeg)
+
+![T02B_09-alineacion2](http://live.oert.org/en-US/images/T02B_09-alineacion2.jpeg)
+
 
 
 ### Fractions

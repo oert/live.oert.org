@@ -69,7 +69,10 @@ This rectangle 1: root -2 is constructed like this: Given a square (a b c d) one
 This rectangle has the peculiarity that when it is divided in two identical rectangles with a line parallel to the shorter side, the resulting rectangles preserve the proportion 1: root of 2. 
 
 To make the use of Iso 216 more practical, the basic rectangle was built with a surface of 1m2. This basic rectangle is called A0 and its dimensions are: 0.841 m x 1.189 m.
-[good-old-gallery id="1443"]
+![T04A_01-formato_a0_estructura](http://live.oert.org/en-US/images/T04A_01-formato_a0_estructura.jpg)
+
+![T04A_02-formato_a0](http://live.oert.org/en-US/images/T04A_02-formato_a0.jpg)
+
 
 When dividing it, we obtain the A1 rectangle, dividing this one, we obtain A2 and so on, and thus we obtain all the rectangles for the A series. 
 

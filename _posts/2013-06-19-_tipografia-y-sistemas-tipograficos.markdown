@@ -44,7 +44,22 @@ En un artículo publicado hace tiempo en la revista tipoGráfica, Norberto Chave
 
 Más adelante, afirma que el mensaje debe cumplir seis funciones: (1) poner en contacto al emisor con el receptor; (2) informar al receptor de aquello que el emisor quiere; (3) persuadir al receptor de lo que se está diciendo; (4) poner en evidencia al emisor y sus atributos para que se sepa de quién viene; (5) indicar cómo se ha de leer aquello y (6) agradar al receptor. Es decir: contacto, información, persuasión, identificación, convencionalidad y estética.
 
-[good-old-gallery id="1388"]
+![Alumna: Fernanda Cozzi](http://live.oert.org/es/images/T05A-sist01_Cozzi.jpg)
+
+Alumna: Fernanda Cozzi
+
+![Alumnos: Guisado, Vilardebó, Villanueva](http://live.oert.org/es/images/T05A-sist04_Guisado-Vilardebo-Villanueva.jpg)
+
+Alumnos: Guisado, Vilardebó, Villanueva
+
+![Alumnos: Patricia Faggi, Ana Laura Cerdá y Federico Ulicki](http://live.oert.org/es/images/T05A-sist02_Cerdá-Ulicki-Faggi.jpg)
+
+Alumnos: Patricia Faggi, Ana Laura Cerdá y Federico Ulicki
+
+![Alumnos: Patricia Faggi, Ana Laura Cerdá y Federico Ulicki](http://live.oert.org/es/images/T05A-sist03_Cerdá-Ulicki-Faggi.jpg)
+
+Alumnos: Patricia Faggi, Ana Laura Cerdá y Federico Ulicki
+
 
 
 ### Afiche

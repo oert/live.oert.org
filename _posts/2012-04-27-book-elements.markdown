@@ -27,14 +27,28 @@ There is a tradition as regards how each page of the book is treated and the ord
 
 Every book has three edges, the top or head, the bottom or tail and the fore edge which is the one opposite to the spine. The fore edge may be flat (if so is the spine) or take a concave shape when the spine is round. This shape is called _double rule._
 
-[good-old-gallery id="1415"]
+![T04B_01-estructura_interna](http://live.oert.org/en-US/images/T04B_01-estructura_interna.jpg)
+
+![T04B_01-lujo_económica](http://live.oert.org/en-US/images/T04B_01-lujo_económica.jpg)
+
+![T04B_01-libro](http://live.oert.org/en-US/images/T04B_01-libro.jpg)
+
+![T04B_01-estructura_interna](http://live.oert.org/en-US/images/T04B_01-estructura_interna.jpg)
+
+![T04B_01-lujo_económica](http://live.oert.org/en-US/images/T04B_01-lujo_económica.jpg)
+
+![T04B_01-libro](http://live.oert.org/en-US/images/T04B_01-libro.jpg)
+
 
 
 ##### Book cover
 
 
 It makes the book dignified, as when covering it, it grants it the typical characteristics of the typography and of the binding. It is a precious place for true personality features; it is the consequence of the book internal design.
-[good-old-gallery id="1408"]
+![T04B_01-estructura_externa](http://live.oert.org/en-US/images/T04B_01-estructura_externa.jpg)
+
+![T04B_01-estructura_externa_2](http://live.oert.org/en-US/images/T04B_01-estructura_externa_2.jpg)
+
 
 The spine of the book is part of the cover, and its purpose is to make it easier to find the edition in the shelves of a bookcase. It may include the author’s name, the title of the piece, the corresponding volume number in a collection and data regarding the publisher (who organizes, maintains, produces and distributes books, newspapers, magazines or other instruments of editorial communication.)
 
@@ -74,7 +88,18 @@ It is the first printed page of the book, and it normally includes only the titl
 ##### Preliminaries (title page and copyright page)
 
 
-[good-old-gallery id="1415"]
+![T04B_01-estructura_interna](http://live.oert.org/en-US/images/T04B_01-estructura_interna.jpg)
+
+![T04B_01-lujo_económica](http://live.oert.org/en-US/images/T04B_01-lujo_económica.jpg)
+
+![T04B_01-libro](http://live.oert.org/en-US/images/T04B_01-libro.jpg)
+
+![T04B_01-estructura_interna](http://live.oert.org/en-US/images/T04B_01-estructura_interna.jpg)
+
+![T04B_01-lujo_económica](http://live.oert.org/en-US/images/T04B_01-lujo_económica.jpg)
+
+![T04B_01-libro](http://live.oert.org/en-US/images/T04B_01-libro.jpg)
+
 
 The title page with the copyright page make a confronted double page. In the beginning, the copyright page was an engraving often printed in a separate process (intaglio, steel engraving, chromolithography) and inserted by the bookbinder confronting the title page.
 [![Portada](http://www.oert.org/wp-content/uploads/2012/08/T04B_portada.jpg)](http://www.oert.org/wp-content/uploads/2012/08/T04B_portada.jpg)
@@ -147,7 +172,12 @@ Here, the errata may be included, where the errors and mistakes in the book may 
 
 They are communication tools established from the title page towards the text, and which continue within the text, in a descendant order, with the headlines, epigraphs, sub epigraphs, etc.
 
-[good-old-gallery id="1426"]
+![T04B_apertura](http://live.oert.org/en-US/images/T04B_apertura.jpg)
+
+![T04B_continuacion](http://live.oert.org/en-US/images/T04B_continuacion.jpg)
+
+![T04B_cierre](http://live.oert.org/en-US/images/T04B_cierre.jpg)
+
 
 
 ##### Headings

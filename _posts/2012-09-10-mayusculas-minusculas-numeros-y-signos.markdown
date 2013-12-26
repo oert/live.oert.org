@@ -34,7 +34,12 @@ Luego de consolidarse los sistemas de mayúsculas y minúsculas, las modificacio
 
 Las relaciones proporcionales entre estas alturas son particulares de cada diseño tipográfico. En algunos casos, la altura de las mayúsculas coincide con la de las ascendentes; en otros, esta es ligeramente mayor. Estas proporciones, entre otras características, son las que definen la identidad de cada familia tipográfica.
 
-[good-old-gallery id="998"]
+![T02B_02-ascendente_descendente](http://live.oert.org/es/images/T02B_02-ascendente_descendente.jpg)
+
+![T02B_01-estructura_mayusc_minusc.jpg](http://live.oert.org/es/images/T02B_01-estructura_mayusc_minusc.jpg.jpg)
+
+![T02B_03-relaciones_alturas](http://live.oert.org/es/images/T02B_03-relaciones_alturas.jpg)
+
 
 
 ### Mayúsculas, minúsculas y legibilidad
@@ -117,7 +122,12 @@ Las características invariables son las que tienen que ver con la estructura pr
 
 Sabemos que el punto, la coma, los tres puntos son signos de puntuación se apoyan en la línea de base. Los signos de altura media y los signos de apertura de interrogación y de exclamación deben alinearse con la altura de x y con los rasgos descendentes de las minúsculas.  Los signos que superan la altura de x deben alinearse con la altura de mayúsculas.  Los signos auxiliares se alinean sobrepasando levemente la altura de mayúsculas y por debajo aún más de la línea de base, ya que deben incluir los rasgos descendentes y tienen como función contener el texto en su interior. La mayoría de los signos comerciales y monetarios poseen la altura de mayúsculas (si los números son mayúsculos), a excepción del centavo y del registrado. Si los números son minúsculos o antiguos pueden tener una altura intermedia.
 
-[good-old-gallery id="992"]
+![T02B_09-alineacion_signospuntuacion](http://live.oert.org/es/images/T02B_09-alineacion_signospuntuacion.jpeg)
+
+![T02B_15-excepcion_signosapertura](http://live.oert.org/es/images/T02B_15-excepcion_signosapertura.jpeg)
+
+![T02B_09-alineacion2](http://live.oert.org/es/images/T02B_09-alineacion2.jpeg)
+
 
 
 ### Fracciones

@@ -90,7 +90,12 @@ categories:
 **Virgulilla:** trazo curvo que caracteriza a la «ñ» y la «Ñ» y la diferencia de la «N».
 [/Glosario]
 
-[good-old-gallery id="1780"]
+![T04B-02](http://live.oert.org/es/images/T04B-02.jpg)
+
+![T04B-03](http://live.oert.org/es/images/T04B-03.jpg)
+
+![T04B-04](http://live.oert.org/es/images/T04B-04.jpg)
+
 
 
 

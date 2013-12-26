@@ -36,7 +36,18 @@ Navigation resources make reading smoother and contribute to establishing the hi
 Titling resources are: the opening strip, the banner, the title or headline, and the sub header, lead or summary. Apart from how each reader navigates the piece, the combination banner/title/sub header is articulated as an informative unit. That is, all three together state, place and develop the essential article data. For this, every element in this unit must be seen as an essential complement to the other two: they must not repeat information. At the same time, titling criteria must be coherent throughout the whole publication: they constitute a style.
 
 
-##### [good-old-gallery id="1303"]
+##### ![Alumna: Patricia Faggi](http://live.oert.org/en-US/images/T06B-T06B-partesdeldiario01_faggi.jpg)
+
+Alumna: Patricia Faggi
+
+![Alumna: Patricia Faggi](http://live.oert.org/en-US/images/T06B-T06B-partesdeldiario02_faggi1.jpg)
+
+Alumna: Patricia Faggi
+
+![Alumna: Patricia Faggi](http://live.oert.org/en-US/images/T06B-T06B-partesdeldiario03_faggi1.jpg)
+
+Alumna: Patricia Faggi
+
 
 
 

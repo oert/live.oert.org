@@ -33,7 +33,14 @@ The production, circulation and acknowledgment process implies the consensus tha
 
 The industry of information does not build a structurally homogeneous discourse but a complex group of genres and discursive modes. It is actually a systemic model, made up of a group of interacting elements in which a variation in any of them affects the whole group.
 
-[good-old-gallery id="1382"]
+![Alumnos (de izquierda a derecha, de arriba a abajo): María Lafita, Julián Villagra, Nicolás Prevettoni, Romina Noriega, Romina Noriega y Gabriela Estevez](http://live.oert.org/en-US/images/T07_02_titulares.jpg)
+
+Alumnos (de izquierda a derecha, de arriba a abajo): María Lafita, Julián Villagra, Nicolás Prevettoni, Romina Noriega, Romina Noriega y Gabriela Estevez
+
+![Alumnos (de izquierda a derecha, de arriba a abajo): Pamela, Blanco, Romina Noriega, Ornella Pagliarvolo, Laura Martín, Gabriela Estevez y Julia Martínez Diana](http://live.oert.org/en-US/images/T07_01_nombres.jpg)
+
+Alumnos (de izquierda a derecha, de arriba a abajo): Pamela, Blanco, Romina Noriega, Ornella Pagliarvolo, Laura Martín, Gabriela Estevez y Julia Martínez Diana
+
 
 
 #### Some characteristics

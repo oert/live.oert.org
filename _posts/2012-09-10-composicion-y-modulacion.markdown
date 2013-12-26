@@ -35,7 +35,10 @@ Para esto, deberemos realizar la división vertical de la página —división p
 
 **1**. En primer lugar, debemos decidir la interlínea básica que utilizaremos en nuestro trabajo, basándonos en las demandas del texto principal. Una vez hecho esto, contaremos la cantidad de líneas con esa separación que entran en el alto del formato.
 
-[good-old-gallery id="1352"]
+![Tipologías de páginas](http://live.oert.org/es/images/T06A_06-tipologias1.jpg)
+
+Tipologías de páginas
+
 
 **2**. Obtenida esa cifra, se procederá a dividir la página sucesivamente en 2, 3, 4 campos, etc., restando en cada caso la calle que los separa. Por ejemplo:
 
@@ -69,13 +72,27 @@ Una vez obtenida la división del campo, se la aprovechará de la mejor manera, 
 
 Una vez definida la modulación básica, puede ser necesario incluir subdivisiones espaciales aún más pequeñas, tema bastante frecuente en el tratamiento de columnas y cuadros. Para ello, se suele recurrir al tabulado.
 
-[good-old-gallery id="1369"]
+![T06A_02-tabulacion_quark1](http://live.oert.org/es/images/T06A_02-tabulacion_quark1.jpg)
+
+![T06A_04-tabulacion_indesign1](http://live.oert.org/es/images/T06A_04-tabulacion_indesign1.jpg)
+
 
 El tabulado es una operación que afecta como mínimo a un párrafo completo y consiste en los siguientes pasos: a) seleccionar el o los párrafos a tabular; b) seleccionar del menú del programa respectivo «atributos de tabulado»; c) en el cuadro de diálogo que aparece, seleccionar el tipo de tabulado necesario; d) indicar la ubicación espacial del tabulado en el ancho de la línea; y e) si es necesario, puede indicarse un carácter de «relleno» del espacio tabulado.
 
 Con el objetivo de mantener una coherencia con el resto de la publicación, el tabulado debería respetar los criterios de modulación planteados. Para ello, un buen método es tabular manteniendo la mínima unidad estructural de nuestra grilla: la interlínea del texto principal.
 
-[good-old-gallery id="1374"]
+![Anatomía de la página](http://live.oert.org/es/images/T06A_05-anatomia1.jpg)
+
+Anatomía de la página
+
+![Anatomía de la columna](http://live.oert.org/es/images/T06A_09-caja-columna1.jpg)
+
+Anatomía de la columna
+
+![Modelos de caja](http://live.oert.org/es/images/T06A_08-modelos_de_caja1.jpg)
+
+Modelos de caja
+
 
 
 ### Consideraciones sobre legibilidad

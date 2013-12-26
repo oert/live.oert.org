@@ -67,7 +67,10 @@ El rectángulo resultante tiene la particularidad de que, al dividirlo en dos re
 
 Para hacer más práctico el uso del ISO 216, el rectángulo fundamental se construyó con una superficie igual a 1 m2. A este rectángulo base se lo llama A0 y sus dimensiones son: 0.841 m x 1.189 m.
 
-[good-old-gallery id="1443"]
+![T04A_01-formato_a0_estructura](http://live.oert.org/es/images/T04A_01-formato_a0_estructura.jpg)
+
+![T04A_02-formato_a0](http://live.oert.org/es/images/T04A_02-formato_a0.jpg)
+
 
 Al dividirlo, se obtiene el rectángulo A1; dividiendo este, el A2, y así sucesivamente se obtienen todos los de la serie A. Estos formatos ISO 216 (así se llama ahora a los formatos DIN) han sido adoptados por numerosos países que fabrican sus papeles con un excedente de unos 20 mm, para conservar como formato final la serie A. Es práctico utilizarlos por la forma en que se comportan ante las reducciones y ampliaciones proporcionales. Por ejemplo una doble página A4 vertical (en total una A3 apaisada) podrá ser reducida al 70,71% para convertirse en una A4 apaisada.
 
