@@ -26,9 +26,9 @@ The term _miscellaneous (adjective)_ is used to categorize those things composed
 
 Examples of miscellany are rules, with several uses: underlining, separation of blocks of text, column division, table composition, etc. Just as characters of a typeface have a typographic color (weight) and a certain stroke, rules also have different thickness and strokes (continuous, dotted). It is important to make this aspect compatible with the font family being used.
 
-![T03B_07_misc_021](http://live.oert.org/en-US/images/T03B_07_misc_021.jpg)
+![T03B_07_misc_021](/en-US/images/T03B_07_misc_021.jpg)
 
-![T03B_01_misc1](http://live.oert.org/en-US/images/T03B_01_misc1.jpg)
+![T03B_01_misc1](/en-US/images/T03B_01_misc1.jpg)
 
 
 We can add other groups of signs to the miscellany group, such as vignettes, ornaments and borders, which are formally and significantly related to certain artistic periods. Though the most frequent function of miscellany is to emphasize parts of the text without dominating it all, its use is supplemented by merely decorative applications.

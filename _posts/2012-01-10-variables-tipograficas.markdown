@@ -49,11 +49,11 @@ Las fuen­tes con­den­sa­das y ex­pan­di­das tam­bién es­tán di­se­�
 
 Es­to es más no­to­rio en ti­po­gra­fías de tra­zo uni­for­me: al con­den­sar­las o ex­pan­dir­las elec­tró­ni­ca­men­te, per­de­mos la uni­for­mi­dad del tra­zo.
 
-![T06A_04-myriad_condensada11](http://live.oert.org/es/images/T06A_04-myriad_condensada11.jpeg)
+![T06A_04-myriad_condensada11](/es/images/T06A_04-myriad_condensada11.jpeg)
 
-![T06A_05_eurostile_expandida11](http://live.oert.org/es/images/T06A_05_eurostile_expandida11.jpeg)
+![T06A_05_eurostile_expandida11](/es/images/T06A_05_eurostile_expandida11.jpeg)
 
-![T06A_07-texto_expandido1](http://live.oert.org/es/images/T06A_07-texto_expandido1.jpeg)
+![T06A_07-texto_expandido1](/es/images/T06A_07-texto_expandido1.jpeg)
 
 
 

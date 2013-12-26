@@ -34,15 +34,15 @@ Los recursos de navegación aligeran la lectura y contribuyen con la jerarquizac
 Los recursos del titulado son: el cintillo, la volanta, el título o titular, y la bajada, resumen, copete o sumario. Más allá de la navegación de cada lector, la combinación volanta/título/bajada se articula como una unidad informativa. Esto es, los tres elementos en su conjunto enuncian, ubican y desarrollan los datos esenciales de la nota. Para ello hay que pensar cada elemento de esta unidad como un complemento indispensable de los otros dos: no deben repetir información. A la vez, los criterios de titulación deben ser coherentes a lo largo de toda la publicación, pues constituyen un estilo.
 
 
-##### ![Alumna: Patricia Faggi](http://live.oert.org/es/images/T06B-T06B-partesdeldiario01_faggi.jpg)
+##### ![Alumna: Patricia Faggi](/es/images/T06B-T06B-partesdeldiario01_faggi.jpg)
 
 Alumna: Patricia Faggi
 
-![Alumna: Patricia Faggi](http://live.oert.org/es/images/T06B-T06B-partesdeldiario02_faggi1.jpg)
+![Alumna: Patricia Faggi](/es/images/T06B-T06B-partesdeldiario02_faggi1.jpg)
 
 Alumna: Patricia Faggi
 
-![Alumna: Patricia Faggi](http://live.oert.org/es/images/T06B-T06B-partesdeldiario03_faggi1.jpg)
+![Alumna: Patricia Faggi](/es/images/T06B-T06B-partesdeldiario03_faggi1.jpg)
 
 Alumna: Patricia Faggi
 

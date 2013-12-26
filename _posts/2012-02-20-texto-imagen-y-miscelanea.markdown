@@ -24,9 +24,9 @@ El término _misceláneo_ se utiliza para categorizar a aquello que está compue
 
 Son ejemplo de miscelánea los filetes, de uso variado: subrayado, separación de bloques de texto, división en columnas, composición de tablas, etc. Así como los signos de una familia tienen un color tipográfico (peso) y un trazo determinado, los filetes también cuentan con distintos grosores y trazos (continuos, punteados). Es importante compatibilizar, de hecho, los filetes con la tipografía en uso.
 
-![T03B_07_misc_021](http://live.oert.org/es/images/T03B_07_misc_021.jpg)
+![T03B_07_misc_021](/es/images/T03B_07_misc_021.jpg)
 
-![T03B_01_misc1](http://live.oert.org/es/images/T03B_01_misc1.jpg)
+![T03B_01_misc1](/es/images/T03B_01_misc1.jpg)
 
 
 Se pueden sumar al conjunto de las misceláneas otros grupos de signos como viñetas, ornamentos y orlas, que se vinculan formal y significativamente con períodos artísticos determinados. Si bien la función más frecuente de la miscelánea es acompañar al texto, su uso se complementa con aplicaciones sencillamente decorativas.

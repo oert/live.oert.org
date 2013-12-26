@@ -73,9 +73,9 @@ categories:
 **vertex: **straight and sharp joint of two strokes.
 [/Glosario]
 
-![T04B-02](http://live.oert.org/en-US/images/T04B-02.jpg)
+![T04B-02](/en-US/images/T04B-02.jpg)
 
-![T04B-03](http://live.oert.org/en-US/images/T04B-03.jpg)
+![T04B-03](/en-US/images/T04B-03.jpg)
 
-![T04B-04](http://live.oert.org/en-US/images/T04B-04.jpg)
+![T04B-04](/en-US/images/T04B-04.jpg)
 

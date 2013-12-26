@@ -51,19 +51,19 @@ Thus, a system may be simultaneously guided by one or more programs.  But not ne
 
 In an article published some time ago in the tipoGráfica magazine, Norberto Chavez states that a graphic message, is not, but is useful for. “…The graphics message shows (…) its character of machine, of tool, of technical wit useful for producing some specific practical results.” And these results are, as we have already mentioned: to inform, to persuade, to communicate.  Further on, he asserts that the message must fulfill six functions: (1) getting the sender in touch with the recipient; (2) informing the recipient about what the sender wants; (3) persuading the recipient about what it is said; (4) showing the sender and his attributes so as to let the origin be known; (5) explaining how that should be read and (6) pleasing the recipient. That is to say: contact, information, persuasion, identification, conventionality and esthetic.
 
-![Alumna: Fernanda Cozzi](http://live.oert.org/en-US/images/T05A-sist01_Cozzi.jpg)
+![Alumna: Fernanda Cozzi](/en-US/images/T05A-sist01_Cozzi.jpg)
 
 Alumna: Fernanda Cozzi
 
-![Alumnos: Guisado, Vilardebó, Villanueva](http://live.oert.org/en-US/images/T05A-sist04_Guisado-Vilardebo-Villanueva.jpg)
+![Alumnos: Guisado, Vilardebó, Villanueva](/en-US/images/T05A-sist04_Guisado-Vilardebo-Villanueva.jpg)
 
 Alumnos: Guisado, Vilardebó, Villanueva
 
-![Alumnos: Patricia Faggi, Ana Laura Cerdá y Federico Ulicki](http://live.oert.org/en-US/images/T05A-sist02_Cerdá-Ulicki-Faggi.jpg)
+![Alumnos: Patricia Faggi, Ana Laura Cerdá y Federico Ulicki](/en-US/images/T05A-sist02_Cerdá-Ulicki-Faggi.jpg)
 
 Alumnos: Patricia Faggi, Ana Laura Cerdá y Federico Ulicki
 
-![Alumnos: Patricia Faggi, Ana Laura Cerdá y Federico Ulicki](http://live.oert.org/en-US/images/T05A-sist03_Cerdá-Ulicki-Faggi.jpg)
+![Alumnos: Patricia Faggi, Ana Laura Cerdá y Federico Ulicki](/en-US/images/T05A-sist03_Cerdá-Ulicki-Faggi.jpg)
 
 Alumnos: Patricia Faggi, Ana Laura Cerdá y Federico Ulicki
 

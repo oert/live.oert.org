@@ -45,11 +45,11 @@ With the launching of the personal computer (PC) in 1984, the user gained access
 
 Desktop publishing makes it possible to coordinate all the parts that compose the original of an edition in a single machine. It checks and solves several aspects related to quality. Desktop publishing operation is divided into three stages: loading of information (text and images), processing and output.
 
-![Pantalla con la interfaz del sistema operativo WindowsXP](http://live.oert.org/en-US/images/T03A_01-pantalla_windowsxp2.jpg)
+![Pantalla con la interfaz del sistema operativo WindowsXP](/en-US/images/T03A_01-pantalla_windowsxp2.jpg)
 
 Pantalla con la interfaz del sistema operativo WindowsXP
 
-![Pantalla con la interfaz del sistema operativo MacOsX](http://live.oert.org/en-US/images/T03A_02-pantalla_mac2.jpg)
+![Pantalla con la interfaz del sistema operativo MacOsX](/en-US/images/T03A_02-pantalla_mac2.jpg)
 
 Pantalla con la interfaz del sistema operativo MacOsX
 
@@ -80,11 +80,11 @@ No matter which is the selected procedure, the result is the same: an original o
 
 This paper contains a listing of aspects to take into consideration so as to be familiar with the use of layout programs. We recommend the reading of the layout notes, the originals of which are available to the students. Manuals and tutorials are also available in internet and in bookstores.
 
-![Interfaz InDesign](http://live.oert.org/en-US/images/T03A_04-interfase_indesign.jpeg)
+![Interfaz InDesign](/en-US/images/T03A_04-interfase_indesign.jpeg)
 
 Interfaz InDesign
 
-![Interfaz QuarkXPress](http://live.oert.org/en-US/images/T03A_03-interfase_quark.jpg)
+![Interfaz QuarkXPress](/en-US/images/T03A_03-interfase_quark.jpg)
 
 Interfaz QuarkXPress
 
@@ -146,15 +146,15 @@ When there are not enough dots to conform the outline of the font, there are fai
 
 Fonts have a code assigned to the characters that allow the computer to process electric impulses coming from the keyboard. TrueType and PostScript fonts have an 8 bits encoding system that allow a maximum of 256 characters in a font. This is a limitation because many languages need more than 256 characters for writing and because many times it is necessary to write in more than one language with the same font. The 8 bit families solve this problem with fonts for each language (for example: Cyrillic, Hebrew, Latin). OpenType, with 16 bits, admit more than 65.000 characters. They use Unicode to standardize the encoding system which assigns a unique ID to each character used in the world. Windows XP and MacOs operative systems use the same system to give multilingual support to program developers.
 
-![Paleta de glifos de una fuente OpenType.](http://live.oert.org/en-US/images/T03A_19-glifos_indesign_completa.jpg)
+![Paleta de glifos de una fuente OpenType.](/en-US/images/T03A_19-glifos_indesign_completa.jpg)
 
 Paleta de glifos de una fuente OpenType.
 
-![Detalle de la paleta de glifos de una fuente OpenType.](http://live.oert.org/en-US/images/T03A_18-glifos_indesign_detalle.jpg)
+![Detalle de la paleta de glifos de una fuente OpenType.](/en-US/images/T03A_18-glifos_indesign_detalle.jpg)
 
 Detalle de la paleta de glifos de una fuente OpenType.
 
-![Ligaduras contextuales de una fuente OpenType.](http://live.oert.org/en-US/images/T03A_17-ligaduras_st_ct.jpg)
+![Ligaduras contextuales de una fuente OpenType.](/en-US/images/T03A_17-ligaduras_st_ct.jpg)
 
 Ligaduras contextuales de una fuente OpenType.
 
@@ -247,17 +247,17 @@ To avoid problems with PostScript fonts and eliminate sources recommend adding a
   4. Select the font and Activate.
 
 
-![T03A_16-cargafuentes_fontexplorer](http://live.oert.org/en-US/images/T03A_16-cargafuentes_fontexplorer.jpg)
+![T03A_16-cargafuentes_fontexplorer](/en-US/images/T03A_16-cargafuentes_fontexplorer.jpg)
 
-![Cargar fuentes en FontExplorer](http://live.oert.org/en-US/images/T03A_15-cargafuentes_fontexplorer.jpg)
-
-Cargar fuentes en FontExplorer
-
-![Cargar fuentes en FontExplorer](http://live.oert.org/en-US/images/T03A_14-cargafuentes_fontexplorer.jpg)
+![Cargar fuentes en FontExplorer](/en-US/images/T03A_15-cargafuentes_fontexplorer.jpg)
 
 Cargar fuentes en FontExplorer
 
-![Cargar fuentes en FontExplorer](http://live.oert.org/en-US/images/T03A_13-cargafuentes_fontexplorer.jpg)
+![Cargar fuentes en FontExplorer](/en-US/images/T03A_14-cargafuentes_fontexplorer.jpg)
+
+Cargar fuentes en FontExplorer
+
+![Cargar fuentes en FontExplorer](/en-US/images/T03A_13-cargafuentes_fontexplorer.jpg)
 
 Cargar fuentes en FontExplorer
 

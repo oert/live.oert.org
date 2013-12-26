@@ -81,15 +81,15 @@ En la comparación entre una _N_ uncial y una _n_ cancilleresca podemos ver que 
 
 Hay muchos modelos de unciales, con gran variación de acuerdo a la época, al lugar y al copista que trazara los manuscritos. El primero de los ejemplos presenta una interlínea amplia, decidida para el uso de notas y aclaraciones. No es una relación espacial óptima para un bloque de texto porque las líneas se separan y el bloque pierde cohesión. Los otros ejemplos pueden ayudar a la interpretación de estas relaciones espaciales.
 
-![Los evangelios (siglo V).](http://live.oert.org/es/images/unciales-071.jpg)
+![Los evangelios (siglo V).](/es/images/unciales-071.jpg)
 
 Los evangelios (siglo V).
 
-![Codex Amiatinus (siglo VIII).](http://live.oert.org/es/images/unciales-081.jpg)
+![Codex Amiatinus (siglo VIII).](/es/images/unciales-081.jpg)
 
 Codex Amiatinus (siglo VIII).
 
-![Vespasian Psalter (siglo VIII).](http://live.oert.org/es/images/unciales-091.jpg)
+![Vespasian Psalter (siglo VIII).](/es/images/unciales-091.jpg)
 
 Vespasian Psalter (siglo VIII).
 
@@ -130,11 +130,11 @@ Otro detalle puede observarse en el lanzamiento de la bifurcación: en la escrit
 
 **Bloque: **el color de bloque en la escritura carolingia es claro. La interlínea resulta amplia, aún con la intención de ser la mínima, ya que las ascendentes y descendentes son largas.
 
-![Biblia Grandval (siglo IX).](http://live.oert.org/es/images/carolingias-071-1024x768.jpg)
+![Biblia Grandval (siglo IX).](/es/images/carolingias-071-1024x768.jpg)
 
 Biblia Grandval (siglo IX).
 
-![Calígrafa: Sheila Waters (1990).](http://live.oert.org/es/images/carolingias-081-1024x768.jpg)
+![Calígrafa: Sheila Waters (1990).](/es/images/carolingias-081-1024x768.jpg)
 
 Calígrafa: Sheila Waters (1990).
 

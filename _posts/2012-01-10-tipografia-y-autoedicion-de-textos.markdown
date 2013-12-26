@@ -42,11 +42,11 @@ Con el lanzamiento de la computadora personal (PC) en 1984, el usuario accedió 
 
 La autoedición hace posible coordinar en una sola máquina todas las partes que componen el original de una edición. Controla y resuelve muchos aspectos relacionados con la calidad. La operación de autoedición se divide en tres etapas: ingreso de la información (texto e imágenes), procesamiento y salida.
 
-![Pantalla con la interfaz del sistema operativo WindowsXP](http://live.oert.org/es/images/T03A_01-pantalla_windowsxp2.jpg)
+![Pantalla con la interfaz del sistema operativo WindowsXP](/es/images/T03A_01-pantalla_windowsxp2.jpg)
 
 Pantalla con la interfaz del sistema operativo WindowsXP
 
-![Pantalla con la interfaz del sistema operativo MacOsX](http://live.oert.org/es/images/T03A_02-pantalla_mac2.jpg)
+![Pantalla con la interfaz del sistema operativo MacOsX](/es/images/T03A_02-pantalla_mac2.jpg)
 
 Pantalla con la interfaz del sistema operativo MacOsX
 
@@ -80,11 +80,11 @@ Este apunte contiene un listado de aspectos a tener en cuenta para familiarizars
 
 Primero, hay que decidir en qué programa vamos a trabajar. Aunque en este artículo describimos dos programas que, desde nuestro punto de vista, tienen características similares, es indudable que el programa que se decida usar deberá estar suficientemente establecido en el mercado de los estudios de diseño y las empresas de preimpresión, para evitar incompatibilidades.
 
-![Interfaz InDesign](http://live.oert.org/es/images/T03A_04-interfase_indesign.jpeg)
+![Interfaz InDesign](/es/images/T03A_04-interfase_indesign.jpeg)
 
 Interfaz InDesign
 
-![Interfaz QuarkXPress](http://live.oert.org/es/images/T03A_03-interfase_quark.jpg)
+![Interfaz QuarkXPress](/es/images/T03A_03-interfase_quark.jpg)
 
 Interfaz QuarkXPress
 
@@ -147,15 +147,15 @@ d) Poseen distinto almacenamiento físico: las fuentes TrueType tienen toda la i
 
 Las fuentes poseen un código asignado a los caracteres que permite a la computadora procesar los impulsos eléctricos que provienen del teclado. Las fuentes TrueType y PostScript poseen sistemas de codificación (encoding) de 8 bits que permiten un máximo de 256 caracteres en una fuente. Esta es una limitación porque muchas lenguas necesitan más de 256 caracteres para su escritura y porque frecuentemente es necesario escribir en más de un idioma con la misma fuente. Las familias de 8 bits solucionan el problema con fuentes para cada idioma (por ejemplo: cirílico, hebreo, latino). Las OpenType, de 16 bits, admiten más de 65.000 caracteres. Usan Unicode para estandarizar el sistema de codificación que asigna un identificador único a cada carácter utilizado en el mundo. Los sistemas operativos Windows XP y Mac OS usan el mismo sistema para dar soporte multilenguaje a los desarrolladores de programas.
 
-![Paleta de glifos de una fuente OpenType.](http://live.oert.org/es/images/T03A_19-glifos_indesign_completa.jpg)
+![Paleta de glifos de una fuente OpenType.](/es/images/T03A_19-glifos_indesign_completa.jpg)
 
 Paleta de glifos de una fuente OpenType.
 
-![Detalle de la paleta de glifos de una fuente OpenType.](http://live.oert.org/es/images/T03A_18-glifos_indesign_detalle.jpg)
+![Detalle de la paleta de glifos de una fuente OpenType.](/es/images/T03A_18-glifos_indesign_detalle.jpg)
 
 Detalle de la paleta de glifos de una fuente OpenType.
 
-![Ligaduras contextuales de una fuente OpenType.](http://live.oert.org/es/images/T03A_17-ligaduras_st_ct.jpg)
+![Ligaduras contextuales de una fuente OpenType.](/es/images/T03A_17-ligaduras_st_ct.jpg)
 
 Ligaduras contextuales de una fuente OpenType.
 
@@ -243,17 +243,17 @@ Para tener menos problemas con fuentes PostScript recomendamos añadir y elimina
   4. Seleccionar la fuente y Activar.
 
 
-![T03A_16-cargafuentes_fontexplorer](http://live.oert.org/es/images/T03A_16-cargafuentes_fontexplorer.jpg)
+![T03A_16-cargafuentes_fontexplorer](/es/images/T03A_16-cargafuentes_fontexplorer.jpg)
 
-![Cargar fuentes en FontExplorer](http://live.oert.org/es/images/T03A_15-cargafuentes_fontexplorer.jpg)
-
-Cargar fuentes en FontExplorer
-
-![Cargar fuentes en FontExplorer](http://live.oert.org/es/images/T03A_14-cargafuentes_fontexplorer.jpg)
+![Cargar fuentes en FontExplorer](/es/images/T03A_15-cargafuentes_fontexplorer.jpg)
 
 Cargar fuentes en FontExplorer
 
-![Cargar fuentes en FontExplorer](http://live.oert.org/es/images/T03A_13-cargafuentes_fontexplorer.jpg)
+![Cargar fuentes en FontExplorer](/es/images/T03A_14-cargafuentes_fontexplorer.jpg)
+
+Cargar fuentes en FontExplorer
+
+![Cargar fuentes en FontExplorer](/es/images/T03A_13-cargafuentes_fontexplorer.jpg)
 
 Cargar fuentes en FontExplorer
 

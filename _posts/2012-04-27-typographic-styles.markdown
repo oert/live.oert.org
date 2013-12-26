@@ -53,11 +53,11 @@ Condensed and expanded fonts are also specially designed, thus we should not mod
 
 This is more obvious in uniform stroke typefaces: when electronically condensed or expanded they lose the uniformity of the stroke.
 
-![T06A_04-myriad_condensada11](http://live.oert.org/en-US/images/T06A_04-myriad_condensada11.jpeg)
+![T06A_04-myriad_condensada11](/en-US/images/T06A_04-myriad_condensada11.jpeg)
 
-![T06A_05_eurostile_expandida11](http://live.oert.org/en-US/images/T06A_05_eurostile_expandida11.jpeg)
+![T06A_05_eurostile_expandida11](/en-US/images/T06A_05_eurostile_expandida11.jpeg)
 
-![T06A_07-texto_expandido1](http://live.oert.org/en-US/images/T06A_07-texto_expandido1.jpeg)
+![T06A_07-texto_expandido1](/en-US/images/T06A_07-texto_expandido1.jpeg)
 
 
 

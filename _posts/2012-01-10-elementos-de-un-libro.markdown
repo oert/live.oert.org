@@ -26,17 +26,17 @@ Existe una larga tradición para el tratamiento de cada página de un libro y el
 
 Todo libro tiene tres cortes: el superior o de cabeza, el inferior o de pie, y el delantero, que es el que está opuesto al lomo. El corte delantero puede ser plano (si el lomo también lo es) o adoptar forma cóncava cuando el lomo es redondo. A esta forma se le denomina _mediacaña_.
 
-![T04B_01-estructura_interna](http://live.oert.org/es/images/T04B_01-estructura_interna.jpg)
+![T04B_01-estructura_interna](/es/images/T04B_01-estructura_interna.jpg)
 
-![T04B_01-lujo_económica](http://live.oert.org/es/images/T04B_01-lujo_económica.jpg)
+![T04B_01-lujo_económica](/es/images/T04B_01-lujo_económica.jpg)
 
-![T04B_01-libro](http://live.oert.org/es/images/T04B_01-libro.jpg)
+![T04B_01-libro](/es/images/T04B_01-libro.jpg)
 
-![T04B_01-estructura_interna](http://live.oert.org/es/images/T04B_01-estructura_interna.jpg)
+![T04B_01-estructura_interna](/es/images/T04B_01-estructura_interna.jpg)
 
-![T04B_01-lujo_económica](http://live.oert.org/es/images/T04B_01-lujo_económica.jpg)
+![T04B_01-lujo_económica](/es/images/T04B_01-lujo_económica.jpg)
 
-![T04B_01-libro](http://live.oert.org/es/images/T04B_01-libro.jpg)
+![T04B_01-libro](/es/images/T04B_01-libro.jpg)
 
 
 
@@ -45,9 +45,9 @@ Todo libro tiene tres cortes: el superior o de cabeza, el inferior o de pie, y e
 
 Son las partes exteriores del libro. Suelen ser de un material más duro que el de los pliegos; generalmente cartón, plástico o cuero. La cubierta frontal lleva el título de la obra, su autor y puede presentar un diseño identificable y atractivo, con rasgos de verdadera personalidad, en coherencia con el diseño del interior del libro.
 
-![T04B_01-estructura_externa](http://live.oert.org/es/images/T04B_01-estructura_externa.jpg)
+![T04B_01-estructura_externa](/es/images/T04B_01-estructura_externa.jpg)
 
-![T04B_01-estructura_externa_2](http://live.oert.org/es/images/T04B_01-estructura_externa_2.jpg)
+![T04B_01-estructura_externa_2](/es/images/T04B_01-estructura_externa_2.jpg)
 
 
 El lomo forma parte de la cubierta, es la parte donde se sujetan todas las hojas. Su finalidad es la de orientar la ubicación de la edición en los estantes de una biblioteca. Puede llevar el nombre del autor, el título de la obra, el número que corresponde al tomo de la colección y los datos referentes al editor (quien organiza, sostiene, produce y se encarga de la distribución del libro).
@@ -85,17 +85,17 @@ Originalmente, protegía de la suciedad a la verdadera portada y servía tambié
 ##### Preliminares (portada y contraportada)
 
 
-![T04B_01-estructura_interna](http://live.oert.org/es/images/T04B_01-estructura_interna.jpg)
+![T04B_01-estructura_interna](/es/images/T04B_01-estructura_interna.jpg)
 
-![T04B_01-lujo_económica](http://live.oert.org/es/images/T04B_01-lujo_económica.jpg)
+![T04B_01-lujo_económica](/es/images/T04B_01-lujo_económica.jpg)
 
-![T04B_01-libro](http://live.oert.org/es/images/T04B_01-libro.jpg)
+![T04B_01-libro](/es/images/T04B_01-libro.jpg)
 
-![T04B_01-estructura_interna](http://live.oert.org/es/images/T04B_01-estructura_interna.jpg)
+![T04B_01-estructura_interna](/es/images/T04B_01-estructura_interna.jpg)
 
-![T04B_01-lujo_económica](http://live.oert.org/es/images/T04B_01-lujo_económica.jpg)
+![T04B_01-lujo_económica](/es/images/T04B_01-lujo_económica.jpg)
 
-![T04B_01-libro](http://live.oert.org/es/images/T04B_01-libro.jpg)
+![T04B_01-libro](/es/images/T04B_01-libro.jpg)
 
 
 La portada y la contraportada forman una doble página enfrentada. En un principio, la contraportada consistía en un grabado a menudo impreso en un proceso separado (calcografía, grabado en acero, cromolitografía) e insertado por el encuadernador enfrentando a la portada.
@@ -167,11 +167,11 @@ Recoge símbolos u otros signos que contengan información especial y que permit
 
 Son un medio de comunicación que se establece desde la portada hacia el texto. Dentro del mismo texto prosigue esta comunicación, en orden descendente, por los encabezamientos, epígrafes, subepígrafes, etc.
 
-![T04B_apertura](http://live.oert.org/es/images/T04B_apertura.jpg)
+![T04B_apertura](/es/images/T04B_apertura.jpg)
 
-![T04B_continuacion](http://live.oert.org/es/images/T04B_continuacion.jpg)
+![T04B_continuacion](/es/images/T04B_continuacion.jpg)
 
-![T04B_cierre](http://live.oert.org/es/images/T04B_cierre.jpg)
+![T04B_cierre](/es/images/T04B_cierre.jpg)
 
 
 

@@ -40,7 +40,7 @@ To that end, we have to divide the page vertically - division by fields from top
 
 **1**. First, we must decide the basic leading we will use in our work, based on what the main text requires. Then, we will find out how many lines fit in the height of the format using that leading.
 
-![Tipologías de páginas](http://live.oert.org/en-US/images/T06A_06-tipologias1.jpg)
+![Tipologías de páginas](/en-US/images/T06A_06-tipologias1.jpg)
 
 Tipologías de páginas
 
@@ -71,24 +71,24 @@ To move on to horizontal modulation—division by fields from left to right- we 
 
 Once we have defined the basic modulation, we may need to include even smaller spatial subdivisions, an issue which is quite frequent when working with columns and tables, thus it is usual to resort to tabulation. 
 
-![T06A_02-tabulacion_quark1](http://live.oert.org/en-US/images/T06A_02-tabulacion_quark1.jpg)
+![T06A_02-tabulacion_quark1](/en-US/images/T06A_02-tabulacion_quark1.jpg)
 
-![T06A_04-tabulacion_indesign1](http://live.oert.org/en-US/images/T06A_04-tabulacion_indesign1.jpg)
+![T06A_04-tabulacion_indesign1](/en-US/images/T06A_04-tabulacion_indesign1.jpg)
 
 
 Tabulation is an operation that affects at least a whole paragraph and consists of the following steps: a) select paragraph/s for  tabulation, b) select «tabulation attributes» from the corresponding program menu, c) in the dialog box, select the tabulation type needed, d) indicate the spatial location of the tabulation in the width of the line and e) if necessary, a «filling» character for the tabulation space may be indicated. 
 
 So as to maintain coherence with the rest of the publication, tabulation should respect the modulation criteria already presented. Thus, a good method is to tabulate keeping the minimal structural unit from our grid: the leading in the main text.
 
-![Anatomía de la página](http://live.oert.org/en-US/images/T06A_05-anatomia1.jpg)
+![Anatomía de la página](/en-US/images/T06A_05-anatomia1.jpg)
 
 Anatomía de la página
 
-![Anatomía de la columna](http://live.oert.org/en-US/images/T06A_09-caja-columna1.jpg)
+![Anatomía de la columna](/en-US/images/T06A_09-caja-columna1.jpg)
 
 Anatomía de la columna
 
-![Modelos de caja](http://live.oert.org/en-US/images/T06A_08-modelos_de_caja1.jpg)
+![Modelos de caja](/en-US/images/T06A_08-modelos_de_caja1.jpg)
 
 Modelos de caja
 
