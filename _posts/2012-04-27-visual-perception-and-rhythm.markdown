@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2012-04-27 05:40:46+00:00
-layout: post
+layout: bookpage
 slug: visual-perception-and-rhythm
 title: Visual perception and rhythm
 wordpress_id: 614

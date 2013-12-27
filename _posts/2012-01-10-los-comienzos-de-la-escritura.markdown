@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2012-01-10 00:44:08+00:00
-layout: post
+layout: bookpage
 slug: los-comienzos-de-la-escritura
 title: Los comienzos de la escritura
 wordpress_id: 113

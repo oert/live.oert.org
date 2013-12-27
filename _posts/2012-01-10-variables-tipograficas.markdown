@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2012-01-10 00:59:35+00:00
-layout: post
+layout: bookpage
 slug: variables-tipograficas
 title: Variables tipográficas
 wordpress_id: 175

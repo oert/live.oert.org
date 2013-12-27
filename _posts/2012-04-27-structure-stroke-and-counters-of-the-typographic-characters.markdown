@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2012-04-27 05:46:37+00:00
-layout: post
+layout: bookpage
 slug: structure-stroke-and-counters-of-the-typographic-characters
 title: Structure, stroke and counters of the typographic characters.
 wordpress_id: 637

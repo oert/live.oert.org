@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2012-01-10 00:56:51+00:00
-layout: post
+layout: bookpage
 slug: tipografia-y-organizacion-de-la-informacion
 title: Tipografía y organización de la información
 wordpress_id: 161

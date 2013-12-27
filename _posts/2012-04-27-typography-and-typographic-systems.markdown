@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2012-04-27 05:55:49+00:00
-layout: post
+layout: bookpage
 slug: typography-and-typographic-systems
 title: Typography and typographic systems
 wordpress_id: 670

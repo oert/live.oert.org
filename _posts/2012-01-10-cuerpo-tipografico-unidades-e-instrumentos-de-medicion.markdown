@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2012-01-10 01:02:51+00:00
-layout: post
+layout: bookpage
 slug: cuerpo-tipografico-unidades-e-instrumentos-de-medicion
 title: Cuerpo tipográfico, unidades e instrumentos de medición
 wordpress_id: 189

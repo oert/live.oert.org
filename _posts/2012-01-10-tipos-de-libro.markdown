@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2012-01-10 00:55:02+00:00
-layout: post
+layout: bookpage
 slug: tipos-de-libro
 title: Tipos de libro
 wordpress_id: 153

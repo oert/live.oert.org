@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2012-04-27 05:43:40+00:00
-layout: post
+layout: bookpage
 slug: the-classifier
 title: The classifier
 wordpress_id: 624

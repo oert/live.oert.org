@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2012-04-27 05:53:26+00:00
-layout: post
+layout: bookpage
 slug: design-and-journalism
 title: Design and journalism
 wordpress_id: 660

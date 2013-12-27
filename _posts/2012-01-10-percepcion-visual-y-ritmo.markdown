@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2012-01-10 01:04:44+00:00
-layout: post
+layout: bookpage
 slug: percepcion-visual-y-ritmo
 title: Percepción visual y ritmo
 wordpress_id: 199

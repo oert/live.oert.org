@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2012-04-27 05:30:09+00:00
-layout: post
+layout: bookpage
 slug: contributions-made-by-other-cultures-to-the-latin-alphabet
 title: Contributions made by other cultures to the Latin alphabet
 wordpress_id: 589

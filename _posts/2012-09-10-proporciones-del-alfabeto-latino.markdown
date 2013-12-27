@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2012-09-10 01:00:50+00:00
-layout: post
+layout: bookpage
 slug: proporciones-del-alfabeto-latino
 title: Proporciones del alfabeto latino
 wordpress_id: 179

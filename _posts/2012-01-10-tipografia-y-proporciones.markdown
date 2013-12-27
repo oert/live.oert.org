@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2012-01-10 00:56:25+00:00
-layout: post
+layout: bookpage
 slug: tipografia-y-proporciones
 title: Tipografía y proporciones
 wordpress_id: 159

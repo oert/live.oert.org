@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2012-04-27 05:51:35+00:00
-layout: post
+layout: bookpage
 slug: book-elements
 title: Book elements
 wordpress_id: 649

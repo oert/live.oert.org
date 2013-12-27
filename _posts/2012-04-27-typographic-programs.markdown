@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2012-04-27 05:47:57+00:00
-layout: post
+layout: bookpage
 slug: typographic-programs
 title: Typographic Programs
 wordpress_id: 641

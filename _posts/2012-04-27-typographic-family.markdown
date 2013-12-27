@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2012-04-27 05:42:24+00:00
-layout: post
+layout: bookpage
 slug: typographic-family
 title: Typographic family
 wordpress_id: 618

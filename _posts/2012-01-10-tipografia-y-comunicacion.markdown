@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2012-01-10 00:48:01+00:00
-layout: post
+layout: bookpage
 slug: tipografia-y-comunicacion
 title: Tipografía y comunicación
 wordpress_id: 127

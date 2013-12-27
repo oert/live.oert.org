@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2012-01-10 01:01:55+00:00
-layout: post
+layout: bookpage
 slug: mapa-de-caracteres
 title: Mapa de caracteres
 wordpress_id: 185

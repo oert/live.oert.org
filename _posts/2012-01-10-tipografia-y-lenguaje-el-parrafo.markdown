@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2012-01-10 00:55:43+00:00
-layout: post
+layout: bookpage
 slug: tipografia-y-lenguaje-el-parrafo
 title: 'Tipografía y lenguaje: el párrafo'
 wordpress_id: 155

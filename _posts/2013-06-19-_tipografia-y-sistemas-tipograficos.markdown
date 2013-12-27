@@ -2,7 +2,7 @@
 author: OERT
 comments: false
 date: 2013-06-19 09:08:30+00:00
-layout: post
+layout: bookpage
 slug: _tipografia-y-sistemas-tipograficos
 title: Tipografía y sistemas tipográficos
 wordpress_id: 1021

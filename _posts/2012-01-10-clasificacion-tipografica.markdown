@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2012-01-10 01:01:16+00:00
-layout: post
+layout: bookpage
 slug: clasificacion-tipografica
 title: Clasificación tipográfica
 wordpress_id: 181

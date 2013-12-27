@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2012-02-20 21:05:43+00:00
-layout: post
+layout: bookpage
 slug: texto-imagen-y-miscelanea
 title: Texto, imagen y miscelánea
 wordpress_id: 288

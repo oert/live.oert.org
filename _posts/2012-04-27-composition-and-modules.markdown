@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2012-04-27 05:53:03+00:00
-layout: post
+layout: bookpage
 slug: composition-and-modules
 title: Composition and modules
 wordpress_id: 658

@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2012-01-10 00:43:00+00:00
-layout: post
+layout: bookpage
 slug: el-alfabeto-latino
 title: El alfabeto latino
 wordpress_id: 107

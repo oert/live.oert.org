@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2012-04-27 05:33:40+00:00
-layout: post
+layout: bookpage
 slug: very-brief-story-of-substrates-and-bookbinding
 title: Very brief story of substrates and bookbinding
 wordpress_id: 603

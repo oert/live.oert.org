@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2012-04-27 05:45:15+00:00
-layout: post
+layout: bookpage
 slug: typographic-anatomy
 title: Typographic anatomy
 wordpress_id: 630

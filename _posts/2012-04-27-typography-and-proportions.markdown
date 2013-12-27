@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2012-04-27 05:51:18+00:00
-layout: post
+layout: bookpage
 slug: typography-and-proportions
 title: Typography and proportions
 wordpress_id: 648

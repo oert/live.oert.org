@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2012-01-10 00:40:52+00:00
-layout: post
+layout: bookpage
 slug: siglos-xvii-xviii-y-xix
 title: Siglos XVII, XVIII y XIX
 wordpress_id: 95

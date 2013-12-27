@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2012-01-10 00:57:48+00:00
-layout: post
+layout: bookpage
 slug: clasificacion-eleccion-y-combinacion-de-familias
 title: Clasificación, elección y combinación de familias
 wordpress_id: 167

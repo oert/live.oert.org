@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2012-01-10 00:56:05+00:00
-layout: post
+layout: bookpage
 slug: elementos-de-un-libro
 title: Elementos de un libro
 wordpress_id: 157

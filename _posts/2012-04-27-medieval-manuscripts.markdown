@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2012-04-27 05:33:17+00:00
-layout: post
+layout: bookpage
 slug: medieval-manuscripts
 title: Medieval manuscripts
 wordpress_id: 600

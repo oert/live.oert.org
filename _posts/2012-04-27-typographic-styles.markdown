@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2012-04-27 05:47:45+00:00
-layout: post
+layout: bookpage
 slug: typographic-styles
 title: Typographic styles
 wordpress_id: 640

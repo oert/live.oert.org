@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2012-01-10 01:02:36+00:00
-layout: post
+layout: bookpage
 slug: el-clasificador
 title: El clasificador
 wordpress_id: 252

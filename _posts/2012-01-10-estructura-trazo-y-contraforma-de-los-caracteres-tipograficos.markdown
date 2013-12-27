@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2012-01-10 01:00:27+00:00
-layout: post
+layout: bookpage
 slug: estructura-trazo-y-contraforma-de-los-caracteres-tipograficos
 title: Estructura, trazo y contraforma de los caracteres tipográficos
 wordpress_id: 177

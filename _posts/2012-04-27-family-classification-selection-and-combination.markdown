@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2012-04-27 05:55:25+00:00
-layout: post
+layout: bookpage
 slug: family-classification-selection-and-combination
 title: Family classification, selection, and combination.
 wordpress_id: 668

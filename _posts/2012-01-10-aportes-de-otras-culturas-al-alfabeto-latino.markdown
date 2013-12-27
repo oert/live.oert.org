@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2012-01-10 00:43:18+00:00
-layout: post
+layout: bookpage
 slug: aportes-de-otras-culturas-al-alfabeto-latino
 title: Aportes de otras culturas al alfabeto latino
 wordpress_id: 109

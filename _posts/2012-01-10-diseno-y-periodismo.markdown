@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2012-01-10 00:52:18+00:00
-layout: post
+layout: bookpage
 slug: diseno-y-periodismo
 title: Diseño y periodismo
 wordpress_id: 145

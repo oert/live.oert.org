@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2012-04-27 05:52:53+00:00
-layout: post
+layout: bookpage
 slug: typography-and-linguistics
 title: Typography and linguistics
 wordpress_id: 657

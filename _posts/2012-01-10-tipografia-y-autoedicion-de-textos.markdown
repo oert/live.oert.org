@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2012-01-10 01:02:22+00:00
-layout: post
+layout: bookpage
 slug: tipografia-y-autoedicion-de-textos
 title: Tipografía y autoedición de textos
 wordpress_id: 187

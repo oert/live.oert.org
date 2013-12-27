@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2012-04-27 05:51:49+00:00
-layout: post
+layout: bookpage
 slug: typography-and-language-the-paragraph
 title: 'Typography and language: the paragraph'
 wordpress_id: 650

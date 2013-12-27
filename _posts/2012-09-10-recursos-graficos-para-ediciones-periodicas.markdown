@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2012-09-10 00:53:27+00:00
-layout: post
+layout: bookpage
 slug: recursos-graficos-para-ediciones-periodicas
 title: Recursos gráficos para ediciones periódicas
 wordpress_id: 147

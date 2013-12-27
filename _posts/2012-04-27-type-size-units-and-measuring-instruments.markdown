@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2012-04-27 05:44:11+00:00
-layout: post
+layout: bookpage
 slug: type-size-units-and-measuring-instruments
 title: Type size, units and measuring instruments
 wordpress_id: 623

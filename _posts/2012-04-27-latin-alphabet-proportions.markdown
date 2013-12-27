@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2012-04-27 05:46:14+00:00
-layout: post
+layout: bookpage
 slug: latin-alphabet-proportions
 title: Latin alphabet proportions
 wordpress_id: 635

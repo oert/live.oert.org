@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2012-04-27 05:28:14+00:00
-layout: post
+layout: bookpage
 slug: the-beginnings-of-writing
 title: The beginnings of writing
 wordpress_id: 587

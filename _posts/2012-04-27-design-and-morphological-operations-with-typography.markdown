@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2012-04-27 05:48:14+00:00
-layout: post
+layout: bookpage
 slug: design-and-morphological-operations-with-typography
 title: Design and morphological operations with typography
 wordpress_id: 642

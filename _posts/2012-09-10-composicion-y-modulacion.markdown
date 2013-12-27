@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2012-09-10 00:53:51+00:00
-layout: post
+layout: bookpage
 slug: composicion-y-modulacion
 title: Composición y modulación
 wordpress_id: 149

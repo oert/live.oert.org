@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2012-01-10 00:41:13+00:00
-layout: post
+layout: bookpage
 slug: los-origenes-de-la-imprenta
 title: Los orígenes de la imprenta
 wordpress_id: 97

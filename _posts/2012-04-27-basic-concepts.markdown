@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2012-04-27 05:55:03+00:00
-layout: post
+layout: bookpage
 slug: basic-concepts
 title: Basic concepts
 wordpress_id: 667

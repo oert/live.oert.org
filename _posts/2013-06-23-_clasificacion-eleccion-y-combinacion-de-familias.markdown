@@ -2,7 +2,7 @@
 author: OERT
 comments: false
 date: 2013-06-23 23:00:24+00:00
-layout: post
+layout: bookpage
 slug: _clasificacion-eleccion-y-combinacion-de-familias
 title: Clasificación, elección y combinación de familias
 wordpress_id: 1014

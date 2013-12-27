@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2012-01-10 00:41:34+00:00
-layout: post
+layout: bookpage
 slug: brevisima-historia-de-los-soportes-y-de-la-encuadernacion-ii
 title: Brevísima historia de los soportes y de la encuadernación II
 wordpress_id: 99

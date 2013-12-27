@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2012-04-27 05:53:14+00:00
-layout: post
+layout: bookpage
 slug: graphic-resources-for-periodical-publications
 title: Graphic resources for regular editions
 wordpress_id: 659

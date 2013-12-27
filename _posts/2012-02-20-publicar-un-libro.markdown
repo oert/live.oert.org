@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2012-02-20 21:00:54+00:00
-layout: post
+layout: bookpage
 slug: publicar-un-libro
 title: Publicar un libro
 wordpress_id: 286

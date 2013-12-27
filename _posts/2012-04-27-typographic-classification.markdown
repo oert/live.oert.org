@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2012-04-27 05:45:45+00:00
-layout: post
+layout: bookpage
 slug: typographic-classification
 title: Typographic classification
 wordpress_id: 634

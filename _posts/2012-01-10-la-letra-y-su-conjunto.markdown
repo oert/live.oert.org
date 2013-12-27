@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2012-01-10 01:03:50+00:00
-layout: post
+layout: bookpage
 slug: la-letra-y-su-conjunto
 title: La letra y su conjunto
 wordpress_id: 195

@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2012-04-27 05:34:15+00:00
-layout: post
+layout: bookpage
 slug: origins-of-printing
 title: Origins of printing
 wordpress_id: 607

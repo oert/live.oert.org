@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2012-01-10 01:04:19+00:00
-layout: post
+layout: bookpage
 slug: escrituras-historicas-3
 title: Escrituras históricas
 wordpress_id: 197

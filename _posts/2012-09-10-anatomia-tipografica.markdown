@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2012-09-10 01:01:38+00:00
-layout: post
+layout: bookpage
 slug: anatomia-tipografica
 title: Anatomía tipográfica
 wordpress_id: 183

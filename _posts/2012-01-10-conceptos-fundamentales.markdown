@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2012-01-10 00:58:29+00:00
-layout: post
+layout: bookpage
 slug: conceptos-fundamentales
 title: Conceptos fundamentales
 wordpress_id: 169

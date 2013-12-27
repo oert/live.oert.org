@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2012-04-27 05:55:38+00:00
-layout: post
+layout: bookpage
 slug: text-image-dingbats-and-decorative-elements
 title: Text, image, dingbats and decorative elements
 wordpress_id: 666

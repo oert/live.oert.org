@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2012-01-10 00:58:50+00:00
-layout: post
+layout: bookpage
 slug: diseno-y-operaciones-morfologicas-con-tipografia-2
 title: Diseño y operaciones morfológicas con tipografía
 wordpress_id: 171

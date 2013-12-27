@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2012-04-27 05:32:13+00:00
-layout: post
+layout: bookpage
 slug: latin-alphabet
 title: Latin alphabet
 wordpress_id: 597

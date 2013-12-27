@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2012-01-10 00:42:24+00:00
-layout: post
+layout: bookpage
 slug: manuscritos-medievales
 title: Manuscritos medievales
 wordpress_id: 103

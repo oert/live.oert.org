@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2012-04-27 05:44:48+00:00
-layout: post
+layout: bookpage
 slug: typography-and-desktop-publishing
 title: Typography and desktop publishing
 wordpress_id: 628

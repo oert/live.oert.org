@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2012-04-27 05:31:38+00:00
-layout: post
+layout: bookpage
 slug: phonetization-of-writing
 title: Phonetization of writing
 wordpress_id: 595

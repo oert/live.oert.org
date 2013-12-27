@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2012-09-10 01:03:11+00:00
-layout: post
+layout: bookpage
 slug: mayusculas-minusculas-numeros-y-signos
 title: Mayúsculas, minúsculas, números y signos
 wordpress_id: 191
