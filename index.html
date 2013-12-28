@@ -6,9 +6,9 @@
     <script language="javascript">
         var en_page = '/en-US/';
         var es_page = '/es/';
-        var lang = window.navigator.language;
+        var lang = navigator.language;
         if (lang == undefined) {
-            lang = window.navigator.browserLanguage; // IE
+            lang = navigator.userLanguage; // IE
         }
         if (lang.slice(0, 2) == 'es') {
             window.location.href = es_page;
