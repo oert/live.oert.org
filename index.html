@@ -4,7 +4,18 @@
     <meta charset="UTF-8">
     <meta http-equiv="refresh" content="1;url=/en-US/index.html">
     <script language="javascript">
-        window.location.href = "/en-US/index.html"
+        var en_page = '/en-US/';
+        var es_page = '/es/';
+        var lang = window.navigator.language;
+        if (lang == undefined) {
+            lang = window.navigator.browserLanguage; // IE
+        }
+        if (lang.slice(0, 2) == 'es') {
+            window.location.href = es_page;
+        }
+        else {
+            window.location.href = en_page;
+        }
     </script>
     <title>OERT: Open Education Resources for Typography</title>
 </head>
