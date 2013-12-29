@@ -1,7 +1,7 @@
-/* This stylesheet started out as the GitHub Pages 
+/* This stylesheet started out as the GitHub Pages
    Architect theme by @jasonlong"
 
-   http://meyerweb.com/eric/tools/css/reset/ 
+   http://meyerweb.com/eric/tools/css/reset/
    v2.0 | 20110126
    License: none (public domain)
 */
@@ -14,8 +14,8 @@ b, u, i, center,
 dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed, 
-figure, figcaption, footer, header, hgroup, 
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
 	margin: 0;
@@ -26,7 +26,7 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure, 
+article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
@@ -52,7 +52,7 @@ table {
 /* LAYOUT STYLES */
 body {
   font-size: 15px;
-  line-height: 1.5; 
+  line-height: 1.5;
   background: #fafafa url(../images/body-bg.jpg) 0 0 repeat;
   font-family: 'Rosario', serif;
   font-weight: 400;
@@ -69,7 +69,7 @@ a:hover {
 header {
   padding-top: 40px;
   padding-bottom: 40px;
-  font-family: 'Rosario', serif; 
+  font-family: 'Rosario', serif;
   background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x;
   border-bottom: solid 1px #275da1;
 }
@@ -223,26 +223,26 @@ th {
 
 td {
   border: 1px solid #ebebeb;
-  text-align: center; 
+  text-align: center;
   font-weight: 300;
 }
 
 form {
   background: #f2f2f2;
   padding: 20px;
-  
+
 }
 
 
 /* GENERAL ELEMENT TYPE STYLES */
 
 #main-content h1 {
-  font-family: 'Rosario', serif; 
+  font-family: 'Rosario', serif;
   font-size: 2.8em;
   letter-spacing: -1px;
   color: #474747;
   font-weight: 300;
-} 
+}
 
 #main-content h1:before {
   content: "»";
@@ -252,12 +252,12 @@ form {
 }
 
 #main-content h2 {
-  font-family: 'Rosario', serif; 
+  font-family: 'Rosario', serif;
   font-size: 22px;
   font-weight: normal;
   margin-bottom: 8px;
   color: #474747;
-} 
+}
 #main-content h2:before {
   content: "»";
   color: #9ddcff;
@@ -266,14 +266,14 @@ form {
 }
 
 #main-content h3 {
-  font-family: 'Rosario', serif; 
+  font-family: 'Rosario', serif;
   font-size: 15px;
   font-weight: normal;
   margin-top: 24px;
   margin-bottom: 8px;
   color: #474747;
-} 
- 
+}
+
 #main-content h3:before {
   content: "»";
   color: #9ddcff;
@@ -281,11 +281,11 @@ form {
 }
 
 #main-content h4 {
-  font-family: 'Rosario', serif; 
+  font-family: 'Rosario', serif;
   font-size: 15px;
   font-weight: normal;
   color: #474747;
-} 
+}
 
 h4:before {
   content: "////";
@@ -295,10 +295,10 @@ h4:before {
 }
 
 #main-content h5 {
-  font-family: 'Rosario', serif; 
+  font-family: 'Rosario', serif;
   font-size: 14px;
   color: #474747;
-} 
+}
 h5:before {
   content: "/////";
   color: #9ddcff;
@@ -307,10 +307,10 @@ h5:before {
 }
 
 #main-content h6 {
-  font-family: 'Rosario', serif; 
+  font-family: 'Rosario', serif;
   font-size: .8em;
   color: #474747;
-} 
+}
 h6:before {
   content: "//////";
   color: #9ddcff;
@@ -321,7 +321,7 @@ h6:before {
 p {
   margin-bottom: 20px;
 }
- 
+
 a {
   text-decoration: none;
 }
@@ -461,8 +461,8 @@ footer a:hover {
     background-color: #9ddcff;
     color: #2879d0;
     -moz-border-radius: 5px;
-    -webkit-border-radius: 5px;                     
-    border-radius: 5px;    
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
   }
   header a.button small {
     font-size: 13px;
@@ -540,7 +540,7 @@ ol.rectangle-list a {
 	background: #ddd;
 	color: #444;
 	text-decoration: none;
-	transition: all .3s ease-out;	
+	transition: all .3s ease-out;
 	font-weight: 300;
 }
 
@@ -550,12 +550,12 @@ ol.rectangle-list a.active {
 
 ol.rectangle-list a:hover{
 	background: #eee;
-}	
+}
 
 ol.rectangle-list a:before{
 	content: counter(li);
 	counter-increment: li;
-	position: absolute;	
+	position: absolute;
 	left: -2.5em;
 	top: 50%;
 	margin-top: -1em;
@@ -569,7 +569,7 @@ ol.rectangle-list a:before{
 }
 
 ol.rectangle-list a:after{
-	position: absolute;	
+	position: absolute;
 	content: '';
 	border: .5em solid transparent;
 	left: -1em;
@@ -581,4 +581,50 @@ ol.rectangle-list a:after{
 ol.rectangle-list a:hover:after{
 	left: -.5em;
 	border-left-color: #2e78cd;
+}
+
+#langsel {
+	list-style-type: none;
+	margin-bottom: 0;
+	width: auto;
+	position: absolute;
+	top: 90px;
+	right: 0;
+}
+
+#langsel li {
+	display: inline-block;
+}
+
+#langsel a {
+	display: block;
+	color: #CCC;
+	font-size: 12px;
+}
+
+#langsel a:hover {
+	color: #9DDCFF;
+}
+
+#langsel li.active a {
+	color: #FFF;
+}
+
+#langsel li.active a:hover {
+	color: #9DDCFF;
+}
+
+#langsel img {
+	margin-right: 6px;
+	vertical-align: middle;
+	opacity: 0.7;
+}
+
+#langsel a:hover img {
+	color: #9DDCFF;
+	opacity: 0.8;
+}
+
+#langsel li.active img {
+	opacity: 1;
 }
