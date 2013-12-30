@@ -14,36 +14,50 @@ title: Open Education Resources for Typography
 <div style="width:32%;float:left">
   <h3>Teoría</h3>
   <ol class='category'>
-    {% for p in site.categories['teoría'] %}
-      <li>
-        <a {% if p.url == page.url %}class="active"{% endif %} href="{{ p.url }}">
-          {{ p.title }}
-        </a>
-      </li>
+    {% for p in site.pages %}
+      {% for pc in p.categories %}
+        {% if pc == 'Teoría' %}
+          <li>
+            <a href="{{ p.url }}">
+              {{ p.title }}
+            </a>
+          </li>
+        {% endif %}
+      {% endfor %}
     {% endfor %}
   </ol>
 </div>
+
 <div style="width:32%;float:left">
-<h3>Práctica</h3>
+  <h3>Práctica</h3>
   <ol class='category'>
-    {% for p in site.categories['práctica'] %}
-      <li>
-        <a {% if p.url == page.url %}class="active"{% endif %} href="{{ p.url }}">
-          {{ p.title }}
-        </a>
-      </li>
+    {% for p in site.pages %}
+      {% for pc in p.categories %}
+        {% if pc == 'Práctica' %}
+          <li>
+            <a href="{{ p.url }}">
+              {{ p.title }}
+            </a>
+          </li>
+        {% endif %}
+      {% endfor %}
     {% endfor %}
   </ol>
 </div>
+
 <div style="width:32%;float:left">
-<h3>Historia</h3>
+  <h3>Historia</h3>
   <ol class='category'>
-    {% for p in site.categories.historia %}
-      <li>
-        <a {% if p.url == page.url %}class="active"{% endif %} href="{{ p.url }}">
-          {{ p.title }}
-        </a>
-      </li>
+    {% for p in site.pages %}
+      {% for pc in p.categories %}
+        {% if pc == 'Historia' %}
+          <li>
+            <a href="{{ p.url }}">
+              {{ p.title }}
+            </a>
+          </li>
+        {% endif %}
+      {% endfor %}
     {% endfor %}
   </ol>
 </div>
