@@ -1,0 +1,546 @@
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<title>
+  Design and journalism&nbsp;|&nbsp;OERT</title>
+
+<link rel="stylesheet" href="http://www.oert.org/wp-content/plugins/sitepress-multilingual-cms/res/css/language-selector.css?v=2.6.0" type="text/css" media="all" />
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="stylesheet" type="text/css" href="http://www.oert.org/wp-content/themes/WikiBase/style.css" media="screen" />
+<link rel="shortcut icon" type="image/png" href="http://www.oert.org/wp-content/uploads/favicon.ico" />
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.oert.org/en/feed/" />
+<link rel="pingback" href="http://www.oert.org/xmlrpc.php" />
+
+<link rel="stylesheet" type="text/css" href="http://www.oert.org/wp-content/themes/WikiBase/library/css/print.css" media="print" />
+<link rel="Stylesheet" type="text/css" href="http://www.oert.org/wp-content/themes/WikiBase/library/css/smoothDivScroll.css" />
+
+<script src="http://connect.facebook.net/es_ES/all.js#xfbml=1"></script>
+<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+<script src="https://apis.google.com/js/plusone.js" type="text/javascript"></script>
+
+
+ <link href="http://www.oert.org/wp-content/themes/WikiBase/custom.css" rel="stylesheet" type="text/css">
+<script language="javascript" type="text/javascript">
+	function hasClass(ele,cls) {
+	return ele.className.match(new RegExp('(\\s|^)'+cls+'(\\s|$)'));
+	}
+
+    function addClass(ele,cls) {
+    if (!this.hasClass(ele,cls)) ele.className += " "+cls;
+    }
+    function removeClass(ele,cls) {
+    if (hasClass(ele,cls)) {
+        var reg = new RegExp('(\\s|^)'+cls+'(\\s|$)');
+        ele.className=ele.className.replace(reg,' ');
+    }
+    }
+
+    function showHideDiv(sids,divids)
+    {
+		//alert(sids);
+		//alert(divids);
+        var divstyle = new String();
+		var spanstyle = new String();
+		var spansid = new String();
+		spansid = document.getElementById(sids);
+        divstyle = document.getElementById(divids).style.display;
+        if(divstyle.toLowerCase()=="block" || divstyle == "")
+        {
+            document.getElementById(divids).style.display = "none";
+			removeClass(spansid,'neg');
+			addClass(spansid,'pos');
+        }
+        else
+        {
+            document.getElementById(divids).style.display = "block";
+			removeClass(spansid,'pos');
+			addClass(spansid,'neg');
+        }
+    }
+    </script>
+    <script type="text/javascript">
+        $(document).ready( function() {
+            $('#menu-recursos').hoverAccordion({
+                keepHeight:true,
+                activateItem: 3,
+                speed: 400
+            });
+        });
+    </script>
+        
+<link rel="dns-prefetch" href="//connect.facebook.net" />
+<link rel="alternate" type="application/rss+xml" title="OERT &raquo; Design and journalism Comments Feed" href="http://www.oert.org/en/design-and-journalism/feed/" />
+<link rel='stylesheet' id='wpml-cms-nav-css-css'  href='http://www.oert.org/wp-content/plugins/wpml-cms-nav/res/css/navigation.css?ver=1.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='cms-navigation-style-base-css'  href='http://www.oert.org/wp-content/plugins/wpml-cms-nav/res/css/cms-navigation-base.css?ver=1.2.7' type='text/css' media='screen' />
+<link rel='stylesheet' id='cms-navigation-style-css'  href='http://www.oert.org/wp-content/plugins/wpml-cms-nav/res/css/cms-navigation.css?ver=1.2.7' type='text/css' media='screen' />
+<link rel='stylesheet' id='good-old-gallery-theme-css'  href='http://www.oert.org/wp-content/plugins/good-old-gallery/themes/good-old-gallery-dots/good-old-gallery-dots.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='good-old-gallery-css'  href='http://www.oert.org/wp-content/plugins/good-old-gallery/assets/css/good-old-gallery.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='facebook-css'  href='http://www.oert.org/wp-content/plugins/facebook/static/css/style.min.css?ver=1.3.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.oert.org/wp-includes/js/jquery/jquery.js?ver=1.8.3'></script>
+<script type='text/javascript' src='http://www.oert.org/wp-content/themes/WikiBase/library/js/functions.js?ver=1'></script>
+<script type='text/javascript' src='http://www.oert.org/wp-includes/js/comment-reply.min.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://www.oert.org/wp-content/plugins/good-old-gallery/plugins/cycle/jquery.cycle.all.min.js?ver=3.5.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.oert.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.oert.org/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Graphic resources for regular editions' href='http://www.oert.org/en/graphic-resources-for-periodical-publications/' />
+<link rel='next' title='Basic concepts' href='http://www.oert.org/en/basic-concepts/' />
+<meta name="generator" content="WordPress 3.5.1" />
+<link rel='shortlink' href='http://www.oert.org/?p=660' />
+
+	<!-- This site uses Good Old Gallery, get it from http://wp.unwi.se/good-old-gallery -->
+
+        <style type="text/css" media="screen">
+          div.printfriendly {
+            margin: 0px 0px 0px 0px;;
+          }
+          div.printfriendly a, div.printfriendly a:link, div.printfriendly a:visited {
+            text-decoration: none;
+            font-size: 14px;
+            color: #99cc00;
+            vertical-align: bottom;
+            border: none;
+          }
+
+          .printfriendly a:hover {
+            cursor: pointer;
+          }
+
+          .printfriendly a img  {
+            border: none;
+            padding:0;
+            margin-right: 6px;
+            display:inline-block;
+            box-shadow: none;
+            -webkit-box-shadow: none;
+            -moz-box-shadow: none;
+          }
+          .printfriendly a span{
+            vertical-align: bottom;
+          }
+          .pf-alignleft {
+            float: left;
+          }
+          .pf-alignright {
+            float: right;
+          }
+          div.pf-aligncenter {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            text-align: center;
+          }
+        </style>
+        <style type="text/css" media="print">
+          .printfriendly {
+            display: none;
+          }
+        </style>
+<script type="text/javascript">var icl_lang = 'en';var icl_home = 'http://www.oert.org/en/';</script>
+<script type="text/javascript" src="http://www.oert.org/wp-content/plugins/sitepress-multilingual-cms/res/js/sitepress.js"></script>
+<meta name="generator" content="WPML ver:2.6.0 stt:1,2;0" />
+<link rel="alternate" hreflang="es_ES" href="http://www.oert.org/diseno-y-periodismo/" />
+
+<style type="text/css">#lang_sel a, #lang_sel a.lang_sel_sel{color:#444444;}#lang_sel a:hover, #lang_sel a.lang_sel_sel:hover{color:#000000;}#lang_sel a.lang_sel_sel, #lang_sel a.lang_sel_sel:visited{background-color:#f5f4f2;}#lang_sel a.lang_sel_sel:hover{background-color:#eeeeee;}#lang_sel li ul a, #lang_sel li ul a:visited{color:#444444;}#lang_sel li ul a:hover{color:#000000;}#lang_sel li ul a, #lang_sel li ul a:link, #lang_sel li ul a:visited{background-color:#f5f4f2;}#lang_sel li ul a:hover{background-color:#eeeeee;}#lang_sel a, #lang_sel a:visited{border-color:#cdcdcd;} #lang_sel ul ul{border-top:1px solid #cdcdcd;}</style>
+
+<style type="text/css">#lang_sel  {width: 195px; margin-bottom:24px;}
+#lang_sel a {font-size:12px;}
+#lang_sel li {width:192px; }
+
+</style>		<link href="http://www.oert.org/wp-content/themes/WikiBase/skins/1-default.css" rel="stylesheet" type="text/css" />
+
+
+<link href='http://boakes.org/most-wanted?v=0.1.9v' />
+<link rel="canonical" href="http://www.oert.org/en/design-and-journalism/"/>
+<meta property="og:site_name" content="OERT" />
+<meta property="og:type" content="article" />
+<meta property="og:locale" content="es_ES" />
+<meta property="fb:app_id" content="285109618260716" />
+<meta property="og:url" content="http://www.oert.org/en/design-and-journalism/" />
+<meta property="og:title" content="Design and journalism" />
+<meta property="og:description" content="Magazine design: between graphic journalism and journalistic communication. Features. Graphic journalism: content and codes. Journalism genres: characteristics and considerations about news, interviews and stories. Text structure and hierarchy." />
+<meta property="article:published_time" content="2012-04-27T05:53:26+00:00" />
+<meta property="article:modified_time" content="2012-10-30T16:55:54+00:00" />
+<meta property="article:author" content="http://www.oert.org/en/author/admin/" />
+<meta property="article:section" content="Page" />
+<meta property="article:tag" content="Theory" />
+</head>
+<body class="single single-post postid-660 single-format-standard">
+<div id="header">   
+<div id="header_in" class="clearfix">
+<div class="logo"> 
+   <div class="blog-title"><a href="http://www.oert.org/en//">OERT</a> 
+		
+		 <p class="blog-description">
+		  Open Educational Resources for Typography		</p>
+   </div> 
+   </div>
+                        <div class="header_right">
+        	<p>Última actualización: <span>April 7, 2013</span></p>
+                        <form method="get" id="searchform" action="http://www.oert.org/en/">
+<div id="search-form-wrap">
+<label for="s" id="search-label">Buscar:</label>
+<input type="text" id="s" name="s" accesskey="4" value="" />
+<input type="hidden" name="stype" value="ajsearch" />
+<input type="submit" name="stype" value="Search" style="display:none;" class="b_search" />
+<span id="searchreset" title="Reset Search"></span>
+<span id="searchload"></span>
+</div>
+</form>
+
+                    </div>               
+   </div> 
+ </div>   <!-- header #end -->     <div id="wrapper" class="clearfix">  
+  		<div id="content" >
+         <div id="current-content">
+                 <div class="breadcrumb clearfix">
+        <a rel="nofollow" href="http://www.oert.org/en/">Home</a>  <a href="http://www.oert.org/en/category/part1/" title="View all posts in Theory">Theory</a>  <a href="http://www.oert.org/en/category/part1/part1-3/" title="View all posts in Page">Page</a>  Design and journalism        </div>
+             
+                       
+        <div class="single_post">
+        <h1 class="head">Design and journalism</h1>
+ 		  		                  <p class="post_info clearfix post_info_single"><span>Posted by <a href="http://www.oert.org/en/author/admin/" title="Posts by OERT" rel="author">OERT</a> - Apr 27, 2012 </span>
+                     <span class="i_cate"> <a href="http://www.oert.org/en/category/part1/part1-3/" title="View all posts in Page" rel="category tag">Page</a>, <a href="http://www.oert.org/en/category/part1/" title="View all posts in Theory" rel="category tag">Theory</a> </span>
+                      <span> <a href="http://www.oert.org/en/design-and-journalism/#commentarea"  class="i_comment" ><fb:comments-count xmlns="http://ogp.me/ns/fb#" href="http://www.oert.org/en/design-and-journalism/"></fb:comments-count> Comments </a></span>                      
+                      <a href="http://www.oert.org/en//?cat=24&amp;feed=rss2" class="i_rss">Receive Updates For This Category</a>
+                      
+                       </p>
+                       
+                       
+					              
+              
+              <div id="post-660" class="posts clearfix">               		               
+              		
+              		<!-- Templatic Article Tools #end -->
+              		
+              		              		
+              		<!-- Templatic Article Tools #end -->
+
+                      <p class="autor">Produced by: Natalia Pano</p>
+<p class="note">Artículo en proceso de traducción </p>
+<blockquote><p>«Independent of what is said, a discourse can be analyzed in terms of some typical formal categories, of its order and specific function, and in its canonical structure. These schematic structures perform an important function, both in discourse production and comprehension, as well as in its storing and reproduction.» <cite>Aznar, E. y otros. <em>Coherencia textual y lectura.</em> Barcelona. ICE Horsori. 1991</cite></p></blockquote>
+<h3>Journalistic communication</h3>
+<p>Magazine design falls in a field between graphics journalism and journalistic communication. It is an integration process between individuals and social groups, and the message is its mediated form. Journalists, or editors, have the socially legitimated role to build social reality as a socially significant reality.  </p>
+<p>The production of journalistic messages is part of their daily work and the media are the ones in charge of broadcasting those messages and of bringing together an audience and a text in what some authors call a media agreement or reading agreement (a new social agreement.) </p>
+<p>The production, circulation and acknowledgment process implies the consensus that society provides to the media as a support which builds and broadcasts meaning over the world, and which is actually a specific case of human communication beyond the reductionist model S > M > R. Though journalism may be included within the basic canons of communication, considering it only the act of “communicating information”, would be minimizing its function, significance and importance. “Journalism is history’s minute hand”, the German philosopher Arthur Schopenhauer used to say. </p>
+<p>The industry of information does not build a structurally homogeneous discourse but a complex group of genres and discursive modes. It is actually a systemic model, made up of a group of interacting elements in which a variation in any of them affects the whole group.</p>
+<div id="go-gallery-1382-1" class="go-gallery-container go-gallery-1382 gog-dots has-pager cycle">
+<div class="go-gallery-inner">
+<ul class="slides">
+<li>
+<div class="image"><img width="700" height="525" src="http://www.oert.org/wp-content/uploads/2012/08/T07_02_titulares.jpg" class="attachment-large" alt="Titulares" />
+</div><div class="description">Alumnos (de izquierda a derecha, de arriba a abajo): María Lafita, Julián Villagra, Nicolás Prevettoni, Romina Noriega, Romina Noriega y Gabriela Estevez</div>
+</li>
+<li>
+<div class="image"><img width="700" height="525" src="http://www.oert.org/wp-content/uploads/2012/08/T07_01_nombres.jpg" class="attachment-large" alt="Nombres de las publicaciones" />
+</div><div class="description">Alumnos (de izquierda a derecha, de arriba a abajo): Pamela, Blanco, Romina Noriega, Ornella Pagliarvolo, Laura Martín, Gabriela Estevez y Julia Martínez Diana</div>
+</li>
+</ul>
+<div class="pager"></div>
+</div>
+<script type="text/javascript" charset="utf-8">jQuery(function($) { $(function () { $("#go-gallery-1382-1 .slides").cycle({fx: "scrollHorz", navigation: false, pager: true, pager: "#go-gallery-1382-1 .pager"}); }); });</script>
+</div>
+
+<h4>Some characteristics</h4>
+<p><em>The journalistic communication is subjective</em>: Apart from the each person’s subjectivity (based on his rules, values, experiences and impressions), the second essential fact that makes the journalism subjective is choice. On the one hand, the choice of certain words and specific syntax: for instance, it is not the same to say “The police crushed the demonstrators” than to say “The demonstrators were crushed by the police”. The first example is an active voice sentence, it is clear who the responsible agent of the actions is and who the recipient of the action is. The second example is a passive voice sentence, where the presence of the agent is relegated, diminished… and the direct object becomes the new subject of the sentence. </p>
+<p>Another instance which accentuates subjectivity is that from the moment it is decided which information will be included in a medium and which one will be excluded, there is a journalist’s personal opinion as to where this information will be placed in the medium, which space it will occupy, whether or not it will include a picture, and if, what the picture will look like, what its title will be, aspects that will be stressed in it and from which point of view, among other elements. All these are choices made based on some subjective criteria and which show the journalist’s position as regards the event he is trying to inform about. </p>
+<p><em>It is mediated</em>: what is published is not a reflection of reality. It is a construction made in the publishing offices based on the little or much information obtained, on a data obtained by the journalist after Consulting the sources and on the editorial line of the company. The journalist works in a very limited space: the publication’s frame. </p>
+<p>Then, there is the interpretation each reader makes based on his own perception. Every journalistic creation may be considered as a global word, which the reader fills with meaning, based on his knowledge of language and personal experience. There is double subjectivity: that of the journalist when writing and that of the reader when reading. </p>
+<p><em>It is intentional</em>: each medium’s purposes are countless. Its intentions may be varied, going from informative to recreational purposes, from suggestive to clearly commercial ones. They usually express explicit intentions but also implicit ones: ideological transmission is usually a common aspect to all types of edition. The journalistic message, apart from being a communicable fact, fulfills the formative function given the value judgments it presents. </p>
+<p><em>It is not forced</em>: that is to say, it presupposes the reader’s participation and acceptance, which allows for different degrees of specification. This gives the publications freedom to move within different types of subject areas or with different degrees of commitment within one topic, and thus be able to satisfy more delimited audiences. </p>
+<p><em>It is contextual</em>: ljournalistic texts result from a news event and share certain objective data, values and interpretation rules with their audience. This store of information they share is the context and it will allow for a specific text to get a unique interpretation among the several possibilities, or at least the one closest to the addresser’s original intention.</p>
+<h3>Graphics journalism</h3>
+<p>Generally speaking, in a magazine the following factors participate in communication:</p>
+<ul>
+<li>sender: writers (journalists- designers).</li>
+<li>message: contents (information per se).</li>
+<li>code: linguistic, graphic-typographic.</li>
+<li>channel: the magazine (paper).</li>
+<li>receiver: audience (readers).</li>
+</ul>
+<h4>The content</h4>
+<p>Journalistically speaking, we may classify texts according to some of its own characteristics –discursive forms- which allow them to be framed within a specific genre.</p>
+<p>Though some journalistic theorists show some differences in classification, the most characteristic types are: </p>
+<ul>
+<li>Informative texts: news, articles, interviews, chronicles, profiles.</li>
+<li>Opinion texts: editorials, comments, reviews, columns, opinion articles, letters to the editor.</li>
+<li>Others: short items, cartoons, horoscope.</li>
+</ul>
+<h4>The code</h4>
+<p>Basically, magazines work with two types of codes: the linguistic or editorial one, related to the purpose of discourse (vocabulary and syntax used) and the graphic-typographic one which includes the typography(ies) with which the edition will be composed, whether it has images or not and if so, what kind of images, colors, etc.  </p>
+<p>The selection of the code is closely related to the characteristics of the magazine’s most devoted readers. To their values and expressions. Both codes coexist in the same medium thus conforming a graphic-textual unit which interacts in an efficient way.</p>
+<h3>Journalistic genres</h3>
+<h4>The news</h4>
+<p>It is the “objective” information about an event, without any kind of comment. It must be brief, concise and impersonal. When is an event considered a piece of news? When it is interesting for a large number of people, it is current and not usual, apart from other aspects, such as emotion, conflict, use or personality of the protagonist. </p>
+<p>Structurally, the interest in a piece of news decreases. The most important fact is shown at the beginning. Usually, it is described as having an inverted pyramidal structure: decreasing order as regards the importance of the information.  </p>
+<p>The text of a piece of news consists of the following elements: </p>
+<ul>
+<li>Headline: tells us what the news is about.</li>
+<li>Introduction (lead paragraph): summarizes the piece of news; in it we find the answers to the basic questions: what?, who?, when?, how?, why?</li>
+<li>Body: clarifies, qualifies and completes the information.</li>
+</ul>
+<h4>The interview</h4>
+<p>The interview is the genre in which the journalist gets in touch with a public figure, the interviewee, on whom there is journalistic interest, due to his statements, to some event, to his position or just to his personality. Its purpose is to inform about a situation, an event, etc. An interview is not only the conversational moment between two speakers, but also the final text the journalist writes after that meeting. </p>
+<p>The interview may be written following a chronological order and respecting the basic structure of questions and answers and it may also be written in as an account, in which case the order of questions and answers is not followed exactly as they occurred, and they are also not included in the text. We can find informative interviews and creative interviews. The informative interview is that which focuses on the statements of the celebrities, as they are the ones that contribute their grain to current affairs and justify its publication. The creative interview is that where the personal talents of the interviewer are involved: observation, environment, creation and recreation, world of repercussions and suggestions, more personal prose than foreign one. </p>
+<p>As regards its structure, it may be variable, but the most frequent form is the one beginning with an indirect quotation, an interpretative assertion, a summary or, sometimes, a direct quotation. At the beginning of the article, generally in the first or second paragraph, the interviewee is revealed, its skills or authority in the subject matter of the interview are shown and its occasion and its importance are clarified. The body of the interview is a combination of direct and indirect quotations, mixed with transitional explanatory phrases or paragraphs. </p>
+<p>Another technique for interview writing is to transcribe the questions and answers in the sequence they were made, or to select the opinion which is considered the most important one, beginning with it and then following the questions and answers order.<br />
+In any case, the structure of the interview has three basic parts: </p>
+<ul>
+<li>Presentation or opening.</li>
+<li>Development: questions, answers or the account.</li>
+<li>Closing, which may be a comment, the final answer or the final part of the account.</li>
+</ul>
+<h4>The story</h4>
+<p>The story is information about events that take place over a period of time told from the very place or near the place where they occurred by informant who was a protagonist, witness or investigator and who knows the circumstances around them.  </p>
+<p>One of the characteristics of the chronicle is its regularity which allows a same author, a same topic or a same space of reference to be frequently repeated. This repetition ends up giving the reader of the story a feeling of familiarity between the writer and its audience. </p>
+<p>We can differentiate chronicles which cover a place and chronicles which cover a topic. Within the chronicles written to inform about everything happening at a specific place are correspondent’s chronicles and special correspondent’s chronicles. Among them are those which are written according to the level of specialization the correspondent has about a specific topic, that is, legal, sports, events, society, parliamentary chronicles.</p>
+<p>The length of the chronicle is a fixed one. It usually presents amazing variations and its limit may be established, as a last resort, by the space given by the newspaper. The structure of the chronicle the following: </p>
+<ul>
+<li>Presentation or opening.</li>
+<li>The account, which includes details that allow the reader to “live” the event.</li>
+<li>The conclusion, which is not a final judgment as there is no reasoning, but the end of the account.</li>
+</ul>
+<p>In short, the importance of knowing the macrostructures of each type of text lies in the possibility of being able to graphically encode such structures, by giving its different parts a hierarchical order, to make its reading and interpretation visually more comprehensible.</p>
+<div class="ref_box"><strong>Bibliography</strong></p>
+<ul>
+<li>Manual de Estilo y Ética periodística. La Nación. Espasa. 1997.</li>
+<li>MARTÍNEZ ALBERTOS, J. L. <em>Curso General de Redacción Periodística.</em> Madrid, Paraninfo, 2001.</li>
+<li>AZNAR, E. y otros. <em>Coherencia textual y lectura.</em> Barcelona. ICE Horsori. 1991.</li>
+</ul>
+<p><strong>Referencias</strong></p>
+<ul>
+<li>PEÑARANDA, Raúl. Géneros periodísticos: ¿Qué son y para qué sirven? <a href="http://www.saladeprensa.org/art180.htm">http://www.saladeprensa.org/art180.htm</a></li>
+<li>MORENO ESPINOSA, Pastora: Rasgos diferenciales de los géneros periodísticos de opinión<br />
+<a href="http://www.saladeprensa.org/art501.htm">http://www.saladeprensa.org/art501.htm</a></li>
+<li>GOERGE-PALILONIS, Jennifer: Diseño es contenido <a href="http://www.garcia-media.com.ar/">http://www.garcia-media.com.ar/</a></li>
+<li>GOMIS, Lorenzo: ¿Vive la comunicación periodística un cambio de paradigma? <a href="http://www.infoamerica.org/articulos/g/gomis.htm">http://www.infoamerica.org/articulos/g/gomis.htm</a></li>
+</ul>
+<p></p></div>
+<p class="icl_post_in_other_langs">Esta entrada también está disponible en: <a href="http://www.oert.org/diseno-y-periodismo/">Spanish</a></p>                   
+                  
+                  <div class="like_this_section clearfix">
+					<div class="google_like">
+					<g:plusone href="http://www.oert.org" size="medium"></g:plusone>
+					</div>	                  
+                     <div class="twitter_like">
+                     <a href="http://twitter.com/share" class="twitter-share-button" data-via="oert.org" data-lang="es" data-size="medium">Tweet</a>
+                     </div>
+                     <div class="fb_like">
+                     <fb:like href="http%3A%2F%2Fwww.oert.org%2Fen%2Fdesign-and-journalism%2F" layout="button_count" show_faces="false" width="450" height="30"></fb:like>
+                     </div>
+                     <div class="printfriendly"><a href="http://www.printfriendly.com/print?url=http://www.oert.org/en/design-and-journalism/" rel="nofollow" onclick="window.print(); return false;"><img src="http://cdn.printfriendly.com/button-print-gry20.png" alt="Print Friendly" /></a></div>				</div> <!-- #end -->
+
+
+          				
+              </div> <!-- post #end -->
+              
+              
+               
+ 			<div class="post-navigation clearfix">
+                                                            <a class="post-prev" href="http://www.oert.org/en/graphic-resources-for-periodical-publications/"><em>Previous post</em><span>Graphic resources for regular editions</span></a>
+                                                                <a class="post-next" href="http://www.oert.org/en/basic-concepts/"><em>Next post</em><span>Basic concepts</span></a>
+                                 </div>
+            
+            
+              </div> <!-- single post content #end -->
+          		<div class="realated_post clearfix">
+<h3>Related Posts</h3><ul class="realated_postlist clearfix">
+            <li class="clearfix"> 
+      
+     <h3> <a href="http://www.oert.org/en/graphic-resources-for-periodical-publications/">Graphic resources for regular editions</a></h3> 
+     <p class="date clearfix"> <span>April 27, 2012</span></p>
+     <p>Models for periodical publications: constants and variables. Publication structure. Navigation resources. Text editing: titles (header, banner, title or headline, and sub headings, lead or summary), fast reading elements (epigraph, highlight, subordinated notes, tables, summaries). Relation between form and content.
+</p>
+            </li>
+                        <li class="clearfix"> 
+      
+     <h3> <a href="http://www.oert.org/en/composition-and-modules/">Composition and modules</a></h3> 
+     <p class="date clearfix"> <span>April 27, 2012</span></p>
+     <p>Order and space. The typographic grid as a tool for design and communication. Line spacing as modulation unit. Construction of the typographic grid: vertical and horizontal modulation. Legibility and modulation. 
+</p>
+            </li>
+                        <li class="clearfix"> 
+      
+     <h3> <a href="http://www.oert.org/en/typography-and-linguistics/">Typography and linguistics</a></h3> 
+     <p class="date clearfix"> <span>April 27, 2012</span></p>
+     <p>Oral and written texts, features. Text structure, macrostructure and superstructure. Types of superstructures. Typology and textual genres. Text and context. Design and linguistic mediation. Conditions for textuality.
+</p>
+            </li>
+                        <li class="clearfix"> 
+      
+     <h3> <a href="http://www.oert.org/en/types-of-books/">Types of books</a></h3> 
+     <p class="date clearfix"> <span>April 27, 2012</span></p>
+     <p>The book as an object. Typologies: literature (novels, short stories), poetry, plays and scripts, illustrated literature, art, informational, scientific, reference, textbooks, children books, fine books. Types of book and types of reading. Integral book design.</p>
+            </li>
+            </ul>
+</div>
+		
+        
+          <div id="comments" class="clearfix"> 
+<div id="comments" class="comments-area">
+<div id="respond">
+<div class="fb-social-plugin fb-comments" id="commentform" data-href="http://www.oert.org/en/design-and-journalism/" data-width="700"></div>
+</div></div>
+</div>
+          
+             </div>
+	<div id="dynamic-content"></div>        
+  </div> <!-- content #end -->
+<script type="text/javascript" language="javascript" >
+var root_path_js = 'http://www.oert.org/';
+</script>
+<script type="text/javascript" language="javascript" src="http://www.oert.org/wp-content/themes/WikiBase/library/js/article_detail.js" ></script>
+
+      <div id="lang_sel"  >
+    <ul>
+        <li><a href="#" class="lang_sel_sel icl-en">
+                            
+            <img  class="iclflag" src="http://www.oert.org/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png" alt="en" />                                
+            &nbsp;English</a>                                    
+            <ul>
+                                <li class="icl-es">          
+                    <a rel="alternate" hreflang="es" href="http://www.oert.org/diseno-y-periodismo/">
+                                    
+                    <img  class="iclflag" src="http://www.oert.org/wp-content/plugins/sitepress-multilingual-cms/res/flags/es.png" alt="es" />&nbsp;                    
+                                        Español                    </a>
+                </li>
+                            </ul>            
+             
+                    </li>
+    </ul>    
+</div>
+ <!-- selector de idiomas -->
+<div id="sidebar">
+	<div class="widget"><h3><span>Recursos</span></h3><div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-404" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-404"><a href="http://www.oert.org/en/the-project/">The project</a></li>
+<li id="menu-item-405" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-405"><a href="http://www.oert.org/en/the-authors/">The Authors</a></li>
+<li id="menu-item-406" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-406"><a href="http://www.oert.org/en/editorial-board/">Editorial Committee</a></li>
+<li id="menu-item-407" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-407"><a href="http://www.oert.org/en/the-team/">The Team</a></li>
+<li id="menu-item-408" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-408"><a href="http://www.oert.org/en/our-backers/">Our backers</a></li>
+<li id="menu-item-718" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-718"><a href="http://www.oert.org/en/faq/">FAQ</a></li>
+<li id="menu-item-409" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-409"><a href="http://www.oert.org/en/contact-us/">Contact us</a></li>
+</ul></div></div><div class="widget"><h3><span>Páginas</span></h3><div class="menu-main-menu-ingles-container"><ul id="menu-main-menu-ingles" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-404"><a href="http://www.oert.org/en/the-project/">The project</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-405"><a href="http://www.oert.org/en/the-authors/">The Authors</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-406"><a href="http://www.oert.org/en/editorial-board/">Editorial Committee</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-407"><a href="http://www.oert.org/en/the-team/">The Team</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-408"><a href="http://www.oert.org/en/our-backers/">Our backers</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-718"><a href="http://www.oert.org/en/faq/">FAQ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-409"><a href="http://www.oert.org/en/contact-us/">Contact us</a></li>
+</ul></div></div></div> <!-- sidebar right--> 
+<div id="bottom"></div>
+<script type='text/javascript' src='http://www.oert.org/wp-content/themes/WikiBase/library/js/jquery.simplemodal.js'></script>
+<script type='text/javascript' src='http://www.oert.org/wp-content/themes/WikiBase/library/js/basic.js'></script>
+<div id="basic-modal-content" class="clearfix" style="display:none;">
+<form name="send_to_frnd" id="send_to_frnd" action="http://www.oert.org/en/design-and-journalism/" method="post" >
+<input type="hidden" id="send_to_Frnd_pid" name="pid" value="660" />
+<input type="hidden" name="sendact" value="email_frnd" />
+	<h3>Send To Friend</h3>
+    <p id="reply_send_success" class="sucess_msg" style="display:none;"></p>
+	<div class="row clearfix" ><label>Friend Name : <span>*</span></label><input name="to_name" id="to_name" type="text"  /><span id="to_nameInfo"></span></div>
+ 	<div class="row  clearfix" ><label> Email : <span>*</span></label><input name="to_email" id="to_email" type="text"  /><span id="to_emailInfo"></span></div>
+	<div class="row  clearfix" ><label>Your Name : <span>*</span></label><input name="yourname" id="yourname" type="text"  /><span id="yournameInfo"></span></div>
+ 	<div class="row  clearfix" ><label> Email : <span>*</span></label><input name="youremail" id="youremail" type="text"  /><span id="youremailInfo"></span></div>
+	<div class="row  clearfix" ><label>Subject : <span>*</span></label><input name="frnd_subject" value="About Design and journalism" id="frnd_subject" type="text"  /></div>
+	<div class="row  clearfix" ><label>Comments : <span>*</span></label>
+     <textarea name="frnd_comments" id="frnd_comments" cols="" rows="" >Hi there, do check out the information about this Article.</textarea></div>
+	<input name="Send" type="submit" value="Send " class="button " />
+</form>
+</div>
+<script type="text/javascript" src="http://www.oert.org/wp-content/themes/WikiBase/library/js/email_frnd_validation.js"></script>
+<!-- here -->   </div> <!-- wrapper #end -->
+  
+<div id="footer" class="clearfix">
+<div id="footer_in">
+<p class="copy"><a rel="license" href="http://creativecommons.org/licenses/by-sa/2.5/ar/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/2.5/ar/80x15.png" /></a> <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Open Educational Resources for Typography</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.oert.org/" property="cc:attributionName" rel="cc:attributionURL">OERT</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.5/ar/">Creative Commons Attribution-ShareAlike 2.5 Argentina License</a>.</p>
+<p class="fr"><span class="designby">Alojado en </span>
+<span class="wiroos"><a href="http://www.wiroos.com" title="Wiroos">Wiroos</a></span>
+</p>	
+</div></div> <!-- footer #end -->
+
+        <script type="text/javascript">
+          var pfHeaderImgUrl = '';
+          var pfHeaderTagline = '';
+          var pfdisableClickToDel = '0';
+          var pfHideImages = '0';
+          var pfImageDisplayStyle = 'right';
+          var pfDisableEmail = '0';
+          var pfDisablePDF = '0';
+          var pfDisablePrint = '0';
+          var pfCustomCSS = '';
+
+          // PrintFriendly
+          var e = document.createElement('script'); e.type="text/javascript";
+          e.src = 'http://cdn.printfriendly.com/printfriendly.js';
+          document.getElementsByTagName('head')[0].appendChild(e);
+      </script>
+<script type='text/javascript' src='http://www.oert.org/wp-content/themes/WikiBase/library/js/livesearch.js?ver=1'></script>
+<script type='text/javascript' src='http://www.oert.org/wp-content/themes/WikiBase/library/js/jquery.hoveraccordion.min.js?ver=1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var FB_WP=FB_WP||{};FB_WP.queue={_methods:[],flushed:false,add:function(fn){FB_WP.queue.flushed?fn():FB_WP.queue._methods.push(fn)},flush:function(){for(var fn;fn=FB_WP.queue._methods.shift();){fn()}FB_WP.queue.flushed=true}};window.fbAsyncInit=function(){FB.init({"channelUrl":"http:\/\/www.oert.org\/wp-content\/plugins\/facebook\/channel.php","xfbml":true,"appId":"285109618260716"});if(FB_WP && FB_WP.queue && FB_WP.queue.flush){FB_WP.queue.flush()}}
+/* ]]> */
+</script>
+<div id="fb-root"></div><script type="text/javascript">(function(d){var id="facebook-jssdk";if(!d.getElementById(id)){var js=d.createElement("script"),ref=d.getElementsByTagName("script")[0];js.id=id,js.async=true,js.src="http:\/\/connect.facebook.net\/es_ES\/all.js",ref.parentNode.insertBefore(js,ref)}})(document)</script>
+<script type='text/javascript' src=''></script>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27724959-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script><script type="text/javascript">
+	//<![CDATA[
+		function initBelle() {
+			Belle.AjaxURL		= "http://www.oert.org/en//?sajax=1"
+			// Initialize Livesearch
+			Belle.LiveSearch	= new LiveSearch( "Escribe y obten resultados al instante" )
+			}
+		jQuery(document).ready( function() { initBelle() })
+	//]]>
+	</script>
+<!-- LOAD JAVASCRIPT LATE - JUST BEFORE THE BODY TAG 
+		 That way the browser will have loaded the images
+	  	 and will know the width of the images. No need to
+		 specify the width in the CSS or inline. -->
+
+	<!-- jQuery library - Please load it from Google API's -->
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+
+	<!-- jQuery UI Widget and Effects Core (custom download)
+		 You can make your own at: http://jqueryui.com/download -->
+	<script src="http://www.oert.org/wp-content/themes/WikiBase/library/js/jquery-ui-1.8.18.custom.min.js" type="text/javascript"></script>
+	
+	<!-- Latest version of jQuery Mouse Wheel by Brandon Aaron
+		 You will find it here: http://brandonaaron.net/code/mousewheel/demos -->
+	<script src="http://www.oert.org/wp-content/themes/WikiBase/library/js/jquery.mousewheel.min.js" type="text/javascript"></script>
+
+	<!-- Smooth Div Scroll 1.2 minified-->
+	<script src="http://www.oert.org/wp-content/themes/WikiBase/library/js/jquery.smoothdivscroll-1.2-min.js" type="text/javascript"></script>
+
+	<!-- If you want to look at the uncompressed version you find it at
+		 js/jquery.smoothDivScroll-1.2.js -->
+
+	<!-- Plugin initialization -->
+	<script type="text/javascript">
+		jQuery(document).ready(function () {
+			jQuery("#logoParade").smoothDivScroll({
+				autoScrollingMode: "always",
+				autoScrollingDirection: "endlessloopright",
+				autoScrollingStep: 1,
+				autoScrollingInterval: 25 
+			});
+
+			// Logo parade
+			jQuery("#logoParade").bind("mouseover", function () {
+				jQuery(this).smoothDivScroll("stopAutoScrolling");
+			}).bind("mouseout", function () {
+				jQuery(this).smoothDivScroll("startAutoScrolling");
+			});
+
+		});
+		
+	</script>	
+	
+</body></html>

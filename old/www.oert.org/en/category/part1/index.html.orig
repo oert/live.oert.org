@@ -1,0 +1,1002 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<title>
+Theory&nbsp;|&nbsp;OERT</title>
+
+<link rel="stylesheet" href="http://www.oert.org/wp-content/plugins/sitepress-multilingual-cms/res/css/language-selector.css?v=2.6.0" type="text/css" media="all" />
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="stylesheet" type="text/css" href="http://www.oert.org/wp-content/themes/WikiBase/style.css" media="screen" />
+<link rel="shortcut icon" type="image/png" href="http://www.oert.org/wp-content/uploads/favicon.ico" />
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.oert.org/en/feed/" />
+<link rel="pingback" href="http://www.oert.org/xmlrpc.php" />
+
+<link rel="stylesheet" type="text/css" href="http://www.oert.org/wp-content/themes/WikiBase/library/css/print.css" media="print" />
+<link rel="Stylesheet" type="text/css" href="http://www.oert.org/wp-content/themes/WikiBase/library/css/smoothDivScroll.css" />
+
+<script src="http://connect.facebook.net/es_ES/all.js#xfbml=1"></script>
+<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+<script src="https://apis.google.com/js/plusone.js" type="text/javascript"></script>
+
+
+ <link href="http://www.oert.org/wp-content/themes/WikiBase/custom.css" rel="stylesheet" type="text/css">
+<script language="javascript" type="text/javascript">
+	function hasClass(ele,cls) {
+	return ele.className.match(new RegExp('(\\s|^)'+cls+'(\\s|$)'));
+	}
+
+    function addClass(ele,cls) {
+    if (!this.hasClass(ele,cls)) ele.className += " "+cls;
+    }
+    function removeClass(ele,cls) {
+    if (hasClass(ele,cls)) {
+        var reg = new RegExp('(\\s|^)'+cls+'(\\s|$)');
+        ele.className=ele.className.replace(reg,' ');
+    }
+    }
+
+    function showHideDiv(sids,divids)
+    {
+		//alert(sids);
+		//alert(divids);
+        var divstyle = new String();
+		var spanstyle = new String();
+		var spansid = new String();
+		spansid = document.getElementById(sids);
+        divstyle = document.getElementById(divids).style.display;
+        if(divstyle.toLowerCase()=="block" || divstyle == "")
+        {
+            document.getElementById(divids).style.display = "none";
+			removeClass(spansid,'neg');
+			addClass(spansid,'pos');
+        }
+        else
+        {
+            document.getElementById(divids).style.display = "block";
+			removeClass(spansid,'pos');
+			addClass(spansid,'neg');
+        }
+    }
+    </script>
+    <script type="text/javascript">
+        $(document).ready( function() {
+            $('#menu-recursos').hoverAccordion({
+                keepHeight:true,
+                activateItem: 3,
+                speed: 400
+            });
+        });
+    </script>
+        
+<link rel="dns-prefetch" href="//connect.facebook.net" />
+<link rel="alternate" type="application/rss+xml" title="OERT &raquo; Theory Category Feed" href="http://www.oert.org/en/category/part1/feed/" />
+<link rel='stylesheet' id='wpml-cms-nav-css-css'  href='http://www.oert.org/wp-content/plugins/wpml-cms-nav/res/css/navigation.css?ver=1.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='cms-navigation-style-base-css'  href='http://www.oert.org/wp-content/plugins/wpml-cms-nav/res/css/cms-navigation-base.css?ver=1.2.7' type='text/css' media='screen' />
+<link rel='stylesheet' id='cms-navigation-style-css'  href='http://www.oert.org/wp-content/plugins/wpml-cms-nav/res/css/cms-navigation.css?ver=1.2.7' type='text/css' media='screen' />
+<link rel='stylesheet' id='good-old-gallery-theme-css'  href='http://www.oert.org/wp-content/plugins/good-old-gallery/themes/good-old-gallery-dots/good-old-gallery-dots.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='good-old-gallery-css'  href='http://www.oert.org/wp-content/plugins/good-old-gallery/assets/css/good-old-gallery.css?ver=3.5.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.oert.org/wp-includes/js/jquery/jquery.js?ver=1.8.3'></script>
+<script type='text/javascript' src='http://www.oert.org/wp-content/themes/WikiBase/library/js/functions.js?ver=1'></script>
+<script type='text/javascript' src='http://www.oert.org/wp-content/plugins/good-old-gallery/plugins/cycle/jquery.cycle.all.min.js?ver=3.5.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.oert.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.oert.org/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.5.1" />
+
+	<!-- This site uses Good Old Gallery, get it from http://wp.unwi.se/good-old-gallery -->
+
+        <style type="text/css" media="screen">
+          div.printfriendly {
+            margin: 0px 0px 0px 0px;;
+          }
+          div.printfriendly a, div.printfriendly a:link, div.printfriendly a:visited {
+            text-decoration: none;
+            font-size: 14px;
+            color: #99cc00;
+            vertical-align: bottom;
+            border: none;
+          }
+
+          .printfriendly a:hover {
+            cursor: pointer;
+          }
+
+          .printfriendly a img  {
+            border: none;
+            padding:0;
+            margin-right: 6px;
+            display:inline-block;
+            box-shadow: none;
+            -webkit-box-shadow: none;
+            -moz-box-shadow: none;
+          }
+          .printfriendly a span{
+            vertical-align: bottom;
+          }
+          .pf-alignleft {
+            float: left;
+          }
+          .pf-alignright {
+            float: right;
+          }
+          div.pf-aligncenter {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            text-align: center;
+          }
+        </style>
+        <style type="text/css" media="print">
+          .printfriendly {
+            display: none;
+          }
+        </style>
+<script type="text/javascript">var icl_lang = 'en';var icl_home = 'http://www.oert.org/en/';</script>
+<script type="text/javascript" src="http://www.oert.org/wp-content/plugins/sitepress-multilingual-cms/res/js/sitepress.js"></script>
+<meta name="generator" content="WPML ver:2.6.0 stt:1,2;0" />
+<link rel="alternate" hreflang="es_ES" href="http://www.oert.org/category/parte1/" />
+
+<style type="text/css">#lang_sel a, #lang_sel a.lang_sel_sel{color:#444444;}#lang_sel a:hover, #lang_sel a.lang_sel_sel:hover{color:#000000;}#lang_sel a.lang_sel_sel, #lang_sel a.lang_sel_sel:visited{background-color:#f5f4f2;}#lang_sel a.lang_sel_sel:hover{background-color:#eeeeee;}#lang_sel li ul a, #lang_sel li ul a:visited{color:#444444;}#lang_sel li ul a:hover{color:#000000;}#lang_sel li ul a, #lang_sel li ul a:link, #lang_sel li ul a:visited{background-color:#f5f4f2;}#lang_sel li ul a:hover{background-color:#eeeeee;}#lang_sel a, #lang_sel a:visited{border-color:#cdcdcd;} #lang_sel ul ul{border-top:1px solid #cdcdcd;}</style>
+
+<style type="text/css">#lang_sel  {width: 195px; margin-bottom:24px;}
+#lang_sel a {font-size:12px;}
+#lang_sel li {width:192px; }
+
+</style>		<link href="http://www.oert.org/wp-content/themes/WikiBase/skins/1-default.css" rel="stylesheet" type="text/css" />
+
+
+<link href='http://boakes.org/most-wanted?v=0.1.9v' />
+<link rel="canonical" href="http://www.oert.org/en/category/part1/"/>
+<meta property="og:site_name" content="OERT" />
+<meta property="og:type" content="website" />
+<meta property="og:locale" content="es_ES" />
+<meta property="fb:app_id" content="285109618260716" />
+</head>
+<body class="archive category category-part1 category-19">
+<div id="header">   
+<div id="header_in" class="clearfix">
+<div class="logo"> 
+   <div class="blog-title"><a href="http://www.oert.org/en//">OERT</a> 
+		
+		 <p class="blog-description">
+		  Open Educational Resources for Typography		</p>
+   </div> 
+   </div>
+                        <div class="header_right">
+        	<p>Última actualización: <span>April 7, 2013</span></p>
+                        <form method="get" id="searchform" action="http://www.oert.org/en/">
+<div id="search-form-wrap">
+<label for="s" id="search-label">Buscar:</label>
+<input type="text" id="s" name="s" accesskey="4" value="" />
+<input type="hidden" name="stype" value="ajsearch" />
+<input type="submit" name="stype" value="Search" style="display:none;" class="b_search" />
+<span id="searchreset" title="Reset Search"></span>
+<span id="searchload"></span>
+</div>
+</form>
+
+                    </div>               
+   </div> 
+ </div>   <!-- header #end -->     
+
+  <div id="wrapper" class="clearfix">     
+    <div id="content" class="clearfix">
+     <div id="current-content"> <!-- Please Don't Delete this current-content Div it's compulsory for Ajax Search -->
+                <div class="breadcrumb clearfix">
+        <a rel="nofollow" href="http://www.oert.org/en/">Home</a>  Theory        </div>
+       
+    <h1 class="cat_head clearfix" >
+       <span class="fl"> Theory</span>
+     
+          
+     	<a href="http://www.oert.org/en//?cat=&amp;feed=rss2" class="i_rss"> Receive Updates For This Category </a>
+    	 </h1>
+           
+        
+        <div class="sortby">
+		<span class="title">List By Category:</span>
+<form action="http://www.oert.org/en//" method="get" class="category_form">
+<select name='cat' id='cat' class='postform'  onchange='return this.form.submit()'>
+	<option value='-1'>Select category</option>
+	<option class="level-0" value="19" selected="selected">Theory&nbsp;&nbsp;(29)</option>
+	<option class="level-1" value="22">&nbsp;&nbsp;&nbsp;Letter&nbsp;&nbsp;(16)</option>
+	<option class="level-1" value="23">&nbsp;&nbsp;&nbsp;Text&nbsp;&nbsp;(4)</option>
+	<option class="level-1" value="24">&nbsp;&nbsp;&nbsp;Page&nbsp;&nbsp;(9)</option>
+	<option class="level-0" value="21">History&nbsp;&nbsp;(10)</option>
+</select>
+    <noscript><div><input type="submit" value="View" /></div></noscript>
+</form>
+		
+         <span class="title">List By Month:</span>
+<select name="archive-dropdown" class="archive_form" onchange="document.location.href=this.options[this.selectedIndex].value;">
+<option value="">Select Month</option> 
+	<option value='http://www.oert.org/en/2012/04/'> April 2012 &nbsp;(39)</option>
+</select>
+		    <div class="sort_pages" > <span class="title">Per Page : </span> 
+    <form method="get" name="post_per_page_frm" id="post_per_page_frm" action="http://www.oert.org/en/category/part1/" >
+        		<input type="hidden" name="per_pg" value="0" />	
+		        <select name="per_pg" class="select_page" onchange="document.post_per_page_frm.submit()">
+        <option  >10</option> 
+        <option >20</option> 
+        <option >30</option> 
+        <option >40</option> 
+        <option >50</option> 
+        <option >100</option> 
+        </select>
+    </form></div>
+            </div>
+          <script type="text/javascript">
+	  //<![CDATA[
+function content_loader_js(url_link,link_li) // ajax page loader
+	{
+		var $h = jQuery.noConflict();
+		document.getElementById('artilepaging').innerHTML = '<img src="http://www.oert.org/wp-content/themes/WikiBase/images/spinner.gif" alt="" /> <br /><br /><b>Loading ...</b>';
+		if(url_link.indexOf("?")<0)
+		{
+			url_link1 = url_link + "?tp=ajax";
+		}else
+		{
+			url_link1 = url_link + "&tp=ajax";
+		}
+		$h.ajax({
+			url: url_link1,
+			type: 'GET',
+			dataType: 'html',
+			timeout: 9000,
+			error: function(){
+				alert('Error loading information');
+			},
+			success: function(html){
+				if(eval(document.getElementById('artilepaging')))
+				{
+					document.getElementById('artilepaging').innerHTML=html;
+				}
+				
+			}
+		});
+		return false;
+	}
+	//]]>
+</script>
+      <div id="artilepaging"> <!-- Please Don't Delete this artilepaging Div it's compulsory for Ajax Paging -->
+	 			                      
+                  
+                <div class="feature-box clearfix">
+                  <div class="subheading">
+                    <a href="http://www.oert.org/en/typography-and-information-layout/" title="Show/hide additional information">
+                    Typography and information layout                     </a> <span class="pos" id="as669" onclick="showHideDiv('as669','ad669');"></span>
+                    
+                    </div>
+                    <p class="post_info clearfix">   		<span>April 27, 2012 </span>
+       		<span class="i_cate"> <a href="http://www.oert.org/en/category/part1/part1-2/" title="View all posts in Text" rel="category tag">Text</a>, <a href="http://www.oert.org/en/category/part1/" title="View all posts in Theory" rel="category tag">Theory</a> </span>
+       		<span> <a href="http://www.oert.org/en/typography-and-information-layout/#commentarea"  class="i_comment" ><fb:comments-count xmlns="http://ogp.me/ns/fb#" href="http://www.oert.org/en/typography-and-information-layout/"></fb:comments-count> Comments </a></span>
+     </p>
+                
+                  <div  class="options-box" id="ad669" style="display:none;">                     	
+                           	                
+                
+                 
+               	    
+                 <p>  <span class="highlight_word"></span>Contents<span class="highlight_word"></span> <span class="highlight_word"></span>to<span class="highlight_word"></span> <span class="highlight_word"></span>be<span class="highlight_word"></span> <span class="highlight_word"></span>communicated<span class="highlight_word"></span>. <span class="highlight_word"></span>Definition<span class="highlight_word"></span> <span class="highlight_word"></span>of<span class="highlight_word"></span> <span class="highlight_word"></span>the<span class="highlight_word"></span> <span class="highlight_word"></span>media<span class="highlight_word"></span> <span class="highlight_word"></span>or<span class="highlight_word"></span> <span class="highlight_word"></span>the<span class="highlight_word"></span> <span class="highlight_word"></span>piece<span class="highlight_word"></span>. <span class="highlight_word"></span>Types<span class="highlight_word"></span> <span class="highlight_word"></span>of<span class="highlight_word"></span> <span class="highlight_word"></span>contents<span class="highlight_word"></span>: <span class="highlight_word"></span>identity<span class="highlight_word"></span>, <span class="highlight_word"></span>textual<span class="highlight_word"></span> <span class="highlight_word"></span>information<span class="highlight_word"></span>, <span class="highlight_word"></span>graphic<span class="highlight_word"></span> <span class="highlight_word"></span>information<span class="highlight_word"></span>, <span class="highlight_word"></span>data<span class="highlight_word"></span> <span class="highlight_word"></span>grids<span class="highlight_word"></span>, <span class="highlight_word"></span>etc<span class="highlight_word"></span>., <span class="highlight_word"></span>to<span class="highlight_word"></span> <span class="highlight_word"></span>create<span class="highlight_word"></span> <span class="highlight_word"></span>the<span class="highlight_word"></span> <span class="highlight_word"></span>necessary<span class="highlight_word"></span> <span class="highlight_word"></span>graphic<span class="highlight_word"></span> <span class="highlight_word"></span>and<span class="highlight_word"></span> <span class="highlight_word"></span>typographic<span class="highlight_word"></span> <span class="highlight_word"></span>repertoire<span class="highlight_word"></span>. <span class="highlight_word"></span>Choosing<span class="highlight_word"></span> <span class="highlight_word"></span>the<span class="highlight_word"></span> <span class="highlight_word"></span>graphic<span class="highlight_word"></span> <span class="highlight_word"></span>tools<span class="highlight_word"></span>. <span class="highlight_word"></span>Controlled<span class="highlight_word"></span> <span class="highlight_word"></span>combination<span class="highlight_word"></span> <span class="highlight_word"></span>of<span class="highlight_word"></span> <span class="highlight_word"></span>text<span class="highlight_word"></span>, <span class="highlight_word"></span>image<span class="highlight_word"></span>, <span class="highlight_word"></span>dingbats<span class="highlight_word"></span>, <span class="highlight_word"></span>and<span class="highlight_word"></span> <span class="highlight_word"></span>decorative<span class="highlight_word"></span> <span class="highlight_word"></span>elements<span class="highlight_word"></span> <span class="highlight_word"></span>to<span class="highlight_word"></span> <span class="highlight_word"></span>transmit<span class="highlight_word"></span> <span class="highlight_word"></span>content<span class="highlight_word"></span> <span class="highlight_word"></span>in<span class="highlight_word"></span> <span class="highlight_word"></span>the<span class="highlight_word"></span> <span class="highlight_word"></span>best<span class="highlight_word"></span> <span class="highlight_word"></span>possible<span class="highlight_word"></span> <span class="highlight_word"></span>way<span class="highlight_word"></span>.</p>
+                <p class="more">  <a href="http://www.oert.org/en/typography-and-information-layout/" class="more">Read More</a> </p>
+                
+                                
+                
+                
+                
+                
+                
+                
+                    </div> <!-- content #end -->
+              </div> <!-- featured box #end -->
+                            
+                  
+                <div class="feature-box clearfix">
+                  <div class="subheading">
+                    <a href="http://www.oert.org/en/typography-and-typographic-systems/" title="Show/hide additional information">
+                    Typography and typographic systems                     </a> <span class="pos" id="as670" onclick="showHideDiv('as670','ad670');"></span>
+                    
+                    </div>
+                    <p class="post_info clearfix">   		<span>April 27, 2012 </span>
+       		<span class="i_cate"> <a href="http://www.oert.org/en/category/part1/part1-2/" title="View all posts in Text" rel="category tag">Text</a>, <a href="http://www.oert.org/en/category/part1/" title="View all posts in Theory" rel="category tag">Theory</a> </span>
+       		<span> <a href="http://www.oert.org/en/typography-and-typographic-systems/#commentarea"  class="i_comment" ><fb:comments-count xmlns="http://ogp.me/ns/fb#" href="http://www.oert.org/en/typography-and-typographic-systems/"></fb:comments-count> Comments </a></span>
+     </p>
+                
+                  <div  class="options-box" id="ad670" style="display:none;">                     	
+                           	                
+                
+                 
+               	    
+                 <p>  <span class="highlight_word"></span>Program<span class="highlight_word"></span> <span class="highlight_word"></span>as<span class="highlight_word"></span> <span class="highlight_word"></span>system<span class="highlight_word"></span>. <span class="highlight_word"></span>Constants<span class="highlight_word"></span> <span class="highlight_word"></span>and<span class="highlight_word"></span> <span class="highlight_word"></span>variables<span class="highlight_word"></span>. <span class="highlight_word"></span>Open<span class="highlight_word"></span> <span class="highlight_word"></span>or<span class="highlight_word"></span> <span class="highlight_word"></span>closed<span class="highlight_word"></span> <span class="highlight_word"></span>system<span class="highlight_word"></span>. <span class="highlight_word"></span>Program<span class="highlight_word"></span> <span class="highlight_word"></span>and<span class="highlight_word"></span> <span class="highlight_word"></span>project<span class="highlight_word"></span>. <span class="highlight_word"></span>Elements<span class="highlight_word"></span> <span class="highlight_word"></span>of<span class="highlight_word"></span> <span class="highlight_word"></span>the<span class="highlight_word"></span> <span class="highlight_word"></span>program<span class="highlight_word"></span> <span class="highlight_word"></span>as<span class="highlight_word"></span> <span class="highlight_word"></span>tools<span class="highlight_word"></span> <span class="highlight_word"></span>used<span class="highlight_word"></span> <span class="highlight_word"></span>to<span class="highlight_word"></span> <span class="highlight_word"></span>inform<span class="highlight_word"></span>, <span class="highlight_word"></span>persuade<span class="highlight_word"></span>, <span class="highlight_word"></span>and<span class="highlight_word"></span> <span class="highlight_word"></span>communicate<span class="highlight_word"></span>. <span class="highlight_word"></span>Graphic<span class="highlight_word"></span> <span class="highlight_word"></span>piece<span class="highlight_word"></span> <span class="highlight_word"></span>characteristics<span class="highlight_word"></span>. <span class="highlight_word"></span>Derived<span class="highlight_word"></span> <span class="highlight_word"></span>identity<span class="highlight_word"></span>.
+</p>
+                <p class="more">  <a href="http://www.oert.org/en/typography-and-typographic-systems/" class="more">Read More</a> </p>
+                
+                                
+                
+                
+                
+                
+                
+                
+                    </div> <!-- content #end -->
+              </div> <!-- featured box #end -->
+                            
+                  
+                <div class="feature-box clearfix">
+                  <div class="subheading">
+                    <a href="http://www.oert.org/en/text-image-dingbats-and-decorative-elements/" title="Show/hide additional information">
+                    Text, image, dingbats and decorative elements  <small class="featured"> Featured</small>                    </a> <span class="pos" id="as666" onclick="showHideDiv('as666','ad666');"></span>
+                    
+                    </div>
+                    <p class="post_info clearfix">   		<span>April 27, 2012 </span>
+       		<span class="i_cate"> <a href="http://www.oert.org/en/category/part1/part1-1/" title="View all posts in Letter" rel="category tag">Letter</a> </span>
+       		<span> <a href="http://www.oert.org/en/text-image-dingbats-and-decorative-elements/#commentarea"  class="i_comment" ><fb:comments-count xmlns="http://ogp.me/ns/fb#" href="http://www.oert.org/en/text-image-dingbats-and-decorative-elements/"></fb:comments-count> Comments </a></span>
+     </p>
+                
+                  <div  class="options-box" id="ad666" style="display:none;">                     	
+                           	                
+                
+                 
+               	    
+                 <p>  <span class="highlight_word"></span>Dingbats<span class="highlight_word"></span> <span class="highlight_word"></span>and<span class="highlight_word"></span> <span class="highlight_word"></span>decorative<span class="highlight_word"></span> <span class="highlight_word"></span>elements<span class="highlight_word"></span> <span class="highlight_word"></span>as<span class="highlight_word"></span> <span class="highlight_word"></span>elements<span class="highlight_word"></span> <span class="highlight_word"></span>of<span class="highlight_word"></span> <span class="highlight_word"></span>the<span class="highlight_word"></span> <span class="highlight_word"></span>typographic<span class="highlight_word"></span> <span class="highlight_word"></span>case<span class="highlight_word"></span>. <span class="highlight_word"></span>Function<span class="highlight_word"></span> <span class="highlight_word"></span>and<span class="highlight_word"></span> <span class="highlight_word"></span>types<span class="highlight_word"></span> <span class="highlight_word"></span>of<span class="highlight_word"></span> <span class="highlight_word"></span>dingbats<span class="highlight_word"></span> <span class="highlight_word"></span>and<span class="highlight_word"></span> <span class="highlight_word"></span>decorative<span class="highlight_word"></span> <span class="highlight_word"></span>elements<span class="highlight_word"></span>. <span class="highlight_word"></span>Double<span class="highlight_word"></span> <span class="highlight_word"></span>function<span class="highlight_word"></span>: <span class="highlight_word"></span>characters<span class="highlight_word"></span> <span class="highlight_word"></span>or<span class="highlight_word"></span> <span class="highlight_word"></span>image<span class="highlight_word"></span>. <span class="highlight_word"></span>Letters<span class="highlight_word"></span> <span class="highlight_word"></span>as<span class="highlight_word"></span> <span class="highlight_word"></span>images<span class="highlight_word"></span> <span class="highlight_word"></span>or<span class="highlight_word"></span> <span class="highlight_word"></span>characters<span class="highlight_word"></span>. <span class="highlight_word"></span>Relations<span class="highlight_word"></span>.
+</p>
+                <p class="more">  <a href="http://www.oert.org/en/text-image-dingbats-and-decorative-elements/" class="more">Read More</a> </p>
+                
+                                
+                
+                
+                
+                
+                
+                
+                    </div> <!-- content #end -->
+              </div> <!-- featured box #end -->
+                            
+                  
+                <div class="feature-box clearfix">
+                  <div class="subheading">
+                    <a href="http://www.oert.org/en/family-classification-selection-and-combination/" title="Show/hide additional information">
+                    Family classification, selection, and combination.                     </a> <span class="pos" id="as668" onclick="showHideDiv('as668','ad668');"></span>
+                    
+                    </div>
+                    <p class="post_info clearfix">   		<span>April 27, 2012 </span>
+       		<span class="i_cate"> <a href="http://www.oert.org/en/category/part1/part1-2/" title="View all posts in Text" rel="category tag">Text</a>, <a href="http://www.oert.org/en/category/part1/" title="View all posts in Theory" rel="category tag">Theory</a> </span>
+       		<span> <a href="http://www.oert.org/en/family-classification-selection-and-combination/#commentarea"  class="i_comment" ><fb:comments-count xmlns="http://ogp.me/ns/fb#" href="http://www.oert.org/en/family-classification-selection-and-combination/"></fb:comments-count> Comments </a></span>
+     </p>
+                
+                  <div  class="options-box" id="ad668" style="display:none;">                     	
+                           	                
+                
+                 
+               	    
+                 <p>  <span class="highlight_word"></span>Different<span class="highlight_word"></span> <span class="highlight_word"></span>typeface<span class="highlight_word"></span> <span class="highlight_word"></span>classifications<span class="highlight_word"></span>. <span class="highlight_word"></span>Uses<span class="highlight_word"></span>. <span class="highlight_word"></span>Criteria<span class="highlight_word"></span> <span class="highlight_word"></span>of<span class="highlight_word"></span> <span class="highlight_word"></span>selection<span class="highlight_word"></span> <span class="highlight_word"></span>based<span class="highlight_word"></span> <span class="highlight_word"></span>on<span class="highlight_word"></span> <span class="highlight_word"></span>function<span class="highlight_word"></span> <span class="highlight_word"></span>and<span class="highlight_word"></span>/<span class="highlight_word"></span>or<span class="highlight_word"></span> <span class="highlight_word"></span>style<span class="highlight_word"></span>. <span class="highlight_word"></span>Combination<span class="highlight_word"></span> <span class="highlight_word"></span>criteria<span class="highlight_word"></span>. <span class="highlight_word"></span>Aspects<span class="highlight_word"></span> <span class="highlight_word"></span>to<span class="highlight_word"></span> <span class="highlight_word"></span>be<span class="highlight_word"></span> <span class="highlight_word"></span>considered<span class="highlight_word"></span> <span class="highlight_word"></span>when<span class="highlight_word"></span> <span class="highlight_word"></span>combining<span class="highlight_word"></span>. <span class="highlight_word"></span>Combinations<span class="highlight_word"></span> <span class="highlight_word"></span>and<span class="highlight_word"></span> <span class="highlight_word"></span>the<span class="highlight_word"></span> <span class="highlight_word"></span>design<span class="highlight_word"></span> <span class="highlight_word"></span>piece<span class="highlight_word"></span>. <span class="highlight_word"></span>Legibility<span class="highlight_word"></span> <span class="highlight_word"></span>and<span class="highlight_word"></span> <span class="highlight_word"></span>reading<span class="highlight_word"></span> <span class="highlight_word"></span>conditions<span class="highlight_word"></span>.
+</p>
+                <p class="more">  <a href="http://www.oert.org/en/family-classification-selection-and-combination/" class="more">Read More</a> </p>
+                
+                                
+                
+                
+                
+                
+                
+                
+                    </div> <!-- content #end -->
+              </div> <!-- featured box #end -->
+                            
+                  
+                <div class="feature-box clearfix">
+                  <div class="subheading">
+                    <a href="http://www.oert.org/en/basic-concepts/" title="Show/hide additional information">
+                    Basic concepts                     </a> <span class="pos" id="as667" onclick="showHideDiv('as667','ad667');"></span>
+                    
+                    </div>
+                    <p class="post_info clearfix">   		<span>April 27, 2012 </span>
+       		<span class="i_cate"> <a href="http://www.oert.org/en/category/part1/part1-2/" title="View all posts in Text" rel="category tag">Text</a>, <a href="http://www.oert.org/en/category/part1/" title="View all posts in Theory" rel="category tag">Theory</a> </span>
+       		<span> <a href="http://www.oert.org/en/basic-concepts/#commentarea"  class="i_comment" ><fb:comments-count xmlns="http://ogp.me/ns/fb#" href="http://www.oert.org/en/basic-concepts/"></fb:comments-count> Comments </a></span>
+     </p>
+                
+                  <div  class="options-box" id="ad667" style="display:none;">                     	
+                           	                
+                
+                 
+               	    
+                 <p>  <span class="highlight_word"></span>Basic<span class="highlight_word"></span> <span class="highlight_word"></span>concepts<span class="highlight_word"></span> <span class="highlight_word"></span>for<span class="highlight_word"></span> <span class="highlight_word"></span>text<span class="highlight_word"></span> <span class="highlight_word"></span>setting<span class="highlight_word"></span>: <span class="highlight_word"></span>type<span class="highlight_word"></span> <span class="highlight_word"></span>family<span class="highlight_word"></span>; <span class="highlight_word"></span>type<span class="highlight_word"></span> <span class="highlight_word"></span>size<span class="highlight_word"></span>, <span class="highlight_word"></span>units<span class="highlight_word"></span> <span class="highlight_word"></span>and<span class="highlight_word"></span> <span class="highlight_word"></span>measuring<span class="highlight_word"></span> <span class="highlight_word"></span>instruments<span class="highlight_word"></span>; <span class="highlight_word"></span>typographic<span class="highlight_word"></span> <span class="highlight_word"></span>variables<span class="highlight_word"></span>; <span class="highlight_word"></span>spatial<span class="highlight_word"></span> <span class="highlight_word"></span>relations<span class="highlight_word"></span> <span class="highlight_word"></span>in<span class="highlight_word"></span> <span class="highlight_word"></span>words<span class="highlight_word"></span>, <span class="highlight_word"></span>lines<span class="highlight_word"></span> <span class="highlight_word"></span>and<span class="highlight_word"></span> <span class="highlight_word"></span>paragraphs<span class="highlight_word"></span>; <span class="highlight_word"></span>typographic<span class="highlight_word"></span> <span class="highlight_word"></span>color<span class="highlight_word"></span>; <span class="highlight_word"></span>the<span class="highlight_word"></span> <span class="highlight_word"></span>paragraph<span class="highlight_word"></span> <span class="highlight_word"></span>as<span class="highlight_word"></span> <span class="highlight_word"></span>the<span class="highlight_word"></span> <span class="highlight_word"></span>fundamental<span class="highlight_word"></span> <span class="highlight_word"></span>unit<span class="highlight_word"></span> <span class="highlight_word"></span>in<span class="highlight_word"></span> <span class="highlight_word"></span>a<span class="highlight_word"></span> <span class="highlight_word"></span>piece<span class="highlight_word"></span> <span class="highlight_word"></span>of<span class="highlight_word"></span> <span class="highlight_word"></span>work<span class="highlight_word"></span>; <span class="highlight_word"></span>text<span class="highlight_word"></span> <span class="highlight_word"></span>attributes<span class="highlight_word"></span>; <span class="highlight_word"></span>margins<span class="highlight_word"></span>; <span class="highlight_word"></span>word<span class="highlight_word"></span> <span class="highlight_word"></span>division<span class="highlight_word"></span>; <span class="highlight_word"></span>legibility<span class="highlight_word"></span> <span class="highlight_word"></span>and<span class="highlight_word"></span> <span class="highlight_word"></span>orthography<span class="highlight_word"></span> <span class="highlight_word"></span>for<span class="highlight_word"></span> <span class="highlight_word"></span>editors<span class="highlight_word"></span>.</p>
+                <p class="more">  <a href="http://www.oert.org/en/basic-concepts/" class="more">Read More</a> </p>
+                
+                                
+                
+                
+                
+                
+                
+                
+                    </div> <!-- content #end -->
+              </div> <!-- featured box #end -->
+                            
+                  
+                <div class="feature-box clearfix">
+                  <div class="subheading">
+                    <a href="http://www.oert.org/en/design-and-journalism/" title="Show/hide additional information">
+                    Design and journalism                     </a> <span class="pos" id="as660" onclick="showHideDiv('as660','ad660');"></span>
+                    
+                    </div>
+                    <p class="post_info clearfix">   		<span>April 27, 2012 </span>
+       		<span class="i_cate"> <a href="http://www.oert.org/en/category/part1/part1-3/" title="View all posts in Page" rel="category tag">Page</a>, <a href="http://www.oert.org/en/category/part1/" title="View all posts in Theory" rel="category tag">Theory</a> </span>
+       		<span> <a href="http://www.oert.org/en/design-and-journalism/#commentarea"  class="i_comment" ><fb:comments-count xmlns="http://ogp.me/ns/fb#" href="http://www.oert.org/en/design-and-journalism/"></fb:comments-count> Comments </a></span>
+     </p>
+                
+                  <div  class="options-box" id="ad660" style="display:none;">                     	
+                           	                
+                
+                 
+               	    
+                 <p>  <span class="highlight_word"></span>Magazine<span class="highlight_word"></span> <span class="highlight_word"></span>design<span class="highlight_word"></span>: <span class="highlight_word"></span>between<span class="highlight_word"></span> <span class="highlight_word"></span>graphic<span class="highlight_word"></span> <span class="highlight_word"></span>journalism<span class="highlight_word"></span> <span class="highlight_word"></span>and<span class="highlight_word"></span> <span class="highlight_word"></span>journalistic<span class="highlight_word"></span> <span class="highlight_word"></span>communication<span class="highlight_word"></span>. <span class="highlight_word"></span>Features<span class="highlight_word"></span>. <span class="highlight_word"></span>Graphic<span class="highlight_word"></span> <span class="highlight_word"></span>journalism<span class="highlight_word"></span>: <span class="highlight_word"></span>content<span class="highlight_word"></span> <span class="highlight_word"></span>and<span class="highlight_word"></span> <span class="highlight_word"></span>codes<span class="highlight_word"></span>. <span class="highlight_word"></span>Journalism<span class="highlight_word"></span> <span class="highlight_word"></span>genres<span class="highlight_word"></span>: <span class="highlight_word"></span>characteristics<span class="highlight_word"></span> <span class="highlight_word"></span>and<span class="highlight_word"></span> <span class="highlight_word"></span>considerations<span class="highlight_word"></span> <span class="highlight_word"></span>about<span class="highlight_word"></span> <span class="highlight_word"></span>news<span class="highlight_word"></span>, <span class="highlight_word"></span>interviews<span class="highlight_word"></span> <span class="highlight_word"></span>and<span class="highlight_word"></span> <span class="highlight_word"></span>stories<span class="highlight_word"></span>. <span class="highlight_word"></span>Text<span class="highlight_word"></span> <span class="highlight_word"></span>structure<span class="highlight_word"></span> <span class="highlight_word"></span>and<span class="highlight_word"></span> <span class="highlight_word"></span>hierarchy<span class="highlight_word"></span>.
+</p>
+                <p class="more">  <a href="http://www.oert.org/en/design-and-journalism/" class="more">Read More</a> </p>
+                
+                                
+                
+                
+                
+                
+                
+                
+                    </div> <!-- content #end -->
+              </div> <!-- featured box #end -->
+                            
+                  
+                <div class="feature-box clearfix">
+                  <div class="subheading">
+                    <a href="http://www.oert.org/en/graphic-resources-for-periodical-publications/" title="Show/hide additional information">
+                    Graphic resources for regular editions                     </a> <span class="pos" id="as659" onclick="showHideDiv('as659','ad659');"></span>
+                    
+                    </div>
+                    <p class="post_info clearfix">   		<span>April 27, 2012 </span>
+       		<span class="i_cate"> <a href="http://www.oert.org/en/category/part1/part1-3/" title="View all posts in Page" rel="category tag">Page</a>, <a href="http://www.oert.org/en/category/part1/" title="View all posts in Theory" rel="category tag">Theory</a> </span>
+       		<span> <a href="http://www.oert.org/en/graphic-resources-for-periodical-publications/#commentarea"  class="i_comment" ><fb:comments-count xmlns="http://ogp.me/ns/fb#" href="http://www.oert.org/en/graphic-resources-for-periodical-publications/"></fb:comments-count> Comments </a></span>
+     </p>
+                
+                  <div  class="options-box" id="ad659" style="display:none;">                     	
+                           	                
+                
+                 
+               	    
+                 <p>  <span class="highlight_word"></span>Models<span class="highlight_word"></span> <span class="highlight_word"></span>for<span class="highlight_word"></span> <span class="highlight_word"></span>periodical<span class="highlight_word"></span> <span class="highlight_word"></span>publications<span class="highlight_word"></span>: <span class="highlight_word"></span>constants<span class="highlight_word"></span> <span class="highlight_word"></span>and<span class="highlight_word"></span> <span class="highlight_word"></span>variables<span class="highlight_word"></span>. <span class="highlight_word"></span>Publication<span class="highlight_word"></span> <span class="highlight_word"></span>structure<span class="highlight_word"></span>. <span class="highlight_word"></span>Navigation<span class="highlight_word"></span> <span class="highlight_word"></span>resources<span class="highlight_word"></span>. <span class="highlight_word"></span>Text<span class="highlight_word"></span> <span class="highlight_word"></span>editing<span class="highlight_word"></span>: <span class="highlight_word"></span>titles<span class="highlight_word"></span> (<span class="highlight_word"></span>header<span class="highlight_word"></span>, <span class="highlight_word"></span>banner<span class="highlight_word"></span>, <span class="highlight_word"></span>title<span class="highlight_word"></span> <span class="highlight_word"></span>or<span class="highlight_word"></span> <span class="highlight_word"></span>headline<span class="highlight_word"></span>, <span class="highlight_word"></span>and<span class="highlight_word"></span> <span class="highlight_word"></span>sub<span class="highlight_word"></span> <span class="highlight_word"></span>headings<span class="highlight_word"></span>, <span class="highlight_word"></span>lead<span class="highlight_word"></span> <span class="highlight_word"></span>or<span class="highlight_word"></span> <span class="highlight_word"></span>summary<span class="highlight_word"></span>), <span class="highlight_word"></span>fast<span class="highlight_word"></span> <span class="highlight_word"></span>reading<span class="highlight_word"></span> <span class="highlight_word"></span>elements<span class="highlight_word"></span> (<span class="highlight_word"></span>epigraph<span class="highlight_word"></span>, <span class="highlight_word"></span>highlight<span class="highlight_word"></span>, <span class="highlight_word"></span>subordinated<span class="highlight_word"></span> <span class="highlight_word"></span>notes<span class="highlight_word"></span>, <span class="highlight_word"></span>tables<span class="highlight_word"></span>, <span class="highlight_word"></span>summaries<span class="highlight_word"></span>). <span class="highlight_word"></span>Relation<span class="highlight_word"></span> <span class="highlight_word"></span>between<span class="highlight_word"></span> <span class="highlight_word"></span>form<span class="highlight_word"></span> <span class="highlight_word"></span>and<span class="highlight_word"></span> <span class="highlight_word"></span>content<span class="highlight_word"></span>.
+</p>
+                <p class="more">  <a href="http://www.oert.org/en/graphic-resources-for-periodical-publications/" class="more">Read More</a> </p>
+                
+                                
+                
+                
+                
+                
+                
+                
+                    </div> <!-- content #end -->
+              </div> <!-- featured box #end -->
+                            
+                  
+                <div class="feature-box clearfix">
+                  <div class="subheading">
+                    <a href="http://www.oert.org/en/composition-and-modules/" title="Show/hide additional information">
+                    Composition and modules                     </a> <span class="pos" id="as658" onclick="showHideDiv('as658','ad658');"></span>
+                    
+                    </div>
+                    <p class="post_info clearfix">   		<span>April 27, 2012 </span>
+       		<span class="i_cate"> <a href="http://www.oert.org/en/category/part1/part1-3/" title="View all posts in Page" rel="category tag">Page</a>, <a href="http://www.oert.org/en/category/part1/" title="View all posts in Theory" rel="category tag">Theory</a> </span>
+       		<span> <a href="http://www.oert.org/en/composition-and-modules/#commentarea"  class="i_comment" ><fb:comments-count xmlns="http://ogp.me/ns/fb#" href="http://www.oert.org/en/composition-and-modules/"></fb:comments-count> Comments </a></span>
+     </p>
+                
+                  <div  class="options-box" id="ad658" style="display:none;">                     	
+                           	                
+                
+                 
+               	    
+                 <p>  <span class="highlight_word"></span>Order<span class="highlight_word"></span> <span class="highlight_word"></span>and<span class="highlight_word"></span> <span class="highlight_word"></span>space<span class="highlight_word"></span>. <span class="highlight_word"></span>The<span class="highlight_word"></span> <span class="highlight_word"></span>typographic<span class="highlight_word"></span> <span class="highlight_word"></span>grid<span class="highlight_word"></span> <span class="highlight_word"></span>as<span class="highlight_word"></span> <span class="highlight_word"></span>a<span class="highlight_word"></span> <span class="highlight_word"></span>tool<span class="highlight_word"></span> <span class="highlight_word"></span>for<span class="highlight_word"></span> <span class="highlight_word"></span>design<span class="highlight_word"></span> <span class="highlight_word"></span>and<span class="highlight_word"></span> <span class="highlight_word"></span>communication<span class="highlight_word"></span>. <span class="highlight_word"></span>Line<span class="highlight_word"></span> <span class="highlight_word"></span>spacing<span class="highlight_word"></span> <span class="highlight_word"></span>as<span class="highlight_word"></span> <span class="highlight_word"></span>modulation<span class="highlight_word"></span> <span class="highlight_word"></span>unit<span class="highlight_word"></span>. <span class="highlight_word"></span>Construction<span class="highlight_word"></span> <span class="highlight_word"></span>of<span class="highlight_word"></span> <span class="highlight_word"></span>the<span class="highlight_word"></span> <span class="highlight_word"></span>typographic<span class="highlight_word"></span> <span class="highlight_word"></span>grid<span class="highlight_word"></span>: <span class="highlight_word"></span>vertical<span class="highlight_word"></span> <span class="highlight_word"></span>and<span class="highlight_word"></span> <span class="highlight_word"></span>horizontal<span class="highlight_word"></span> <span class="highlight_word"></span>modulation<span class="highlight_word"></span>. <span class="highlight_word"></span>Legibility<span class="highlight_word"></span> <span class="highlight_word"></span>and<span class="highlight_word"></span> <span class="highlight_word"></span>modulation<span class="highlight_word"></span>. 
+</p>
+                <p class="more">  <a href="http://www.oert.org/en/composition-and-modules/" class="more">Read More</a> </p>
+                
+                                
+                
+                
+                
+                
+                
+                
+                    </div> <!-- content #end -->
+              </div> <!-- featured box #end -->
+                            
+                  
+                <div class="feature-box clearfix">
+                  <div class="subheading">
+                    <a href="http://www.oert.org/en/typography-and-linguistics/" title="Show/hide additional information">
+                    Typography and linguistics                     </a> <span class="pos" id="as657" onclick="showHideDiv('as657','ad657');"></span>
+                    
+                    </div>
+                    <p class="post_info clearfix">   		<span>April 27, 2012 </span>
+       		<span class="i_cate"> <a href="http://www.oert.org/en/category/part1/part1-3/" title="View all posts in Page" rel="category tag">Page</a>, <a href="http://www.oert.org/en/category/part1/" title="View all posts in Theory" rel="category tag">Theory</a> </span>
+       		<span> <a href="http://www.oert.org/en/typography-and-linguistics/#commentarea"  class="i_comment" ><fb:comments-count xmlns="http://ogp.me/ns/fb#" href="http://www.oert.org/en/typography-and-linguistics/"></fb:comments-count> Comments </a></span>
+     </p>
+                
+                  <div  class="options-box" id="ad657" style="display:none;">                     	
+                           	                
+                
+                 
+               	    
+                 <p>  <span class="highlight_word"></span>Oral<span class="highlight_word"></span> <span class="highlight_word"></span>and<span class="highlight_word"></span> <span class="highlight_word"></span>written<span class="highlight_word"></span> <span class="highlight_word"></span>texts<span class="highlight_word"></span>, <span class="highlight_word"></span>features<span class="highlight_word"></span>. <span class="highlight_word"></span>Text<span class="highlight_word"></span> <span class="highlight_word"></span>structure<span class="highlight_word"></span>, <span class="highlight_word"></span>macrostructure<span class="highlight_word"></span> <span class="highlight_word"></span>and<span class="highlight_word"></span> <span class="highlight_word"></span>superstructure<span class="highlight_word"></span>. <span class="highlight_word"></span>Types<span class="highlight_word"></span> <span class="highlight_word"></span>of<span class="highlight_word"></span> <span class="highlight_word"></span>superstructures<span class="highlight_word"></span>. <span class="highlight_word"></span>Typology<span class="highlight_word"></span> <span class="highlight_word"></span>and<span class="highlight_word"></span> <span class="highlight_word"></span>textual<span class="highlight_word"></span> <span class="highlight_word"></span>genres<span class="highlight_word"></span>. <span class="highlight_word"></span>Text<span class="highlight_word"></span> <span class="highlight_word"></span>and<span class="highlight_word"></span> <span class="highlight_word"></span>context<span class="highlight_word"></span>. <span class="highlight_word"></span>Design<span class="highlight_word"></span> <span class="highlight_word"></span>and<span class="highlight_word"></span> <span class="highlight_word"></span>linguistic<span class="highlight_word"></span> <span class="highlight_word"></span>mediation<span class="highlight_word"></span>. <span class="highlight_word"></span>Conditions<span class="highlight_word"></span> <span class="highlight_word"></span>for<span class="highlight_word"></span> <span class="highlight_word"></span>textuality<span class="highlight_word"></span>.
+</p>
+                <p class="more">  <a href="http://www.oert.org/en/typography-and-linguistics/" class="more">Read More</a> </p>
+                
+                                
+                
+                
+                
+                
+                
+                
+                    </div> <!-- content #end -->
+              </div> <!-- featured box #end -->
+                            
+                  
+                <div class="feature-box clearfix">
+                  <div class="subheading">
+                    <a href="http://www.oert.org/en/types-of-books/" title="Show/hide additional information">
+                    Types of books                     </a> <span class="pos" id="as651" onclick="showHideDiv('as651','ad651');"></span>
+                    
+                    </div>
+                    <p class="post_info clearfix">   		<span>April 27, 2012 </span>
+       		<span class="i_cate"> <a href="http://www.oert.org/en/category/part1/part1-3/" title="View all posts in Page" rel="category tag">Page</a>, <a href="http://www.oert.org/en/category/part1/" title="View all posts in Theory" rel="category tag">Theory</a> </span>
+       		<span> <a href="http://www.oert.org/en/types-of-books/#commentarea"  class="i_comment" ><fb:comments-count xmlns="http://ogp.me/ns/fb#" href="http://www.oert.org/en/types-of-books/"></fb:comments-count> Comments </a></span>
+     </p>
+                
+                  <div  class="options-box" id="ad651" style="display:none;">                     	
+                           	                
+                
+                 
+               	    
+                 <p>  <span class="highlight_word"></span>The<span class="highlight_word"></span> <span class="highlight_word"></span>book<span class="highlight_word"></span> <span class="highlight_word"></span>as<span class="highlight_word"></span> <span class="highlight_word"></span>an<span class="highlight_word"></span> <span class="highlight_word"></span>object<span class="highlight_word"></span>. <span class="highlight_word"></span>Typologies<span class="highlight_word"></span>: <span class="highlight_word"></span>literature<span class="highlight_word"></span> (<span class="highlight_word"></span>novels<span class="highlight_word"></span>, <span class="highlight_word"></span>short<span class="highlight_word"></span> <span class="highlight_word"></span>stories<span class="highlight_word"></span>), <span class="highlight_word"></span>poetry<span class="highlight_word"></span>, <span class="highlight_word"></span>plays<span class="highlight_word"></span> <span class="highlight_word"></span>and<span class="highlight_word"></span> <span class="highlight_word"></span>scripts<span class="highlight_word"></span>, <span class="highlight_word"></span>illustrated<span class="highlight_word"></span> <span class="highlight_word"></span>literature<span class="highlight_word"></span>, <span class="highlight_word"></span>art<span class="highlight_word"></span>, <span class="highlight_word"></span>informational<span class="highlight_word"></span>, <span class="highlight_word"></span>scientific<span class="highlight_word"></span>, <span class="highlight_word"></span>reference<span class="highlight_word"></span>, <span class="highlight_word"></span>textbooks<span class="highlight_word"></span>, <span class="highlight_word"></span>children<span class="highlight_word"></span> <span class="highlight_word"></span>books<span class="highlight_word"></span>, <span class="highlight_word"></span>fine<span class="highlight_word"></span> <span class="highlight_word"></span>books<span class="highlight_word"></span>. <span class="highlight_word"></span>Types<span class="highlight_word"></span> <span class="highlight_word"></span>of<span class="highlight_word"></span> <span class="highlight_word"></span>book<span class="highlight_word"></span> <span class="highlight_word"></span>and<span class="highlight_word"></span> <span class="highlight_word"></span>types<span class="highlight_word"></span> <span class="highlight_word"></span>of<span class="highlight_word"></span> <span class="highlight_word"></span>reading<span class="highlight_word"></span>. <span class="highlight_word"></span>Integral<span class="highlight_word"></span> <span class="highlight_word"></span>book<span class="highlight_word"></span> <span class="highlight_word"></span>design<span class="highlight_word"></span>.</p>
+                <p class="more">  <a href="http://www.oert.org/en/types-of-books/" class="more">Read More</a> </p>
+                
+                                
+                
+                
+                
+                
+                
+                
+                    </div> <!-- content #end -->
+              </div> <!-- featured box #end -->
+                            
+                  
+                <div class="feature-box clearfix">
+                  <div class="subheading">
+                    <a href="http://www.oert.org/en/typography-and-language-the-paragraph/" title="Show/hide additional information">
+                    Typography and language: the paragraph  <small class="featured"> Featured</small>                    </a> <span class="pos" id="as650" onclick="showHideDiv('as650','ad650');"></span>
+                    
+                    </div>
+                    <p class="post_info clearfix">   		<span>April 27, 2012 </span>
+       		<span class="i_cate"> <a href="http://www.oert.org/en/category/part1/part1-3/" title="View all posts in Page" rel="category tag">Page</a>, <a href="http://www.oert.org/en/category/part1/" title="View all posts in Theory" rel="category tag">Theory</a> </span>
+       		<span> <a href="http://www.oert.org/en/typography-and-language-the-paragraph/#commentarea"  class="i_comment" ><fb:comments-count xmlns="http://ogp.me/ns/fb#" href="http://www.oert.org/en/typography-and-language-the-paragraph/"></fb:comments-count> Comments </a></span>
+     </p>
+                
+                  <div  class="options-box" id="ad650" style="display:none;">                     	
+                           	                
+                
+                 
+               	    
+                 <p>  <span class="highlight_word"></span>Structure<span class="highlight_word"></span> <span class="highlight_word"></span>of<span class="highlight_word"></span> <span class="highlight_word"></span>the<span class="highlight_word"></span> <span class="highlight_word"></span>textual<span class="highlight_word"></span> <span class="highlight_word"></span>content<span class="highlight_word"></span>. <span class="highlight_word"></span>Study<span class="highlight_word"></span> <span class="highlight_word"></span>of<span class="highlight_word"></span> <span class="highlight_word"></span>the<span class="highlight_word"></span> <span class="highlight_word"></span>characteristics<span class="highlight_word"></span> <span class="highlight_word"></span>of<span class="highlight_word"></span> <span class="highlight_word"></span>the<span class="highlight_word"></span> <span class="highlight_word"></span>book<span class="highlight_word"></span>'<span class="highlight_word"></span>s<span class="highlight_word"></span> <span class="highlight_word"></span>content<span class="highlight_word"></span>. <span class="highlight_word"></span>The<span class="highlight_word"></span> <span class="highlight_word"></span>paragraph<span class="highlight_word"></span> <span class="highlight_word"></span>as<span class="highlight_word"></span> <span class="highlight_word"></span>structural<span class="highlight_word"></span> <span class="highlight_word"></span>piece<span class="highlight_word"></span>. <span class="highlight_word"></span>Definition<span class="highlight_word"></span>. <span class="highlight_word"></span>Types<span class="highlight_word"></span> <span class="highlight_word"></span>of<span class="highlight_word"></span> <span class="highlight_word"></span>paragraphs<span class="highlight_word"></span>: <span class="highlight_word"></span>Justified<span class="highlight_word"></span> <span class="highlight_word"></span>and<span class="highlight_word"></span> <span class="highlight_word"></span>unjustified<span class="highlight_word"></span>, <span class="highlight_word"></span>left<span class="highlight_word"></span> <span class="highlight_word"></span>ranging<span class="highlight_word"></span>, <span class="highlight_word"></span>right<span class="highlight_word"></span> <span class="highlight_word"></span>ranging<span class="highlight_word"></span>, <span class="highlight_word"></span>and<span class="highlight_word"></span> <span class="highlight_word"></span>centred<span class="highlight_word"></span>. <span class="highlight_word"></span>Symmetry<span class="highlight_word"></span> <span class="highlight_word"></span>and<span class="highlight_word"></span> <span class="highlight_word"></span>asymmetry<span class="highlight_word"></span> <span class="highlight_word"></span>in<span class="highlight_word"></span> <span class="highlight_word"></span>the<span class="highlight_word"></span> <span class="highlight_word"></span>double<span class="highlight_word"></span> <span class="highlight_word"></span>page<span class="highlight_word"></span> <span class="highlight_word"></span>spread<span class="highlight_word"></span>. <span class="highlight_word"></span>Paragraph<span class="highlight_word"></span> <span class="highlight_word"></span>attributes<span class="highlight_word"></span>. <span class="highlight_word"></span>Use<span class="highlight_word"></span> <span class="highlight_word"></span>of<span class="highlight_word"></span> <span class="highlight_word"></span>hyphens<span class="highlight_word"></span> <span class="highlight_word"></span>and<span class="highlight_word"></span> <span class="highlight_word"></span>text<span class="highlight_word"></span> <span class="highlight_word"></span>cleaning<span class="highlight_word"></span>. <span class="highlight_word"></span>Brief<span class="highlight_word"></span> <span class="highlight_word"></span>glossary<span class="highlight_word"></span>.</p>
+                <p class="more">  <a href="http://www.oert.org/en/typography-and-language-the-paragraph/" class="more">Read More</a> </p>
+                
+                                
+                
+                
+                
+                
+                
+                
+                    </div> <!-- content #end -->
+              </div> <!-- featured box #end -->
+                            
+                  
+                <div class="feature-box clearfix">
+                  <div class="subheading">
+                    <a href="http://www.oert.org/en/book-elements/" title="Show/hide additional information">
+                    Book elements                     </a> <span class="pos" id="as649" onclick="showHideDiv('as649','ad649');"></span>
+                    
+                    </div>
+                    <p class="post_info clearfix">   		<span>April 27, 2012 </span>
+       		<span class="i_cate"> <a href="http://www.oert.org/en/category/part1/part1-3/" title="View all posts in Page" rel="category tag">Page</a>, <a href="http://www.oert.org/en/category/part1/" title="View all posts in Theory" rel="category tag">Theory</a> </span>
+       		<span> <a href="http://www.oert.org/en/book-elements/#commentarea"  class="i_comment" ><fb:comments-count xmlns="http://ogp.me/ns/fb#" href="http://www.oert.org/en/book-elements/"></fb:comments-count> Comments </a></span>
+     </p>
+                
+                  <div  class="options-box" id="ad649" style="display:none;">                     	
+                           	                
+                
+                 
+               	    
+                 <p>  <span class="highlight_word"></span>Responsibility<span class="highlight_word"></span> <span class="highlight_word"></span>and<span class="highlight_word"></span> <span class="highlight_word"></span>work<span class="highlight_word"></span> <span class="highlight_word"></span>method<span class="highlight_word"></span>. <span class="highlight_word"></span>Book<span class="highlight_word"></span> <span class="highlight_word"></span>edges<span class="highlight_word"></span> <span class="highlight_word"></span>and<span class="highlight_word"></span> <span class="highlight_word"></span>care<span class="highlight_word"></span>. <span class="highlight_word"></span>Book<span class="highlight_word"></span> <span class="highlight_word"></span>cover<span class="highlight_word"></span>. <span class="highlight_word"></span>Jacket<span class="highlight_word"></span>. <span class="highlight_word"></span>Endpapers<span class="highlight_word"></span>. <span class="highlight_word"></span>Flyleaf<span class="highlight_word"></span>. <span class="highlight_word"></span>Title<span class="highlight_word"></span> <span class="highlight_word"></span>page<span class="highlight_word"></span>. <span class="highlight_word"></span>Preliminary<span class="highlight_word"></span> <span class="highlight_word"></span>Pages<span class="highlight_word"></span>. <span class="highlight_word"></span>Legal<span class="highlight_word"></span> <span class="highlight_word"></span>or<span class="highlight_word"></span> <span class="highlight_word"></span>credit<span class="highlight_word"></span> <span class="highlight_word"></span>page<span class="highlight_word"></span>. <span class="highlight_word"></span>Dedication<span class="highlight_word"></span>, <span class="highlight_word"></span>Acknowledgments<span class="highlight_word"></span>. <span class="highlight_word"></span>Prologue<span class="highlight_word"></span>. <span class="highlight_word"></span>Preface<span class="highlight_word"></span>. <span class="highlight_word"></span>Introduction<span class="highlight_word"></span>. <span class="highlight_word"></span>Contents<span class="highlight_word"></span>. <span class="highlight_word"></span>Abbreviations<span class="highlight_word"></span> <span class="highlight_word"></span>list<span class="highlight_word"></span>. <span class="highlight_word"></span>Chapter<span class="highlight_word"></span> <span class="highlight_word"></span>or<span class="highlight_word"></span> <span class="highlight_word"></span>section<span class="highlight_word"></span> <span class="highlight_word"></span>headings<span class="highlight_word"></span>. <span class="highlight_word"></span>Headings<span class="highlight_word"></span>. <span class="highlight_word"></span>Main<span class="highlight_word"></span> <span class="highlight_word"></span>text<span class="highlight_word"></span>. <span class="highlight_word"></span>The<span class="highlight_word"></span> <span class="highlight_word"></span>textblock<span class="highlight_word"></span>. <span class="highlight_word"></span>Citations<span class="highlight_word"></span>. <span class="highlight_word"></span>Pages<span class="highlight_word"></span>. <span class="highlight_word"></span>Final<span class="highlight_word"></span> <span class="highlight_word"></span>pages<span class="highlight_word"></span>. <span class="highlight_word"></span>Epigraph<span class="highlight_word"></span>. <span class="highlight_word"></span>Notes<span class="highlight_word"></span> <span class="highlight_word"></span>and<span class="highlight_word"></span> <span class="highlight_word"></span>references<span class="highlight_word"></span>. <span class="highlight_word"></span>Glossary<span class="highlight_word"></span>. <span class="highlight_word"></span>Colophon<span class="highlight_word"></span>.</p>
+                <p class="more">  <a href="http://www.oert.org/en/book-elements/" class="more">Read More</a> </p>
+                
+                                
+                
+                
+                
+                
+                
+                
+                    </div> <!-- content #end -->
+              </div> <!-- featured box #end -->
+                            
+                  
+                <div class="feature-box clearfix">
+                  <div class="subheading">
+                    <a href="http://www.oert.org/en/typography-and-proportions/" title="Show/hide additional information">
+                    Typography and proportions                     </a> <span class="pos" id="as648" onclick="showHideDiv('as648','ad648');"></span>
+                    
+                    </div>
+                    <p class="post_info clearfix">   		<span>April 27, 2012 </span>
+       		<span class="i_cate"> <a href="http://www.oert.org/en/category/part1/part1-3/" title="View all posts in Page" rel="category tag">Page</a>, <a href="http://www.oert.org/en/category/part1/" title="View all posts in Theory" rel="category tag">Theory</a> </span>
+       		<span> <a href="http://www.oert.org/en/typography-and-proportions/#commentarea"  class="i_comment" ><fb:comments-count xmlns="http://ogp.me/ns/fb#" href="http://www.oert.org/en/typography-and-proportions/"></fb:comments-count> Comments </a></span>
+     </p>
+                
+                  <div  class="options-box" id="ad648" style="display:none;">                     	
+                           	                
+                
+                 
+               	    
+                 <p>  <span class="highlight_word"></span>Proportion<span class="highlight_word"></span> <span class="highlight_word"></span>and<span class="highlight_word"></span> <span class="highlight_word"></span>order<span class="highlight_word"></span>. <span class="highlight_word"></span>Relations<span class="highlight_word"></span> <span class="highlight_word"></span>in<span class="highlight_word"></span> <span class="highlight_word"></span>page<span class="highlight_word"></span> <span class="highlight_word"></span>format<span class="highlight_word"></span>, <span class="highlight_word"></span>different<span class="highlight_word"></span> <span class="highlight_word"></span>progressions<span class="highlight_word"></span>. <span class="highlight_word"></span>Line<span class="highlight_word"></span> <span class="highlight_word"></span>length<span class="highlight_word"></span> <span class="highlight_word"></span>and<span class="highlight_word"></span>, <span class="highlight_word"></span>effect<span class="highlight_word"></span> <span class="highlight_word"></span>on<span class="highlight_word"></span> <span class="highlight_word"></span>reading<span class="highlight_word"></span>. <span class="highlight_word"></span>Typographic<span class="highlight_word"></span> <span class="highlight_word"></span>performance<span class="highlight_word"></span>. <span class="highlight_word"></span>Column<span class="highlight_word"></span> <span class="highlight_word"></span>width<span class="highlight_word"></span> <span class="highlight_word"></span>and<span class="highlight_word"></span> <span class="highlight_word"></span>margins<span class="highlight_word"></span>. <span class="highlight_word"></span>Relations<span class="highlight_word"></span> <span class="highlight_word"></span>between<span class="highlight_word"></span> <span class="highlight_word"></span>the<span class="highlight_word"></span> <span class="highlight_word"></span>textblock<span class="highlight_word"></span> <span class="highlight_word"></span>and<span class="highlight_word"></span> <span class="highlight_word"></span>the<span class="highlight_word"></span> <span class="highlight_word"></span>page<span class="highlight_word"></span>.
+</p>
+                <p class="more">  <a href="http://www.oert.org/en/typography-and-proportions/" class="more">Read More</a> </p>
+                
+                                
+                
+                
+                
+                
+                
+                
+                    </div> <!-- content #end -->
+              </div> <!-- featured box #end -->
+                            
+                  
+                <div class="feature-box clearfix">
+                  <div class="subheading">
+                    <a href="http://www.oert.org/en/publishing-a-book/" title="Show/hide additional information">
+                    Publishing a book                     </a> <span class="pos" id="as647" onclick="showHideDiv('as647','ad647');"></span>
+                    
+                    </div>
+                    <p class="post_info clearfix">   		<span>April 27, 2012 </span>
+       		<span class="i_cate"> <a href="http://www.oert.org/en/category/part1/part1-3/" title="View all posts in Page" rel="category tag">Page</a>, <a href="http://www.oert.org/en/category/part1/" title="View all posts in Theory" rel="category tag">Theory</a> </span>
+       		<span> <a href="http://www.oert.org/en/publishing-a-book/#commentarea"  class="i_comment" ><fb:comments-count xmlns="http://ogp.me/ns/fb#" href="http://www.oert.org/en/publishing-a-book/"></fb:comments-count> Comments </a></span>
+     </p>
+                
+                  <div  class="options-box" id="ad647" style="display:none;">                     	
+                           	                
+                
+                 
+               	    
+                 <p>  <span class="highlight_word"></span>Context<span class="highlight_word"></span> <span class="highlight_word"></span>of<span class="highlight_word"></span> <span class="highlight_word"></span>book<span class="highlight_word"></span> <span class="highlight_word"></span>edition<span class="highlight_word"></span>. <span class="highlight_word"></span>Traditional<span class="highlight_word"></span> <span class="highlight_word"></span>and<span class="highlight_word"></span> <span class="highlight_word"></span>independent<span class="highlight_word"></span> <span class="highlight_word"></span>editions<span class="highlight_word"></span>, <span class="highlight_word"></span>analogical<span class="highlight_word"></span> <span class="highlight_word"></span>or<span class="highlight_word"></span> <span class="highlight_word"></span>digital<span class="highlight_word"></span>, <span class="highlight_word"></span>handcrafted<span class="highlight_word"></span> <span class="highlight_word"></span>or<span class="highlight_word"></span> <span class="highlight_word"></span>industrial<span class="highlight_word"></span>. <span class="highlight_word"></span>Production<span class="highlight_word"></span>, <span class="highlight_word"></span>printing<span class="highlight_word"></span>, <span class="highlight_word"></span>and<span class="highlight_word"></span> <span class="highlight_word"></span>distribution<span class="highlight_word"></span>. <span class="highlight_word"></span>Editor<span class="highlight_word"></span>’<span class="highlight_word"></span>s<span class="highlight_word"></span> <span class="highlight_word"></span>duties<span class="highlight_word"></span>. <span class="highlight_word"></span>Editorial<span class="highlight_word"></span> <span class="highlight_word"></span>Process<span class="highlight_word"></span>. <span class="highlight_word"></span>ISBN<span class="highlight_word"></span>, <span class="highlight_word"></span>characteristics<span class="highlight_word"></span> <span class="highlight_word"></span>and<span class="highlight_word"></span> <span class="highlight_word"></span>functions<span class="highlight_word"></span>. <span class="highlight_word"></span>Cataloguing<span class="highlight_word"></span> <span class="highlight_word"></span>in<span class="highlight_word"></span> <span class="highlight_word"></span>source<span class="highlight_word"></span>, <span class="highlight_word"></span>characteristics<span class="highlight_word"></span> <span class="highlight_word"></span>and<span class="highlight_word"></span> <span class="highlight_word"></span>function<span class="highlight_word"></span>.</p>
+                <p class="more">  <a href="http://www.oert.org/en/publishing-a-book/" class="more">Read More</a> </p>
+                
+                                
+                
+                
+                
+                
+                
+                
+                    </div> <!-- content #end -->
+              </div> <!-- featured box #end -->
+                            
+                  
+                <div class="feature-box clearfix">
+                  <div class="subheading">
+                    <a href="http://www.oert.org/en/design-and-morphological-operations-with-typography/" title="Show/hide additional information">
+                    Design and morphological operations with typography                     </a> <span class="pos" id="as642" onclick="showHideDiv('as642','ad642');"></span>
+                    
+                    </div>
+                    <p class="post_info clearfix">   		<span>April 27, 2012 </span>
+       		<span class="i_cate"> <a href="http://www.oert.org/en/category/part1/part1-1/" title="View all posts in Letter" rel="category tag">Letter</a>, <a href="http://www.oert.org/en/category/part1/" title="View all posts in Theory" rel="category tag">Theory</a> </span>
+       		<span> <a href="http://www.oert.org/en/design-and-morphological-operations-with-typography/#commentarea"  class="i_comment" ><fb:comments-count xmlns="http://ogp.me/ns/fb#" href="http://www.oert.org/en/design-and-morphological-operations-with-typography/"></fb:comments-count> Comments </a></span>
+     </p>
+                
+                  <div  class="options-box" id="ad642" style="display:none;">                     	
+                           	                
+                
+                 
+               	    
+                 <p>  <span class="highlight_word"></span>Typeface<span class="highlight_word"></span> <span class="highlight_word"></span>family<span class="highlight_word"></span> <span class="highlight_word"></span>as<span class="highlight_word"></span> <span class="highlight_word"></span>a<span class="highlight_word"></span> <span class="highlight_word"></span>system<span class="highlight_word"></span>. <span class="highlight_word"></span>Aspects<span class="highlight_word"></span> <span class="highlight_word"></span>to<span class="highlight_word"></span> <span class="highlight_word"></span>be<span class="highlight_word"></span> <span class="highlight_word"></span>considered<span class="highlight_word"></span> <span class="highlight_word"></span>when<span class="highlight_word"></span> <span class="highlight_word"></span>designing<span class="highlight_word"></span> <span class="highlight_word"></span>a<span class="highlight_word"></span> <span class="highlight_word"></span>related<span class="highlight_word"></span> <span class="highlight_word"></span>group<span class="highlight_word"></span> <span class="highlight_word"></span>of<span class="highlight_word"></span> <span class="highlight_word"></span>characters<span class="highlight_word"></span>: <span class="highlight_word"></span>choosing<span class="highlight_word"></span> <span class="highlight_word"></span>the<span class="highlight_word"></span> <span class="highlight_word"></span>historical<span class="highlight_word"></span> <span class="highlight_word"></span>and<span class="highlight_word"></span> <span class="highlight_word"></span>cultural<span class="highlight_word"></span> <span class="highlight_word"></span>context<span class="highlight_word"></span>, <span class="highlight_word"></span>structural<span class="highlight_word"></span> <span class="highlight_word"></span>relations<span class="highlight_word"></span>, <span class="highlight_word"></span>stroke<span class="highlight_word"></span> <span class="highlight_word"></span>and<span class="highlight_word"></span> <span class="highlight_word"></span>terminal<span class="highlight_word"></span> <span class="highlight_word"></span>features<span class="highlight_word"></span>. <span class="highlight_word"></span>character<span class="highlight_word"></span> <span class="highlight_word"></span>weight<span class="highlight_word"></span> <span class="highlight_word"></span>and<span class="highlight_word"></span> <span class="highlight_word"></span>word<span class="highlight_word"></span> <span class="highlight_word"></span>color<span class="highlight_word"></span>, <span class="highlight_word"></span>distinctive<span class="highlight_word"></span> <span class="highlight_word"></span>characters<span class="highlight_word"></span> <span class="highlight_word"></span>and<span class="highlight_word"></span> <span class="highlight_word"></span>terminals<span class="highlight_word"></span>. <span class="highlight_word"></span>Axes<span class="highlight_word"></span> <span class="highlight_word"></span>for<span class="highlight_word"></span> <span class="highlight_word"></span>the<span class="highlight_word"></span> <span class="highlight_word"></span>construction<span class="highlight_word"></span> <span class="highlight_word"></span>of<span class="highlight_word"></span> <span class="highlight_word"></span>styles<span class="highlight_word"></span>.</p>
+                <p class="more">  <a href="http://www.oert.org/en/design-and-morphological-operations-with-typography/" class="more">Read More</a> </p>
+                
+                                
+                
+                
+                
+                
+                
+                
+                    </div> <!-- content #end -->
+              </div> <!-- featured box #end -->
+                            
+                  
+                <div class="feature-box clearfix">
+                  <div class="subheading">
+                    <a href="http://www.oert.org/en/typographic-programs/" title="Show/hide additional information">
+                    Typographic Programs                     </a> <span class="pos" id="as641" onclick="showHideDiv('as641','ad641');"></span>
+                    
+                    </div>
+                    <p class="post_info clearfix">   		<span>April 27, 2012 </span>
+       		<span class="i_cate"> <a href="http://www.oert.org/en/category/part1/part1-1/" title="View all posts in Letter" rel="category tag">Letter</a>, <a href="http://www.oert.org/en/category/part1/" title="View all posts in Theory" rel="category tag">Theory</a> </span>
+       		<span> <a href="http://www.oert.org/en/typographic-programs/#commentarea"  class="i_comment" ><fb:comments-count xmlns="http://ogp.me/ns/fb#" href="http://www.oert.org/en/typographic-programs/"></fb:comments-count> Comments </a></span>
+     </p>
+                
+                  <div  class="options-box" id="ad641" style="display:none;">                     	
+                           	                
+                
+                 
+               	    
+                 <p>  <span class="highlight_word"></span>System<span class="highlight_word"></span> <span class="highlight_word"></span>of<span class="highlight_word"></span> <span class="highlight_word"></span>systems<span class="highlight_word"></span>. <span class="highlight_word"></span>Typographic<span class="highlight_word"></span> <span class="highlight_word"></span>programs<span class="highlight_word"></span>, <span class="highlight_word"></span>serial<span class="highlight_word"></span> <span class="highlight_word"></span>families<span class="highlight_word"></span> <span class="highlight_word"></span>and<span class="highlight_word"></span> <span class="highlight_word"></span>super<span class="highlight_word"></span> <span class="highlight_word"></span>families<span class="highlight_word"></span>. <span class="highlight_word"></span>Construction<span class="highlight_word"></span> <span class="highlight_word"></span>criteria<span class="highlight_word"></span>. <span class="highlight_word"></span>Uses<span class="highlight_word"></span>. <span class="highlight_word"></span>Description<span class="highlight_word"></span> <span class="highlight_word"></span>of<span class="highlight_word"></span> <span class="highlight_word"></span>some<span class="highlight_word"></span> <span class="highlight_word"></span>programs<span class="highlight_word"></span>.
+</p>
+                <p class="more">  <a href="http://www.oert.org/en/typographic-programs/" class="more">Read More</a> </p>
+                
+                                
+                
+                
+                
+                
+                
+                
+                    </div> <!-- content #end -->
+              </div> <!-- featured box #end -->
+                            
+                  
+                <div class="feature-box clearfix">
+                  <div class="subheading">
+                    <a href="http://www.oert.org/en/typographic-styles/" title="Show/hide additional information">
+                    Typographic styles                     </a> <span class="pos" id="as640" onclick="showHideDiv('as640','ad640');"></span>
+                    
+                    </div>
+                    <p class="post_info clearfix">   		<span>April 27, 2012 </span>
+       		<span class="i_cate"> <a href="http://www.oert.org/en/category/part1/part1-1/" title="View all posts in Letter" rel="category tag">Letter</a>, <a href="http://www.oert.org/en/category/part1/" title="View all posts in Theory" rel="category tag">Theory</a> </span>
+       		<span> <a href="http://www.oert.org/en/typographic-styles/#commentarea"  class="i_comment" ><fb:comments-count xmlns="http://ogp.me/ns/fb#" href="http://www.oert.org/en/typographic-styles/"></fb:comments-count> Comments </a></span>
+     </p>
+                
+                  <div  class="options-box" id="ad640" style="display:none;">                     	
+                           	                
+                
+                 
+               	    
+                 <p>  <span class="highlight_word"></span>Functions<span class="highlight_word"></span> <span class="highlight_word"></span>and<span class="highlight_word"></span> <span class="highlight_word"></span>convention<span class="highlight_word"></span> <span class="highlight_word"></span>in<span class="highlight_word"></span> <span class="highlight_word"></span>the<span class="highlight_word"></span> <span class="highlight_word"></span>use<span class="highlight_word"></span> <span class="highlight_word"></span>of<span class="highlight_word"></span> <span class="highlight_word"></span>styles<span class="highlight_word"></span>. <span class="highlight_word"></span>Traditional<span class="highlight_word"></span> <span class="highlight_word"></span>axes<span class="highlight_word"></span>. <span class="highlight_word"></span>Recognizing<span class="highlight_word"></span> <span class="highlight_word"></span>designed<span class="highlight_word"></span> <span class="highlight_word"></span>variants<span class="highlight_word"></span> <span class="highlight_word"></span>and<span class="highlight_word"></span> <span class="highlight_word"></span>the<span class="highlight_word"></span> <span class="highlight_word"></span>effects<span class="highlight_word"></span> <span class="highlight_word"></span>of<span class="highlight_word"></span> <span class="highlight_word"></span>digital<span class="highlight_word"></span> <span class="highlight_word"></span>distortion<span class="highlight_word"></span>. <span class="highlight_word"></span>Small<span class="highlight_word"></span> <span class="highlight_word"></span>capitals<span class="highlight_word"></span>: <span class="highlight_word"></span>character<span class="highlight_word"></span> <span class="highlight_word"></span>weight<span class="highlight_word"></span> <span class="highlight_word"></span>and<span class="highlight_word"></span> <span class="highlight_word"></span>line<span class="highlight_word"></span> <span class="highlight_word"></span>color<span class="highlight_word"></span>.</p>
+                <p class="more">  <a href="http://www.oert.org/en/typographic-styles/" class="more">Read More</a> </p>
+                
+                                
+                
+                
+                
+                
+                
+                
+                    </div> <!-- content #end -->
+              </div> <!-- featured box #end -->
+                            
+                  
+                <div class="feature-box clearfix">
+                  <div class="subheading">
+                    <a href="http://www.oert.org/en/structure-stroke-and-counters-of-the-typographic-characters/" title="Show/hide additional information">
+                    Structure, stroke and counters of the typographic characters.                     </a> <span class="pos" id="as637" onclick="showHideDiv('as637','ad637');"></span>
+                    
+                    </div>
+                    <p class="post_info clearfix">   		<span>April 27, 2012 </span>
+       		<span class="i_cate"> <a href="http://www.oert.org/en/category/part1/part1-1/" title="View all posts in Letter" rel="category tag">Letter</a>, <a href="http://www.oert.org/en/category/part1/" title="View all posts in Theory" rel="category tag">Theory</a> </span>
+       		<span> <a href="http://www.oert.org/en/structure-stroke-and-counters-of-the-typographic-characters/#commentarea"  class="i_comment" ><fb:comments-count xmlns="http://ogp.me/ns/fb#" href="http://www.oert.org/en/structure-stroke-and-counters-of-the-typographic-characters/"></fb:comments-count> Comments </a></span>
+     </p>
+                
+                  <div  class="options-box" id="ad637" style="display:none;">                     	
+                           	                
+                
+                 
+               	    
+                 <p>  <span class="highlight_word"></span>Definitions<span class="highlight_word"></span> <span class="highlight_word"></span>and<span class="highlight_word"></span> <span class="highlight_word"></span>interaction<span class="highlight_word"></span>. <span class="highlight_word"></span>Issues<span class="highlight_word"></span> <span class="highlight_word"></span>to<span class="highlight_word"></span> <span class="highlight_word"></span>be<span class="highlight_word"></span> <span class="highlight_word"></span>considered<span class="highlight_word"></span> <span class="highlight_word"></span>when<span class="highlight_word"></span> <span class="highlight_word"></span>deciding<span class="highlight_word"></span> <span class="highlight_word"></span>on<span class="highlight_word"></span> <span class="highlight_word"></span>the<span class="highlight_word"></span> <span class="highlight_word"></span>different<span class="highlight_word"></span> <span class="highlight_word"></span>features<span class="highlight_word"></span> <span class="highlight_word"></span>that<span class="highlight_word"></span> <span class="highlight_word"></span>constitute<span class="highlight_word"></span> <span class="highlight_word"></span>the<span class="highlight_word"></span> <span class="highlight_word"></span>family<span class="highlight_word"></span>. <span class="highlight_word"></span>Division<span class="highlight_word"></span> <span class="highlight_word"></span>of<span class="highlight_word"></span> <span class="highlight_word"></span>the<span class="highlight_word"></span> <span class="highlight_word"></span>problem<span class="highlight_word"></span> <span class="highlight_word"></span>in<span class="highlight_word"></span>: <span class="highlight_word"></span>structure<span class="highlight_word"></span>, <span class="highlight_word"></span>stroke<span class="highlight_word"></span> <span class="highlight_word"></span>and<span class="highlight_word"></span> <span class="highlight_word"></span>counters<span class="highlight_word"></span>, <span class="highlight_word"></span>terminals<span class="highlight_word"></span>. <span class="highlight_word"></span>Resulting<span class="highlight_word"></span> <span class="highlight_word"></span>identity<span class="highlight_word"></span>.</p>
+                <p class="more">  <a href="http://www.oert.org/en/structure-stroke-and-counters-of-the-typographic-characters/" class="more">Read More</a> </p>
+                
+                                
+                
+                
+                
+                
+                
+                
+                    </div> <!-- content #end -->
+              </div> <!-- featured box #end -->
+                            
+                  
+                <div class="feature-box clearfix">
+                  <div class="subheading">
+                    <a href="http://www.oert.org/en/latin-alphabet-proportions/" title="Show/hide additional information">
+                    Latin alphabet proportions                     </a> <span class="pos" id="as635" onclick="showHideDiv('as635','ad635');"></span>
+                    
+                    </div>
+                    <p class="post_info clearfix">   		<span>April 27, 2012 </span>
+       		<span class="i_cate"> <a href="http://www.oert.org/en/category/part1/part1-1/" title="View all posts in Letter" rel="category tag">Letter</a>, <a href="http://www.oert.org/en/category/part1/" title="View all posts in Theory" rel="category tag">Theory</a> </span>
+       		<span> <a href="http://www.oert.org/en/latin-alphabet-proportions/#commentarea"  class="i_comment" ><fb:comments-count xmlns="http://ogp.me/ns/fb#" href="http://www.oert.org/en/latin-alphabet-proportions/"></fb:comments-count> Comments </a></span>
+     </p>
+                
+                  <div  class="options-box" id="ad635" style="display:none;">                     	
+                           	                
+                
+                 
+               	    
+                 <p>  <span class="highlight_word"></span>Production<span class="highlight_word"></span> <span class="highlight_word"></span>technology<span class="highlight_word"></span> <span class="highlight_word"></span>and<span class="highlight_word"></span> <span class="highlight_word"></span>its<span class="highlight_word"></span> <span class="highlight_word"></span>influence<span class="highlight_word"></span> <span class="highlight_word"></span>on<span class="highlight_word"></span> <span class="highlight_word"></span>shapes<span class="highlight_word"></span>. <span class="highlight_word"></span>Trajan<span class="highlight_word"></span> <span class="highlight_word"></span>capitals<span class="highlight_word"></span> <span class="highlight_word"></span>and<span class="highlight_word"></span> <span class="highlight_word"></span>their<span class="highlight_word"></span> <span class="highlight_word"></span>establishment<span class="highlight_word"></span> <span class="highlight_word"></span>as<span class="highlight_word"></span> <span class="highlight_word"></span>a<span class="highlight_word"></span> <span class="highlight_word"></span>model<span class="highlight_word"></span>. <span class="highlight_word"></span>Basic<span class="highlight_word"></span> <span class="highlight_word"></span>structures<span class="highlight_word"></span> <span class="highlight_word"></span>and<span class="highlight_word"></span> <span class="highlight_word"></span>common<span class="highlight_word"></span> <span class="highlight_word"></span>width<span class="highlight_word"></span> <span class="highlight_word"></span>groups<span class="highlight_word"></span>. <span class="highlight_word"></span>Groups<span class="highlight_word"></span> <span class="highlight_word"></span>by<span class="highlight_word"></span> <span class="highlight_word"></span>morphological<span class="highlight_word"></span> <span class="highlight_word"></span>relation<span class="highlight_word"></span>. <span class="highlight_word"></span>Historical<span class="highlight_word"></span> <span class="highlight_word"></span>and<span class="highlight_word"></span> <span class="highlight_word"></span>contemporary<span class="highlight_word"></span> <span class="highlight_word"></span>widths<span class="highlight_word"></span>.</p>
+                <p class="more">  <a href="http://www.oert.org/en/latin-alphabet-proportions/" class="more">Read More</a> </p>
+                
+                                
+                
+                
+                
+                
+                
+                
+                    </div> <!-- content #end -->
+              </div> <!-- featured box #end -->
+                            
+                  
+                <div class="feature-box clearfix">
+                  <div class="subheading">
+                    <a href="http://www.oert.org/en/typographic-classification/" title="Show/hide additional information">
+                    Typographic classification                     </a> <span class="pos" id="as634" onclick="showHideDiv('as634','ad634');"></span>
+                    
+                    </div>
+                    <p class="post_info clearfix">   		<span>April 27, 2012 </span>
+       		<span class="i_cate"> <a href="http://www.oert.org/en/category/part1/part1-1/" title="View all posts in Letter" rel="category tag">Letter</a>, <a href="http://www.oert.org/en/category/part1/" title="View all posts in Theory" rel="category tag">Theory</a> </span>
+       		<span> <a href="http://www.oert.org/en/typographic-classification/#commentarea"  class="i_comment" ><fb:comments-count xmlns="http://ogp.me/ns/fb#" href="http://www.oert.org/en/typographic-classification/"></fb:comments-count> Comments </a></span>
+     </p>
+                
+                  <div  class="options-box" id="ad634" style="display:none;">                     	
+                           	                
+                
+                 
+               	    
+                 <p>  <span class="highlight_word"></span>Classification<span class="highlight_word"></span> <span class="highlight_word"></span>as<span class="highlight_word"></span> <span class="highlight_word"></span>a<span class="highlight_word"></span> <span class="highlight_word"></span>tool<span class="highlight_word"></span> <span class="highlight_word"></span>for<span class="highlight_word"></span> <span class="highlight_word"></span>analysis<span class="highlight_word"></span> <span class="highlight_word"></span>and<span class="highlight_word"></span> <span class="highlight_word"></span>study<span class="highlight_word"></span>. <span class="highlight_word"></span>Classification<span class="highlight_word"></span> <span class="highlight_word"></span>criteria<span class="highlight_word"></span>. <span class="highlight_word"></span>Different<span class="highlight_word"></span> <span class="highlight_word"></span>classifications<span class="highlight_word"></span>. <span class="highlight_word"></span>Stylistic<span class="highlight_word"></span> <span class="highlight_word"></span>characteristics<span class="highlight_word"></span>, <span class="highlight_word"></span>important<span class="highlight_word"></span> <span class="highlight_word"></span>contributors<span class="highlight_word"></span> <span class="highlight_word"></span>and<span class="highlight_word"></span> <span class="highlight_word"></span>families<span class="highlight_word"></span> <span class="highlight_word"></span>in<span class="highlight_word"></span> <span class="highlight_word"></span>each<span class="highlight_word"></span> <span class="highlight_word"></span>historical<span class="highlight_word"></span> <span class="highlight_word"></span>period<span class="highlight_word"></span>.
+</p>
+                <p class="more">  <a href="http://www.oert.org/en/typographic-classification/" class="more">Read More</a> </p>
+                
+                                
+                
+                
+                
+                
+                
+                
+                    </div> <!-- content #end -->
+              </div> <!-- featured box #end -->
+            <div class="pagination">
+                                <span class="post_previous"> </span>
+         <span class="post_next"><a href="http://www.oert.org/en/category/part1/page/2/" >Siguiente</a> </span>
+      </div>
+        
+    
+       </div> <!-- Please Don't Delete this artilepaging Div it's compulsory for Ajax Paging -->
+            	  </div> <!-- Please Don't Delete this current-content Div it's compulsory for Ajax Search -->
+       <div id="dynamic-content"></div>  <!-- Please Don't Delete this dynamic-content Div it's compulsory for Ajax Search -->
+       
+    </div> <!-- content #end -->
+    
+    <div id="lang_sel"  >
+    <ul>
+        <li><a href="#" class="lang_sel_sel icl-en">
+                            
+            <img  class="iclflag" src="http://www.oert.org/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png" alt="en" />                                
+            &nbsp;English</a>                                    
+            <ul>
+                                <li class="icl-es">          
+                    <a rel="alternate" hreflang="es" href="http://www.oert.org/category/parte1/">
+                                    
+                    <img  class="iclflag" src="http://www.oert.org/wp-content/plugins/sitepress-multilingual-cms/res/flags/es.png" alt="es" />&nbsp;                    
+                                        Español                    </a>
+                </li>
+                            </ul>            
+             
+                    </li>
+    </ul>    
+</div>
+ <!-- selector de idiomas -->
+<div id="sidebar">
+	<div class="widget"><h3><span>Recursos</span></h3><div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-404" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-404"><a href="http://www.oert.org/en/the-project/">The project</a></li>
+<li id="menu-item-405" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-405"><a href="http://www.oert.org/en/the-authors/">The Authors</a></li>
+<li id="menu-item-406" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-406"><a href="http://www.oert.org/en/editorial-board/">Editorial Committee</a></li>
+<li id="menu-item-407" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-407"><a href="http://www.oert.org/en/the-team/">The Team</a></li>
+<li id="menu-item-408" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-408"><a href="http://www.oert.org/en/our-backers/">Our backers</a></li>
+<li id="menu-item-718" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-718"><a href="http://www.oert.org/en/faq/">FAQ</a></li>
+<li id="menu-item-409" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-409"><a href="http://www.oert.org/en/contact-us/">Contact us</a></li>
+</ul></div></div><div class="widget"><h3><span>Páginas</span></h3><div class="menu-main-menu-ingles-container"><ul id="menu-main-menu-ingles" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-404"><a href="http://www.oert.org/en/the-project/">The project</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-405"><a href="http://www.oert.org/en/the-authors/">The Authors</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-406"><a href="http://www.oert.org/en/editorial-board/">Editorial Committee</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-407"><a href="http://www.oert.org/en/the-team/">The Team</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-408"><a href="http://www.oert.org/en/our-backers/">Our backers</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-718"><a href="http://www.oert.org/en/faq/">FAQ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-409"><a href="http://www.oert.org/en/contact-us/">Contact us</a></li>
+</ul></div></div></div> <!-- sidebar right--> 
+ 
+</div> <!-- wrapper #end -->
+  
+<div id="footer" class="clearfix">
+<div id="footer_in">
+<p class="copy"><a rel="license" href="http://creativecommons.org/licenses/by-sa/2.5/ar/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/2.5/ar/80x15.png" /></a> <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Open Educational Resources for Typography</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.oert.org/" property="cc:attributionName" rel="cc:attributionURL">OERT</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.5/ar/">Creative Commons Attribution-ShareAlike 2.5 Argentina License</a>.</p>
+<p class="fr"><span class="designby">Alojado en </span>
+<span class="wiroos"><a href="http://www.wiroos.com" title="Wiroos">Wiroos</a></span>
+</p>	
+</div></div> <!-- footer #end -->
+
+<script type='text/javascript' src='http://www.oert.org/wp-content/themes/WikiBase/library/js/livesearch.js?ver=1'></script>
+<script type='text/javascript' src='http://www.oert.org/wp-content/themes/WikiBase/library/js/jquery.hoveraccordion.min.js?ver=1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var FB_WP=FB_WP||{};FB_WP.queue={_methods:[],flushed:false,add:function(fn){FB_WP.queue.flushed?fn():FB_WP.queue._methods.push(fn)},flush:function(){for(var fn;fn=FB_WP.queue._methods.shift();){fn()}FB_WP.queue.flushed=true}};window.fbAsyncInit=function(){FB.init({"channelUrl":"http:\/\/www.oert.org\/wp-content\/plugins\/facebook\/channel.php","xfbml":true,"appId":"285109618260716"});if(FB_WP && FB_WP.queue && FB_WP.queue.flush){FB_WP.queue.flush()}}
+/* ]]> */
+</script>
+<div id="fb-root"></div><script type="text/javascript">(function(d){var id="facebook-jssdk";if(!d.getElementById(id)){var js=d.createElement("script"),ref=d.getElementsByTagName("script")[0];js.id=id,js.async=true,js.src="http:\/\/connect.facebook.net\/es_ES\/all.js",ref.parentNode.insertBefore(js,ref)}})(document)</script>
+<script type='text/javascript' src=''></script>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27724959-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script><script type="text/javascript">
+	//<![CDATA[
+		function initBelle() {
+			Belle.AjaxURL		= "http://www.oert.org/en//?sajax=1"
+			// Initialize Livesearch
+			Belle.LiveSearch	= new LiveSearch( "Escribe y obten resultados al instante" )
+			}
+		jQuery(document).ready( function() { initBelle() })
+	//]]>
+	</script>
+<!-- LOAD JAVASCRIPT LATE - JUST BEFORE THE BODY TAG 
+		 That way the browser will have loaded the images
+	  	 and will know the width of the images. No need to
+		 specify the width in the CSS or inline. -->
+
+	<!-- jQuery library - Please load it from Google API's -->
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+
+	<!-- jQuery UI Widget and Effects Core (custom download)
+		 You can make your own at: http://jqueryui.com/download -->
+	<script src="http://www.oert.org/wp-content/themes/WikiBase/library/js/jquery-ui-1.8.18.custom.min.js" type="text/javascript"></script>
+	
+	<!-- Latest version of jQuery Mouse Wheel by Brandon Aaron
+		 You will find it here: http://brandonaaron.net/code/mousewheel/demos -->
+	<script src="http://www.oert.org/wp-content/themes/WikiBase/library/js/jquery.mousewheel.min.js" type="text/javascript"></script>
+
+	<!-- Smooth Div Scroll 1.2 minified-->
+	<script src="http://www.oert.org/wp-content/themes/WikiBase/library/js/jquery.smoothdivscroll-1.2-min.js" type="text/javascript"></script>
+
+	<!-- If you want to look at the uncompressed version you find it at
+		 js/jquery.smoothDivScroll-1.2.js -->
+
+	<!-- Plugin initialization -->
+	<script type="text/javascript">
+		jQuery(document).ready(function () {
+			jQuery("#logoParade").smoothDivScroll({
+				autoScrollingMode: "always",
+				autoScrollingDirection: "endlessloopright",
+				autoScrollingStep: 1,
+				autoScrollingInterval: 25 
+			});
+
+			// Logo parade
+			jQuery("#logoParade").bind("mouseover", function () {
+				jQuery(this).smoothDivScroll("stopAutoScrolling");
+			}).bind("mouseout", function () {
+				jQuery(this).smoothDivScroll("startAutoScrolling");
+			});
+
+		});
+		
+	</script>	
+	
+</body></html>

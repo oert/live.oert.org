@@ -1,0 +1,495 @@
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<title>
+  Tipos de libro&nbsp;|&nbsp;OERT</title>
+
+<link rel="stylesheet" href="wp-content/plugins/sitepress-multilingual-cms/res/css/language-selector.css?v=2.6.0" type="text/css" media="all" />
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="stylesheet" type="text/css" href="wp-content/themes/WikiBase/style.css" media="screen" />
+<link rel="shortcut icon" type="image/png" href="wp-content/uploads/favicon.ico" />
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="index.html?cat=&amp;feed=rss2" />
+<link rel="pingback" href="xmlrpc.php" />
+
+<link rel="stylesheet" type="text/css" href="wp-content/themes/WikiBase/library/css/print.css" media="print" />
+<link rel="Stylesheet" type="text/css" href="wp-content/themes/WikiBase/library/css/smoothDivScroll.css" />
+
+<script src="http://connect.facebook.net/es_ES/all.js#xfbml=1"></script>
+<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+<script src="https://apis.google.com/js/plusone.js" type="text/javascript"></script>
+
+
+ <link href="wp-content/themes/WikiBase/custom.css" rel="stylesheet" type="text/css">
+<script language="javascript" type="text/javascript">
+	function hasClass(ele,cls) {
+	return ele.className.match(new RegExp('(\\s|^)'+cls+'(\\s|$)'));
+	}
+
+    function addClass(ele,cls) {
+    if (!this.hasClass(ele,cls)) ele.className += " "+cls;
+    }
+    function removeClass(ele,cls) {
+    if (hasClass(ele,cls)) {
+        var reg = new RegExp('(\\s|^)'+cls+'(\\s|$)');
+        ele.className=ele.className.replace(reg,' ');
+    }
+    }
+
+    function showHideDiv(sids,divids)
+    {
+		//alert(sids);
+		//alert(divids);
+        var divstyle = new String();
+		var spanstyle = new String();
+		var spansid = new String();
+		spansid = document.getElementById(sids);
+        divstyle = document.getElementById(divids).style.display;
+        if(divstyle.toLowerCase()=="block" || divstyle == "")
+        {
+            document.getElementById(divids).style.display = "none";
+			removeClass(spansid,'neg');
+			addClass(spansid,'pos');
+        }
+        else
+        {
+            document.getElementById(divids).style.display = "block";
+			removeClass(spansid,'pos');
+			addClass(spansid,'neg');
+        }
+    }
+    </script>
+    <script type="text/javascript">
+        $(document).ready( function() {
+            $('#menu-recursos').hoverAccordion({
+                keepHeight:true,
+                activateItem: 3,
+                speed: 400
+            });
+        });
+    </script>
+        
+<link rel="dns-prefetch" href="http://connect.facebook.net/" />
+<link rel="alternate" type="application/rss+xml" title="OERT &raquo; Tipos de libro RSS de los comentarios" href="tipos-de-libro/feed/index.html" />
+<link rel='stylesheet' id='wpml-cms-nav-css-css'  href='wp-content/plugins/wpml-cms-nav/res/css/navigation.css?ver=1.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='cms-navigation-style-base-css'  href='wp-content/plugins/wpml-cms-nav/res/css/cms-navigation-base.css?ver=1.2.7' type='text/css' media='screen' />
+<link rel='stylesheet' id='cms-navigation-style-css'  href='wp-content/plugins/wpml-cms-nav/res/css/cms-navigation.css?ver=1.2.7' type='text/css' media='screen' />
+<link rel='stylesheet' id='facebook-css'  href='wp-content/plugins/facebook/static/css/style.min.css?ver=1.3.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.oert.org/wp-includes/js/jquery/jquery.js?ver=1.8.3'></script>
+<script type='text/javascript' src='wp-content/themes/WikiBase/library/js/functions.js?ver=1'></script>
+<script type='text/javascript' src='http://www.oert.org/wp-includes/js/comment-reply.min.js?ver=3.5.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.oert.org/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Tipografía y lingüística' href='index.html?p=151' />
+<link rel='next' title='Tipografía y lenguaje: el párrafo' href='index.html?p=155' />
+<meta name="generator" content="WordPress 3.5.1" />
+<link rel='shortlink' href='index.html?p=153' />
+
+	<!-- This site uses Good Old Gallery, get it from http://wp.unwi.se/good-old-gallery -->
+
+        <style type="text/css" media="screen">
+          div.printfriendly {
+            margin: 0px 0px 0px 0px;;
+          }
+          div.printfriendly a, div.printfriendly a:link, div.printfriendly a:visited {
+            text-decoration: none;
+            font-size: 14px;
+            color: #99cc00;
+            vertical-align: bottom;
+            border: none;
+          }
+
+          .printfriendly a:hover {
+            cursor: pointer;
+          }
+
+          .printfriendly a img  {
+            border: none;
+            padding:0;
+            margin-right: 6px;
+            display:inline-block;
+            box-shadow: none;
+            -webkit-box-shadow: none;
+            -moz-box-shadow: none;
+          }
+          .printfriendly a span{
+            vertical-align: bottom;
+          }
+          .pf-alignleft {
+            float: left;
+          }
+          .pf-alignright {
+            float: right;
+          }
+          div.pf-aligncenter {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            text-align: center;
+          }
+        </style>
+        <style type="text/css" media="print">
+          .printfriendly {
+            display: none;
+          }
+        </style>
+<script type="text/javascript">var icl_lang = 'es';var icl_home = 'http://www.oert.org/';</script>
+<script type="text/javascript" src="wp-content/plugins/sitepress-multilingual-cms/res/js/sitepress.js"></script>
+<meta name="generator" content="WPML ver:2.6.0 stt:2,1;0" />
+<link rel="alternate" hreflang="en_US" href="index.html?p=651" />
+
+<style type="text/css">#lang_sel a, #lang_sel a.lang_sel_sel{color:#444444;}#lang_sel a:hover, #lang_sel a.lang_sel_sel:hover{color:#000000;}#lang_sel a.lang_sel_sel, #lang_sel a.lang_sel_sel:visited{background-color:#f5f4f2;}#lang_sel a.lang_sel_sel:hover{background-color:#eeeeee;}#lang_sel li ul a, #lang_sel li ul a:visited{color:#444444;}#lang_sel li ul a:hover{color:#000000;}#lang_sel li ul a, #lang_sel li ul a:link, #lang_sel li ul a:visited{background-color:#f5f4f2;}#lang_sel li ul a:hover{background-color:#eeeeee;}#lang_sel a, #lang_sel a:visited{border-color:#cdcdcd;} #lang_sel ul ul{border-top:1px solid #cdcdcd;}</style>
+
+<style type="text/css">#lang_sel  {width: 195px; margin-bottom:24px;}
+#lang_sel a {font-size:12px;}
+#lang_sel li {width:192px; }
+
+</style>		<link href="wp-content/themes/WikiBase/skins/1-default.css" rel="stylesheet" type="text/css" />
+
+
+<link href='http://boakes.org/most-wanted?v=0.1.9v' />
+<link rel="canonical" href="index.html?p=153"/>
+<meta property="og:site_name" content="OERT" />
+<meta property="og:type" content="article" />
+<meta property="og:locale" content="es_ES" />
+<meta property="fb:app_id" content="285109618260716" />
+<meta property="og:url" content="http://www.oert.org/tipos-de-libro/" />
+<meta property="og:title" content="Tipos de libro" />
+<meta property="og:description" content="Libro como objeto. Tipologías: literatura (novelas, cuentos), de poesía, de teatro o guiones, de literatura ilustrada, de arte, informativos o de divulgación, científicos, de referencia o consulta, escolares, infantiles, de bibliofilia. Tipo de libro y de lectura. Diseño integral del libro." />
+<meta property="article:published_time" content="2012-01-10T00:55:02+00:00" />
+<meta property="article:modified_time" content="2012-09-18T19:05:21+00:00" />
+<meta property="article:author" content="http://www.oert.org/author/admin/" />
+<meta property="article:section" content="Página" />
+<meta property="article:tag" content="Teoría" />
+<meta property="og:image" content="http://www.oert.org/wp-content/uploads/2012/08/T04D_tipodelibros.jpg" />
+<meta property="og:image:width" content="700" />
+<meta property="og:image:height" content="525" />
+</head>
+<body class="single single-post postid-153 single-format-standard">
+<div id="header">   
+<div id="header_in" class="clearfix">
+<div class="logo"> 
+   <div class="blog-title"><a href="index.html">OERT</a> 
+		
+		 <p class="blog-description">
+		  Open Educational Resources for Typography		</p>
+   </div> 
+   </div>
+                        <div class="header_right">
+        	<p>Última actualización: <span>April 7, 2013</span></p>
+                        <form method="get" id="searchform" action="index.html">
+<div id="search-form-wrap">
+<label for="s" id="search-label">Buscar por:</label>
+<input type="text" id="s" name="s" accesskey="4" value="" />
+<input type="hidden" name="stype" value="ajsearch" />
+<input type="submit" name="stype" value="Search" style="display:none;" class="b_search" />
+<span id="searchreset" title="Reset Search"></span>
+<span id="searchload"></span>
+</div>
+</form>
+
+                    </div>               
+   </div> 
+ </div>   <!-- header #end -->     <div id="wrapper" class="clearfix">  
+  		<div id="content" >
+         <div id="current-content">
+                 <div class="breadcrumb clearfix">
+        <a rel="nofollow" href="index.html">Home</a>  <a href="category/parte1/index.html" title="Ver todas las entradas en Teoría">Teoría</a>  <a href="category/parte1/parte1-3/index.html" title="Ver todas las entradas en Página">Página</a>  Tipos de libro        </div>
+             
+                       
+        <div class="single_post">
+        <h1 class="head">Tipos de libro</h1>
+ 		  		                  <p class="post_info clearfix post_info_single"><span>Posted by <a href="author/admin/index.html" title="Entradas de OERT" rel="author">OERT</a> - ene 10, 2012 </span>
+                     <span class="i_cate"> <a href="category/parte1/parte1-3/index.html" title="Ver todas las entradas en Página" rel="category tag">Página</a>, <a href="category/parte1/index.html" title="Ver todas las entradas en Teoría" rel="category tag">Teoría</a> </span>
+                      <span> <a href="index.html?p=153#commentarea"  class="i_comment" ><fb:comments-count xmlns="http://ogp.me/ns/fb#" href="http://www.oert.org/tipos-de-libro/"></fb:comments-count> comentarios </a></span>                      
+                      <a href="index.html?cat=11&amp;feed=rss2" class="i_rss">Receive Updates For This Category</a>
+                      
+                       </p>
+                       
+                       
+					              
+              
+              <div id="post-153" class="posts clearfix">               		               
+              		
+              		<!-- Templatic Article Tools #end -->
+              		
+              		              		
+              		<!-- Templatic Article Tools #end -->
+
+                      <p class="autor">Elaboración: Natalia Pano</p>
+<h3>El libro como objeto seductor</h3>
+<p>Un libro es un bloque (o tripa) que está unido con guardas a unas tapas, que se elaboran por separado. Las páginas del libro pueden estar o no impresas y el método para unirlas puede ser el cosido o el adhesivo. La clase de encuadernación y los materiales empleados en ella y el grosor del libro en relación con el tamaño y proporciones de la página, afectarán decisivamente las cualidades del objeto y, en consecuencia, la impresión global que este produzca.</p>
+<p>El “embalaje” del texto, además, modifica la manera en que será leído. El soporte modifica la relación que el lector podrá establecer con el texto. Un diario, por ejemplo, no se lee como un libro; una novela en formato de diario haría menos agradable su lectura.</p>
+<p>En lo que a la tipografía respecta, estos aspectos no son irrelevantes. Por ejemplo, el hecho de que la publicación esté encolada o cosida, influirá en el tamaño del medianil, lo que consecuentemente repercutirá en la correcta o dificultosa visualización del bloque de texto.</p>
+<h3>Tipología de libros</h3>
+<p>El libro, en tanto objeto útil, está determinado por el tacto y la vista humanos. Esto marca ciertos parámetros iniciales respecto a su formato, grosor y peso. Además, el formato de libro se define por las tradiciones o corrientes de cada época, los formatos del papel y de la máquina de imprimir, pero fundamentalmente por su naturaleza o propósito.</p>
+<p><a href="wp-content/uploads/2012/08/T04D_01-machas-texto_01.jpg"><img class="alignnone size-full wp-image-1399" title="Diferentes tipos de texto y sus correspondientes manchas tipográficas" src="wp-content/uploads/2012/08/T04D_01-machas-texto_01.jpg" alt="Diferentes tipos de texto y sus correspondientes manchas tipográficas" width="700" height="525" /></a></p>
+<p>¿Qué sentido tiene clasificar los libros? Las categorías que se describen a continuación, que no son únicas ni absolutas, nos ayudan a dividir un campo de conocimiento muy amplio en porciones manejables y nos proporcionan algunos criterios de análisis, para poder abordar el diseño de libros.</p>
+<p><a href="wp-content/uploads/2012/08/T04D_tipodelibros1.jpg"><img class="alignnone size-full wp-image-1400" title="Tipos de libros" src="wp-content/uploads/2012/08/T04D_tipodelibros1.jpg" alt="Tipos de libros" width="700" height="525" /></a></p>
+<h4>Libros de lectura prolongada (novelas y cuentos)</h4>
+<p>El formato en estos casos debiera ser “ergonómico”, relativamente pequeño y estrecho (debe poder sostenerse con una sola mano). El papel, suave, flexible y no muy pesado. Es conveniente también que no sea de un blanco deslumbrante. Se debe elegir un tipo de letra legible y un espaciado entre palabras y entre líneas suficiente (ni poco, ni excesivo). En cuanto a los caracteres por línea, entre 45 y 60 es una cantidad óptima. Es recomendable usar sangría para que puedan reconocerse fácilmente los párrafos. En cuanto a la compaginación, se deben evitar viudas y huérfanas. Puede suceder que al reacomodarse las líneas se gane o se pierda espacio. Debemos tratar de que esto no altere el registro, es decir, la concordancia de líneas a lo largo de las páginas.</p>
+<h4>Poesía</h4>
+<p>Se comportan como los textos de corrido, en cuanto a manejabilidad y legibilidad, pero es más compleja la distribución por páginas, ya que la poesía favorece una textualidad de tipo visualmente fragmentada.</p>
+<p>En general suele variarse sutilmente el espacio que se deja entre el título y el poema. Para lograr un equilibrio en las dobles páginas, el poema suele colocarse centrado ópticamente con respecto al centro de la caja. Cuanto más dispares son los versos del poema más se dificulta mantener este equilibro. En tal caso, el diseñador de libros debe respetar los saltos de línea, sangrías y líneas que comienzan en mayúscula y minúscula estipulados por el autor.</p>
+<h4>Teatro: Guiones</h4>
+<p>Requerirán diferentes tratamientos si se trata de obras de teatro clásico o experimental. En cualquier caso, debe mantenerse la claridad mediante el uso de los recursos tipográficos para marcar las jerarquías y secuencias de lectura correspondientes y así evitar ambigüedades en la interpretación.</p>
+<h4>Literatura ilustrada</h4>
+<p>Exigen una estrecha cooperación entre el ilustrador y el tipógrafo. Es necesario que imagen y texto se conciban como un solo ente. A menudo, la tipografía debe encajarse en las ilustraciones y viceversa. Deben relacionarse de la mejor manera posible. Algunos recursos para lograrlo son: armonía, contraste, tamaño, posición y valor tonal.</p>
+<h4>Libros de arte</h4>
+<p>El tamaño y proporciones de las reproducciones deben ser lo suficientemente grandes como para poder apreciar los detalles. En consecuencia, los libros de este tipo suelen presentar dimensiones considerables. Un lector, sentado en una silla con el libro sobre la mesa, debería poder ver la totalidad de la imagen de un vistazo. Cualquiera sea el formato del libro, el tamaño del texto debe ajustarse a la distancia de lectura.</p>
+<h4>Informativos o de divulgación</h4>
+<p>Llevan fotos, esquemas y diagramas. Reúnen las problemáticas de los libros de texto e ilustraciones. Suele ocurrir que texto e imagen tienen la misma relevancia. Sin embargo, las imágenes no deben ser ni tan grandes como en un libro de arte ni tan pequeñas como en uno de texto.</p>
+<h4>Científicos</h4>
+<p>La obra erudita, que se dirige a lectores cuyo tiempo es precioso, comprende múltiples referencias tabulares: división en tomos, capítulos, secciones, folios explicativos, resúmenes introductorios, índice analítico, índice de nombres propios, apéndices y bibliografía. En su seno lleva párrafos, tablas, fórmulas, ilustraciones a color y blanco y negro (fotos, dibujos, mapas, diagramas), epígrafes, notas al pie, etc. En estos libros es muy importante lograr la diferenciación de las distintas partes y los distintos elementos a través de diferentes recursos visuales.</p>
+<h4>Libros de referencia o consulta</h4>
+<p>Es el caso de diccionarios, enciclopedias, guías de viaje, de museos, etc. El usuario busca una palabra clave en particular. La tipografía debe ser apta para encontrar lo que se busca al escanear la página (generalmente en sentido vertical). No se leen de corrido, aunque en ocasiones una entrada puede extenderse por varias columnas o páginas. Por ello es necesario tratar con cuidado los detalles del texto y apelar nuevamente a todos los recursos posibles para lograr la diferenciación.</p>
+<h4>Escolares</h4>
+<p>Que la lectura sea para menores y obligatoria demanda una claridad especial y exige cierto cuidado en la tipografía para volverla atractiva y motivar la lectura. Apelando al uso de las formas, colores, tipografía, imágenes, misceláneas, áreas de la grilla y espacios, podemos hacer la lectura más amena e interesante. Todos estos elementos deben estar en sintonía y aplicarse con coherencia para que los distintos niveles del texto puedan percibirse y distinguirse de un golpe de vista: texto principal, destacados, comentarios y ejercicios.</p>
+<h4>Infantiles</h4>
+<p>Pueden ser ilustración pura, con poco o algo de texto, según se trate de lectores principiantes o experimentados, preadolescentes, etc. En general, la ilustración predomina, y el texto es trabajado como un material visual cuyos bloques se unen con las ilustraciones sobre la superficie de la página. Se utilizan cuerpos grandes y fuentes de buena legibilidad (buena diferenciación entre los caracteres, buen espaciado). A medida que el lector es más hábil, el cuerpo de la letra puede reducirse.</p>
+<p>Con frecuencia, los libros para niños no poseen paginación: el lector infantil no sabría que uso darle, dado que estos libros están destinados a ser recorridos de punta a punta o contemplados por sus imágenes.</p>
+<h4>Libros de bibliofilia (de lujo)</h4>
+<p>Frecuentemente, dejan de ser objetos funcionales y pasan a ser objetos de arte. En ellos conviven texto e imagen. La gran diferencia con los otros tipos de libro es el uso de materiales y procedimientos lujosos (papeles, encuadernación, tintas especiales, métodos de impresión) y el uso generoso del espacio. Se editan pocos ejemplares y el precio suele ser elevado.</p>
+<h3>Diseño integral</h3>
+<p>Cualquiera sea el principio de diseño que se siga, todos los componentes del libro deben descansar equitativamente sobre un plan unificado, para que los elementos iguales sean tratados de la misma manera de la primera a la última página.</p>
+<p>Títulos y subtítulos, el espacio debajo del comienzo del capítulo, la interlínea, entre otros aspectos, son signos que comunican y ayudan a transmitir la atmósfera deseada, a la vez que cumplen funciones concretas dentro del libro (indican jerarquías).</p>
+<p>Guardar una coherencia en el tratamiento de los distintos elementos no es solo una demanda estética, sino que es importante para la comprensión del texto. La manipulación de cualquier variable repercutirá sobre la textualidad y modificará la lectura que pueda hacerse de un texto determinado.</p>
+<div class="ref_box"><strong>Bibliografía</strong></p>
+<ul>
+<li>HOCHULI, Jost; KINROSS, Robin. <em>El diseño de libros: práctica y teoría.</em> Editorial Campgrafic. 2005.</li>
+<li>VANDERDOPE, Christian. <em>Del papiro al hipertexto: Ensayo sobre las mutaciones del texto y la lectura.</em> Fondo de Cultura Económica. 2003.</li>
+</ul>
+<p></p></div>
+<p class="icl_post_in_other_langs">Esta entrada también está disponible en: <a href="index.html?p=651">Inglés</a></p>                   
+                  
+                  <div class="like_this_section clearfix">
+					<div class="google_like">
+					<g:plusone href="http://www.oert.org" size="medium"></g:plusone>
+					</div>	                  
+                     <div class="twitter_like">
+                     <a href="http://twitter.com/share" class="twitter-share-button" data-via="oert.org" data-lang="es" data-size="medium">Tweet</a>
+                     </div>
+                     <div class="fb_like">
+                     <fb:like href="http%3A%2F%2Fwww.oert.org%2Ftipos-de-libro%2F" layout="button_count" show_faces="false" width="450" height="30"></fb:like>
+                     </div>
+                     <div class="printfriendly"><a href="http://www.printfriendly.com/print?url=http://www.oert.org/tipos-de-libro/" rel="nofollow" onclick="window.print(); return false;"><img src="http://cdn.printfriendly.com/button-print-gry20.png" alt="Print Friendly" /></a></div>				</div> <!-- #end -->
+
+
+          				
+              </div> <!-- post #end -->
+              
+              
+               
+ 			<div class="post-navigation clearfix">
+                                                            <a class="post-prev" href="index.html?p=151"><em>Previous post</em><span>Tipografía y lingüística</span></a>
+                                                                <a class="post-next" href="index.html?p=155"><em>Next post</em><span>Tipografía y lenguaje: el párrafo</span></a>
+                                 </div>
+            
+            
+              </div> <!-- single post content #end -->
+          		<div class="realated_post clearfix">
+<h3>Related Posts</h3><ul class="realated_postlist clearfix">
+            <li class="clearfix"> 
+      
+     <h3> <a href="index.html?p=149">Composición y modulación</a></h3> 
+     <p class="date clearfix"> <span>September 10, 2012</span></p>
+     <p>Orden y espacio. Modulación como herramienta de diseño y comunicación. Interlínea como unidad de modulación. Construcción de la grilla tipográfica: modulación vertical y horizontal. Legibilidad y modulación. </p>
+            </li>
+                        <li class="clearfix"> 
+      
+     <h3> <a href="index.html?p=147">Recursos gráficos para ediciones periódicas</a></h3> 
+     <p class="date clearfix"> <span>September 10, 2012</span></p>
+     <p>Maquetas de ediciones periódicas: constantes y variables. Estructura de publicación. Recursos de navegación. Edición de textos: titulación (cintillo, volanta, título o titular, y bajada, resumen, copete o sumario), elementos de lectura rápida (epígrafe, destacado, notas subordinadas, tablas, resúmenes). Relación entre forma gráfica y contenido.</p>
+            </li>
+                        <li class="clearfix"> 
+      
+     <h3> <a href="index.html?p=286">Publicar un libro</a></h3> 
+     <p class="date clearfix"> <span>February 20, 2012</span></p>
+     <p>Contexto de edición de libros. Ediciones formales e informales, analógicas o digitales, artesanales o industriales. La producción, impresión y distribución. Funciones del editor. Proceso editorial. ISBN, características y función. Catalogación en fuente, características y función.</p>
+            </li>
+                        <li class="clearfix"> 
+      
+     <h3> <a href="index.html?p=159">Tipografía y proporciones</a></h3> 
+     <p class="date clearfix"> <span>January 10, 2012</span></p>
+     <p>Proporción y orden. Relaciones en el formato de página, distintas progresiones. Largo de línea y efecto en la lectura. Factor o rendimiento tipográfico. Ancho de columna y márgenes. Relaciones entre mancha tipográfica y página.</p>
+            </li>
+            </ul>
+</div>
+		
+        
+          <div id="comments" class="clearfix"> 
+<div id="comments" class="comments-area">
+<div id="respond">
+<div class="fb-social-plugin fb-comments" id="commentform" data-href="http://www.oert.org/tipos-de-libro/" data-width="700"></div>
+</div></div>
+</div>
+          
+             </div>
+	<div id="dynamic-content"></div>        
+  </div> <!-- content #end -->
+<script type="text/javascript" language="javascript" >
+var root_path_js = 'http://www.oert.org/';
+</script>
+<script type="text/javascript" language="javascript" src="wp-content/themes/WikiBase/library/js/article_detail.js" ></script>
+
+      <div id="lang_sel"  >
+    <ul>
+        <li><a href="index.html?p=153#" class="lang_sel_sel icl-es">
+                            
+            <img  class="iclflag" src="wp-content/plugins/sitepress-multilingual-cms/res/flags/es.png" alt="es" />                                
+            &nbsp;Español</a>                                    
+            <ul>
+                                <li class="icl-en">          
+                    <a rel="alternate" hreflang="en" href="index.html?p=651">
+                                    
+                    <img  class="iclflag" src="wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png" alt="en" />&nbsp;                    
+                                        English                    </a>
+                </li>
+                            </ul>            
+             
+                    </li>
+    </ul>    
+</div>
+ <!-- selector de idiomas -->
+<div id="sidebar">
+	<div class="widget"><h3><span>Recursos</span></h3><div class="menu-recursos-container"><ul id="menu-recursos" class="menu"><li id="menu-item-2003" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2003"><a href="category/parte1/index.html">Teoría</a>
+<ul class="sub-menu">
+	<li id="menu-item-2004" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2004"><a href="category/parte1/parte1-1/index.html">Letra</a></li>
+	<li id="menu-item-2005" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2005"><a href="category/parte1/parte1-2/index.html">Texto</a></li>
+	<li id="menu-item-2006" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2006"><a href="category/parte1/parte1-3/index.html">Página</a></li>
+</ul>
+</li>
+<li id="menu-item-2007" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2007"><a href="category/parte2/index.html">Práctica</a>
+<ul class="sub-menu">
+	<li id="menu-item-2008" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2008"><a href="category/parte2/parte2-1/index.html">Letra</a></li>
+	<li id="menu-item-2009" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2009"><a href="category/parte2/parte2-2/index.html">Texto</a></li>
+	<li id="menu-item-2010" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2010"><a href="category/parte2/parte2-3/index.html">Página</a></li>
+</ul>
+</li>
+<li id="menu-item-2011" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2011"><a href="category/parte3/index.html">Historia</a></li>
+</ul></div></div><div class="widget"><h3><span>Páginas</span></h3><div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-37" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37"><a href="el-proyecto/index.html">El proyecto</a></li>
+<li id="menu-item-62" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-62"><a href="los-autores/index.html">Los autores</a></li>
+<li id="menu-item-63" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-63"><a href="comite-editorial/index.html">Comité Editorial</a></li>
+<li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36"><a href="equipo-de-trabajo-2/index.html">Equipo de trabajo</a></li>
+<li id="menu-item-38" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38"><a href="apoyan-este-proyecto-2/index.html">Apoyan este proyecto&#8230;</a></li>
+<li id="menu-item-568" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-568"><a href="preguntas-frecuentes/index.html">Preguntas Frecuentes</a></li>
+<li id="menu-item-39" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39"><a href="contacto-2/index.html">Contacto</a></li>
+</ul></div></div></div> <!-- sidebar right--> 
+<div id="bottom"></div>
+<script type='text/javascript' src='wp-content/themes/WikiBase/library/js/jquery.simplemodal.js'></script>
+<script type='text/javascript' src='wp-content/themes/WikiBase/library/js/basic.js'></script>
+<div id="basic-modal-content" class="clearfix" style="display:none;">
+<form name="send_to_frnd" id="send_to_frnd" action="index.html?p=153" method="post" >
+<input type="hidden" id="send_to_Frnd_pid" name="pid" value="153" />
+<input type="hidden" name="sendact" value="email_frnd" />
+	<h3>Send To Friend</h3>
+    <p id="reply_send_success" class="sucess_msg" style="display:none;"></p>
+	<div class="row clearfix" ><label>Friend Name : <span>*</span></label><input name="to_name" id="to_name" type="text"  /><span id="to_nameInfo"></span></div>
+ 	<div class="row  clearfix" ><label> Correo electrónico : <span>*</span></label><input name="to_email" id="to_email" type="text"  /><span id="to_emailInfo"></span></div>
+	<div class="row  clearfix" ><label>Your Name : <span>*</span></label><input name="yourname" id="yourname" type="text"  /><span id="yournameInfo"></span></div>
+ 	<div class="row  clearfix" ><label> Correo electrónico : <span>*</span></label><input name="youremail" id="youremail" type="text"  /><span id="youremailInfo"></span></div>
+	<div class="row  clearfix" ><label>Asunto : <span>*</span></label><input name="frnd_subject" value="About Tipos de libro" id="frnd_subject" type="text"  /></div>
+	<div class="row  clearfix" ><label>Comentarios : <span>*</span></label>
+     <textarea name="frnd_comments" id="frnd_comments" cols="" rows="" >Hi there, do check out the information about this Article.</textarea></div>
+	<input name="Send" type="submit" value="Send " class="button " />
+</form>
+</div>
+<script type="text/javascript" src="wp-content/themes/WikiBase/library/js/email_frnd_validation.js"></script>
+<!-- here -->   </div> <!-- wrapper #end -->
+  
+<div id="footer" class="clearfix">
+<div id="footer_in">
+<p class="copy"><a rel="license" href="http://creativecommons.org/licenses/by-sa/2.5/ar/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/2.5/ar/80x15.png" /></a> <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Open Educational Resources for Typography</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="index.html" property="cc:attributionName" rel="cc:attributionURL">OERT</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.5/ar/">Creative Commons Attribution-ShareAlike 2.5 Argentina License</a>.</p>
+<p class="fr"><span class="designby">Alojado en </span>
+<span class="wiroos"><a href="http://www.wiroos.com" title="Wiroos">Wiroos</a></span>
+</p>	
+</div></div> <!-- footer #end -->
+
+        <script type="text/javascript">
+          var pfHeaderImgUrl = '';
+          var pfHeaderTagline = '';
+          var pfdisableClickToDel = '0';
+          var pfHideImages = '0';
+          var pfImageDisplayStyle = 'right';
+          var pfDisableEmail = '0';
+          var pfDisablePDF = '0';
+          var pfDisablePrint = '0';
+          var pfCustomCSS = '';
+
+          // PrintFriendly
+          var e = document.createElement('script'); e.type="text/javascript";
+          e.src = 'http://cdn.printfriendly.com/printfriendly.js';
+          document.getElementsByTagName('head')[0].appendChild(e);
+      </script>
+<script type='text/javascript' src='wp-content/themes/WikiBase/library/js/livesearch.js?ver=1'></script>
+<script type='text/javascript' src='wp-content/themes/WikiBase/library/js/jquery.hoveraccordion.min.js?ver=1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var FB_WP=FB_WP||{};FB_WP.queue={_methods:[],flushed:false,add:function(fn){FB_WP.queue.flushed?fn():FB_WP.queue._methods.push(fn)},flush:function(){for(var fn;fn=FB_WP.queue._methods.shift();){fn()}FB_WP.queue.flushed=true}};window.fbAsyncInit=function(){FB.init({"channelUrl":"http:\/\/www.oert.org\/wp-content\/plugins\/facebook\/channel.php","xfbml":true,"appId":"285109618260716"});if(FB_WP && FB_WP.queue && FB_WP.queue.flush){FB_WP.queue.flush()}}
+/* ]]> */
+</script>
+<div id="fb-root"></div><script type="text/javascript">(function(d){var id="facebook-jssdk";if(!d.getElementById(id)){var js=d.createElement("script"),ref=d.getElementsByTagName("script")[0];js.id=id,js.async=true,js.src="http:\/\/connect.facebook.net\/es_ES\/all.js",ref.parentNode.insertBefore(js,ref)}})(document)</script>
+<script type='text/javascript' src='index.html?p=153'></script>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27724959-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script><script type="text/javascript">
+	//<![CDATA[
+		function initBelle() {
+			Belle.AjaxURL		= "http://www.oert.org/?sajax=1"
+			// Initialize Livesearch
+			Belle.LiveSearch	= new LiveSearch( "Escribe y obten resultados al instante" )
+			}
+		jQuery(document).ready( function() { initBelle() })
+	//]]>
+	</script>
+<!-- LOAD JAVASCRIPT LATE - JUST BEFORE THE BODY TAG 
+		 That way the browser will have loaded the images
+	  	 and will know the width of the images. No need to
+		 specify the width in the CSS or inline. -->
+
+	<!-- jQuery library - Please load it from Google API's -->
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+
+	<!-- jQuery UI Widget and Effects Core (custom download)
+		 You can make your own at: http://jqueryui.com/download -->
+	<script src="wp-content/themes/WikiBase/library/js/jquery-ui-1.8.18.custom.min.js" type="text/javascript"></script>
+	
+	<!-- Latest version of jQuery Mouse Wheel by Brandon Aaron
+		 You will find it here: http://brandonaaron.net/code/mousewheel/demos -->
+	<script src="wp-content/themes/WikiBase/library/js/jquery.mousewheel.min.js" type="text/javascript"></script>
+
+	<!-- Smooth Div Scroll 1.2 minified-->
+	<script src="wp-content/themes/WikiBase/library/js/jquery.smoothdivscroll-1.2-min.js" type="text/javascript"></script>
+
+	<!-- If you want to look at the uncompressed version you find it at
+		 js/jquery.smoothDivScroll-1.2.js -->
+
+	<!-- Plugin initialization -->
+	<script type="text/javascript">
+		jQuery(document).ready(function () {
+			jQuery("#logoParade").smoothDivScroll({
+				autoScrollingMode: "always",
+				autoScrollingDirection: "endlessloopright",
+				autoScrollingStep: 1,
+				autoScrollingInterval: 25 
+			});
+
+			// Logo parade
+			jQuery("#logoParade").bind("mouseover", function () {
+				jQuery(this).smoothDivScroll("stopAutoScrolling");
+			}).bind("mouseout", function () {
+				jQuery(this).smoothDivScroll("startAutoScrolling");
+			});
+
+		});
+		
+	</script>	
+	
+</body></html>

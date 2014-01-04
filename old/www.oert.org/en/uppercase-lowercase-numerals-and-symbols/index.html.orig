@@ -1,0 +1,555 @@
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<title>
+  Uppercase, lowercase, numerals and symbols&nbsp;|&nbsp;OERT</title>
+
+<link rel="stylesheet" href="http://www.oert.org/wp-content/plugins/sitepress-multilingual-cms/res/css/language-selector.css?v=2.6.0" type="text/css" media="all" />
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="stylesheet" type="text/css" href="http://www.oert.org/wp-content/themes/WikiBase/style.css" media="screen" />
+<link rel="shortcut icon" type="image/png" href="http://www.oert.org/wp-content/uploads/favicon.ico" />
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.oert.org/en/feed/" />
+<link rel="pingback" href="http://www.oert.org/xmlrpc.php" />
+
+<link rel="stylesheet" type="text/css" href="http://www.oert.org/wp-content/themes/WikiBase/library/css/print.css" media="print" />
+<link rel="Stylesheet" type="text/css" href="http://www.oert.org/wp-content/themes/WikiBase/library/css/smoothDivScroll.css" />
+
+<script src="http://connect.facebook.net/es_ES/all.js#xfbml=1"></script>
+<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+<script src="https://apis.google.com/js/plusone.js" type="text/javascript"></script>
+
+
+ <link href="http://www.oert.org/wp-content/themes/WikiBase/custom.css" rel="stylesheet" type="text/css">
+<script language="javascript" type="text/javascript">
+	function hasClass(ele,cls) {
+	return ele.className.match(new RegExp('(\\s|^)'+cls+'(\\s|$)'));
+	}
+
+    function addClass(ele,cls) {
+    if (!this.hasClass(ele,cls)) ele.className += " "+cls;
+    }
+    function removeClass(ele,cls) {
+    if (hasClass(ele,cls)) {
+        var reg = new RegExp('(\\s|^)'+cls+'(\\s|$)');
+        ele.className=ele.className.replace(reg,' ');
+    }
+    }
+
+    function showHideDiv(sids,divids)
+    {
+		//alert(sids);
+		//alert(divids);
+        var divstyle = new String();
+		var spanstyle = new String();
+		var spansid = new String();
+		spansid = document.getElementById(sids);
+        divstyle = document.getElementById(divids).style.display;
+        if(divstyle.toLowerCase()=="block" || divstyle == "")
+        {
+            document.getElementById(divids).style.display = "none";
+			removeClass(spansid,'neg');
+			addClass(spansid,'pos');
+        }
+        else
+        {
+            document.getElementById(divids).style.display = "block";
+			removeClass(spansid,'pos');
+			addClass(spansid,'neg');
+        }
+    }
+    </script>
+    <script type="text/javascript">
+        $(document).ready( function() {
+            $('#menu-recursos').hoverAccordion({
+                keepHeight:true,
+                activateItem: 3,
+                speed: 400
+            });
+        });
+    </script>
+        
+<link rel="dns-prefetch" href="//connect.facebook.net" />
+<link rel="alternate" type="application/rss+xml" title="OERT &raquo; Uppercase, lowercase, numerals and symbols Comments Feed" href="http://www.oert.org/en/uppercase-lowercase-numerals-and-symbols/feed/" />
+<link rel='stylesheet' id='wpml-cms-nav-css-css'  href='http://www.oert.org/wp-content/plugins/wpml-cms-nav/res/css/navigation.css?ver=1.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='cms-navigation-style-base-css'  href='http://www.oert.org/wp-content/plugins/wpml-cms-nav/res/css/cms-navigation-base.css?ver=1.2.7' type='text/css' media='screen' />
+<link rel='stylesheet' id='cms-navigation-style-css'  href='http://www.oert.org/wp-content/plugins/wpml-cms-nav/res/css/cms-navigation.css?ver=1.2.7' type='text/css' media='screen' />
+<link rel='stylesheet' id='good-old-gallery-theme-css'  href='http://www.oert.org/wp-content/plugins/good-old-gallery/themes/good-old-gallery-dots/good-old-gallery-dots.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='good-old-gallery-css'  href='http://www.oert.org/wp-content/plugins/good-old-gallery/assets/css/good-old-gallery.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='facebook-css'  href='http://www.oert.org/wp-content/plugins/facebook/static/css/style.min.css?ver=1.3.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.oert.org/wp-includes/js/jquery/jquery.js?ver=1.8.3'></script>
+<script type='text/javascript' src='http://www.oert.org/wp-content/themes/WikiBase/library/js/functions.js?ver=1'></script>
+<script type='text/javascript' src='http://www.oert.org/wp-includes/js/comment-reply.min.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://www.oert.org/wp-content/plugins/good-old-gallery/plugins/cycle/jquery.cycle.all.min.js?ver=3.5.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.oert.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.oert.org/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Typographic family' href='http://www.oert.org/en/typographic-family/' />
+<link rel='next' title='The classifier' href='http://www.oert.org/en/the-classifier/' />
+<meta name="generator" content="WordPress 3.5.1" />
+<link rel='shortlink' href='http://www.oert.org/?p=622' />
+
+	<!-- This site uses Good Old Gallery, get it from http://wp.unwi.se/good-old-gallery -->
+
+        <style type="text/css" media="screen">
+          div.printfriendly {
+            margin: 0px 0px 0px 0px;;
+          }
+          div.printfriendly a, div.printfriendly a:link, div.printfriendly a:visited {
+            text-decoration: none;
+            font-size: 14px;
+            color: #99cc00;
+            vertical-align: bottom;
+            border: none;
+          }
+
+          .printfriendly a:hover {
+            cursor: pointer;
+          }
+
+          .printfriendly a img  {
+            border: none;
+            padding:0;
+            margin-right: 6px;
+            display:inline-block;
+            box-shadow: none;
+            -webkit-box-shadow: none;
+            -moz-box-shadow: none;
+          }
+          .printfriendly a span{
+            vertical-align: bottom;
+          }
+          .pf-alignleft {
+            float: left;
+          }
+          .pf-alignright {
+            float: right;
+          }
+          div.pf-aligncenter {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            text-align: center;
+          }
+        </style>
+        <style type="text/css" media="print">
+          .printfriendly {
+            display: none;
+          }
+        </style>
+<script type="text/javascript">var icl_lang = 'en';var icl_home = 'http://www.oert.org/en/';</script>
+<script type="text/javascript" src="http://www.oert.org/wp-content/plugins/sitepress-multilingual-cms/res/js/sitepress.js"></script>
+<meta name="generator" content="WPML ver:2.6.0 stt:1,2;0" />
+<link rel="alternate" hreflang="es_ES" href="http://www.oert.org/mayusculas-minusculas-numeros-y-signos/" />
+
+<style type="text/css">#lang_sel a, #lang_sel a.lang_sel_sel{color:#444444;}#lang_sel a:hover, #lang_sel a.lang_sel_sel:hover{color:#000000;}#lang_sel a.lang_sel_sel, #lang_sel a.lang_sel_sel:visited{background-color:#f5f4f2;}#lang_sel a.lang_sel_sel:hover{background-color:#eeeeee;}#lang_sel li ul a, #lang_sel li ul a:visited{color:#444444;}#lang_sel li ul a:hover{color:#000000;}#lang_sel li ul a, #lang_sel li ul a:link, #lang_sel li ul a:visited{background-color:#f5f4f2;}#lang_sel li ul a:hover{background-color:#eeeeee;}#lang_sel a, #lang_sel a:visited{border-color:#cdcdcd;} #lang_sel ul ul{border-top:1px solid #cdcdcd;}</style>
+
+<style type="text/css">#lang_sel  {width: 195px; margin-bottom:24px;}
+#lang_sel a {font-size:12px;}
+#lang_sel li {width:192px; }
+
+</style>		<link href="http://www.oert.org/wp-content/themes/WikiBase/skins/1-default.css" rel="stylesheet" type="text/css" />
+
+
+<link href='http://boakes.org/most-wanted?v=0.1.9v' />
+<link rel="canonical" href="http://www.oert.org/en/uppercase-lowercase-numerals-and-symbols/"/>
+<meta property="og:site_name" content="OERT" />
+<meta property="og:type" content="article" />
+<meta property="og:locale" content="es_ES" />
+<meta property="fb:app_id" content="285109618260716" />
+<meta property="og:url" content="http://www.oert.org/en/uppercase-lowercase-numerals-and-symbols/" />
+<meta property="og:title" content="Uppercase, lowercase, numerals and symbols" />
+<meta property="og:description" content="Origin, relationships, and connotations of uppercase and lowercase systems. Vertical relations. Uppercase and lowercase legibility. Formal characteristics and function of numerals. Diacritic marks, punctuation and other sorts: shape and placing. Fractions." />
+<meta property="article:published_time" content="2012-04-27T05:42:50+00:00" />
+<meta property="article:modified_time" content="2012-10-31T19:11:11+00:00" />
+<meta property="article:author" content="http://www.oert.org/en/author/admin/" />
+<meta property="article:section" content="Letter" />
+<meta property="article:tag" content="Theory" />
+</head>
+<body class="single single-post postid-622 single-format-standard">
+<div id="header">   
+<div id="header_in" class="clearfix">
+<div class="logo"> 
+   <div class="blog-title"><a href="http://www.oert.org/en//">OERT</a> 
+		
+		 <p class="blog-description">
+		  Open Educational Resources for Typography		</p>
+   </div> 
+   </div>
+                        <div class="header_right">
+        	<p>Última actualización: <span>April 7, 2013</span></p>
+                        <form method="get" id="searchform" action="http://www.oert.org/en/">
+<div id="search-form-wrap">
+<label for="s" id="search-label">Buscar:</label>
+<input type="text" id="s" name="s" accesskey="4" value="" />
+<input type="hidden" name="stype" value="ajsearch" />
+<input type="submit" name="stype" value="Search" style="display:none;" class="b_search" />
+<span id="searchreset" title="Reset Search"></span>
+<span id="searchload"></span>
+</div>
+</form>
+
+                    </div>               
+   </div> 
+ </div>   <!-- header #end -->     <div id="wrapper" class="clearfix">  
+  		<div id="content" >
+         <div id="current-content">
+                 <div class="breadcrumb clearfix">
+        <a rel="nofollow" href="http://www.oert.org/en/">Home</a>  <a href="http://www.oert.org/en/category/part1/" title="View all posts in Theory">Theory</a>  <a href="http://www.oert.org/en/category/part1/part1-1/" title="View all posts in Letter">Letter</a>  Uppercase, lowercase, numerals and symbols        </div>
+             
+                       
+        <div class="single_post">
+        <h1 class="head">Uppercase, lowercase, numerals and symbols</h1>
+ 		  		                  <p class="post_info clearfix post_info_single"><span>Posted by <a href="http://www.oert.org/en/author/admin/" title="Posts by OERT" rel="author">OERT</a> - Apr 27, 2012 </span>
+                     <span class="i_cate"> <a href="http://www.oert.org/en/category/part1/part1-1/" title="View all posts in Letter" rel="category tag">Letter</a>, <a href="http://www.oert.org/en/category/part1/" title="View all posts in Theory" rel="category tag">Theory</a> </span>
+                      <span> <a href="http://www.oert.org/en/uppercase-lowercase-numerals-and-symbols/#commentarea"  class="i_comment" ><fb:comments-count xmlns="http://ogp.me/ns/fb#" href="http://www.oert.org/en/uppercase-lowercase-numerals-and-symbols/"></fb:comments-count> Comments </a></span>                      
+                      <a href="http://www.oert.org/en//?cat=22&amp;feed=rss2" class="i_rss">Receive Updates For This Category</a>
+                      
+                       </p>
+                       
+                       
+					              
+              
+              <div id="post-622" class="posts clearfix">               		               
+              		
+              		<!-- Templatic Article Tools #end -->
+              		
+              		              		
+              		<!-- Templatic Article Tools #end -->
+
+                      <p class="autor">Elaboración: Natalia Fernández, Paula Ibarra, Marcela Romero, Sol Vázquez</p>
+<p class="note">Artículo en proceso de traducción </p>
+<p class="bajada">When the rhythm of writing accelerated, letters overlapped, irregularities, ascenders and descenders appeared, and so did lower case. Now, those two systems, capitals and lower case, are used in combination, each one with different attributions. There are also other signs which we usually use to compose a text: punctuation, commercial, basic mathematical operators, monetary symbols, usual fractions, to name some.</p>
+<p>The process of lower case invention began with the creation of semi-uncial writing which implied a gestural simplification in the drawing of capitals, influenced by the use of the pen and the writing speed. This process consolidated with Caroline minuscule writing. </p>
+<p>Today they coexist and two different alphabetic systems with different structures complement each other: capitals and lower case.</p>
+<p>Capitals were used for Greek and Roman tombstone inscriptions and maybe that is why they are used to show the importance of certain names or things. They are used at the beginning of sentences or proper names (except in the German language where nouns are capitalized also). They usually connote importance and respect. </p>
+<p>Lower case is used for the majority of the actual text. Maybe due to its more functional than aesthetic origin, the connotation of this system is not as «serious» as that of the capitals. </p>
+<p>Once the capitals and lower case systems consolidated, the modifications they underwent were practical and trendy ones, but the structure within each sign group was maintained. Though structural differences between both systems are wide and notorious, some relations may be established.</p>
+<p><strong>Baseline:</strong> it is the horizontal imaginary line on which almost all capitals rest. </p>
+<p><strong>Capitals height:</strong> it is the height of the capitals or upper case letters, it is measured from the baseline to the upper part of the capitals character. </p>
+<p><strong>X height:</strong> it is the height of the lower case or minuscule letters, not including ascenders or descenders. The letter «x»is taken as reference because its legs clearly define the baseline and its two upper strokes clearly define its height.  </p>
+<p><strong>Ascender height:</strong> it is the imaginary line reached by the upper extremes of the ascender of a lower case. </p>
+<p><strong>Descender height:</strong> it is the imaginary line reached by the lower extremes of the descender of a lower case. </p>
+<p><strong>Ascender and descender:</strong> It is the part of the lower case that goes above the x height or below the baseline. </p>
+<p>The proportional relations between these heights are specific to each typographic design. In some cases, the height of capitals coincides with the ascenders, or in others, the latter is slightly higher. These proportions, among other characteristics, are the ones that define the identity in each typeface family.</p>
+<div id="go-gallery-998-1" class="go-gallery-container go-gallery-998 gog-dots has-pager cycle">
+<div class="go-gallery-inner">
+<ul class="slides">
+<li>
+<div class="image"><img width="700" height="526" src="http://www.oert.org/wp-content/uploads/2012/08/T02B_02-ascendente_descendente.jpg" class="attachment-large" alt="Altura de “x” y rasgo ascendente y descendente" />
+</div></li>
+<li>
+<div class="image"><img width="700" height="525" src="http://www.oert.org/wp-content/uploads/2012/08/T02B_01-estructura_mayusc_minusc.jpg.jpg" class="attachment-large" alt="Altura de “x” y de mayúsculas. Diferentes líneas de la familia" />
+</div></li>
+<li>
+<div class="image"><img width="700" height="526" src="http://www.oert.org/wp-content/uploads/2012/08/T02B_03-relaciones_alturas.jpg" class="attachment-large" alt="Relaciones de alturas" />
+</div></li>
+</ul>
+<div class="pager"></div>
+</div>
+<script type="text/javascript" charset="utf-8">jQuery(function($) { $(function () { $("#go-gallery-998-1 .slides").cycle({fx: "scrollHorz", navigation: false, pager: true, pager: "#go-gallery-998-1 .pager"}); }); });</script>
+</div>
+
+<h3>Capitals, lower case, and legibility</h3>
+<p>“Legibility is the degree to which glyphs (individual characters) in text are understandable or recognizable based on appearance. &#8220;The legibility of a typeface is related to the characteristics inherent in its design &#8230; which relate to the ability to distinguish one letter from the other.&#8221; Legibility includes factors such as &#8220;x-height, character shapes, stroke contrast, the size of its counters, serifs or lack thereof, and weight.” (Strizver, Ilene (2010). Type Rules: The Designer&#8217;s Guide to Professional Typography (3rd ed.). New Jersey: John Wiley &#038; Sons.)</p>
+<p>If we form a word only in capitals, the printed area it produces is regular, with a constant height. If we form words in both capitals and lower case the printed areas are irregular as each letter can occupy different areas of the printed area. These printed areas are specific for each word, thus making word identification quicker and easier to read. The printed are of the word (bouma), is recognized by the reader, decoded, not read word by word.</p>
+<div id="attachment_886" class="wp-caption alignnone" style="width: 710px"><a href="http://www.oert.org/wp-content/uploads/2012/07/T02B_04-bouma2.jpg"><img class="size-full wp-image-886" title="Bouma de mayúsculas y de minúsculas" src="http://www.oert.org/wp-content/uploads/2012/07/T02B_04-bouma2.jpg" alt="Bouma de mayúsculas y de minúsculas" width="700" height="525" /></a><p class="wp-caption-text"><br /> La mancha de la palabra (bouma), es reconocida por el lector, descifrada, no leída letra a letra.</p></div>
+<h3>Numbers</h3>
+<p>Though there is certain freedom in the design of letters, numbers do not give the designer the chance to exercise creativity in the use of form and proportion. Letters are read forming words, which can compensate a certain degree of ambiguity in their design, but numbers have to be deciphered on their own, with no help from the context. </p>
+<p><strong>Lowcase numbers (old style)</strong>: Claude Garamond was one of the first typographers to study the design of numeric characters together with alphabetic characters. These numbers were devised to work as part of the text, thus its behavior is similar to that of the lower case. </p>
+<p>In order for the zero not to be confused with the lower case «o», it usually has a different stroke modulation or the x-height is a bit higher and the ascenders or descenders are a bit shorter that lower case.</p>
+<p><strong>Capitals numbers: </strong>By the end of the XVIIIth century, due to the many scientific advances, a new kind of numerals known as upper case numbers or capital numbers appeared and they began to be used to document mathematic or technical texts. </p>
+<p>These numbers have the same height as capital letters, though slightly lower in some cases. Also, as they all occupy the same width so that they may be vertically aligned when set in columns, they are also named tabular or monospaced numbers. </p>
+<p>In this case, in order to avoid confusion between both, the zero number is usually thinner than the capital «O» letter, and this is the width used to determine the other numbers in the typeface family.</p>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/09/T02B_05-cero_letrao_v2.jpg"><img class="size-full wp-image-1808" title="Letras “o” y cero" src="http://www.oert.org/wp-content/uploads/2012/09/T02B_05-cero_letrao_v2.jpg" alt="" width="701" height="526" /></a></p>
+<p><strong>Numbers and spacing</strong>: the numbers may behave, from the point of view of spacing, like letters and create a uniform color. It tartar nontabular numbers and each will have its own width. Conversely, if the numbers are tabular, all have the same width and will be arranged in successive lines.</p>
+<div id="attachment_1811" class="wp-caption alignnone" style="width: 711px"><a href="http://www.oert.org/wp-content/uploads/2012/09/T02B_06-comparativa-txt-num-may-min.jpg"><img class="size-full wp-image-1811" title="Números mayúsculos y minúsculos dentro de un texto" src="http://www.oert.org/wp-content/uploads/2012/09/T02B_06-comparativa-txt-num-may-min.jpg" alt="Números mayúsculos y minúsculos dentro de un texto" width="701" height="526" /></a><p class="wp-caption-text">Los números minúsculos no producen rupturas en el ritmo del texto.</p></div>
+<p><strong>Numbers and heights: </strong>capitals numbers have a height similar to the uppercase letters, sometimes a little less. Similarly, the old style numbers share the stage with lowercase letters, also with slight variations. Zero, one and two similar height to that of &#8220;x&#8221;, the three, four, five, seven and nine, down, six and eight, ascend.</p>
+<div id="attachment_1810" class="wp-caption alignnone" style="width: 710px"><a href="http://www.oert.org/wp-content/uploads/2012/09/T02B_06-num_minusc_mayusc1.jpg"><img class="size-full wp-image-1810" title="Números minúsculos y mayúsculos" src="http://www.oert.org/wp-content/uploads/2012/09/T02B_06-num_minusc_mayusc1.jpg" alt="Números minúsculos y mayúsculos" width="700" height="525" /></a><p class="wp-caption-text">A la izquierda: números mayúsculos tabulares. A la derecha: números minúsculos de anchos variables.</p></div>
+<h3>Orthographic signs</h3>
+<p>Punctuation in written texts has the purpose of reproducing the intonation of spoken language. Much of the correct expression and understanding of written texts depends on it. These signs created to be read but not heard, are the tuning fork that determines the rhythm within the silent voice of typography. Punctuation marks tempo, tone, volume and unit separation, it organizes speech and its different elements and it helps avoid ambiguity in texts which, without it, might have different interpretations.</p>
+<p>Among orthographic signs we have:<br />
+<strong>Punctuation marks</strong>: period, colon, comma, semicolon, and ellipsis marks. </p>
+<p>Usually in the composition of the latter the repetition of a period is incorrectly used. This sign has a specially designed character, which contains a spacing that agrees with the idea of creating suspense, doubt, pause in discourse, giving it less spacing between periods.</p>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/07/T02B_08-seg_min_tilde.jpg"><img title="Comillas, pulgadas, comillas simples, tildes y puntos suspensivos" src="http://www.oert.org/wp-content/uploads/2012/07/T02B_08-seg_min_tilde.jpg" alt="Comillas, pulgadas, comillas simples, tildes y puntos suspensivos" width="700" height="526" /></a></p>
+<p><strong>Intonation marks:</strong>: Question and exclamation marks.</p>
+<p><strong>Auxiliary signs</strong>: parenthesis, square brackets, braces, hyphen, em dash, double quotes, lambda and antilamba, slash, backslash, divider line, asterisk, among others. </p>
+<p>From the typographic point of view, orthographic signs may be divided in simple, i.e., with a single element, and double, which are distinguished because in their structure they have opposing figures to open and close: ‘ ’ , “ ”, « » , ¡ !, ¿ ?, ( ), [ ], < >.</p>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/07/T02B_07-comillas.jpg"><img title="Comillas" src="http://www.oert.org/wp-content/uploads/2012/07/T02B_07-comillas.jpg" alt="Comillas" width="700" height="526" /></a></p>
+<p>These signs are composed in the following way:</p>
+<ul>
+<li>The opening ones are separated by means of a space after the word or sign before them, and they are written without a space separating them from the word after them.</li>
+<li>On the other hand, the closing signs are written without a space separating them from the word or sign before them, separated by a space from the word after them and without this space if what follows them is a punctuation mark.</li>
+</ul>
+<p>Some signs, such as comma or the minus sign can play the role of a double sign without changing shape.</p>
+<h3>The design of punctuation marks</h3>
+<p>Punctuation marks are part of the design of a typeface family. As the other ones that conform it, they have constant and variable characteristics. Variable characteristics are the ones that constitute the peculiarities of a family. For instance: in the Roman families, the period is usually round, while in the sans serif ones it may be square, round, rectangular or rhomboidal, depending on the design and proportions of the family to which they belong. In alphabets with calligraphic influence, periods tend to be rhomboidal. </p>
+<p>The weight a period should have is an important decision for two reasons: first, because it defines the weight of many of the other punctuation marks, and second, because it has to be heavy enough to be quickly perceived, but not too heavy so as to interfere in the appreciation of the other signs. Lesser weight punctuations such as the period or the comma are more closely associated to the weight of the family, while large structure punctuations, such as question or exclamation marks, have clear characteristics of the family style. </p>
+<p>Invariable characteristics are those that have to do with the very structure of the sign, which have a historic origin. If we analyze punctuation marks in several different families, we will find that there are characteristics that do not change from one family to another, such as proportions, the basic structure that makes each sign recognizable as such, the relation these signs have with each other and the way they stand.</p>
+<h3>Sign alignment</h3>
+<p>We know that these punctuation marks rest on the baseline: . , …<br />
+Middle height signs, opening signs and question and exclamation marks should be aligned with the x-height and with the lower case descenders: <> ? ! + : ;<br />
+Those signs that go above the x-height should be aligned with the cap height: * ! ? “ ” &#8221;<br />
+The following ancillary signs are aligned going slightly over the cap height and slightly below the baseline, as they have to include the descenders and their function is to contain text within them: ( ) [ ] { }<br />
+Most commercial and monetary signs have cap height, except for the cent: $ ¥ ¢ £</p>
+<div id="go-gallery-992-2" class="go-gallery-container go-gallery-992 gog-dots has-pager cycle">
+<div class="go-gallery-inner">
+<ul class="slides">
+<li>
+<div class="image"><a href="http://www.oert.org/wp-content/uploads/2012/07/T02B_09-alineacion_signospuntuacion.jpeg">
+<img width="701" height="526" src="http://www.oert.org/wp-content/uploads/2012/07/T02B_09-alineacion_signospuntuacion.jpeg" class="attachment-large" alt="Alineación de signos de puntuación" />
+</a>
+</div></li>
+<li>
+<div class="image"><img width="701" height="526" src="http://www.oert.org/wp-content/uploads/2012/07/T02B_15-excepcion_signosapertura.jpeg" class="attachment-large" alt="Apoyo correcto e incorrecto de los signos de pregunta y admiración" />
+</div></li>
+<li>
+<div class="image"><img width="701" height="526" src="http://www.oert.org/wp-content/uploads/2012/07/T02B_09-alineacion2.jpeg" class="attachment-large" alt="Alineación de signos no alfabéticos y comerciales" />
+</div></li>
+</ul>
+<div class="pager"></div>
+</div>
+<script type="text/javascript" charset="utf-8">jQuery(function($) { $(function () { $("#go-gallery-992-2 .slides").cycle({fx: "scrollHorz", navigation: false, pager: true, pager: "#go-gallery-992-2 .pager"}); }); });</script>
+</div>
+
+<h3>Fractions</h3>
+<p>Fractions are signs specially designed and spaced for the proper functioning. In most cases, mistakenly, two numbers with the same the body size as the rest of the text being composed are used, aligning them one next to the other separated by a dash which does not have the correct tilting. A fraction is an integrated sign, which has a special disposition in the signs that compose it.</p>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/07/T02B_14-fracciones.jpg"><img class="alignnone size-full wp-image-895" title="Fracciones correctas e incorrectas" src="http://www.oert.org/wp-content/uploads/2012/07/T02B_14-fracciones.jpg" alt="Fracciones correctas e incorrectas" width="701" height="526" /></a></p>
+<p>The sign must be visualized as a unit and not as two numbers and a dash, thus the body of the numbers and the spacing of the dash are adjusted for better visualization.</p>
+<p>Some typeface families have variables or expert sets with available fractions. There is a dash which is slightly more tilted than the traditional slash, to build fractions. Typefaces include them in the percent sign (%), per thousand (‰) and in the more usual fractions, yet very few have them in separate. In such a case, a cursive dash (⁄) can be used, which has a tilting which is correct to act as substitute.</p>
+<div class="ref_box"><strong>Bibliography</strong></p>
+<ul>
+<li>DE BUEN UNNA, Jorge. <em> Manual de diseño editorial. 3.ª edición, corregida y aumentada. </em>Trea Ediciones, España, 2009.</li>
+<li>MARTINEZ DE SOUSA, José.<em> Manual de edición y autoedición,</em> Pirámide, España, 1999.</li>
+<li>SOLOMON, Martin. <em>El poder de la puntuación,</em> Revista tpG</li>
+<li>MC LEAN, Ruari.<em> Manual tipográfico,</em> Tellus, Madrid, 1988.</li>
+<li>HALLEY, Allan.<em> Alphabet,</em> Thames&amp;Hudson, Londres.</li>
+<li>BRINGHURST, Robert. <em>Los elementos del estilo tipográfico,</em> Libros sobre libros / Fondo de Cultura Económica, México, 2008.</li>
+</ul>
+<p></p></div>
+<p class="icl_post_in_other_langs">Esta entrada también está disponible en: <a href="http://www.oert.org/mayusculas-minusculas-numeros-y-signos/">Spanish</a></p>                   
+                  
+                  <div class="like_this_section clearfix">
+					<div class="google_like">
+					<g:plusone href="http://www.oert.org" size="medium"></g:plusone>
+					</div>	                  
+                     <div class="twitter_like">
+                     <a href="http://twitter.com/share" class="twitter-share-button" data-via="oert.org" data-lang="es" data-size="medium">Tweet</a>
+                     </div>
+                     <div class="fb_like">
+                     <fb:like href="http%3A%2F%2Fwww.oert.org%2Fen%2Fuppercase-lowercase-numerals-and-symbols%2F" layout="button_count" show_faces="false" width="450" height="30"></fb:like>
+                     </div>
+                     <div class="printfriendly"><a href="http://www.printfriendly.com/print?url=http://www.oert.org/en/uppercase-lowercase-numerals-and-symbols/" rel="nofollow" onclick="window.print(); return false;"><img src="http://cdn.printfriendly.com/button-print-gry20.png" alt="Print Friendly" /></a></div>				</div> <!-- #end -->
+
+
+          				
+              </div> <!-- post #end -->
+              
+              
+               
+ 			<div class="post-navigation clearfix">
+                                                            <a class="post-prev" href="http://www.oert.org/en/typographic-family/"><em>Previous post</em><span>Typographic family</span></a>
+                                                                <a class="post-next" href="http://www.oert.org/en/the-classifier/"><em>Next post</em><span>The classifier</span></a>
+                                 </div>
+            
+            
+              </div> <!-- single post content #end -->
+          		<div class="realated_post clearfix">
+<h3>Related Posts</h3><ul class="realated_postlist clearfix">
+            <li class="clearfix"> 
+      
+     <h3> <a href="http://www.oert.org/en/text-image-dingbats-and-decorative-elements/">Text, image, dingbats and decorative elements</a></h3> 
+     <p class="date clearfix"> <span>April 27, 2012</span></p>
+     <p>Dingbats and decorative elements as elements of the typographic case. Function and types of dingbats and decorative elements. Double function: characters or image. Letters as images or characters. Relations.
+</p>
+            </li>
+                        <li class="clearfix"> 
+      
+     <h3> <a href="http://www.oert.org/en/design-and-morphological-operations-with-typography/">Design and morphological operations with typography</a></h3> 
+     <p class="date clearfix"> <span>April 27, 2012</span></p>
+     <p>Typeface family as a system. Aspects to be considered when designing a related group of characters: choosing the historical and cultural context, structural relations, stroke and terminal features. character weight and word color, distinctive characters and terminals. Axes for the construction of styles.</p>
+            </li>
+                        <li class="clearfix"> 
+      
+     <h3> <a href="http://www.oert.org/en/typographic-programs/">Typographic Programs</a></h3> 
+     <p class="date clearfix"> <span>April 27, 2012</span></p>
+     <p>System of systems. Typographic programs, serial families and super families. Construction criteria. Uses. Description of some programs.
+</p>
+            </li>
+                        <li class="clearfix"> 
+      
+     <h3> <a href="http://www.oert.org/en/typographic-styles/">Typographic styles</a></h3> 
+     <p class="date clearfix"> <span>April 27, 2012</span></p>
+     <p>Functions and convention in the use of styles. Traditional axes. Recognizing designed variants and the effects of digital distortion. Small capitals: character weight and line color.</p>
+            </li>
+            </ul>
+</div>
+		
+        
+          <div id="comments" class="clearfix"> 
+<div id="comments" class="comments-area">
+<div id="respond">
+<div class="fb-social-plugin fb-comments" id="commentform" data-href="http://www.oert.org/en/uppercase-lowercase-numerals-and-symbols/" data-width="700"></div>
+</div></div>
+</div>
+          
+             </div>
+	<div id="dynamic-content"></div>        
+  </div> <!-- content #end -->
+<script type="text/javascript" language="javascript" >
+var root_path_js = 'http://www.oert.org/';
+</script>
+<script type="text/javascript" language="javascript" src="http://www.oert.org/wp-content/themes/WikiBase/library/js/article_detail.js" ></script>
+
+      <div id="lang_sel"  >
+    <ul>
+        <li><a href="#" class="lang_sel_sel icl-en">
+                            
+            <img  class="iclflag" src="http://www.oert.org/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png" alt="en" />                                
+            &nbsp;English</a>                                    
+            <ul>
+                                <li class="icl-es">          
+                    <a rel="alternate" hreflang="es" href="http://www.oert.org/mayusculas-minusculas-numeros-y-signos/">
+                                    
+                    <img  class="iclflag" src="http://www.oert.org/wp-content/plugins/sitepress-multilingual-cms/res/flags/es.png" alt="es" />&nbsp;                    
+                                        Español                    </a>
+                </li>
+                            </ul>            
+             
+                    </li>
+    </ul>    
+</div>
+ <!-- selector de idiomas -->
+<div id="sidebar">
+	<div class="widget"><h3><span>Recursos</span></h3><div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-404" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-404"><a href="http://www.oert.org/en/the-project/">The project</a></li>
+<li id="menu-item-405" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-405"><a href="http://www.oert.org/en/the-authors/">The Authors</a></li>
+<li id="menu-item-406" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-406"><a href="http://www.oert.org/en/editorial-board/">Editorial Committee</a></li>
+<li id="menu-item-407" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-407"><a href="http://www.oert.org/en/the-team/">The Team</a></li>
+<li id="menu-item-408" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-408"><a href="http://www.oert.org/en/our-backers/">Our backers</a></li>
+<li id="menu-item-718" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-718"><a href="http://www.oert.org/en/faq/">FAQ</a></li>
+<li id="menu-item-409" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-409"><a href="http://www.oert.org/en/contact-us/">Contact us</a></li>
+</ul></div></div><div class="widget"><h3><span>Páginas</span></h3><div class="menu-main-menu-ingles-container"><ul id="menu-main-menu-ingles" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-404"><a href="http://www.oert.org/en/the-project/">The project</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-405"><a href="http://www.oert.org/en/the-authors/">The Authors</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-406"><a href="http://www.oert.org/en/editorial-board/">Editorial Committee</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-407"><a href="http://www.oert.org/en/the-team/">The Team</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-408"><a href="http://www.oert.org/en/our-backers/">Our backers</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-718"><a href="http://www.oert.org/en/faq/">FAQ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-409"><a href="http://www.oert.org/en/contact-us/">Contact us</a></li>
+</ul></div></div></div> <!-- sidebar right--> 
+<div id="bottom"></div>
+<script type='text/javascript' src='http://www.oert.org/wp-content/themes/WikiBase/library/js/jquery.simplemodal.js'></script>
+<script type='text/javascript' src='http://www.oert.org/wp-content/themes/WikiBase/library/js/basic.js'></script>
+<div id="basic-modal-content" class="clearfix" style="display:none;">
+<form name="send_to_frnd" id="send_to_frnd" action="http://www.oert.org/en/uppercase-lowercase-numerals-and-symbols/" method="post" >
+<input type="hidden" id="send_to_Frnd_pid" name="pid" value="622" />
+<input type="hidden" name="sendact" value="email_frnd" />
+	<h3>Send To Friend</h3>
+    <p id="reply_send_success" class="sucess_msg" style="display:none;"></p>
+	<div class="row clearfix" ><label>Friend Name : <span>*</span></label><input name="to_name" id="to_name" type="text"  /><span id="to_nameInfo"></span></div>
+ 	<div class="row  clearfix" ><label> Email : <span>*</span></label><input name="to_email" id="to_email" type="text"  /><span id="to_emailInfo"></span></div>
+	<div class="row  clearfix" ><label>Your Name : <span>*</span></label><input name="yourname" id="yourname" type="text"  /><span id="yournameInfo"></span></div>
+ 	<div class="row  clearfix" ><label> Email : <span>*</span></label><input name="youremail" id="youremail" type="text"  /><span id="youremailInfo"></span></div>
+	<div class="row  clearfix" ><label>Subject : <span>*</span></label><input name="frnd_subject" value="About Uppercase, lowercase, numerals and symbols" id="frnd_subject" type="text"  /></div>
+	<div class="row  clearfix" ><label>Comments : <span>*</span></label>
+     <textarea name="frnd_comments" id="frnd_comments" cols="" rows="" >Hi there, do check out the information about this Article.</textarea></div>
+	<input name="Send" type="submit" value="Send " class="button " />
+</form>
+</div>
+<script type="text/javascript" src="http://www.oert.org/wp-content/themes/WikiBase/library/js/email_frnd_validation.js"></script>
+<!-- here -->   </div> <!-- wrapper #end -->
+  
+<div id="footer" class="clearfix">
+<div id="footer_in">
+<p class="copy"><a rel="license" href="http://creativecommons.org/licenses/by-sa/2.5/ar/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/2.5/ar/80x15.png" /></a> <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Open Educational Resources for Typography</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.oert.org/" property="cc:attributionName" rel="cc:attributionURL">OERT</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.5/ar/">Creative Commons Attribution-ShareAlike 2.5 Argentina License</a>.</p>
+<p class="fr"><span class="designby">Alojado en </span>
+<span class="wiroos"><a href="http://www.wiroos.com" title="Wiroos">Wiroos</a></span>
+</p>	
+</div></div> <!-- footer #end -->
+
+        <script type="text/javascript">
+          var pfHeaderImgUrl = '';
+          var pfHeaderTagline = '';
+          var pfdisableClickToDel = '0';
+          var pfHideImages = '0';
+          var pfImageDisplayStyle = 'right';
+          var pfDisableEmail = '0';
+          var pfDisablePDF = '0';
+          var pfDisablePrint = '0';
+          var pfCustomCSS = '';
+
+          // PrintFriendly
+          var e = document.createElement('script'); e.type="text/javascript";
+          e.src = 'http://cdn.printfriendly.com/printfriendly.js';
+          document.getElementsByTagName('head')[0].appendChild(e);
+      </script>
+<script type='text/javascript' src='http://www.oert.org/wp-content/themes/WikiBase/library/js/livesearch.js?ver=1'></script>
+<script type='text/javascript' src='http://www.oert.org/wp-content/themes/WikiBase/library/js/jquery.hoveraccordion.min.js?ver=1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var FB_WP=FB_WP||{};FB_WP.queue={_methods:[],flushed:false,add:function(fn){FB_WP.queue.flushed?fn():FB_WP.queue._methods.push(fn)},flush:function(){for(var fn;fn=FB_WP.queue._methods.shift();){fn()}FB_WP.queue.flushed=true}};window.fbAsyncInit=function(){FB.init({"channelUrl":"http:\/\/www.oert.org\/wp-content\/plugins\/facebook\/channel.php","xfbml":true,"appId":"285109618260716"});if(FB_WP && FB_WP.queue && FB_WP.queue.flush){FB_WP.queue.flush()}}
+/* ]]> */
+</script>
+<div id="fb-root"></div><script type="text/javascript">(function(d){var id="facebook-jssdk";if(!d.getElementById(id)){var js=d.createElement("script"),ref=d.getElementsByTagName("script")[0];js.id=id,js.async=true,js.src="http:\/\/connect.facebook.net\/es_ES\/all.js",ref.parentNode.insertBefore(js,ref)}})(document)</script>
+<script type='text/javascript' src=''></script>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27724959-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script><script type="text/javascript">
+	//<![CDATA[
+		function initBelle() {
+			Belle.AjaxURL		= "http://www.oert.org/en//?sajax=1"
+			// Initialize Livesearch
+			Belle.LiveSearch	= new LiveSearch( "Escribe y obten resultados al instante" )
+			}
+		jQuery(document).ready( function() { initBelle() })
+	//]]>
+	</script>
+<!-- LOAD JAVASCRIPT LATE - JUST BEFORE THE BODY TAG 
+		 That way the browser will have loaded the images
+	  	 and will know the width of the images. No need to
+		 specify the width in the CSS or inline. -->
+
+	<!-- jQuery library - Please load it from Google API's -->
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+
+	<!-- jQuery UI Widget and Effects Core (custom download)
+		 You can make your own at: http://jqueryui.com/download -->
+	<script src="http://www.oert.org/wp-content/themes/WikiBase/library/js/jquery-ui-1.8.18.custom.min.js" type="text/javascript"></script>
+	
+	<!-- Latest version of jQuery Mouse Wheel by Brandon Aaron
+		 You will find it here: http://brandonaaron.net/code/mousewheel/demos -->
+	<script src="http://www.oert.org/wp-content/themes/WikiBase/library/js/jquery.mousewheel.min.js" type="text/javascript"></script>
+
+	<!-- Smooth Div Scroll 1.2 minified-->
+	<script src="http://www.oert.org/wp-content/themes/WikiBase/library/js/jquery.smoothdivscroll-1.2-min.js" type="text/javascript"></script>
+
+	<!-- If you want to look at the uncompressed version you find it at
+		 js/jquery.smoothDivScroll-1.2.js -->
+
+	<!-- Plugin initialization -->
+	<script type="text/javascript">
+		jQuery(document).ready(function () {
+			jQuery("#logoParade").smoothDivScroll({
+				autoScrollingMode: "always",
+				autoScrollingDirection: "endlessloopright",
+				autoScrollingStep: 1,
+				autoScrollingInterval: 25 
+			});
+
+			// Logo parade
+			jQuery("#logoParade").bind("mouseover", function () {
+				jQuery(this).smoothDivScroll("stopAutoScrolling");
+			}).bind("mouseout", function () {
+				jQuery(this).smoothDivScroll("startAutoScrolling");
+			});
+
+		});
+		
+	</script>	
+	
+</body></html>

@@ -1,0 +1,497 @@
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<title>
+  Cuerpo tipográfico, unidades e instrumentos de medición&nbsp;|&nbsp;OERT</title>
+
+<link rel="stylesheet" href="wp-content/plugins/sitepress-multilingual-cms/res/css/language-selector.css?v=2.6.0" type="text/css" media="all" />
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="stylesheet" type="text/css" href="wp-content/themes/WikiBase/style.css" media="screen" />
+<link rel="shortcut icon" type="image/png" href="wp-content/uploads/favicon.ico" />
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="index.html?cat=&amp;feed=rss2" />
+<link rel="pingback" href="xmlrpc.php" />
+
+<link rel="stylesheet" type="text/css" href="wp-content/themes/WikiBase/library/css/print.css" media="print" />
+<link rel="Stylesheet" type="text/css" href="wp-content/themes/WikiBase/library/css/smoothDivScroll.css" />
+
+<script src="http://connect.facebook.net/es_ES/all.js#xfbml=1"></script>
+<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+<script src="https://apis.google.com/js/plusone.js" type="text/javascript"></script>
+
+
+ <link href="wp-content/themes/WikiBase/custom.css" rel="stylesheet" type="text/css">
+<script language="javascript" type="text/javascript">
+	function hasClass(ele,cls) {
+	return ele.className.match(new RegExp('(\\s|^)'+cls+'(\\s|$)'));
+	}
+
+    function addClass(ele,cls) {
+    if (!this.hasClass(ele,cls)) ele.className += " "+cls;
+    }
+    function removeClass(ele,cls) {
+    if (hasClass(ele,cls)) {
+        var reg = new RegExp('(\\s|^)'+cls+'(\\s|$)');
+        ele.className=ele.className.replace(reg,' ');
+    }
+    }
+
+    function showHideDiv(sids,divids)
+    {
+		//alert(sids);
+		//alert(divids);
+        var divstyle = new String();
+		var spanstyle = new String();
+		var spansid = new String();
+		spansid = document.getElementById(sids);
+        divstyle = document.getElementById(divids).style.display;
+        if(divstyle.toLowerCase()=="block" || divstyle == "")
+        {
+            document.getElementById(divids).style.display = "none";
+			removeClass(spansid,'neg');
+			addClass(spansid,'pos');
+        }
+        else
+        {
+            document.getElementById(divids).style.display = "block";
+			removeClass(spansid,'pos');
+			addClass(spansid,'neg');
+        }
+    }
+    </script>
+    <script type="text/javascript">
+        $(document).ready( function() {
+            $('#menu-recursos').hoverAccordion({
+                keepHeight:true,
+                activateItem: 3,
+                speed: 400
+            });
+        });
+    </script>
+        
+<link rel="dns-prefetch" href="http://connect.facebook.net/" />
+<link rel="alternate" type="application/rss+xml" title="OERT &raquo; Cuerpo tipográfico, unidades e instrumentos de medición RSS de los comentarios" href="cuerpo-tipografico-unidades-e-instrumentos-de-medicion/feed/index.html" />
+<link rel='stylesheet' id='wpml-cms-nav-css-css'  href='wp-content/plugins/wpml-cms-nav/res/css/navigation.css?ver=1.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='cms-navigation-style-base-css'  href='wp-content/plugins/wpml-cms-nav/res/css/cms-navigation-base.css?ver=1.2.7' type='text/css' media='screen' />
+<link rel='stylesheet' id='cms-navigation-style-css'  href='wp-content/plugins/wpml-cms-nav/res/css/cms-navigation.css?ver=1.2.7' type='text/css' media='screen' />
+<link rel='stylesheet' id='facebook-css'  href='wp-content/plugins/facebook/static/css/style.min.css?ver=1.3.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.oert.org/wp-includes/js/jquery/jquery.js?ver=1.8.3'></script>
+<script type='text/javascript' src='wp-content/themes/WikiBase/library/js/functions.js?ver=1'></script>
+<script type='text/javascript' src='http://www.oert.org/wp-includes/js/comment-reply.min.js?ver=3.5.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.oert.org/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='El clasificador' href='index.html?p=252' />
+<link rel='next' title='La letra y su conjunto' href='index.html?p=195' />
+<meta name="generator" content="WordPress 3.5.1" />
+<link rel='shortlink' href='index.html?p=189' />
+
+	<!-- This site uses Good Old Gallery, get it from http://wp.unwi.se/good-old-gallery -->
+
+        <style type="text/css" media="screen">
+          div.printfriendly {
+            margin: 0px 0px 0px 0px;;
+          }
+          div.printfriendly a, div.printfriendly a:link, div.printfriendly a:visited {
+            text-decoration: none;
+            font-size: 14px;
+            color: #99cc00;
+            vertical-align: bottom;
+            border: none;
+          }
+
+          .printfriendly a:hover {
+            cursor: pointer;
+          }
+
+          .printfriendly a img  {
+            border: none;
+            padding:0;
+            margin-right: 6px;
+            display:inline-block;
+            box-shadow: none;
+            -webkit-box-shadow: none;
+            -moz-box-shadow: none;
+          }
+          .printfriendly a span{
+            vertical-align: bottom;
+          }
+          .pf-alignleft {
+            float: left;
+          }
+          .pf-alignright {
+            float: right;
+          }
+          div.pf-aligncenter {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            text-align: center;
+          }
+        </style>
+        <style type="text/css" media="print">
+          .printfriendly {
+            display: none;
+          }
+        </style>
+<script type="text/javascript">var icl_lang = 'es';var icl_home = 'http://www.oert.org/';</script>
+<script type="text/javascript" src="wp-content/plugins/sitepress-multilingual-cms/res/js/sitepress.js"></script>
+<meta name="generator" content="WPML ver:2.6.0 stt:2,1;0" />
+<link rel="alternate" hreflang="en_US" href="index.html?p=623" />
+
+<style type="text/css">#lang_sel a, #lang_sel a.lang_sel_sel{color:#444444;}#lang_sel a:hover, #lang_sel a.lang_sel_sel:hover{color:#000000;}#lang_sel a.lang_sel_sel, #lang_sel a.lang_sel_sel:visited{background-color:#f5f4f2;}#lang_sel a.lang_sel_sel:hover{background-color:#eeeeee;}#lang_sel li ul a, #lang_sel li ul a:visited{color:#444444;}#lang_sel li ul a:hover{color:#000000;}#lang_sel li ul a, #lang_sel li ul a:link, #lang_sel li ul a:visited{background-color:#f5f4f2;}#lang_sel li ul a:hover{background-color:#eeeeee;}#lang_sel a, #lang_sel a:visited{border-color:#cdcdcd;} #lang_sel ul ul{border-top:1px solid #cdcdcd;}</style>
+
+<style type="text/css">#lang_sel  {width: 195px; margin-bottom:24px;}
+#lang_sel a {font-size:12px;}
+#lang_sel li {width:192px; }
+
+</style>		<link href="wp-content/themes/WikiBase/skins/1-default.css" rel="stylesheet" type="text/css" />
+
+
+<link href='http://boakes.org/most-wanted?v=0.1.9v' />
+<link rel="canonical" href="index.html?p=189"/>
+<meta property="og:site_name" content="OERT" />
+<meta property="og:type" content="article" />
+<meta property="og:locale" content="es_ES" />
+<meta property="fb:app_id" content="285109618260716" />
+<meta property="og:url" content="http://www.oert.org/cuerpo-tipografico-unidades-e-instrumentos-de-medicion/" />
+<meta property="og:title" content="Cuerpo tipográfico, unidades e instrumentos de medición" />
+<meta property="og:description" content="Definición de cuerpo, procedencia histórica y actualidad. Cuerpo, mediada kp y hombro. Cuerpo y tamaño óptico. Interlínea e interlineado. Unidades de medición, equivalencias. Instrumentos de medición." />
+<meta property="article:published_time" content="2012-01-10T01:02:51+00:00" />
+<meta property="article:modified_time" content="2012-09-18T18:28:03+00:00" />
+<meta property="article:author" content="http://www.oert.org/author/admin/" />
+<meta property="article:section" content="Letra" />
+<meta property="article:tag" content="Teoría" />
+<meta property="og:image" content="http://www.oert.org/wp-content/uploads/2012/08/T02C_01-tipo_movil_detallado.jpg" />
+<meta property="og:image:width" content="700" />
+<meta property="og:image:height" content="525" />
+</head>
+<body class="single single-post postid-189 single-format-standard">
+<div id="header">   
+<div id="header_in" class="clearfix">
+<div class="logo"> 
+   <div class="blog-title"><a href="index.html">OERT</a> 
+		
+		 <p class="blog-description">
+		  Open Educational Resources for Typography		</p>
+   </div> 
+   </div>
+                        <div class="header_right">
+        	<p>Última actualización: <span>April 7, 2013</span></p>
+                        <form method="get" id="searchform" action="index.html">
+<div id="search-form-wrap">
+<label for="s" id="search-label">Buscar por:</label>
+<input type="text" id="s" name="s" accesskey="4" value="" />
+<input type="hidden" name="stype" value="ajsearch" />
+<input type="submit" name="stype" value="Search" style="display:none;" class="b_search" />
+<span id="searchreset" title="Reset Search"></span>
+<span id="searchload"></span>
+</div>
+</form>
+
+                    </div>               
+   </div> 
+ </div>   <!-- header #end -->     <div id="wrapper" class="clearfix">  
+  		<div id="content" >
+         <div id="current-content">
+                 <div class="breadcrumb clearfix">
+        <a rel="nofollow" href="index.html">Home</a>  <a href="category/parte1/index.html" title="Ver todas las entradas en Teoría">Teoría</a>  <a href="category/parte1/parte1-1/index.html" title="Ver todas las entradas en Letra">Letra</a>  Cuerpo tipográfico, unidades e instrumentos de medición        </div>
+             
+                       
+        <div class="single_post">
+        <h1 class="head">Cuerpo tipográfico, unidades e instrumentos de medición</h1>
+ 		  		                  <p class="post_info clearfix post_info_single"><span>Posted by <a href="author/admin/index.html" title="Entradas de OERT" rel="author">OERT</a> - ene 10, 2012 </span>
+                     <span class="i_cate"> <a href="category/parte1/parte1-1/index.html" title="Ver todas las entradas en Letra" rel="category tag">Letra</a>, <a href="category/parte1/index.html" title="Ver todas las entradas en Teoría" rel="category tag">Teoría</a> </span>
+                      <span> <a href="index.html?p=189#commentarea"  class="i_comment" ><fb:comments-count xmlns="http://ogp.me/ns/fb#" href="http://www.oert.org/cuerpo-tipografico-unidades-e-instrumentos-de-medicion/"></fb:comments-count> comentarios </a></span>                      
+                      <a href="index.html?cat=10&amp;feed=rss2" class="i_rss">Receive Updates For This Category</a>
+                      
+                       </p>
+                       
+                       
+					              
+              
+              <div id="post-189" class="posts clearfix">               		               
+              		
+              		<!-- Templatic Article Tools #end -->
+              		
+              		              		
+              		<!-- Templatic Article Tools #end -->
+
+                      <p><p class="autor">Elaboración: Marcela Romero.</p><br />
+<p class="bajada">Resulta indispensable entender correctamente qué es y cómo se mide una letra. Los conocimientos básicos de tipografía y de gran parte del diseño gráfico se basan en el concepto de cuerpo.</p></p>
+<h3>Cuerpo tipográfico</h3>
+<p>El concepto de cuerpo tipográfico proviene del sistema de impresión con tipos móviles. Es la medida vertical de la cara frontal del tipo, tomando el bloque de plomo completo, no el área de impresión de una letra en particular. Por lo tanto, este valor resulta igual para letras mayúsculas, minúsculas, números, signos de puntuación y demás componentes de la caja, tengan ascendentes y descendentes o no.</p>
+<p>El cuerpo, medida estandarizada mensurable en el bloque de plomo, incluye las alturas variables según la familia, la altura de las ascendentes, la altura de la equis, las descendentes y una pequeña separación (llamada hombro) para que no se toquen las descendentes de la línea superior con las ascendentes de la línea siguiente. Decimos que estas áreas son variables porque dependen del diseño de la familia.</p>
+<div id="attachment_1156" class="wp-caption alignnone" style="width: 710px"><a href="wp-content/uploads/2012/08/T02C_01-tipo_movil_detallado.jpg"><img class="size-full wp-image-1156" title="Partes de un tipo móvil" src="wp-content/uploads/2012/08/T02C_01-tipo_movil_detallado.jpg" alt="Partes de un tipo móvil" width="700" height="525" /></a><p class="wp-caption-text">Partes de un tipo móvil</p></div>
+<h3>Interlínea</h3>
+<p>Toma su nombre de pequeñas reglas metálicas que se colocaban para aumentar el espacio entre líneas de un texto compuesto en tipos móviles. El interlineado es la distancia entre una línea de texto y la siguiente, medido por ejemplo, de línea de base a línea de base.</p>
+<p>Cuando esta medida coincide con el cuerpo tipográfico, la diferencia entre ambos es cero. Este valor se denomina interlineado sólido. Si la separación entre líneas es menor al cuerpo en que se compone el texto, obtenemos un interlineado negativo. Este recurso, al que hoy accedemos sencillamente gracias a la tecnología digital, era imposible de realizar con tipos de plomo.</p>
+<p>La medida correspondiente al interlineado se indica a continuación del cuerpo, separado de este por una barra.</p>
+<p>Al componer distintas familias tipográficas en un mismo cuerpo, comprobaremos que coincide el apoyo en la línea de base, pero las alturas de mayúsculas, ascendentes, equis y descendentes pueden no hacerlo. Cada familia es diseñada con criterios propios, partiendo incluso de distintas unidades de medida para darle proporciones a los signos.</p>
+<p>A igual cuerpo, sí son iguales las alturas de las caras frontales, pero sin el tipo móvil el cuerpo se ha vuelto intangible y más allá de los intentos no se ha podido consensuar qué es lo que se va a medir del signo impreso.</p>
+<p><a href="wp-content/uploads/2012/07/T02C_02-interlinea_solido_negativo.jpg"><img class="alignnone size-full wp-image-876" title="Cuerpo e interlineado" src="wp-content/uploads/2012/07/T02C_02-interlinea_solido_negativo.jpg" alt="Cuerpo e interlineado" width="700" height="526" /></a></p>
+<p><a href="wp-content/uploads/2012/07/T02C_05-ejemp_garamond_univers_bodoni02.jpg"><img title="T02C_05-ejemp_garamond_univers_bodoni02" src="wp-content/uploads/2012/07/T02C_05-ejemp_garamond_univers_bodoni02.jpg" alt="Ejemplo: Garamond, Univers, Bodoni" width="700" height="525" /></a></p>
+<h3>Relaciones</h3>
+<p>Para establecer algunas relaciones nos pondremos de acuerdo en la nomenclatura.</p>
+<p>Una familia tipográfica se construye entre 5 lindes (o líneas) principales: <strong>base o standard (s)</strong>; es aquella en la que se apoyan los signos; se conserva al componer letras de distinta familia o en distinto cuerpo. Por encima de la de base está la de <strong>equis (x)</strong> minúscula (sin ascendentes), la <strong>base </strong>de <strong>mayúsculas (m)</strong> y la de <strong>ascendentes (a)</strong>. En muchas familias tipográficas las últimas dos coinciden; en otras los ascendentes son más altos. Por debajo está la línea de <strong>descendentes (d)</strong>.</p>
+<p>También podemos hablar de las siguientes dimensiones: “H”, o tamaño de las mayúsculas; “k”, o tamaño de las ascendentes; “p”, o tamaño de las descendentes; “x”, o tamaño de la equis; y “kp” u “ojo”, que es la distancia entre las dos líneas extremas (k y p). En pocas ocasiones kp coincide con el cuerpo, lo que equivale a decir que en el tipo metálico no hay hombro superior ni inferior.</p>
+<p>Estableceremos relaciones entre estas dimensiones y, además, entre estas y el cuerpo. Las proporciones que podemos establecer entre cuerpo/H, cuerpo/kp, cuerpo x, h/k o kp/x nos permiten encontrar puntos de referencia cuando analizamos o comparamos familias.</p>
+<p>La relación <strong>cuerpo/kp</strong> nos muestra el área que ocupa el ojo en el tipo móvil o, lo que es lo mismo, la proporción que tienen los hombros para separar una línea de otra en un interlineado sólido. Cuanto más pequeño es este índice, más apretadas se ven las líneas (menos hombro). Esta relación deberá ser tenida en cuenta a la hora de proyectar el interlineado en una familia determinada.<br />
+El número cuerpo/kp representa el blanco entre los renglones no interlineados (sólido). Al ser pequeño, indica que los ascendentes de la línea inferior están cercanos a los descendentes de la superior (por tanto el ojo ocupa casi toda la superficie de la cara del tipo). Es probable que una letra con alto porcentaje de kp necesite más interlineado que una con bajo porcentaje.</p>
+<p>La relación <strong>kp/x</strong> es fundamental para conocer una familia. Cuando decimos que una familia tiene altura de x baja o alta, hacemos referencia a esta proporción. Familias con distintas relaciones kp/x compuestas en el mismo cuerpo presentan manchas de texto diferentes, tanto así que podríamos confundirnos y pensar que tienen distintos cuerpos o interlineado.</p>
+<p><a href="wp-content/uploads/2012/07/T02C_03-relaciones_kp.jpg"><img class="alignnone size-full wp-image-877" title="Relaciones cuerpo/kp" src="wp-content/uploads/2012/07/T02C_03-relaciones_kp.jpg" alt="Relaciones cuerpo/kp" width="700" height="525" /></a></p>
+<h3>Otras relaciones</h3>
+<p>El cociente <strong>cuerpo/H</strong> indica cuál es el tamaño de la mayúscula respecto al cuerpo. Podemos establecer también relaciones entre k y p, por ejemplo, para saber en qué proporción son más largos los ascendentes que los descendentes. Si hacemos <strong>(k-p)/k</strong> obtendremos esta relación. Si este cociente diera negativo, estaríamos ante la presencia de una familia con descendentes más largos que los ascendentes, lo que es una rareza.</p>
+<div id="attachment_878" class="wp-caption alignnone" style="width: 711px"><a href="wp-content/uploads/2012/07/T02C_04-relaciones_jorgedebuenunna.jpg"><img class="size-full wp-image-878" title="Otras relaciones" src="wp-content/uploads/2012/07/T02C_04-relaciones_jorgedebuenunna.jpg" alt="Otras relaciones" width="701" height="526" /></a><p class="wp-caption-text">Jorge de Buen Unna propone tomar Univers 55 como referencia para comparar las relaciones, por haber sido diseñada por Frutiger con la intención de ser un tipo universal. Se podrían formar tablas muy sencillas a partir de relaciones geométricas más descriptivas, que en el caso de Univers serían igual a 1 y calcularse rápidamente las diferencias con este «modelo».</p></div>
+<p>Incomoda que el cuerpo no sea hoy una dimensión mensurable, pero los intentos por normalizar el tamaño de los signos impresos no han tenido buenos resultados.</p>
+<p>Sabiendo que la identidad de cada familia está dada entre otras cosas por su estructura, definida por las proporciones, el tipo de curvas y encuentros. Por lo tanto, utilizar kp o H o x como medida normalizada para determinado cuerpo coarta esta decisión y excluye del sistema un aspecto indisoluble de los caracteres: su contraforma. Ya hemos comprobado que para que un conjunto de signos se comporten como una familia, no solo es importante su forma sino también su espaciado, tanto horizontal como vertical.</p>
+<p>Por otro lado, estas «normalizaciones de tamaño» vuelven a ser tan incompletas para definir el tamaño de la letra como la medida del bloque de plomo en la impresión tipográfica y no solucionan el problema.</p>
+<p><a href="wp-content/uploads/2012/07/T02C_06-cuadro_atributostipograficos.jpg"><img class="alignnone size-full wp-image-880" title="Cuadro de atributos de caracteres" src="wp-content/uploads/2012/07/T02C_06-cuadro_atributostipograficos.jpg" alt="Cuadro de atributos de caracteres" width="700" height="525" /></a></p>
+<h3>Unidades de medición</h3>
+<p>Las unidades de medición tipográfica que se utilizan con mayor frecuencia se basan en dos sistemas: angloamericano (AA), el de mayor difusión en todo el mundo (incluso en nuestro país), debido a que en la mayoría de los programas de autoedición se toma como sistema patrón; y Didot, difundido en varios países de Europa. En los dos sistemas, la unidad de medida se denomina punto y se abrevia pt. Como se trata de medidas distintas, es necesario aclarar a qué sistema hacemos referencia en cada caso. Doce puntos AA conforman una pica, y doce puntos Didot, conforman un cícero. El punto AA o angloamericano es ligeramente menor que el punto Didot (ver equivalencias).</p>
+<p><a href="wp-content/uploads/2012/01/T01A_10-pica-ciciero.jpg"><img class="alignnone size-full wp-image-1726" title="Equivalencia entre puntos didot y angloamericanos" src="wp-content/uploads/2012/01/T01A_10-pica-ciciero.jpg" alt="" width="700" height="525" /></a></p>
+<p>Estos dos sistemas, además de emplearse en la medición de cuerpos tipográficos, se usan al proyectar aplicaciones de textos en páginas y para construir grillas tipográficas, como veremos más adelante.</p>
+<h3>Instrumentos de medición</h3>
+<p>Para medir tipografía pueden emplearse dos herramientas diferentes: la primera y más precisa de ellas es el tipómetro o regla de interlineado, que consiste en una regla de metal o celuloide, con series de líneas repetidas varias veces, separadas entre sí por valores fijos que se colocan sobre las líneas de texto, hasta dar por comparación con el valor adecuado. La segunda, menos precisa que la anterior, consiste en una plancha de celuloide que tiene impreso conjuntos de letras (generalmente mayúsculas, minúsculas con ascendentes, con descendentes y sin ellos) en distintos cuerpos, que se registran bajo cada grupo. Superponiendo esta regla a los textos a medir, se obtiene una aproximación de su cuerpo.</p>
+<p>Hoy, el uso de ordenadores y programas de autoedición ha facilitado muchas etapas del proceso de diseño, entre otras, la medición del cuerpo. El mecanismo consiste en seleccionar el texto a medir o modificar, introduciendo luego el valor deseado en un casillero de cuadros de diálogo que cada programa nos presenta.</p>
+<div class="ref_box"><strong>Bibliografía</strong></p>
+<ul>
+<li>SOLOMON, Martin. <em>El arte de la tipografía,</em> Tellus, Madrid.</li>
+<li>RUDER, Emil. <em>Manual de diseño tipográfico,</em> G. Gili, Madrid.</li>
+<li>DE BUEN UNNA, Jorge. <em> Manual de diseño editorial. 3.ª edición, corregida y aumentada. </em>Trea Ediciones, España, 2009.</li>
+<li>MARTINEZ DE SOUSA, José. <em>Manual de edición y autoedición,</em> Ediciones Pirámide. 1999.</li>
+<li>GÁLVEZ PIZARRO, Francisco. <em>Educación tipográfica, una introducción a la tipografía,</em> Universidad Diego Portales, Chile, 2004.</li>
+</ul>
+<p></p></div>
+<p class="icl_post_in_other_langs">Esta entrada también está disponible en: <a href="index.html?p=623">Inglés</a></p>                   
+                  
+                  <div class="like_this_section clearfix">
+					<div class="google_like">
+					<g:plusone href="http://www.oert.org" size="medium"></g:plusone>
+					</div>	                  
+                     <div class="twitter_like">
+                     <a href="http://twitter.com/share" class="twitter-share-button" data-via="oert.org" data-lang="es" data-size="medium">Tweet</a>
+                     </div>
+                     <div class="fb_like">
+                     <fb:like href="http%3A%2F%2Fwww.oert.org%2Fcuerpo-tipografico-unidades-e-instrumentos-de-medicion%2F" layout="button_count" show_faces="false" width="450" height="30"></fb:like>
+                     </div>
+                     <div class="printfriendly"><a href="http://www.printfriendly.com/print?url=http://www.oert.org/cuerpo-tipografico-unidades-e-instrumentos-de-medicion/" rel="nofollow" onclick="window.print(); return false;"><img src="http://cdn.printfriendly.com/button-print-gry20.png" alt="Print Friendly" /></a></div>				</div> <!-- #end -->
+
+
+          				
+              </div> <!-- post #end -->
+              
+              
+               
+ 			<div class="post-navigation clearfix">
+                                                            <a class="post-prev" href="index.html?p=252"><em>Previous post</em><span>El clasificador</span></a>
+                                                                <a class="post-next" href="index.html?p=195"><em>Next post</em><span>La letra y su conjunto</span></a>
+                                 </div>
+            
+            
+              </div> <!-- single post content #end -->
+          		<div class="realated_post clearfix">
+<h3>Related Posts</h3><ul class="realated_postlist clearfix">
+            <li class="clearfix"> 
+      
+     <h3> <a href="index.html?p=193">Familia tipográfica</a></h3> 
+     <p class="date clearfix"> <span>September 10, 2012</span></p>
+     <p>Definición. Familia como sistema. Componentes de la caja tipográfica. Variables tipográficas. Ejes de construcción de variables: históricos y contemporáneos. Revisión de aspectos que se mantienen y modifican en el sistema de variables.</p>
+            </li>
+                        <li class="clearfix"> 
+      
+     <h3> <a href="index.html?p=191">Mayúsculas, minúsculas, números y signos</a></h3> 
+     <p class="date clearfix"> <span>September 10, 2012</span></p>
+     <p>Origen, relaciones y connotaciones del sistema de mayúsculas y del de minúsculas. Relaciones verticales. Legibilidad de mayúsculas y minúsculas. Características formales y función de números. Signos de entonación, puntuación y auxiliares: forma y ubicación. Las fracciones.</p>
+            </li>
+                        <li class="clearfix"> 
+      
+     <h3> <a href="index.html?p=183">Anatomía tipográfica</a></h3> 
+     <p class="date clearfix"> <span>September 10, 2012</span></p>
+     <p>Partes de la letra: ubicación y definición.</p>
+            </li>
+                        <li class="clearfix"> 
+      
+     <h3> <a href="index.html?p=179">Proporciones del alfabeto latino</a></h3> 
+     <p class="date clearfix"> <span>September 10, 2012</span></p>
+     <p>Tecnología de producción y forma resultante. Mayúsculas trajanas y su conversión en modelo. Estructuras básicas y conformación de grupos de anchos comunes. Grupos por parentesco morfológico. Anchos históricos y contemporáneos.</p>
+            </li>
+            </ul>
+</div>
+		
+        
+          <div id="comments" class="clearfix"> 
+<div id="comments" class="comments-area">
+<div id="respond">
+<div class="fb-social-plugin fb-comments" id="commentform" data-href="http://www.oert.org/cuerpo-tipografico-unidades-e-instrumentos-de-medicion/" data-width="700"></div>
+</div></div>
+</div>
+          
+             </div>
+	<div id="dynamic-content"></div>        
+  </div> <!-- content #end -->
+<script type="text/javascript" language="javascript" >
+var root_path_js = 'http://www.oert.org/';
+</script>
+<script type="text/javascript" language="javascript" src="wp-content/themes/WikiBase/library/js/article_detail.js" ></script>
+
+      <div id="lang_sel"  >
+    <ul>
+        <li><a href="index.html?p=189#" class="lang_sel_sel icl-es">
+                            
+            <img  class="iclflag" src="wp-content/plugins/sitepress-multilingual-cms/res/flags/es.png" alt="es" />                                
+            &nbsp;Español</a>                                    
+            <ul>
+                                <li class="icl-en">          
+                    <a rel="alternate" hreflang="en" href="index.html?p=623">
+                                    
+                    <img  class="iclflag" src="wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png" alt="en" />&nbsp;                    
+                                        English                    </a>
+                </li>
+                            </ul>            
+             
+                    </li>
+    </ul>    
+</div>
+ <!-- selector de idiomas -->
+<div id="sidebar">
+	<div class="widget"><h3><span>Recursos</span></h3><div class="menu-recursos-container"><ul id="menu-recursos" class="menu"><li id="menu-item-2003" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2003"><a href="category/parte1/index.html">Teoría</a>
+<ul class="sub-menu">
+	<li id="menu-item-2004" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2004"><a href="category/parte1/parte1-1/index.html">Letra</a></li>
+	<li id="menu-item-2005" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2005"><a href="category/parte1/parte1-2/index.html">Texto</a></li>
+	<li id="menu-item-2006" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2006"><a href="category/parte1/parte1-3/index.html">Página</a></li>
+</ul>
+</li>
+<li id="menu-item-2007" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2007"><a href="category/parte2/index.html">Práctica</a>
+<ul class="sub-menu">
+	<li id="menu-item-2008" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2008"><a href="category/parte2/parte2-1/index.html">Letra</a></li>
+	<li id="menu-item-2009" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2009"><a href="category/parte2/parte2-2/index.html">Texto</a></li>
+	<li id="menu-item-2010" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2010"><a href="category/parte2/parte2-3/index.html">Página</a></li>
+</ul>
+</li>
+<li id="menu-item-2011" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2011"><a href="category/parte3/index.html">Historia</a></li>
+</ul></div></div><div class="widget"><h3><span>Páginas</span></h3><div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-37" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37"><a href="el-proyecto/index.html">El proyecto</a></li>
+<li id="menu-item-62" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-62"><a href="los-autores/index.html">Los autores</a></li>
+<li id="menu-item-63" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-63"><a href="comite-editorial/index.html">Comité Editorial</a></li>
+<li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36"><a href="equipo-de-trabajo-2/index.html">Equipo de trabajo</a></li>
+<li id="menu-item-38" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38"><a href="apoyan-este-proyecto-2/index.html">Apoyan este proyecto&#8230;</a></li>
+<li id="menu-item-568" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-568"><a href="preguntas-frecuentes/index.html">Preguntas Frecuentes</a></li>
+<li id="menu-item-39" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39"><a href="contacto-2/index.html">Contacto</a></li>
+</ul></div></div></div> <!-- sidebar right--> 
+<div id="bottom"></div>
+<script type='text/javascript' src='wp-content/themes/WikiBase/library/js/jquery.simplemodal.js'></script>
+<script type='text/javascript' src='wp-content/themes/WikiBase/library/js/basic.js'></script>
+<div id="basic-modal-content" class="clearfix" style="display:none;">
+<form name="send_to_frnd" id="send_to_frnd" action="index.html?p=189" method="post" >
+<input type="hidden" id="send_to_Frnd_pid" name="pid" value="189" />
+<input type="hidden" name="sendact" value="email_frnd" />
+	<h3>Send To Friend</h3>
+    <p id="reply_send_success" class="sucess_msg" style="display:none;"></p>
+	<div class="row clearfix" ><label>Friend Name : <span>*</span></label><input name="to_name" id="to_name" type="text"  /><span id="to_nameInfo"></span></div>
+ 	<div class="row  clearfix" ><label> Correo electrónico : <span>*</span></label><input name="to_email" id="to_email" type="text"  /><span id="to_emailInfo"></span></div>
+	<div class="row  clearfix" ><label>Your Name : <span>*</span></label><input name="yourname" id="yourname" type="text"  /><span id="yournameInfo"></span></div>
+ 	<div class="row  clearfix" ><label> Correo electrónico : <span>*</span></label><input name="youremail" id="youremail" type="text"  /><span id="youremailInfo"></span></div>
+	<div class="row  clearfix" ><label>Asunto : <span>*</span></label><input name="frnd_subject" value="About Cuerpo tipográfico, unidades e instrumentos de medición" id="frnd_subject" type="text"  /></div>
+	<div class="row  clearfix" ><label>Comentarios : <span>*</span></label>
+     <textarea name="frnd_comments" id="frnd_comments" cols="" rows="" >Hi there, do check out the information about this Article.</textarea></div>
+	<input name="Send" type="submit" value="Send " class="button " />
+</form>
+</div>
+<script type="text/javascript" src="wp-content/themes/WikiBase/library/js/email_frnd_validation.js"></script>
+<!-- here -->   </div> <!-- wrapper #end -->
+  
+<div id="footer" class="clearfix">
+<div id="footer_in">
+<p class="copy"><a rel="license" href="http://creativecommons.org/licenses/by-sa/2.5/ar/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/2.5/ar/80x15.png" /></a> <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Open Educational Resources for Typography</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="index.html" property="cc:attributionName" rel="cc:attributionURL">OERT</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.5/ar/">Creative Commons Attribution-ShareAlike 2.5 Argentina License</a>.</p>
+<p class="fr"><span class="designby">Alojado en </span>
+<span class="wiroos"><a href="http://www.wiroos.com" title="Wiroos">Wiroos</a></span>
+</p>	
+</div></div> <!-- footer #end -->
+
+        <script type="text/javascript">
+          var pfHeaderImgUrl = '';
+          var pfHeaderTagline = '';
+          var pfdisableClickToDel = '0';
+          var pfHideImages = '0';
+          var pfImageDisplayStyle = 'right';
+          var pfDisableEmail = '0';
+          var pfDisablePDF = '0';
+          var pfDisablePrint = '0';
+          var pfCustomCSS = '';
+
+          // PrintFriendly
+          var e = document.createElement('script'); e.type="text/javascript";
+          e.src = 'http://cdn.printfriendly.com/printfriendly.js';
+          document.getElementsByTagName('head')[0].appendChild(e);
+      </script>
+<script type='text/javascript' src='wp-content/themes/WikiBase/library/js/livesearch.js?ver=1'></script>
+<script type='text/javascript' src='wp-content/themes/WikiBase/library/js/jquery.hoveraccordion.min.js?ver=1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var FB_WP=FB_WP||{};FB_WP.queue={_methods:[],flushed:false,add:function(fn){FB_WP.queue.flushed?fn():FB_WP.queue._methods.push(fn)},flush:function(){for(var fn;fn=FB_WP.queue._methods.shift();){fn()}FB_WP.queue.flushed=true}};window.fbAsyncInit=function(){FB.init({"channelUrl":"http:\/\/www.oert.org\/wp-content\/plugins\/facebook\/channel.php","xfbml":true,"appId":"285109618260716"});if(FB_WP && FB_WP.queue && FB_WP.queue.flush){FB_WP.queue.flush()}}
+/* ]]> */
+</script>
+<div id="fb-root"></div><script type="text/javascript">(function(d){var id="facebook-jssdk";if(!d.getElementById(id)){var js=d.createElement("script"),ref=d.getElementsByTagName("script")[0];js.id=id,js.async=true,js.src="http:\/\/connect.facebook.net\/es_ES\/all.js",ref.parentNode.insertBefore(js,ref)}})(document)</script>
+<script type='text/javascript' src='index.html?p=189'></script>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27724959-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script><script type="text/javascript">
+	//<![CDATA[
+		function initBelle() {
+			Belle.AjaxURL		= "http://www.oert.org/?sajax=1"
+			// Initialize Livesearch
+			Belle.LiveSearch	= new LiveSearch( "Escribe y obten resultados al instante" )
+			}
+		jQuery(document).ready( function() { initBelle() })
+	//]]>
+	</script>
+<!-- LOAD JAVASCRIPT LATE - JUST BEFORE THE BODY TAG 
+		 That way the browser will have loaded the images
+	  	 and will know the width of the images. No need to
+		 specify the width in the CSS or inline. -->
+
+	<!-- jQuery library - Please load it from Google API's -->
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+
+	<!-- jQuery UI Widget and Effects Core (custom download)
+		 You can make your own at: http://jqueryui.com/download -->
+	<script src="wp-content/themes/WikiBase/library/js/jquery-ui-1.8.18.custom.min.js" type="text/javascript"></script>
+	
+	<!-- Latest version of jQuery Mouse Wheel by Brandon Aaron
+		 You will find it here: http://brandonaaron.net/code/mousewheel/demos -->
+	<script src="wp-content/themes/WikiBase/library/js/jquery.mousewheel.min.js" type="text/javascript"></script>
+
+	<!-- Smooth Div Scroll 1.2 minified-->
+	<script src="wp-content/themes/WikiBase/library/js/jquery.smoothdivscroll-1.2-min.js" type="text/javascript"></script>
+
+	<!-- If you want to look at the uncompressed version you find it at
+		 js/jquery.smoothDivScroll-1.2.js -->
+
+	<!-- Plugin initialization -->
+	<script type="text/javascript">
+		jQuery(document).ready(function () {
+			jQuery("#logoParade").smoothDivScroll({
+				autoScrollingMode: "always",
+				autoScrollingDirection: "endlessloopright",
+				autoScrollingStep: 1,
+				autoScrollingInterval: 25 
+			});
+
+			// Logo parade
+			jQuery("#logoParade").bind("mouseover", function () {
+				jQuery(this).smoothDivScroll("stopAutoScrolling");
+			}).bind("mouseout", function () {
+				jQuery(this).smoothDivScroll("startAutoScrolling");
+			});
+
+		});
+		
+	</script>	
+	
+</body></html>

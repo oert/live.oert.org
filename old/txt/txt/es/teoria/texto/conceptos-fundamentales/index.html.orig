@@ -1,0 +1,547 @@
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<title>
+  Conceptos fundamentales&nbsp;|&nbsp;OERT</title>
+
+<link rel="stylesheet" href="http://www.oert.org/wp-content/plugins/sitepress-multilingual-cms/res/css/language-selector.css?v=2.6.0" type="text/css" media="all" />
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="stylesheet" type="text/css" href="http://www.oert.org/wp-content/themes/WikiBase/style.css" media="screen" />
+<link rel="shortcut icon" type="image/png" href="http://www.oert.org/wp-content/uploads/favicon.ico" />
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.oert.org/feed/" />
+<link rel="pingback" href="http://www.oert.org/xmlrpc.php" />
+
+<link rel="stylesheet" type="text/css" href="http://www.oert.org/wp-content/themes/WikiBase/library/css/print.css" media="print" />
+<link rel="Stylesheet" type="text/css" href="http://www.oert.org/wp-content/themes/WikiBase/library/css/smoothDivScroll.css" />
+
+<script src="http://connect.facebook.net/es_ES/all.js#xfbml=1"></script>
+<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+<script src="https://apis.google.com/js/plusone.js" type="text/javascript"></script>
+
+
+ <link href="http://www.oert.org/wp-content/themes/WikiBase/custom.css" rel="stylesheet" type="text/css">
+<script language="javascript" type="text/javascript">
+	function hasClass(ele,cls) {
+	return ele.className.match(new RegExp('(\\s|^)'+cls+'(\\s|$)'));
+	}
+
+    function addClass(ele,cls) {
+    if (!this.hasClass(ele,cls)) ele.className += " "+cls;
+    }
+    function removeClass(ele,cls) {
+    if (hasClass(ele,cls)) {
+        var reg = new RegExp('(\\s|^)'+cls+'(\\s|$)');
+        ele.className=ele.className.replace(reg,' ');
+    }
+    }
+
+    function showHideDiv(sids,divids)
+    {
+		//alert(sids);
+		//alert(divids);
+        var divstyle = new String();
+		var spanstyle = new String();
+		var spansid = new String();
+		spansid = document.getElementById(sids);
+        divstyle = document.getElementById(divids).style.display;
+        if(divstyle.toLowerCase()=="block" || divstyle == "")
+        {
+            document.getElementById(divids).style.display = "none";
+			removeClass(spansid,'neg');
+			addClass(spansid,'pos');
+        }
+        else
+        {
+            document.getElementById(divids).style.display = "block";
+			removeClass(spansid,'pos');
+			addClass(spansid,'neg');
+        }
+    }
+    </script>
+    <script type="text/javascript">
+        $(document).ready( function() {
+            $('#menu-recursos').hoverAccordion({
+                keepHeight:true,
+                activateItem: 3,
+                speed: 400
+            });
+        });
+    </script>
+        
+<link rel="dns-prefetch" href="//connect.facebook.net" />
+<link rel="alternate" type="application/rss+xml" title="OERT &raquo; Conceptos fundamentales RSS de los comentarios" href="http://www.oert.org/conceptos-fundamentales/feed/" />
+<link rel='stylesheet' id='wpml-cms-nav-css-css'  href='http://www.oert.org/wp-content/plugins/wpml-cms-nav/res/css/navigation.css?ver=1.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='cms-navigation-style-base-css'  href='http://www.oert.org/wp-content/plugins/wpml-cms-nav/res/css/cms-navigation-base.css?ver=1.2.7' type='text/css' media='screen' />
+<link rel='stylesheet' id='cms-navigation-style-css'  href='http://www.oert.org/wp-content/plugins/wpml-cms-nav/res/css/cms-navigation.css?ver=1.2.7' type='text/css' media='screen' />
+<link rel='stylesheet' id='facebook-css'  href='http://www.oert.org/wp-content/plugins/facebook/static/css/style.min.css?ver=1.3.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.oert.org/wp-includes/js/jquery/jquery.js?ver=1.8.3'></script>
+<script type='text/javascript' src='http://www.oert.org/wp-content/themes/WikiBase/library/js/functions.js?ver=1'></script>
+<script type='text/javascript' src='http://www.oert.org/wp-includes/js/comment-reply.min.js?ver=3.5.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.oert.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.oert.org/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Clasificación, elección y combinación de familias' href='http://www.oert.org/clasificacion-eleccion-y-combinacion-de-familias/' />
+<link rel='next' title='Diseño y operaciones morfológicas con tipografía' href='http://www.oert.org/diseno-y-operaciones-morfologicas-con-tipografia-2/' />
+<meta name="generator" content="WordPress 3.5.1" />
+<link rel='shortlink' href='http://www.oert.org/?p=169' />
+
+	<!-- This site uses Good Old Gallery, get it from http://wp.unwi.se/good-old-gallery -->
+
+        <style type="text/css" media="screen">
+          div.printfriendly {
+            margin: 0px 0px 0px 0px;;
+          }
+          div.printfriendly a, div.printfriendly a:link, div.printfriendly a:visited {
+            text-decoration: none;
+            font-size: 14px;
+            color: #99cc00;
+            vertical-align: bottom;
+            border: none;
+          }
+
+          .printfriendly a:hover {
+            cursor: pointer;
+          }
+
+          .printfriendly a img  {
+            border: none;
+            padding:0;
+            margin-right: 6px;
+            display:inline-block;
+            box-shadow: none;
+            -webkit-box-shadow: none;
+            -moz-box-shadow: none;
+          }
+          .printfriendly a span{
+            vertical-align: bottom;
+          }
+          .pf-alignleft {
+            float: left;
+          }
+          .pf-alignright {
+            float: right;
+          }
+          div.pf-aligncenter {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            text-align: center;
+          }
+        </style>
+        <style type="text/css" media="print">
+          .printfriendly {
+            display: none;
+          }
+        </style>
+<script type="text/javascript">var icl_lang = 'es';var icl_home = 'http://www.oert.org/';</script>
+<script type="text/javascript" src="http://www.oert.org/wp-content/plugins/sitepress-multilingual-cms/res/js/sitepress.js"></script>
+<meta name="generator" content="WPML ver:2.6.0 stt:2,1;0" />
+<link rel="alternate" hreflang="en_US" href="http://www.oert.org/en/basic-concepts/" />
+
+<style type="text/css">#lang_sel a, #lang_sel a.lang_sel_sel{color:#444444;}#lang_sel a:hover, #lang_sel a.lang_sel_sel:hover{color:#000000;}#lang_sel a.lang_sel_sel, #lang_sel a.lang_sel_sel:visited{background-color:#f5f4f2;}#lang_sel a.lang_sel_sel:hover{background-color:#eeeeee;}#lang_sel li ul a, #lang_sel li ul a:visited{color:#444444;}#lang_sel li ul a:hover{color:#000000;}#lang_sel li ul a, #lang_sel li ul a:link, #lang_sel li ul a:visited{background-color:#f5f4f2;}#lang_sel li ul a:hover{background-color:#eeeeee;}#lang_sel a, #lang_sel a:visited{border-color:#cdcdcd;} #lang_sel ul ul{border-top:1px solid #cdcdcd;}</style>
+
+<style type="text/css">#lang_sel  {width: 195px; margin-bottom:24px;}
+#lang_sel a {font-size:12px;}
+#lang_sel li {width:192px; }
+
+</style>		<link href="http://www.oert.org/wp-content/themes/WikiBase/skins/1-default.css" rel="stylesheet" type="text/css" />
+
+
+<link href='http://boakes.org/most-wanted?v=0.1.9v' />
+<link rel="canonical" href="http://www.oert.org/conceptos-fundamentales/"/>
+<meta property="og:site_name" content="OERT" />
+<meta property="og:type" content="article" />
+<meta property="og:locale" content="es_ES" />
+<meta property="fb:app_id" content="285109618260716" />
+<meta property="og:url" content="http://www.oert.org/conceptos-fundamentales/" />
+<meta property="og:title" content="Conceptos fundamentales" />
+<meta property="og:description" content="Conceptos fundamentales para la composición de textos: familia tipográfica; cuerpo, unidades e instrumentos de medición; variables tipográficas; relaciones espaciales de la palabra, la línea y el párrafo; color tipográfico; el párrafo como unidad fundamental de la obra; atributos del texto; marginados; división de palabras; legibilidad; y ortografía para editores." />
+<meta property="article:published_time" content="2012-01-10T00:58:29+00:00" />
+<meta property="article:modified_time" content="2012-10-29T16:17:09+00:00" />
+<meta property="article:author" content="http://www.oert.org/author/admin/" />
+<meta property="article:section" content="Teoría" />
+<meta property="article:tag" content="Texto" />
+<meta property="og:image" content="http://www.oert.org/wp-content/uploads/2012/01/T01A_10-pica-ciciero.jpg" />
+<meta property="og:image:width" content="700" />
+<meta property="og:image:height" content="525" />
+</head>
+<body class="single single-post postid-169 single-format-standard">
+<div id="header">   
+<div id="header_in" class="clearfix">
+<div class="logo"> 
+   <div class="blog-title"><a href="http://www.oert.org//">OERT</a> 
+		
+		 <p class="blog-description">
+		  Open Educational Resources for Typography		</p>
+   </div> 
+   </div>
+                        <div class="header_right">
+        	<p>Última actualización: <span>April 7, 2013</span></p>
+                        <form method="get" id="searchform" action="http://www.oert.org">
+<div id="search-form-wrap">
+<label for="s" id="search-label">Buscar por:</label>
+<input type="text" id="s" name="s" accesskey="4" value="" />
+<input type="hidden" name="stype" value="ajsearch" />
+<input type="submit" name="stype" value="Search" style="display:none;" class="b_search" />
+<span id="searchreset" title="Reset Search"></span>
+<span id="searchload"></span>
+</div>
+</form>
+
+                    </div>               
+   </div> 
+ </div>   <!-- header #end -->     <div id="wrapper" class="clearfix">  
+  		<div id="content" >
+         <div id="current-content">
+                 <div class="breadcrumb clearfix">
+        <a rel="nofollow" href="http://www.oert.org">Home</a>  <a href="http://www.oert.org/category/parte1/" title="Ver todas las entradas en Teoría">Teoría</a>  Conceptos fundamentales        </div>
+             
+                       
+        <div class="single_post">
+        <h1 class="head">Conceptos fundamentales</h1>
+ 		  		                  <p class="post_info clearfix post_info_single"><span>Posted by <a href="http://www.oert.org/author/admin/" title="Entradas de OERT" rel="author">OERT</a> - ene 10, 2012 </span>
+                     <span class="i_cate"> <a href="http://www.oert.org/category/parte1/" title="Ver todas las entradas en Teoría" rel="category tag">Teoría</a>, <a href="http://www.oert.org/category/parte1/parte1-2/" title="Ver todas las entradas en Texto" rel="category tag">Texto</a> </span>
+                      <span> <a href="http://www.oert.org/conceptos-fundamentales/#commentarea"  class="i_comment" ><fb:comments-count xmlns="http://ogp.me/ns/fb#" href="http://www.oert.org/conceptos-fundamentales/"></fb:comments-count> comentarios </a></span>                      
+                      <a href="http://www.oert.org/?cat=6&amp;feed=rss2" class="i_rss">Receive Updates For This Category</a>
+                      
+                       </p>
+                       
+                       
+					              
+              
+              <div id="post-169" class="posts clearfix">               		               
+              		
+              		<!-- Templatic Article Tools #end -->
+              		
+              		              		
+              		<!-- Templatic Article Tools #end -->
+
+                      <p class="autor">Elaboración: Pablo Cosgaya &#8211; Colaboración: Marcela Romero &#8211; Revisión: Natalia Pano</p>
+<p>Este artículo tiene el propósito de repasar la información básica necesaria para el adecuado tratamiento de textos y la optimización gráfica de mensajes.</p>
+<h3>Familia tipográfica</h3>
+<p>Una familia tipográfica es un sistema de signos alfabéticos y no alfabéticos con características estructurales y estilísticas comunes, que permiten reconocerlas como pertenecientes a un mismo grupo.</p>
+<p>Los signos alfabéticos que componen la familia tipográfica son las letras mayúsculas, mayúsculas acentuadas, minúsculas, minúsculas acentuadas y ligaduras mayúsculas y minúsculas. Los signos no alfabéticos son los números, los signos de puntuación y los signos comerciales.</p>
+<p>Hay familias que tienen un tercer sistema: las capitalitas o versalitas, signos mayúsculos de menor tamaño que mantienen el color tipográfico de las minúsculas (a diferencia de una mayúscula reducida a la altura de x).</p>
+<h3>Cuerpo tipográfico</h3>
+<p>El concepto de cuerpo tipográfico está ligado a la técnica de impresión con tipos móviles. Es la medida vertical de la cara frontal del tipo, tomando el bloque de plomo completo. Esta medida incluye el área ascendente, la altura de x, la descendente y una pequeña separación (llamada hombro) para que no se toquen las descendentes de una línea con las ascendentes de la línea siguiente.</p>
+<p>Al componer diferentes familias tipográficas en un mismo cuerpo, las alturas de x, de mayúsculas, de ascendentes y descendentes, pueden no coincidir. Esto se debe a que, si bien el tipo de plomo original tiene para todas el mismo cuerpo, cada familia fue diseñada con criterios diferentes.</p>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/09/T01A_01-tipomovil.jpg"><img class="alignnone size-full wp-image-1615" title="Tipo móvil" src="http://www.oert.org/wp-content/uploads/2012/09/T01A_01-tipomovil.jpg" alt="" width="700" height="525" /></a></p>
+<h3>Unidades de medición</h3>
+<p>Las unidades de medición tipográfica que se utilizan con mayor frecuencia se basan en dos sistemas: el angloamericano, de mayor difusión en el mundo debido a que en la mayoría de los programas de autoedición se toma como sistema patrón, y el sistema Didot, difundido en muchos países de Europa.</p>
+<p>En los dos sistemas, la unidad de medida es el punto y se abrevia “pt”. Por lo tanto, dado que podemos confundir sistemas de medición diferentes, es necesario aclarar a cuál hacemos referencia: 12 pt angloamericanos conforman 1 pica, mientras que  12 pt Didot, 1 cícero. El punto angloamericano es ligeramente menor que el punto Didot.</p>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/01/T01A_10-pica-ciciero1.jpg"><img class="alignnone size-full wp-image-1723" title="Equivalencia entre puntos didot y angloamericanos" src="http://www.oert.org/wp-content/uploads/2012/01/T01A_10-pica-ciciero1.jpg" alt="" width="700" height="525" /></a></p>
+<h3>Instrumentos de medición</h3>
+<p>Para medir el cuerpo antiguamente se empleaba el tipómetro, regla de metal o celuloide con series de muescas o líneas repetidas varias veces, separadas entre sí por valores fijos. Con este instrumento se miden los tipos de plomo, pero también se puede colocar sobre las líneas de texto hasta obtener por comparación y coincidencia el valor de separación entre líneas.</p>
+<p>Otro instrumente útil, aunque actualmente se lo use poco, es una plancha de celuloide con grupos de letras impresos en distintos cuerpos (generalmente mayúsculas, minúsculas con ascendentes, descendentes y sin ellos) que se indican bajo cada grupo. Superponiendo la regla a los textos que debemos medir, se obtiene un valor aproximado de su cuerpo (esto varía mucho según las familias a medir).</p>
+<p>En la actualidad, los programas de maquetación e ilustración miden la tipografía con una herramienta que tiene el aspecto de un cuadro o una paleta. El modo de uso es muy sencillo: se selecciona el texto a medir o modificar y se introduce el valor deseado en el casillero correspondiente.</p>
+<h3>Variables tipográficas</h3>
+<p>Las variables tipográficas constituyen alfabetos alternativos dentro de una misma familia, ya que mantienen el parentesco estructural y estilístico. Estas variables permiten resolver problemas de jerarquías y niveles de lectura dentro de un texto, al generar diferentes ritmos o pesos dentro de un mismo sistema de signos.</p>
+<p>En principio, las variables afectan a la letra en tres ejes básicos:</p>
+<ul>
+<li>En el <strong>peso</strong> (liviana o <em>light</em>, normal o <em>regular</em>, negra o <em>bold</em>, etc.).</li>
+<li>En el <strong>eje de construcción</strong> (redonda, <em>regular</em> o <em>roman</em> e itálica, bastardilla o <em>italic</em>).</li>
+<li>En el <strong>ancho</strong> (condensada o <em>condensed</em>, redonda o <em>regular</em> y expandida o <em>extended</em>).</li>
+</ul>
+<p>El peso modifica el trazo de la letra y por lo tanto su color y el del texto; el eje cambia la estructura produciendo variaciones en el ritmo; el ancho, por último, modifica la estructura y produce cambios en el rendimiento del texto. El uso de una variable no excluye a las demás, sino que se pueden combinar entre sí.</p>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/09/T01A_12-variables_peso_ancho_eje.jpg"><img class="alignnone size-full wp-image-1618" title="Variables de peso, ancho y eje" src="http://www.oert.org/wp-content/uploads/2012/09/T01A_12-variables_peso_ancho_eje.jpg" alt="" width="700" height="525" /></a></p>
+<p>A partir del surgimiento de sistemas tipográficos como Rotis y Stone (familias multiestilo que superan las barreras de los grupos clasificatorios), surge una nueva variable que podríamos llamar variable de estilo. La variable de estilo puede oscilar, por ejemplo, desde una palo seco a una romana, manteniendo los rasgos básicos fundamentales.</p>
+<p>En la actualidad, existen familias con una amplia gama de variables de ancho y estilo, que permiten dar respuesta a las necesidades de jerarquización y comunicación de la pieza.</p>
+<h3>Interletra, interpalabra e interlínea</h3>
+<p>Se trata de medidas que forman parte de las características de la fuente, es decir, el diseñador tipográfico define estas medidas siguiendo los criterios estilísticos de la tipografía que creó. La interletra es el espacio que separa una letra de otra dentro de una palabra: debe ser suficiente para que cada signo se diferencie del siguiente y pueda leerse con comodidad. Si la interletra es poca, los signos van a tocarse; pero si es excesiva podría disgregarse la palabra. La interletra debe ser regular para que se establezca un ritmo de lectura fluido. Para esto, la separación entre los caracteres debe tener relación con el espacio interno de cada signo (contraforma). La interpalabra es el espacio entre las palabras de una línea de texto. Debe ser suficiente para que se diferencie una palabra de otra, pero no tanta como para que la línea se desintegre en palabras.</p>
+<p>La interlínea es el espacio que existe entre las líneas de un texto. Se mide desde el apoyo de las letras de una línea (línea de base) hasta el apoyo de la línea siguiente. Si este espacio es demasiado pequeño, el bloque de texto se empasta, pero si es muy amplio se desintegra en líneas separadas.<br />
+Si la línea tiene muchas palabras (columna ancha), la interlínea deberá aumentarse un poco más de lo habitual para facilitar al lector la localización del inicio de la línea siguiente.</p>
+<div id="attachment_1619" class="wp-caption alignnone" style="width: 710px"><a href="http://www.oert.org/wp-content/uploads/2012/09/T01A_14-interletra_interlineado_interpalabra.jpg"><img class="size-full wp-image-1619" title="Interletra, interlineado e interpalabra" src="http://www.oert.org/wp-content/uploads/2012/09/T01A_14-interletra_interlineado_interpalabra.jpg" alt="Interletra, interpalabra e interlínea" width="700" height="525" /></a><p class="wp-caption-text">El interlineado tiene estrecha relación con la interletra y la interpalabra. Para una lectura cómoda, debe ser armónico. El color tipográfico queda determinado por el peso de los signos y los blancos internos del texto.</p></div>
+<p>Como puede deducirse, interletra, interpalabra e interlínea están estrechamente relacionadas. La interpalabra debe ser mayor que la interletra para diferenciar una palabra de otra, pero no tanto como para perder la unidad de la línea y debe ser menor que la interlínea para que se reconozcan líneas horizontales y no empiecen a verse calles verticales.</p>
+<p>A raíz de esta interrelación, puede decirse que no existe una interletra, ni una interpalabra óptima, sino que es la relación entre ellas dos y la de ellas con la interlínea lo que permite la fluidez adecuada de un bloque de texto.</p>
+<h3>Color tipográfico</h3>
+<p>Es la mancha gris que se percibe al ver los bloques de texto. Por lo dicho anteriormente, es fácil deducir que la interletra, la interpalabra y la interlínea están muy relacionadas con el color tipográfico.</p>
+<p>Si la interletra, la interpalabra y la interlínea son estrechas, el bloque tendrá un color más oscuro. Por el contrario, si la interletra y la interlínea son amplias, el bloque de texto tendrá un color claro.<br />
+Como dijimos, el espaciado entre líneas y entre letras guarda relación con las contraformas de las letras: a contraformas abiertas y grandes, la tipografía deberá tener un interletrado abierto, que producirá un color acorde.</p>
+<p>El color tipográfico dependerá además de otros factores como la familia tipográfica elegida y las variables utilizadas, lo cual debe ser tenido en cuenta por el diseñador al momento de elegir la familia.</p>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/09/T01A_15-color_tipografico.jpg"><img class="alignnone size-full wp-image-1620" title="Color tipografico" src="http://www.oert.org/wp-content/uploads/2012/09/T01A_15-color_tipografico.jpg" alt="" width="700" height="525" /></a></p>
+<h3>El párrafo</h3>
+<p>Antes de ponernos a diseñar, hay que analizar el texto de la pieza de comunicación en la que vamos a trabajar. En esa lectura podremos descubrir una organización más o menos compleja, cuya unidad mínima de significado es el párrafo.</p>
+<p>El párrafo es una unidad visual con una importancia suficiente como para presentarse aislado del resto del discurso. Por lo tanto, desde el punto de vista editorial, podemos afirmar que el párrafo es la unidad fundamental de una obra.</p>
+<h4>Atributos del texto</h4>
+<p>En la mayoría de los casos, las normas expresan criterios comunes para la mayoría de las personas. Sin embargo, esto no impide que podamos experimentar con ellas o desafiar sus límites.<br />
+Los atributos visuales del texto deben respetar su contenido, tener en cuenta los códigos literarios, etc. Pero la experiencia del diseñador, sumada al conocimiento de las normas, posibilita un tratamiento a la vez novedoso y funcional.</p>
+<h4>Marginados</h4>
+<p>Un texto marginado a la izquierda consiste en líneas de largo irregular con nacimiento en un eje establecido a la izquierda y un desflecado (perfil lateral) a la derecha, que debe ser controlado para evitar que las líneas queden muy parejas, demasiado dispares o se formen palabras malsonantes.</p>
+<p>Este tipo de marginado es fácil de leer porque al finalizar una línea el ojo encuentra rápidamente el inicio de la línea siguiente, siempre en el mismo eje. Esto se debe al sentido de lectura occidental: de izquierda a derecha y de arriba hacia abajo.</p>
+<p>Un texto marginado a la derecha está formado por líneas de largo irregular que terminan en un eje establecido a la derecha y un desflecado por la izquierda. Estos textos son más difíciles de leer, porque el desflecado afecta el inicio de cada línea y se hace difícil ubicar su inicio.</p>
+<p>Un texto centrado está formado por líneas de largo irregular ubicadas simétricamente respecto a un eje central. El texto queda desflecado hacia ambos lados y debe controlarse para que sea armónico. No es aconsejable para textos largos.</p>
+<p>Un texto justificado o emblocado está formado por líneas que ocupan todo el ancho de la caja. En este tipo de composición, el interlineado y el interletrado deben controlarse con extremo cuidado. En la actualidad, la autoedición ha simplificado mucho esta engorrosa tarea. Es aconsejable practicar distintas configuraciones para resolver diferentes situaciones en un mismo texto. Para ello, el diseñador debe conocer a fondo los programas de autoedición.</p>
+<div id="attachment_906" class="wp-caption alignnone" style="width: 710px"><a href="http://www.oert.org/wp-content/uploads/2012/07/T01B_02-alineacion.jpg"><img class="size-full wp-image-906" title="Alineación" src="http://www.oert.org/wp-content/uploads/2012/07/T01B_02-alineacion.jpg" alt="Distintas alineaciones del bloque de texto" width="700" height="525" /></a><p class="wp-caption-text">Las distintas alineaciones requieren diferente esfuerzos en la lectura. Asimismo el espacio se comporta de diferentes manera.</p></div>
+<h4>División de palabras al final de una línea</h4>
+<p>Los programas de autoedición justifican los bloques de texto separando o ajustando proporcionalmente el espacio entre letras y entre palabras, mediante lo que se obtiene líneas del mismo largo. Para evitar «ríos» o espaciados forzados que afectan el color uniforme del bloque, los programas colocan un guión en el punto de división de la palabra final de cada línea, lo que facilita la distribución de espacios regulares.</p>
+<p>En las computadoras, el mecanismo de división automática de palabras (<em>automatic hyphenation</em>) suele estar pre configurado en inglés. Es necesario adaptarlo al silabeado en nuestro idioma, de acuerdo al programa con que estemos trabajando.</p>
+<p>Algunos programas automatizan esta adaptación, como Spanish Hyphenation en QuarkXPress anterior a la versión 6. En otros casos solo hay que crear el documento y marcar «idioma español».</p>
+<p>Como las reglas de división de palabras son distintas en cada lengua, es fundamental aprender qué reglas rigen el silabeado en el nuestro.</p>
+<p>En español (o castellano) existen dos tipos de división, cada uno con defensores y detractores: la división silábica y la división etimológica, en la que las palabras formadas por [prefijo + raíz] se dividen siguiendo el método silábico como si fueran palabras sueltas.</p>
+<h3>Legibilidad</h3>
+<p>La legibilidad debe ser uno de los propósitos principales de un diseñador. Un texto legible no tiene por qué ser aburrido, esquemático o igual a todo lo que conocemos. Es fundamental tener presente, en primer lugar, el significado del texto con que trabajaremos y las intenciones del autor. También nos conviene conocer qué intereses tiene el público objetivo o potencial de la pieza que vamos a diseñar.</p>
+<p>Uno de los errores más frecuentes de diseñadores inexpertos es el de anteponer sus propias intenciones estéticas o sus necesidades expresivas, dejando de lado los intereses del autor y del lector. En general, un texto es fácil de leer cuando «se vuelve transparente» a ojos del lector y permite que la obra fluya sin interferencias.</p>
+<p>En su Diccionario de Edición, Tipografía y Artes Gráficas (DETAG), el tipógrafo y lexicógrafo español José Martínez de Sousa define los conceptos de legibilidad y lecturabilidad:</p>
+<p><strong>Legibilidad</strong> (i. <em>Iegibility</em>) Calidad de un texto impreso de ser fácilmente leído. La palabra legibilidad (a diferencia de lecturabilidad) se refiere a factores personales de índole somática principalmente (agudeza visual, capacidad, etcétera) y se juzga por las características externas de la publicación: clase de papel, tinta de impresión, tamaño, tipo y cuerpo de letra, longitud de la línea, espaciado de estas (interlineado), tamaño de las ilustraciones, etcétera (es decir, se refiere a la forma, no al fondo). […]</p>
+<p><strong>Lecturabilidad</strong> (fr. <em>aptitude à la lecture</em>; i. <em>readability</em>) Facilidad de comprensión e interpretación de un texto relacionada con el estilo y el argumento (es decir, con el fondo). […]</p>
+<h3>Ortografía para editores</h3>
+<p>Un buen diseñador (sobre todo si piensa dedicarse al diseño editorial) tiene que estar interesado por la gramática y especialmente por la ortografía, pues tiene la obligación de presentar sus textos con la mayor pureza y precisión, es decir de acuerdo con las reglas del lenguaje escrito. Además de estudiar y practicar estas reglas con frecuencia, es recomendable tener a mano diccionarios y manuales de consulta.</p>
+<p class="info">Sugerimos visitar el sitio web Unostiposduros.com y consultar allí el <a title="Tratado de tipografía" href="http://www.unostiposduros.com/category/tratado_de_tipografia/" target="_blank">Tratado General de Tipografía</a> que se publica en línea. Se recomienda especialmente el <a title="Tratado clásico de tipografía: 9  - Composición, espaciado y justificación" href="http://www.unostiposduros.com/tratado-de-tipografia-9-composicion-espaciado-y-justificacion/" target="_blank">capítulo IX: Composición, espaciado y justificación de la línea</a>.</p>
+<h3>Definiciones útiles:</h3>
+<div class="glosario">
+<p><strong>Ortografía: </strong>conjunto de reglas y excepciones por que se rige la escritura de una lengua.</p>
+<p><strong>Ortotipografía:</strong> conjunto de reglas y excepciones ortográficas y tipográficas por que se rige la escritura y presentación de los elementos gráficos.</p>
+<p><strong>Bibliología:</strong> ciencia del escrito y de la comunicación escrita.</p>
+<p><strong>Lexicografía:</strong> técnica científica para el estudio y la formación de diccionarios.</p>
+<p><strong>Corrección de estilo:</strong> intervención de un especialista en un texto ajeno para enmendar los usos gramaticales que no se ajusten a las reglas de una institución normativa.</p>
+<p><strong>Corrección tipográfica:</strong> intervención de un ortotipógrafo en un texto compuesto o compaginado para enmendar los errores que contenga.<br />
+</p></div><br />
+<div class="ref_box"><strong>Bibliografía</strong></p>
+<ul>
+<li>DE BUEN UNNA, Jorge. <em> Manual de diseño editorial. 3.ª edición, corregida y aumentada. </em>Trea Ediciones, España, 2009.</li>
+<li>MARTÍNEZ DE SOUSA, José. <em>Diccionario de Edición, Tipografía y Artes Gráficas.</em> Gijón, Trea 2001.</li>
+<li>MARTÍNEZ DE SOUSA, José. <em>Diccionario de Tipografía y del Libro.</em> Madrid, Paraninfo 1981, segunda edición.</li>
+</ul>
+<p></p></div></p>
+<p class="icl_post_in_other_langs">Esta entrada también está disponible en: <a href="http://www.oert.org/en/basic-concepts/">Inglés</a></p>                   
+                  
+                  <div class="like_this_section clearfix">
+					<div class="google_like">
+					<g:plusone href="http://www.oert.org" size="medium"></g:plusone>
+					</div>	                  
+                     <div class="twitter_like">
+                     <a href="http://twitter.com/share" class="twitter-share-button" data-via="oert.org" data-lang="es" data-size="medium">Tweet</a>
+                     </div>
+                     <div class="fb_like">
+                     <fb:like href="http%3A%2F%2Fwww.oert.org%2Fconceptos-fundamentales%2F" layout="button_count" show_faces="false" width="450" height="30"></fb:like>
+                     </div>
+                     <div class="printfriendly"><a href="http://www.printfriendly.com/print?url=http://www.oert.org/conceptos-fundamentales/" rel="nofollow" onclick="window.print(); return false;"><img src="http://cdn.printfriendly.com/button-print-gry20.png" alt="Print Friendly" /></a></div>				</div> <!-- #end -->
+
+
+          				
+              </div> <!-- post #end -->
+              
+              
+               
+ 			<div class="post-navigation clearfix">
+                                                            <a class="post-prev" href="http://www.oert.org/clasificacion-eleccion-y-combinacion-de-familias/"><em>Previous post</em><span>Clasificación, elección y combinación de familias</span></a>
+                                                                <a class="post-next" href="http://www.oert.org/diseno-y-operaciones-morfologicas-con-tipografia-2/"><em>Next post</em><span>Diseño y operaciones morfológicas con tipografía</span></a>
+                                 </div>
+            
+            
+              </div> <!-- single post content #end -->
+          		<div class="realated_post clearfix">
+<h3>Related Posts</h3><ul class="realated_postlist clearfix">
+            <li class="clearfix"> 
+      
+     <h3> <a href="http://www.oert.org/familia-tipografica/">Familia tipográfica</a></h3> 
+     <p class="date clearfix"> <span>September 10, 2012</span></p>
+     <p>Definición. Familia como sistema. Componentes de la caja tipográfica. Variables tipográficas. Ejes de construcción de variables: históricos y contemporáneos. Revisión de aspectos que se mantienen y modifican en el sistema de variables.</p>
+            </li>
+                        <li class="clearfix"> 
+      
+     <h3> <a href="http://www.oert.org/mayusculas-minusculas-numeros-y-signos/">Mayúsculas, minúsculas, números y signos</a></h3> 
+     <p class="date clearfix"> <span>September 10, 2012</span></p>
+     <p>Origen, relaciones y connotaciones del sistema de mayúsculas y del de minúsculas. Relaciones verticales. Legibilidad de mayúsculas y minúsculas. Características formales y función de números. Signos de entonación, puntuación y auxiliares: forma y ubicación. Las fracciones.</p>
+            </li>
+                        <li class="clearfix"> 
+      
+     <h3> <a href="http://www.oert.org/anatomia-tipografica/">Anatomía tipográfica</a></h3> 
+     <p class="date clearfix"> <span>September 10, 2012</span></p>
+     <p>Partes de la letra: ubicación y definición.</p>
+            </li>
+                        <li class="clearfix"> 
+      
+     <h3> <a href="http://www.oert.org/proporciones-del-alfabeto-latino/">Proporciones del alfabeto latino</a></h3> 
+     <p class="date clearfix"> <span>September 10, 2012</span></p>
+     <p>Tecnología de producción y forma resultante. Mayúsculas trajanas y su conversión en modelo. Estructuras básicas y conformación de grupos de anchos comunes. Grupos por parentesco morfológico. Anchos históricos y contemporáneos.</p>
+            </li>
+            </ul>
+</div>
+		
+        
+          <div id="comments" class="clearfix"> 
+<div id="comments" class="comments-area">
+<div id="respond"><noscript><ol class="commentlist"><li id="comment-10150702437446743_23768905" class="comment" itemprop="comment" itemscope itemtype="http://schema.org/UserComments"><p><a rel="nofollow" itemprop="creator" href="https://www.facebook.com/profile.php?id=1101528748">Nicolás Muiño</a>:</p><p class="metadata"><time itemprop="commentTime" datetime="2012-09-16T20:45:21+0000">16 September, 2012 at 20:45</time></p><div class="comment-content" itemprop="commentText"><p>Buenas gente, felicitaciones por la web antes que nada, esta genial. Tengo una duda sobre la imagen 2: si 1pt angloamericano y 1pt didot miden exactamente 0,352mm y tanto 1 cícero como 1 pica se conforman de 12pts, ¿como puede resultar 1 pica ligeramente menor a 1 cícero en la imagen comparativa?</p>
+</div><ol class="children"><li id="comment-10151227486671743" class="comment" itemprop="comment" itemscope itemtype="http://schema.org/UserComments"><p><a rel="nofollow" itemprop="creator" href="https://www.facebook.com/profile.php?id=1828453589">Dave Rx</a>:</p><p class="metadata"><time itemprop="commentTime" datetime="2012-09-17T00:35:24+0000">17 September, 2012 at 0:35</time></p><div class="comment-content" itemprop="commentText"><p>Hay un error, en realidad la cosa es: 1pt Didot = 0,376065 mm (376 micras), luego 1pt angloamericano = 0,3514729 mm (351 micras), de ahí la diferencia.</p>
+</div></li><li id="comment-10151227499471743" class="comment" itemprop="comment" itemscope itemtype="http://schema.org/UserComments"><p><a rel="nofollow" itemprop="creator" href="https://www.facebook.com/profile.php?id=1101528748">Nicolás Muiño</a>:</p><p class="metadata"><time itemprop="commentTime" datetime="2012-09-17T00:52:35+0000">17 September, 2012 at 0:52</time></p><div class="comment-content" itemprop="commentText"><p>Me lo suponía, gracias por aclarar la duda :)</p>
+</div></li><li id="comment-10151230733951743" class="comment" itemprop="comment" itemscope itemtype="http://schema.org/UserComments"><p><a rel="nofollow" itemprop="creator" href="https://www.facebook.com/profile.php?id=288436581191987">OERT</a>:</p><p class="metadata"><time itemprop="commentTime" datetime="2012-09-19T11:38:29+0000">19 September, 2012 at 11:38</time></p><div class="comment-content" itemprop="commentText"><p>Gracias por el aviso. La imagen corregida ya está publicada. </p>
+</div></li></ol></li><li id="comment-10150702437446743_23769023" class="comment" itemprop="comment" itemscope itemtype="http://schema.org/UserComments"><p><a rel="nofollow" itemprop="creator" href="https://www.facebook.com/profile.php?id=1680085773">Chinix Arlekin</a>:</p><p class="metadata"><time itemprop="commentTime" datetime="2012-09-16T20:58:24+0000">16 September, 2012 at 20:58</time></p><div class="comment-content" itemprop="commentText"><p>me ayuda mucho esta informacion y quiero leer la respuesta de la pregunta de Nicolás M.</p>
+</div></li><li id="comment-10150702437446743_23769209" class="comment" itemprop="comment" itemscope itemtype="http://schema.org/UserComments"><p><a rel="nofollow" itemprop="creator" href="https://www.facebook.com/profile.php?id=100002811164046">Santiago Adsanfjasnbjkadg</a>:</p><p class="metadata"><time itemprop="commentTime" datetime="2012-09-16T21:25:11+0000">16 September, 2012 at 21:25</time></p><div class="comment-content" itemprop="commentText"><p>:D</p>
+</div></li><li id="comment-10150702437446743_23770530" class="comment" itemprop="comment" itemscope itemtype="http://schema.org/UserComments"><p><a rel="nofollow" itemprop="creator" href="https://www.facebook.com/profile.php?id=832126505">Pablo Cosgaya</a>:</p><p class="metadata"><time itemprop="commentTime" datetime="2012-09-17T01:01:10+0000">17 September, 2012 at 1:01</time></p><div class="comment-content" itemprop="commentText"><p>Efectivamente, hay un error en el valor indicado en la imagen. Gracias por señalarlo. Lo corregiremos a la brevedad.</p>
+</div></li><li id="comment-10150702437446743_23770778" class="comment" itemprop="comment" itemscope itemtype="http://schema.org/UserComments"><p><a rel="nofollow" itemprop="creator" href="https://www.facebook.com/profile.php?id=1219967289">Ale Lopez Mella</a>:</p><p class="metadata"><time itemprop="commentTime" datetime="2012-09-17T01:36:17+0000">17 September, 2012 at 1:36</time></p><div class="comment-content" itemprop="commentText"><p>El punto Didot es de 0,376mm y el Anglo es de 0,352mm, por eso el cícero (12pt didot) es mayor a la pica (12pt anglo).</p>
+</div></li><li id="comment-10150702437446743_23772788" class="comment" itemprop="comment" itemscope itemtype="http://schema.org/UserComments"><p><a rel="nofollow" itemprop="creator" href="https://www.facebook.com/profile.php?id=100000163690109">Álvaro Flores</a>:</p><p class="metadata"><time itemprop="commentTime" datetime="2012-09-17T07:35:32+0000">17 September, 2012 at 7:35</time></p><div class="comment-content" itemprop="commentText"><p>¡Muy interesante todo!</p>
+</div></li></ol></noscript>
+<div class="fb-social-plugin fb-comments" id="commentform" data-href="http://www.oert.org/conceptos-fundamentales/" data-width="700"></div>
+</div></div>
+</div>
+          
+             </div>
+	<div id="dynamic-content"></div>        
+  </div> <!-- content #end -->
+<script type="text/javascript" language="javascript" >
+var root_path_js = 'http://www.oert.org/';
+</script>
+<script type="text/javascript" language="javascript" src="http://www.oert.org/wp-content/themes/WikiBase/library/js/article_detail.js" ></script>
+
+      <div id="lang_sel"  >
+    <ul>
+        <li><a href="#" class="lang_sel_sel icl-es">
+                            
+            <img  class="iclflag" src="http://www.oert.org/wp-content/plugins/sitepress-multilingual-cms/res/flags/es.png" alt="es" />                                
+            &nbsp;Español</a>                                    
+            <ul>
+                                <li class="icl-en">          
+                    <a rel="alternate" hreflang="en" href="http://www.oert.org/en/basic-concepts/">
+                                    
+                    <img  class="iclflag" src="http://www.oert.org/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png" alt="en" />&nbsp;                    
+                                        English                    </a>
+                </li>
+                            </ul>            
+             
+                    </li>
+    </ul>    
+</div>
+ <!-- selector de idiomas -->
+<div id="sidebar">
+	<div class="widget"><h3><span>Recursos</span></h3><div class="menu-recursos-container"><ul id="menu-recursos" class="menu"><li id="menu-item-2003" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2003"><a href="http://www.oert.org/category/parte1/">Teoría</a>
+<ul class="sub-menu">
+	<li id="menu-item-2004" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2004"><a href="http://www.oert.org/category/parte1/parte1-1/">Letra</a></li>
+	<li id="menu-item-2005" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2005"><a href="http://www.oert.org/category/parte1/parte1-2/">Texto</a></li>
+	<li id="menu-item-2006" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2006"><a href="http://www.oert.org/category/parte1/parte1-3/">Página</a></li>
+</ul>
+</li>
+<li id="menu-item-2007" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2007"><a href="http://www.oert.org/category/parte2/">Práctica</a>
+<ul class="sub-menu">
+	<li id="menu-item-2008" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2008"><a href="http://www.oert.org/category/parte2/parte2-1/">Letra</a></li>
+	<li id="menu-item-2009" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2009"><a href="http://www.oert.org/category/parte2/parte2-2/">Texto</a></li>
+	<li id="menu-item-2010" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2010"><a href="http://www.oert.org/category/parte2/parte2-3/">Página</a></li>
+</ul>
+</li>
+<li id="menu-item-2011" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2011"><a href="http://www.oert.org/category/parte3/">Historia</a></li>
+</ul></div></div><div class="widget"><h3><span>Páginas</span></h3><div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-37" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37"><a href="http://www.oert.org/el-proyecto/">El proyecto</a></li>
+<li id="menu-item-62" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-62"><a href="http://www.oert.org/los-autores/">Los autores</a></li>
+<li id="menu-item-63" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-63"><a href="http://www.oert.org/comite-editorial/">Comité Editorial</a></li>
+<li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36"><a href="http://www.oert.org/equipo-de-trabajo-2/">Equipo de trabajo</a></li>
+<li id="menu-item-38" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38"><a href="http://www.oert.org/apoyan-este-proyecto-2/">Apoyan este proyecto&#8230;</a></li>
+<li id="menu-item-568" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-568"><a href="http://www.oert.org/preguntas-frecuentes/">Preguntas Frecuentes</a></li>
+<li id="menu-item-39" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39"><a href="http://www.oert.org/contacto-2/">Contacto</a></li>
+</ul></div></div></div> <!-- sidebar right--> 
+<div id="bottom"></div>
+<script type='text/javascript' src='http://www.oert.org/wp-content/themes/WikiBase/library/js/jquery.simplemodal.js'></script>
+<script type='text/javascript' src='http://www.oert.org/wp-content/themes/WikiBase/library/js/basic.js'></script>
+<div id="basic-modal-content" class="clearfix" style="display:none;">
+<form name="send_to_frnd" id="send_to_frnd" action="http://www.oert.org/conceptos-fundamentales/" method="post" >
+<input type="hidden" id="send_to_Frnd_pid" name="pid" value="169" />
+<input type="hidden" name="sendact" value="email_frnd" />
+	<h3>Send To Friend</h3>
+    <p id="reply_send_success" class="sucess_msg" style="display:none;"></p>
+	<div class="row clearfix" ><label>Friend Name : <span>*</span></label><input name="to_name" id="to_name" type="text"  /><span id="to_nameInfo"></span></div>
+ 	<div class="row  clearfix" ><label> Correo electrónico : <span>*</span></label><input name="to_email" id="to_email" type="text"  /><span id="to_emailInfo"></span></div>
+	<div class="row  clearfix" ><label>Your Name : <span>*</span></label><input name="yourname" id="yourname" type="text"  /><span id="yournameInfo"></span></div>
+ 	<div class="row  clearfix" ><label> Correo electrónico : <span>*</span></label><input name="youremail" id="youremail" type="text"  /><span id="youremailInfo"></span></div>
+	<div class="row  clearfix" ><label>Asunto : <span>*</span></label><input name="frnd_subject" value="About Conceptos fundamentales" id="frnd_subject" type="text"  /></div>
+	<div class="row  clearfix" ><label>Comentarios : <span>*</span></label>
+     <textarea name="frnd_comments" id="frnd_comments" cols="" rows="" >Hi there, do check out the information about this Article.</textarea></div>
+	<input name="Send" type="submit" value="Send " class="button " />
+</form>
+</div>
+<script type="text/javascript" src="http://www.oert.org/wp-content/themes/WikiBase/library/js/email_frnd_validation.js"></script>
+<!-- here -->   </div> <!-- wrapper #end -->
+  
+<div id="footer" class="clearfix">
+<div id="footer_in">
+<p class="copy"><a rel="license" href="http://creativecommons.org/licenses/by-sa/2.5/ar/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/2.5/ar/80x15.png" /></a> <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Open Educational Resources for Typography</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.oert.org/" property="cc:attributionName" rel="cc:attributionURL">OERT</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.5/ar/">Creative Commons Attribution-ShareAlike 2.5 Argentina License</a>.</p>
+<p class="fr"><span class="designby">Alojado en </span>
+<span class="wiroos"><a href="http://www.wiroos.com" title="Wiroos">Wiroos</a></span>
+</p>	
+</div></div> <!-- footer #end -->
+
+        <script type="text/javascript">
+          var pfHeaderImgUrl = '';
+          var pfHeaderTagline = '';
+          var pfdisableClickToDel = '0';
+          var pfHideImages = '0';
+          var pfImageDisplayStyle = 'right';
+          var pfDisableEmail = '0';
+          var pfDisablePDF = '0';
+          var pfDisablePrint = '0';
+          var pfCustomCSS = '';
+
+          // PrintFriendly
+          var e = document.createElement('script'); e.type="text/javascript";
+          e.src = 'http://cdn.printfriendly.com/printfriendly.js';
+          document.getElementsByTagName('head')[0].appendChild(e);
+      </script>
+<script type='text/javascript' src='http://www.oert.org/wp-content/themes/WikiBase/library/js/livesearch.js?ver=1'></script>
+<script type='text/javascript' src='http://www.oert.org/wp-content/themes/WikiBase/library/js/jquery.hoveraccordion.min.js?ver=1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var FB_WP=FB_WP||{};FB_WP.queue={_methods:[],flushed:false,add:function(fn){FB_WP.queue.flushed?fn():FB_WP.queue._methods.push(fn)},flush:function(){for(var fn;fn=FB_WP.queue._methods.shift();){fn()}FB_WP.queue.flushed=true}};window.fbAsyncInit=function(){FB.init({"channelUrl":"http:\/\/www.oert.org\/wp-content\/plugins\/facebook\/channel.php","xfbml":true,"appId":"285109618260716"});if(FB_WP && FB_WP.queue && FB_WP.queue.flush){FB_WP.queue.flush()}}
+/* ]]> */
+</script>
+<div id="fb-root"></div><script type="text/javascript">(function(d){var id="facebook-jssdk";if(!d.getElementById(id)){var js=d.createElement("script"),ref=d.getElementsByTagName("script")[0];js.id=id,js.async=true,js.src="http:\/\/connect.facebook.net\/es_ES\/all.js",ref.parentNode.insertBefore(js,ref)}})(document)</script>
+<script type='text/javascript' src=''></script>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27724959-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script><script type="text/javascript">
+	//<![CDATA[
+		function initBelle() {
+			Belle.AjaxURL		= "http://www.oert.org/?sajax=1"
+			// Initialize Livesearch
+			Belle.LiveSearch	= new LiveSearch( "Escribe y obten resultados al instante" )
+			}
+		jQuery(document).ready( function() { initBelle() })
+	//]]>
+	</script>
+<!-- LOAD JAVASCRIPT LATE - JUST BEFORE THE BODY TAG 
+		 That way the browser will have loaded the images
+	  	 and will know the width of the images. No need to
+		 specify the width in the CSS or inline. -->
+
+	<!-- jQuery library - Please load it from Google API's -->
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+
+	<!-- jQuery UI Widget and Effects Core (custom download)
+		 You can make your own at: http://jqueryui.com/download -->
+	<script src="http://www.oert.org/wp-content/themes/WikiBase/library/js/jquery-ui-1.8.18.custom.min.js" type="text/javascript"></script>
+	
+	<!-- Latest version of jQuery Mouse Wheel by Brandon Aaron
+		 You will find it here: http://brandonaaron.net/code/mousewheel/demos -->
+	<script src="http://www.oert.org/wp-content/themes/WikiBase/library/js/jquery.mousewheel.min.js" type="text/javascript"></script>
+
+	<!-- Smooth Div Scroll 1.2 minified-->
+	<script src="http://www.oert.org/wp-content/themes/WikiBase/library/js/jquery.smoothdivscroll-1.2-min.js" type="text/javascript"></script>
+
+	<!-- If you want to look at the uncompressed version you find it at
+		 js/jquery.smoothDivScroll-1.2.js -->
+
+	<!-- Plugin initialization -->
+	<script type="text/javascript">
+		jQuery(document).ready(function () {
+			jQuery("#logoParade").smoothDivScroll({
+				autoScrollingMode: "always",
+				autoScrollingDirection: "endlessloopright",
+				autoScrollingStep: 1,
+				autoScrollingInterval: 25 
+			});
+
+			// Logo parade
+			jQuery("#logoParade").bind("mouseover", function () {
+				jQuery(this).smoothDivScroll("stopAutoScrolling");
+			}).bind("mouseout", function () {
+				jQuery(this).smoothDivScroll("startAutoScrolling");
+			});
+
+		});
+		
+	</script>	
+	
+</body></html>

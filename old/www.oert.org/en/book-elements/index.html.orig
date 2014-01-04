@@ -1,0 +1,599 @@
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<title>
+  Book elements&nbsp;|&nbsp;OERT</title>
+
+<link rel="stylesheet" href="http://www.oert.org/wp-content/plugins/sitepress-multilingual-cms/res/css/language-selector.css?v=2.6.0" type="text/css" media="all" />
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="stylesheet" type="text/css" href="http://www.oert.org/wp-content/themes/WikiBase/style.css" media="screen" />
+<link rel="shortcut icon" type="image/png" href="http://www.oert.org/wp-content/uploads/favicon.ico" />
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.oert.org/en/feed/" />
+<link rel="pingback" href="http://www.oert.org/xmlrpc.php" />
+
+<link rel="stylesheet" type="text/css" href="http://www.oert.org/wp-content/themes/WikiBase/library/css/print.css" media="print" />
+<link rel="Stylesheet" type="text/css" href="http://www.oert.org/wp-content/themes/WikiBase/library/css/smoothDivScroll.css" />
+
+<script src="http://connect.facebook.net/es_ES/all.js#xfbml=1"></script>
+<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+<script src="https://apis.google.com/js/plusone.js" type="text/javascript"></script>
+
+
+ <link href="http://www.oert.org/wp-content/themes/WikiBase/custom.css" rel="stylesheet" type="text/css">
+<script language="javascript" type="text/javascript">
+	function hasClass(ele,cls) {
+	return ele.className.match(new RegExp('(\\s|^)'+cls+'(\\s|$)'));
+	}
+
+    function addClass(ele,cls) {
+    if (!this.hasClass(ele,cls)) ele.className += " "+cls;
+    }
+    function removeClass(ele,cls) {
+    if (hasClass(ele,cls)) {
+        var reg = new RegExp('(\\s|^)'+cls+'(\\s|$)');
+        ele.className=ele.className.replace(reg,' ');
+    }
+    }
+
+    function showHideDiv(sids,divids)
+    {
+		//alert(sids);
+		//alert(divids);
+        var divstyle = new String();
+		var spanstyle = new String();
+		var spansid = new String();
+		spansid = document.getElementById(sids);
+        divstyle = document.getElementById(divids).style.display;
+        if(divstyle.toLowerCase()=="block" || divstyle == "")
+        {
+            document.getElementById(divids).style.display = "none";
+			removeClass(spansid,'neg');
+			addClass(spansid,'pos');
+        }
+        else
+        {
+            document.getElementById(divids).style.display = "block";
+			removeClass(spansid,'pos');
+			addClass(spansid,'neg');
+        }
+    }
+    </script>
+    <script type="text/javascript">
+        $(document).ready( function() {
+            $('#menu-recursos').hoverAccordion({
+                keepHeight:true,
+                activateItem: 3,
+                speed: 400
+            });
+        });
+    </script>
+        
+<link rel="dns-prefetch" href="//connect.facebook.net" />
+<link rel="alternate" type="application/rss+xml" title="OERT &raquo; Book elements Comments Feed" href="http://www.oert.org/en/book-elements/feed/" />
+<link rel='stylesheet' id='wpml-cms-nav-css-css'  href='http://www.oert.org/wp-content/plugins/wpml-cms-nav/res/css/navigation.css?ver=1.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='cms-navigation-style-base-css'  href='http://www.oert.org/wp-content/plugins/wpml-cms-nav/res/css/cms-navigation-base.css?ver=1.2.7' type='text/css' media='screen' />
+<link rel='stylesheet' id='cms-navigation-style-css'  href='http://www.oert.org/wp-content/plugins/wpml-cms-nav/res/css/cms-navigation.css?ver=1.2.7' type='text/css' media='screen' />
+<link rel='stylesheet' id='good-old-gallery-theme-css'  href='http://www.oert.org/wp-content/plugins/good-old-gallery/themes/good-old-gallery-dots/good-old-gallery-dots.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='good-old-gallery-css'  href='http://www.oert.org/wp-content/plugins/good-old-gallery/assets/css/good-old-gallery.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='facebook-css'  href='http://www.oert.org/wp-content/plugins/facebook/static/css/style.min.css?ver=1.3.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.oert.org/wp-includes/js/jquery/jquery.js?ver=1.8.3'></script>
+<script type='text/javascript' src='http://www.oert.org/wp-content/themes/WikiBase/library/js/functions.js?ver=1'></script>
+<script type='text/javascript' src='http://www.oert.org/wp-includes/js/comment-reply.min.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://www.oert.org/wp-content/plugins/good-old-gallery/plugins/cycle/jquery.cycle.all.min.js?ver=3.5.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.oert.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.oert.org/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Typography and proportions' href='http://www.oert.org/en/typography-and-proportions/' />
+<link rel='next' title='Typography and language: the paragraph' href='http://www.oert.org/en/typography-and-language-the-paragraph/' />
+<meta name="generator" content="WordPress 3.5.1" />
+<link rel='shortlink' href='http://www.oert.org/?p=649' />
+
+	<!-- This site uses Good Old Gallery, get it from http://wp.unwi.se/good-old-gallery -->
+
+        <style type="text/css" media="screen">
+          div.printfriendly {
+            margin: 0px 0px 0px 0px;;
+          }
+          div.printfriendly a, div.printfriendly a:link, div.printfriendly a:visited {
+            text-decoration: none;
+            font-size: 14px;
+            color: #99cc00;
+            vertical-align: bottom;
+            border: none;
+          }
+
+          .printfriendly a:hover {
+            cursor: pointer;
+          }
+
+          .printfriendly a img  {
+            border: none;
+            padding:0;
+            margin-right: 6px;
+            display:inline-block;
+            box-shadow: none;
+            -webkit-box-shadow: none;
+            -moz-box-shadow: none;
+          }
+          .printfriendly a span{
+            vertical-align: bottom;
+          }
+          .pf-alignleft {
+            float: left;
+          }
+          .pf-alignright {
+            float: right;
+          }
+          div.pf-aligncenter {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            text-align: center;
+          }
+        </style>
+        <style type="text/css" media="print">
+          .printfriendly {
+            display: none;
+          }
+        </style>
+<script type="text/javascript">var icl_lang = 'en';var icl_home = 'http://www.oert.org/en/';</script>
+<script type="text/javascript" src="http://www.oert.org/wp-content/plugins/sitepress-multilingual-cms/res/js/sitepress.js"></script>
+<meta name="generator" content="WPML ver:2.6.0 stt:1,2;0" />
+<link rel="alternate" hreflang="es_ES" href="http://www.oert.org/elementos-de-un-libro/" />
+
+<style type="text/css">#lang_sel a, #lang_sel a.lang_sel_sel{color:#444444;}#lang_sel a:hover, #lang_sel a.lang_sel_sel:hover{color:#000000;}#lang_sel a.lang_sel_sel, #lang_sel a.lang_sel_sel:visited{background-color:#f5f4f2;}#lang_sel a.lang_sel_sel:hover{background-color:#eeeeee;}#lang_sel li ul a, #lang_sel li ul a:visited{color:#444444;}#lang_sel li ul a:hover{color:#000000;}#lang_sel li ul a, #lang_sel li ul a:link, #lang_sel li ul a:visited{background-color:#f5f4f2;}#lang_sel li ul a:hover{background-color:#eeeeee;}#lang_sel a, #lang_sel a:visited{border-color:#cdcdcd;} #lang_sel ul ul{border-top:1px solid #cdcdcd;}</style>
+
+<style type="text/css">#lang_sel  {width: 195px; margin-bottom:24px;}
+#lang_sel a {font-size:12px;}
+#lang_sel li {width:192px; }
+
+</style>		<link href="http://www.oert.org/wp-content/themes/WikiBase/skins/1-default.css" rel="stylesheet" type="text/css" />
+
+
+<link href='http://boakes.org/most-wanted?v=0.1.9v' />
+<link rel="canonical" href="http://www.oert.org/en/book-elements/"/>
+<meta property="og:site_name" content="OERT" />
+<meta property="og:type" content="article" />
+<meta property="og:locale" content="es_ES" />
+<meta property="fb:app_id" content="285109618260716" />
+<meta property="og:url" content="http://www.oert.org/en/book-elements/" />
+<meta property="og:title" content="Book elements" />
+<meta property="og:description" content="Responsibility and work method. Book edges and care. Book cover. Jacket. Endpapers. Flyleaf. Title page. Preliminary Pages. Legal or credit page. Dedication, Acknowledgments. Prologue. Preface. Introduction. Contents. Abbreviations list. Chapter or section headings. Headings. Main text. The textblock. Citations. Pages. Final pages. Epigraph. Notes and references. Glossary. Colophon." />
+<meta property="article:published_time" content="2012-04-27T05:51:35+00:00" />
+<meta property="article:modified_time" content="2012-10-30T15:04:15+00:00" />
+<meta property="article:author" content="http://www.oert.org/en/author/admin/" />
+<meta property="article:section" content="Page" />
+<meta property="article:tag" content="Theory" />
+</head>
+<body class="single single-post postid-649 single-format-standard">
+<div id="header">   
+<div id="header_in" class="clearfix">
+<div class="logo"> 
+   <div class="blog-title"><a href="http://www.oert.org/en//">OERT</a> 
+		
+		 <p class="blog-description">
+		  Open Educational Resources for Typography		</p>
+   </div> 
+   </div>
+                        <div class="header_right">
+        	<p>Última actualización: <span>April 7, 2013</span></p>
+                        <form method="get" id="searchform" action="http://www.oert.org/en/">
+<div id="search-form-wrap">
+<label for="s" id="search-label">Buscar:</label>
+<input type="text" id="s" name="s" accesskey="4" value="" />
+<input type="hidden" name="stype" value="ajsearch" />
+<input type="submit" name="stype" value="Search" style="display:none;" class="b_search" />
+<span id="searchreset" title="Reset Search"></span>
+<span id="searchload"></span>
+</div>
+</form>
+
+                    </div>               
+   </div> 
+ </div>   <!-- header #end -->     <div id="wrapper" class="clearfix">  
+  		<div id="content" >
+         <div id="current-content">
+                 <div class="breadcrumb clearfix">
+        <a rel="nofollow" href="http://www.oert.org/en/">Home</a>  <a href="http://www.oert.org/en/category/part1/" title="View all posts in Theory">Theory</a>  <a href="http://www.oert.org/en/category/part1/part1-3/" title="View all posts in Page">Page</a>  Book elements        </div>
+             
+                       
+        <div class="single_post">
+        <h1 class="head">Book elements</h1>
+ 		  		                  <p class="post_info clearfix post_info_single"><span>Posted by <a href="http://www.oert.org/en/author/admin/" title="Posts by OERT" rel="author">OERT</a> - Apr 27, 2012 </span>
+                     <span class="i_cate"> <a href="http://www.oert.org/en/category/part1/part1-3/" title="View all posts in Page" rel="category tag">Page</a>, <a href="http://www.oert.org/en/category/part1/" title="View all posts in Theory" rel="category tag">Theory</a> </span>
+                      <span> <a href="http://www.oert.org/en/book-elements/#commentarea"  class="i_comment" ><fb:comments-count xmlns="http://ogp.me/ns/fb#" href="http://www.oert.org/en/book-elements/"></fb:comments-count> Comments </a></span>                      
+                      <a href="http://www.oert.org/en//?cat=24&amp;feed=rss2" class="i_rss">Receive Updates For This Category</a>
+                      
+                       </p>
+                       
+                       
+					              
+              
+              <div id="post-649" class="posts clearfix">               		               
+              		
+              		<!-- Templatic Article Tools #end -->
+              		
+              		              		
+              		<!-- Templatic Article Tools #end -->
+
+                      <p class="autor">Created by: Tea Alberti &#8211; Reviewed by: Pablo Cosgaya, Natalia Fernández, Juan Gallelli &#8211; Supervised by: Natalia Pano</p>
+<p class="note">Artículo en proceso de traducción </p>
+<p class="bajada">A book is a reflection of the culture of a nation, its people, a time. It represents all the cultural values of the men who are part of its history. It is ultimately the silent witness which persists regardless of generations.</p>
+<p>The designer has one responsibility towards the author, its text and then towards the hidden client, i.e., the reader, since only by putting them in touch a direct or editorial service to the client will be provided. In editorial design the process goes from the inside to the outside: first, the inner content is adequately planned, and then the external wrapping will be its logical consequence. Several difficulties will then have to be overcame in the various parts of the book, which, though different parts of the same edition, must work as a whole. Each page will be treated in its usual order of appearance, in relation to the book as a whole.</p>
+<p>There is a tradition as regards how each page of the book is treated and the order in which they are arranged; though at the same time there is freedom when dealing with a new problem of editorial design.</p>
+<h5>Book edges</h5>
+<p>Every book has three edges, the top or head, the bottom or tail and the fore edge which is the one opposite to the spine. The fore edge may be flat (if so is the spine) or take a concave shape when the spine is round. This shape is called <em>double rule.</em></p>
+<div id="go-gallery-1415-1" class="go-gallery-container go-gallery-1415 gog-dots has-pager cycle">
+<div class="go-gallery-inner">
+<ul class="slides">
+<li>
+<div class="image"><img width="700" height="525" src="http://www.oert.org/wp-content/uploads/2012/08/T04B_01-estructura_interna.jpg" class="attachment-large" alt="Estructura interna de un libro" />
+</div></li>
+<li>
+<div class="image"><img width="700" height="525" src="http://www.oert.org/wp-content/uploads/2012/08/T04B_01-lujo_económica.jpg" class="attachment-large" alt="Márgenes y calidad de la publicación" />
+</div></li>
+<li>
+<div class="image"><img width="700" height="525" src="http://www.oert.org/wp-content/uploads/2012/08/T04B_01-libro.jpg" class="attachment-large" alt="Estructura del libro" />
+</div></li>
+</ul>
+<div class="pager"></div>
+</div>
+<script type="text/javascript" charset="utf-8">jQuery(function($) { $(function () { $("#go-gallery-1415-1 .slides").cycle({fx: "scrollHorz", navigation: false, pager: true, pager: "#go-gallery-1415-1 .pager"}); }); });</script>
+</div>
+
+<h5>Book cover</h5>
+<p>It makes the book dignified, as when covering it, it grants it the typical characteristics of the typography and of the binding. It is a precious place for true personality features; it is the consequence of the book internal design.<br />
+<div id="go-gallery-1408-2" class="go-gallery-container go-gallery-1408 gog-dots has-pager cycle">
+<div class="go-gallery-inner">
+<ul class="slides">
+<li>
+<div class="image"><img width="700" height="525" src="http://www.oert.org/wp-content/uploads/2012/08/T04B_01-estructura_externa.jpg" class="attachment-large" alt="Estructura externa del libro" />
+</div></li>
+<li>
+<div class="image"><img width="700" height="525" src="http://www.oert.org/wp-content/uploads/2012/08/T04B_01-estructura_externa_2.jpg" class="attachment-large" alt="Estructura externa del libro" />
+</div></li>
+</ul>
+<div class="pager"></div>
+</div>
+<script type="text/javascript" charset="utf-8">jQuery(function($) { $(function () { $("#go-gallery-1408-2 .slides").cycle({fx: "scrollHorz", navigation: false, pager: true, pager: "#go-gallery-1408-2 .pager"}); }); });</script>
+</div>
+</p>
+<p>The spine of the book is part of the cover, and its purpose is to make it easier to find the edition in the shelves of a bookcase. It may include the author’s name, the title of the piece, the corresponding volume number in a collection and data regarding the publisher (who organizes, maintains, produces and distributes books, newspapers, magazines or other instruments of editorial communication.)</p>
+<p>Special attention should be paid to the elements that make up the spine, the reading direction (horizontal, ascending vertical or descending vertical), legibility, type size, its relation with the rest of the title, etc.</p>
+<h5>Jacket</h5>
+<p>It is the wrapping designed to protect the book cover. Its characteristics are closely related to the cover.</p>
+<p>In our consumer society, the jacket has become an example of advertising means, so they include images and huge size typography.</p>
+<h5>Endpapers</h5>
+<p>They are sheets of paper which the bookbinder places folded in half to bind the book to the cover. Generally, they are of a paper different than that used in the body of the book, both in grammar and color.</p>
+<h5>Flyleaf</h5>
+<p>It is a white sheet placed at the beginning and at the end of the book. On deluxe or special editions, they are two o more flyleaves.</p>
+<h5>Title Page</h5>
+<p>It was first used to protect the true title page from getting dirty and it was also useful to identify the book.</p>
+<p>It is the first printed page of the book, and it normally includes only the title (if it is a collection, the title and publisher of the collection), and from which pagination (which is not printed) of the preliminaries begins.</p>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/08/T04B_portadilla.jpg"><img class="alignnone size-full wp-image-1419" title="Portadilla" src="http://www.oert.org/wp-content/uploads/2012/08/T04B_portadilla.jpg" alt="" width="700" height="525" /></a></p>
+<h5>Preliminaries (title page and copyright page)</h5>
+<div id="go-gallery-1415-3" class="go-gallery-container go-gallery-1415 gog-dots has-pager cycle">
+<div class="go-gallery-inner">
+<ul class="slides">
+<li>
+<div class="image"><img width="700" height="525" src="http://www.oert.org/wp-content/uploads/2012/08/T04B_01-estructura_interna.jpg" class="attachment-large" alt="Estructura interna de un libro" />
+</div></li>
+<li>
+<div class="image"><img width="700" height="525" src="http://www.oert.org/wp-content/uploads/2012/08/T04B_01-lujo_económica.jpg" class="attachment-large" alt="Márgenes y calidad de la publicación" />
+</div></li>
+<li>
+<div class="image"><img width="700" height="525" src="http://www.oert.org/wp-content/uploads/2012/08/T04B_01-libro.jpg" class="attachment-large" alt="Estructura del libro" />
+</div></li>
+</ul>
+<div class="pager"></div>
+</div>
+<script type="text/javascript" charset="utf-8">jQuery(function($) { $(function () { $("#go-gallery-1415-3 .slides").cycle({fx: "scrollHorz", navigation: false, pager: true, pager: "#go-gallery-1415-3 .pager"}); }); });</script>
+</div>
+
+<p>The title page with the copyright page make a confronted double page. In the beginning, the copyright page was an engraving often printed in a separate process (intaglio, steel engraving, chromolithography) and inserted by the bookbinder confronting the title page.<br />
+<a href="http://www.oert.org/wp-content/uploads/2012/08/T04B_portada.jpg"><img class="alignnone size-full wp-image-1420" title="Portada" src="http://www.oert.org/wp-content/uploads/2012/08/T04B_portada.jpg" alt="Portada" width="700" height="525" /></a></p>
+<p>Little by little, if became acceptable to include in this page a list with other titles by the same author or books of the same collection. If a better use of this copyright page is not found, it is better to leave this page blank, with the title page devised as a self-sufficient design.</p>
+<p>The title page is the main entrance to the book. It was a poster, a door and many other things before the endpaper and the flap appeared and shared the burden of attracting the crowds. The title page shows the topic of the book and how it is organized throughout the layout. The lines that appear in that page are information units introduced in a visual manner and as such they are not subject to the grammar rules of sentence structure and punctuation.</p>
+<p>The information includes the title of the book (also the subtitle, if any), the name of the author and publisher and the number of illustrations it contains, if this information is relevant for the edition. The designer establishes a hierarchy for each element and assigns it a value, for example, determines the author’s category or the importance of a subtitle in relation to the title, before thinking about possible type sizes and type face families, as well as the grouping, order and refurbishment of those elements in the page.</p>
+<h5>Legal or credit page</h5>
+<p>It is made up of the text which due to regulatory reasons appears at the back of the title page and which has become larger in the last years.</p>
+<p>Legally speaking, the following information must be included: publication information not mentioned before, edition number, translators, illustrators, photographers, designers and other collaborators which took part in the edition. Copyright, intellectual property right (an international convention sets the terms and duration of such property; publishers of the countries which recognized it must indicate this in the publication, with the symbol ©, the day of publication and the name of the copyright owner), the isbn (International Standard Book Number), created by initiative of the unesco, and which numerically codifies the country of edition, the publisher and the subject matter of the book.</p>
+<h5>Dedication</h5>
+<p>Nowadays, personal dedications usually occupy the first odd page after the title page, though frequently the even page facing the text is considered as an alternative the idea is not to waste space.</p>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/08/T04B_dedicatoria.jpg"><img class="alignnone size-full wp-image-1422" title="Dedicatoria" src="http://www.oert.org/wp-content/uploads/2012/08/T04B_dedicatoria.jpg" alt="Dedicatoria" width="700" height="525" /></a></p>
+<h5>Acknowledgments</h5>
+<p>From both the author as the editor for the people who collaborated in the compilation or edition of the material.</p>
+<h5>Prologue</h5>
+<p>It is a complimentary note from an authority on the subject. It must be placed in the preliminary pages.</p>
+<h5>Preface</h5>
+<p>Text where the author explains its reasons for writing the book, and which may include the acknowledgments; it should be placed after any prologue and before the introduction.</p>
+<h5>Introduction</h5>
+<p>It is an account of the topics, objectives, structure and conventions of the book, it is indivisible from the text and it constitutes its opening chapter.</p>
+<h5>Contents</h5>
+<p>The table of contents reflects the structure of the book. It describes the chapters or main divisions of a book in brief. An analytic table of contents can be included at the end of the book where the proper names and the most important concepts are enumerated, alphabetically arranged and also a table of contents describing the visual material included in the book.</p>
+<p><a href="http://www.oert.org/wp-content/uploads/2012/08/T04B_indice.jpg"><img class="alignnone size-full wp-image-1421" title="Índice" src="http://www.oert.org/wp-content/uploads/2012/08/T04B_indice.jpg" alt="Índice" width="700" height="525" /></a></p>
+<h5>Abbreviations</h5>
+<p>They are symbols or other signs containing special information that allow for the understanding of the text.</p>
+<p>Here, the errata may be included, where the errors and mistakes in the book may be clarified and corrected.</p>
+<h5>Titles of parts and chapters</h5>
+<p>They are communication tools established from the title page towards the text, and which continue within the text, in a descendant order, with the headlines, epigraphs, sub epigraphs, etc.</p>
+<div id="go-gallery-1426-4" class="go-gallery-container go-gallery-1426 gog-dots has-pager cycle">
+<div class="go-gallery-inner">
+<ul class="slides">
+<li>
+<div class="image"><img width="700" height="525" src="http://www.oert.org/wp-content/uploads/2012/08/T04B_apertura.jpg" class="attachment-large" alt="Apertura de capítulo" />
+</div></li>
+<li>
+<div class="image"><img width="700" height="525" src="http://www.oert.org/wp-content/uploads/2012/08/T04B_continuacion.jpg" class="attachment-large" alt="Continuación de capítulo" />
+</div></li>
+<li>
+<div class="image"><img width="700" height="525" src="http://www.oert.org/wp-content/uploads/2012/08/T04B_cierre.jpg" class="attachment-large" alt="Cierre de capítulo" />
+</div></li>
+</ul>
+<div class="pager"></div>
+</div>
+<script type="text/javascript" charset="utf-8">jQuery(function($) { $(function () { $("#go-gallery-1426-4 .slides").cycle({fx: "scrollHorz", navigation: false, pager: true, pager: "#go-gallery-1426-4 .pager"}); }); });</script>
+</div>
+
+<h5>Headings</h5>
+<p>They are as valuable as lighthouses, as they are a useful tool for locating information and navigating throughout the book, which go unnoticed in the page during reading. It is the line which appears on the head margin of the pages and which are not the headlines of the chapters. It may include the title of the book, of a part, chapter, section or any other reference. It is frequently combined with the page numbers, sharing the same line.</p>
+<h5>Main Text</h5>
+<p>Printed material which will be part of all the pages of the book, it is the fundamental element of the designer’s work which will help him decide about the layout, typeface families, variables, edition length, etc.</p>
+<h5>Type case</h5>
+<p>It is the area of the grid where the printed area is.</p>
+<h5>Quotes</h5>
+<p>Some authors abundantly use other author’s quotes, both in prose texts as well as in poems. The reader needs to see that there is a change from the main text to the quotes, and then go on reading normally.</p>
+<p>How quotes are treated depends on their nature, importance and frequency of appearance throughout the piece. They may be marginal quotes or footnotes, but may also be put together at the end of the chapter or edition; for this it is necessary to analyze their frequency of appearance.</p>
+<h5>Page number</h5>
+<p>Numbering of a book’s pages, they have similar typographic characteristics to those used in the text, and are generally placed outside the type case.</p>
+<h5>Final pages</h5>
+<p>The right order of the final pages should be: appendixes, notes, abbreviations, glossaries, bibliography, acknowledgments, table of contents and colophon; though this is the correct arrangement almost exclusively in academic editions.</p>
+<h5>Epigraph</h5>
+<p>It is text which adds data about what may be seen in an image (picture, illustration, etc.).</p>
+<h5>Notes</h5>
+<p>They are footnotes at the end of a page, chapter or at the end of the book.</p>
+<h5>Glossary</h5>
+<p>Small dictionary of the edition.</p>
+<h5>Bibliography</h5>
+<p>List of recommended readings.</p>
+<h5>Colophon</h5>
+<p>A page is included at the end of the book, to mention where and when it has been printed. It includes the name of the printing shop, its address and date of publishing. Sometimes some information as to special publishing circumstances is added.</p>
+<p><div class="ref_box"><strong>Related Links</strong></p>
+<p>A list of links (published in the web site of the subject) related to the subject of this paper:</p>
+<ul>
+<li>Bibliofilia, sitio de libros antiguos: <a href="http://www.bibliofilia.com/">http://www.bibliofilia.com</a></li>
+<li>Libros en red, artículos de interés: <a href="http://www.librosenred.com/novedades.asp">http://www.librosenred.com/novedades.asp</a></li>
+<li>El libro, desde la antigüedad hasta la imprenta: <a href="http://www.fyl-unex.com/papyros">http://www.fyl-unex.com/papyros</a></li>
+<li>Antepasados del libro. Del rollo al códice: <a href="http://iconio.com/ABCD/A/">http://iconio.com/ABCD/A/</a></li>
+<li>Fragmento de Historia del libro, de H. Escolar: <a href="http://sirio.deusto.es/abaitua/konzeptu/htxt/grupoi.htm">http://sirio.deusto.es/abaitua/konzeptu/htxt/grupoi.htm</a></li>
+<li>Las partes de un libro: <a href="http://www.bibliofilia.com/Html/curso/laspartes.htm">http://www.bibliofilia.com/Html/curso/laspartes.htm</a> </p></div></li>
+</ul>
+<p class="icl_post_in_other_langs">Esta entrada también está disponible en: <a href="http://www.oert.org/elementos-de-un-libro/">Spanish</a></p>                   
+                  
+                  <div class="like_this_section clearfix">
+					<div class="google_like">
+					<g:plusone href="http://www.oert.org" size="medium"></g:plusone>
+					</div>	                  
+                     <div class="twitter_like">
+                     <a href="http://twitter.com/share" class="twitter-share-button" data-via="oert.org" data-lang="es" data-size="medium">Tweet</a>
+                     </div>
+                     <div class="fb_like">
+                     <fb:like href="http%3A%2F%2Fwww.oert.org%2Fen%2Fbook-elements%2F" layout="button_count" show_faces="false" width="450" height="30"></fb:like>
+                     </div>
+                     <div class="printfriendly"><a href="http://www.printfriendly.com/print?url=http://www.oert.org/en/book-elements/" rel="nofollow" onclick="window.print(); return false;"><img src="http://cdn.printfriendly.com/button-print-gry20.png" alt="Print Friendly" /></a></div>				</div> <!-- #end -->
+
+
+          				
+              </div> <!-- post #end -->
+              
+              
+               
+ 			<div class="post-navigation clearfix">
+                                                            <a class="post-prev" href="http://www.oert.org/en/typography-and-proportions/"><em>Previous post</em><span>Typography and proportions</span></a>
+                                                                <a class="post-next" href="http://www.oert.org/en/typography-and-language-the-paragraph/"><em>Next post</em><span>Typography and language: the paragraph</span></a>
+                                 </div>
+            
+            
+              </div> <!-- single post content #end -->
+          		<div class="realated_post clearfix">
+<h3>Related Posts</h3><ul class="realated_postlist clearfix">
+            <li class="clearfix"> 
+      
+     <h3> <a href="http://www.oert.org/en/design-and-journalism/">Design and journalism</a></h3> 
+     <p class="date clearfix"> <span>April 27, 2012</span></p>
+     <p>Magazine design: between graphic journalism and journalistic communication. Features. Graphic journalism: content and codes. Journalism genres: characteristics and considerations about news, interviews and stories. Text structure and hierarchy.
+</p>
+            </li>
+                        <li class="clearfix"> 
+      
+     <h3> <a href="http://www.oert.org/en/graphic-resources-for-periodical-publications/">Graphic resources for regular editions</a></h3> 
+     <p class="date clearfix"> <span>April 27, 2012</span></p>
+     <p>Models for periodical publications: constants and variables. Publication structure. Navigation resources. Text editing: titles (header, banner, title or headline, and sub headings, lead or summary), fast reading elements (epigraph, highlight, subordinated notes, tables, summaries). Relation between form and content.
+</p>
+            </li>
+                        <li class="clearfix"> 
+      
+     <h3> <a href="http://www.oert.org/en/composition-and-modules/">Composition and modules</a></h3> 
+     <p class="date clearfix"> <span>April 27, 2012</span></p>
+     <p>Order and space. The typographic grid as a tool for design and communication. Line spacing as modulation unit. Construction of the typographic grid: vertical and horizontal modulation. Legibility and modulation. 
+</p>
+            </li>
+                        <li class="clearfix"> 
+      
+     <h3> <a href="http://www.oert.org/en/typography-and-linguistics/">Typography and linguistics</a></h3> 
+     <p class="date clearfix"> <span>April 27, 2012</span></p>
+     <p>Oral and written texts, features. Text structure, macrostructure and superstructure. Types of superstructures. Typology and textual genres. Text and context. Design and linguistic mediation. Conditions for textuality.
+</p>
+            </li>
+            </ul>
+</div>
+		
+        
+          <div id="comments" class="clearfix"> 
+<div id="comments" class="comments-area">
+<div id="respond">
+<div class="fb-social-plugin fb-comments" id="commentform" data-href="http://www.oert.org/en/book-elements/" data-width="700"></div>
+</div></div>
+</div>
+          
+             </div>
+	<div id="dynamic-content"></div>        
+  </div> <!-- content #end -->
+<script type="text/javascript" language="javascript" >
+var root_path_js = 'http://www.oert.org/';
+</script>
+<script type="text/javascript" language="javascript" src="http://www.oert.org/wp-content/themes/WikiBase/library/js/article_detail.js" ></script>
+
+      <div id="lang_sel"  >
+    <ul>
+        <li><a href="#" class="lang_sel_sel icl-en">
+                            
+            <img  class="iclflag" src="http://www.oert.org/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png" alt="en" />                                
+            &nbsp;English</a>                                    
+            <ul>
+                                <li class="icl-es">          
+                    <a rel="alternate" hreflang="es" href="http://www.oert.org/elementos-de-un-libro/">
+                                    
+                    <img  class="iclflag" src="http://www.oert.org/wp-content/plugins/sitepress-multilingual-cms/res/flags/es.png" alt="es" />&nbsp;                    
+                                        Español                    </a>
+                </li>
+                            </ul>            
+             
+                    </li>
+    </ul>    
+</div>
+ <!-- selector de idiomas -->
+<div id="sidebar">
+	<div class="widget"><h3><span>Recursos</span></h3><div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-404" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-404"><a href="http://www.oert.org/en/the-project/">The project</a></li>
+<li id="menu-item-405" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-405"><a href="http://www.oert.org/en/the-authors/">The Authors</a></li>
+<li id="menu-item-406" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-406"><a href="http://www.oert.org/en/editorial-board/">Editorial Committee</a></li>
+<li id="menu-item-407" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-407"><a href="http://www.oert.org/en/the-team/">The Team</a></li>
+<li id="menu-item-408" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-408"><a href="http://www.oert.org/en/our-backers/">Our backers</a></li>
+<li id="menu-item-718" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-718"><a href="http://www.oert.org/en/faq/">FAQ</a></li>
+<li id="menu-item-409" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-409"><a href="http://www.oert.org/en/contact-us/">Contact us</a></li>
+</ul></div></div><div class="widget"><h3><span>Páginas</span></h3><div class="menu-main-menu-ingles-container"><ul id="menu-main-menu-ingles" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-404"><a href="http://www.oert.org/en/the-project/">The project</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-405"><a href="http://www.oert.org/en/the-authors/">The Authors</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-406"><a href="http://www.oert.org/en/editorial-board/">Editorial Committee</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-407"><a href="http://www.oert.org/en/the-team/">The Team</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-408"><a href="http://www.oert.org/en/our-backers/">Our backers</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-718"><a href="http://www.oert.org/en/faq/">FAQ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-409"><a href="http://www.oert.org/en/contact-us/">Contact us</a></li>
+</ul></div></div></div> <!-- sidebar right--> 
+<div id="bottom"></div>
+<script type='text/javascript' src='http://www.oert.org/wp-content/themes/WikiBase/library/js/jquery.simplemodal.js'></script>
+<script type='text/javascript' src='http://www.oert.org/wp-content/themes/WikiBase/library/js/basic.js'></script>
+<div id="basic-modal-content" class="clearfix" style="display:none;">
+<form name="send_to_frnd" id="send_to_frnd" action="http://www.oert.org/en/book-elements/" method="post" >
+<input type="hidden" id="send_to_Frnd_pid" name="pid" value="649" />
+<input type="hidden" name="sendact" value="email_frnd" />
+	<h3>Send To Friend</h3>
+    <p id="reply_send_success" class="sucess_msg" style="display:none;"></p>
+	<div class="row clearfix" ><label>Friend Name : <span>*</span></label><input name="to_name" id="to_name" type="text"  /><span id="to_nameInfo"></span></div>
+ 	<div class="row  clearfix" ><label> Email : <span>*</span></label><input name="to_email" id="to_email" type="text"  /><span id="to_emailInfo"></span></div>
+	<div class="row  clearfix" ><label>Your Name : <span>*</span></label><input name="yourname" id="yourname" type="text"  /><span id="yournameInfo"></span></div>
+ 	<div class="row  clearfix" ><label> Email : <span>*</span></label><input name="youremail" id="youremail" type="text"  /><span id="youremailInfo"></span></div>
+	<div class="row  clearfix" ><label>Subject : <span>*</span></label><input name="frnd_subject" value="About Book elements" id="frnd_subject" type="text"  /></div>
+	<div class="row  clearfix" ><label>Comments : <span>*</span></label>
+     <textarea name="frnd_comments" id="frnd_comments" cols="" rows="" >Hi there, do check out the information about this Article.</textarea></div>
+	<input name="Send" type="submit" value="Send " class="button " />
+</form>
+</div>
+<script type="text/javascript" src="http://www.oert.org/wp-content/themes/WikiBase/library/js/email_frnd_validation.js"></script>
+<!-- here -->   </div> <!-- wrapper #end -->
+  
+<div id="footer" class="clearfix">
+<div id="footer_in">
+<p class="copy"><a rel="license" href="http://creativecommons.org/licenses/by-sa/2.5/ar/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/2.5/ar/80x15.png" /></a> <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Open Educational Resources for Typography</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.oert.org/" property="cc:attributionName" rel="cc:attributionURL">OERT</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.5/ar/">Creative Commons Attribution-ShareAlike 2.5 Argentina License</a>.</p>
+<p class="fr"><span class="designby">Alojado en </span>
+<span class="wiroos"><a href="http://www.wiroos.com" title="Wiroos">Wiroos</a></span>
+</p>	
+</div></div> <!-- footer #end -->
+
+        <script type="text/javascript">
+          var pfHeaderImgUrl = '';
+          var pfHeaderTagline = '';
+          var pfdisableClickToDel = '0';
+          var pfHideImages = '0';
+          var pfImageDisplayStyle = 'right';
+          var pfDisableEmail = '0';
+          var pfDisablePDF = '0';
+          var pfDisablePrint = '0';
+          var pfCustomCSS = '';
+
+          // PrintFriendly
+          var e = document.createElement('script'); e.type="text/javascript";
+          e.src = 'http://cdn.printfriendly.com/printfriendly.js';
+          document.getElementsByTagName('head')[0].appendChild(e);
+      </script>
+<script type='text/javascript' src='http://www.oert.org/wp-content/themes/WikiBase/library/js/livesearch.js?ver=1'></script>
+<script type='text/javascript' src='http://www.oert.org/wp-content/themes/WikiBase/library/js/jquery.hoveraccordion.min.js?ver=1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var FB_WP=FB_WP||{};FB_WP.queue={_methods:[],flushed:false,add:function(fn){FB_WP.queue.flushed?fn():FB_WP.queue._methods.push(fn)},flush:function(){for(var fn;fn=FB_WP.queue._methods.shift();){fn()}FB_WP.queue.flushed=true}};window.fbAsyncInit=function(){FB.init({"channelUrl":"http:\/\/www.oert.org\/wp-content\/plugins\/facebook\/channel.php","xfbml":true,"appId":"285109618260716"});if(FB_WP && FB_WP.queue && FB_WP.queue.flush){FB_WP.queue.flush()}}
+/* ]]> */
+</script>
+<div id="fb-root"></div><script type="text/javascript">(function(d){var id="facebook-jssdk";if(!d.getElementById(id)){var js=d.createElement("script"),ref=d.getElementsByTagName("script")[0];js.id=id,js.async=true,js.src="http:\/\/connect.facebook.net\/es_ES\/all.js",ref.parentNode.insertBefore(js,ref)}})(document)</script>
+<script type='text/javascript' src=''></script>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27724959-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script><script type="text/javascript">
+	//<![CDATA[
+		function initBelle() {
+			Belle.AjaxURL		= "http://www.oert.org/en//?sajax=1"
+			// Initialize Livesearch
+			Belle.LiveSearch	= new LiveSearch( "Escribe y obten resultados al instante" )
+			}
+		jQuery(document).ready( function() { initBelle() })
+	//]]>
+	</script>
+<!-- LOAD JAVASCRIPT LATE - JUST BEFORE THE BODY TAG 
+		 That way the browser will have loaded the images
+	  	 and will know the width of the images. No need to
+		 specify the width in the CSS or inline. -->
+
+	<!-- jQuery library - Please load it from Google API's -->
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+
+	<!-- jQuery UI Widget and Effects Core (custom download)
+		 You can make your own at: http://jqueryui.com/download -->
+	<script src="http://www.oert.org/wp-content/themes/WikiBase/library/js/jquery-ui-1.8.18.custom.min.js" type="text/javascript"></script>
+	
+	<!-- Latest version of jQuery Mouse Wheel by Brandon Aaron
+		 You will find it here: http://brandonaaron.net/code/mousewheel/demos -->
+	<script src="http://www.oert.org/wp-content/themes/WikiBase/library/js/jquery.mousewheel.min.js" type="text/javascript"></script>
+
+	<!-- Smooth Div Scroll 1.2 minified-->
+	<script src="http://www.oert.org/wp-content/themes/WikiBase/library/js/jquery.smoothdivscroll-1.2-min.js" type="text/javascript"></script>
+
+	<!-- If you want to look at the uncompressed version you find it at
+		 js/jquery.smoothDivScroll-1.2.js -->
+
+	<!-- Plugin initialization -->
+	<script type="text/javascript">
+		jQuery(document).ready(function () {
+			jQuery("#logoParade").smoothDivScroll({
+				autoScrollingMode: "always",
+				autoScrollingDirection: "endlessloopright",
+				autoScrollingStep: 1,
+				autoScrollingInterval: 25 
+			});
+
+			// Logo parade
+			jQuery("#logoParade").bind("mouseover", function () {
+				jQuery(this).smoothDivScroll("stopAutoScrolling");
+			}).bind("mouseout", function () {
+				jQuery(this).smoothDivScroll("startAutoScrolling");
+			});
+
+		});
+		
+	</script>	
+	
+</body></html>

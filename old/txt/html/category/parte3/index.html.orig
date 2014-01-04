@@ -1,0 +1,764 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<title>
+Historia&nbsp;|&nbsp;OERT</title>
+
+<link rel="stylesheet" href="http://www.oert.org/wp-content/plugins/sitepress-multilingual-cms/res/css/language-selector.css?v=2.6.0" type="text/css" media="all" />
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="stylesheet" type="text/css" href="http://www.oert.org/wp-content/themes/WikiBase/style.css" media="screen" />
+<link rel="shortcut icon" type="image/png" href="http://www.oert.org/wp-content/uploads/favicon.ico" />
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.oert.org/feed/" />
+<link rel="pingback" href="http://www.oert.org/xmlrpc.php" />
+
+<link rel="stylesheet" type="text/css" href="http://www.oert.org/wp-content/themes/WikiBase/library/css/print.css" media="print" />
+<link rel="Stylesheet" type="text/css" href="http://www.oert.org/wp-content/themes/WikiBase/library/css/smoothDivScroll.css" />
+
+<script src="http://connect.facebook.net/es_ES/all.js#xfbml=1"></script>
+<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+<script src="https://apis.google.com/js/plusone.js" type="text/javascript"></script>
+
+
+ <link href="http://www.oert.org/wp-content/themes/WikiBase/custom.css" rel="stylesheet" type="text/css">
+<script language="javascript" type="text/javascript">
+	function hasClass(ele,cls) {
+	return ele.className.match(new RegExp('(\\s|^)'+cls+'(\\s|$)'));
+	}
+
+    function addClass(ele,cls) {
+    if (!this.hasClass(ele,cls)) ele.className += " "+cls;
+    }
+    function removeClass(ele,cls) {
+    if (hasClass(ele,cls)) {
+        var reg = new RegExp('(\\s|^)'+cls+'(\\s|$)');
+        ele.className=ele.className.replace(reg,' ');
+    }
+    }
+
+    function showHideDiv(sids,divids)
+    {
+		//alert(sids);
+		//alert(divids);
+        var divstyle = new String();
+		var spanstyle = new String();
+		var spansid = new String();
+		spansid = document.getElementById(sids);
+        divstyle = document.getElementById(divids).style.display;
+        if(divstyle.toLowerCase()=="block" || divstyle == "")
+        {
+            document.getElementById(divids).style.display = "none";
+			removeClass(spansid,'neg');
+			addClass(spansid,'pos');
+        }
+        else
+        {
+            document.getElementById(divids).style.display = "block";
+			removeClass(spansid,'pos');
+			addClass(spansid,'neg');
+        }
+    }
+    </script>
+    <script type="text/javascript">
+        $(document).ready( function() {
+            $('#menu-recursos').hoverAccordion({
+                keepHeight:true,
+                activateItem: 3,
+                speed: 400
+            });
+        });
+    </script>
+        
+<link rel="dns-prefetch" href="//connect.facebook.net" />
+<link rel="alternate" type="application/rss+xml" title="OERT &raquo; Historia RSS de la categoría" href="http://www.oert.org/category/parte3/feed/" />
+<link rel='stylesheet' id='wpml-cms-nav-css-css'  href='http://www.oert.org/wp-content/plugins/wpml-cms-nav/res/css/navigation.css?ver=1.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='cms-navigation-style-base-css'  href='http://www.oert.org/wp-content/plugins/wpml-cms-nav/res/css/cms-navigation-base.css?ver=1.2.7' type='text/css' media='screen' />
+<link rel='stylesheet' id='cms-navigation-style-css'  href='http://www.oert.org/wp-content/plugins/wpml-cms-nav/res/css/cms-navigation.css?ver=1.2.7' type='text/css' media='screen' />
+<script type='text/javascript' src='http://www.oert.org/wp-includes/js/jquery/jquery.js?ver=1.8.3'></script>
+<script type='text/javascript' src='http://www.oert.org/wp-content/themes/WikiBase/library/js/functions.js?ver=1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.oert.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.oert.org/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.5.1" />
+
+	<!-- This site uses Good Old Gallery, get it from http://wp.unwi.se/good-old-gallery -->
+
+        <style type="text/css" media="screen">
+          div.printfriendly {
+            margin: 0px 0px 0px 0px;;
+          }
+          div.printfriendly a, div.printfriendly a:link, div.printfriendly a:visited {
+            text-decoration: none;
+            font-size: 14px;
+            color: #99cc00;
+            vertical-align: bottom;
+            border: none;
+          }
+
+          .printfriendly a:hover {
+            cursor: pointer;
+          }
+
+          .printfriendly a img  {
+            border: none;
+            padding:0;
+            margin-right: 6px;
+            display:inline-block;
+            box-shadow: none;
+            -webkit-box-shadow: none;
+            -moz-box-shadow: none;
+          }
+          .printfriendly a span{
+            vertical-align: bottom;
+          }
+          .pf-alignleft {
+            float: left;
+          }
+          .pf-alignright {
+            float: right;
+          }
+          div.pf-aligncenter {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            text-align: center;
+          }
+        </style>
+        <style type="text/css" media="print">
+          .printfriendly {
+            display: none;
+          }
+        </style>
+<script type="text/javascript">var icl_lang = 'es';var icl_home = 'http://www.oert.org/';</script>
+<script type="text/javascript" src="http://www.oert.org/wp-content/plugins/sitepress-multilingual-cms/res/js/sitepress.js"></script>
+<meta name="generator" content="WPML ver:2.6.0 stt:2,1;0" />
+<link rel="alternate" hreflang="en_US" href="http://www.oert.org/en/category/part3/" />
+
+<style type="text/css">#lang_sel a, #lang_sel a.lang_sel_sel{color:#444444;}#lang_sel a:hover, #lang_sel a.lang_sel_sel:hover{color:#000000;}#lang_sel a.lang_sel_sel, #lang_sel a.lang_sel_sel:visited{background-color:#f5f4f2;}#lang_sel a.lang_sel_sel:hover{background-color:#eeeeee;}#lang_sel li ul a, #lang_sel li ul a:visited{color:#444444;}#lang_sel li ul a:hover{color:#000000;}#lang_sel li ul a, #lang_sel li ul a:link, #lang_sel li ul a:visited{background-color:#f5f4f2;}#lang_sel li ul a:hover{background-color:#eeeeee;}#lang_sel a, #lang_sel a:visited{border-color:#cdcdcd;} #lang_sel ul ul{border-top:1px solid #cdcdcd;}</style>
+
+<style type="text/css">#lang_sel  {width: 195px; margin-bottom:24px;}
+#lang_sel a {font-size:12px;}
+#lang_sel li {width:192px; }
+
+</style>		<link href="http://www.oert.org/wp-content/themes/WikiBase/skins/1-default.css" rel="stylesheet" type="text/css" />
+
+
+<link href='http://boakes.org/most-wanted?v=0.1.9v' />
+<link rel="canonical" href="http://www.oert.org/category/parte3/"/>
+<meta property="og:site_name" content="OERT" />
+<meta property="og:type" content="website" />
+<meta property="og:locale" content="es_ES" />
+<meta property="fb:app_id" content="285109618260716" />
+</head>
+<body class="archive category category-parte3 category-8">
+<div id="header">   
+<div id="header_in" class="clearfix">
+<div class="logo"> 
+   <div class="blog-title"><a href="http://www.oert.org//">OERT</a> 
+		
+		 <p class="blog-description">
+		  Open Educational Resources for Typography		</p>
+   </div> 
+   </div>
+                        <div class="header_right">
+        	<p>Última actualización: <span>April 7, 2013</span></p>
+                        <form method="get" id="searchform" action="http://www.oert.org">
+<div id="search-form-wrap">
+<label for="s" id="search-label">Buscar por:</label>
+<input type="text" id="s" name="s" accesskey="4" value="" />
+<input type="hidden" name="stype" value="ajsearch" />
+<input type="submit" name="stype" value="Search" style="display:none;" class="b_search" />
+<span id="searchreset" title="Reset Search"></span>
+<span id="searchload"></span>
+</div>
+</form>
+
+                    </div>               
+   </div> 
+ </div>   <!-- header #end -->     
+
+  <div id="wrapper" class="clearfix">     
+    <div id="content" class="clearfix">
+     <div id="current-content"> <!-- Please Don't Delete this current-content Div it's compulsory for Ajax Search -->
+                <div class="breadcrumb clearfix">
+        <a rel="nofollow" href="http://www.oert.org">Home</a>  Historia        </div>
+       
+    <h1 class="cat_head clearfix" >
+       <span class="fl"> Historia</span>
+     
+          
+     	<a href="http://www.oert.org/?cat=&amp;feed=rss2" class="i_rss"> Receive Updates For This Category </a>
+    	 </h1>
+         <p>Esta sección abordará temas de historia: desde el origen de la escritura a la invención de la tipografía, pasará revista a escuelas estilísticas, a diseñadores y a momentos tecnológicos significativos. Esto permitirá contextualizar los temas teóricos y prácticos, a la vez que enriquecerá el proceso de aprendizaje.</p>
+  
+        
+        <div class="sortby">
+		<span class="title">List By Category:</span>
+<form action="http://www.oert.org/" method="get" class="category_form">
+<select name='cat' id='cat' class='postform'  onchange='return this.form.submit()'>
+	<option value='-1'>Select category</option>
+	<option class="level-0" value="6">Teoría&nbsp;&nbsp;(31)</option>
+	<option class="level-1" value="10">&nbsp;&nbsp;&nbsp;Letra&nbsp;&nbsp;(18)</option>
+	<option class="level-1" value="9">&nbsp;&nbsp;&nbsp;Texto&nbsp;&nbsp;(4)</option>
+	<option class="level-1" value="11">&nbsp;&nbsp;&nbsp;Página&nbsp;&nbsp;(9)</option>
+	<option class="level-0" value="7">Práctica&nbsp;&nbsp;(14)</option>
+	<option class="level-1" value="14">&nbsp;&nbsp;&nbsp;Letra&nbsp;&nbsp;(7)</option>
+	<option class="level-1" value="13">&nbsp;&nbsp;&nbsp;Texto&nbsp;&nbsp;(4)</option>
+	<option class="level-1" value="12">&nbsp;&nbsp;&nbsp;Página&nbsp;&nbsp;(3)</option>
+	<option class="level-0" value="8" selected="selected">Historia&nbsp;&nbsp;(12)</option>
+</select>
+    <noscript><div><input type="submit" value="View" /></div></noscript>
+</form>
+		
+         <span class="title">List By Month:</span>
+<select name="archive-dropdown" class="archive_form" onchange="document.location.href=this.options[this.selectedIndex].value;">
+<option value="">Elegir mes</option> 
+	<option value='http://www.oert.org/2012/09/'> septiembre 2012 &nbsp;(6)</option>
+	<option value='http://www.oert.org/2012/02/'> febrero 2012 &nbsp;(2)</option>
+	<option value='http://www.oert.org/2012/01/'> enero 2012 &nbsp;(49)</option>
+</select>
+		    <div class="sort_pages" > <span class="title">Per Page : </span> 
+    <form method="get" name="post_per_page_frm" id="post_per_page_frm" action="http://www.oert.org/category/parte3/" >
+        		<input type="hidden" name="per_pg" value="0" />	
+		        <select name="per_pg" class="select_page" onchange="document.post_per_page_frm.submit()">
+        <option  >10</option> 
+        <option >20</option> 
+        <option >30</option> 
+        <option >40</option> 
+        <option >50</option> 
+        <option >100</option> 
+        </select>
+    </form></div>
+            </div>
+          <script type="text/javascript">
+	  //<![CDATA[
+function content_loader_js(url_link,link_li) // ajax page loader
+	{
+		var $h = jQuery.noConflict();
+		document.getElementById('artilepaging').innerHTML = '<img src="http://www.oert.org/wp-content/themes/WikiBase/images/spinner.gif" alt="" /> <br /><br /><b>Loading ...</b>';
+		if(url_link.indexOf("?")<0)
+		{
+			url_link1 = url_link + "?tp=ajax";
+		}else
+		{
+			url_link1 = url_link + "&tp=ajax";
+		}
+		$h.ajax({
+			url: url_link1,
+			type: 'GET',
+			dataType: 'html',
+			timeout: 9000,
+			error: function(){
+				alert('Error loading information');
+			},
+			success: function(html){
+				if(eval(document.getElementById('artilepaging')))
+				{
+					document.getElementById('artilepaging').innerHTML=html;
+				}
+				
+			}
+		});
+		return false;
+	}
+	//]]>
+</script>
+      <div id="artilepaging"> <!-- Please Don't Delete this artilepaging Div it's compulsory for Ajax Paging -->
+	 			                      
+                  
+                <div class="feature-box clearfix">
+                  <div class="subheading">
+                    <a href="http://www.oert.org/los-comienzos-de-la-escritura/" title="Show/hide additional information">
+                    Los comienzos de la escritura  <small class="featured"> Featured</small>                    </a> <span class="pos" id="as113" onclick="showHideDiv('as113','ad113');"></span>
+                    
+                    </div>
+                    <p class="post_info clearfix">   		<span>enero 10, 2012 </span>
+       		<span class="i_cate"> <a href="http://www.oert.org/category/parte3/" title="Ver todas las entradas en Historia" rel="category tag">Historia</a> </span>
+       		<span> <a href="http://www.oert.org/los-comienzos-de-la-escritura/#commentarea"  class="i_comment" ><fb:comments-count xmlns="http://ogp.me/ns/fb#" href="http://www.oert.org/los-comienzos-de-la-escritura/"></fb:comments-count> comentarios </a></span>
+     </p>
+                
+                  <div  class="options-box" id="ad113" style="display:none;">                     	
+                           	                
+                
+                 
+               	    
+                 <p>  <span class="highlight_word"></span>Las<span class="highlight_word"></span> <span class="highlight_word"></span>primeras<span class="highlight_word"></span> <span class="highlight_word"></span>manifestaciones<span class="highlight_word"></span> <span class="highlight_word"></span>gr<span class="highlight_word"></span>á<span class="highlight_word"></span>ficas<span class="highlight_word"></span>. <span class="highlight_word"></span>Las<span class="highlight_word"></span> <span class="highlight_word"></span>protoescrituras<span class="highlight_word"></span> <span class="highlight_word"></span>y<span class="highlight_word"></span> <span class="highlight_word"></span>las<span class="highlight_word"></span> <span class="highlight_word"></span>primeras<span class="highlight_word"></span> <span class="highlight_word"></span>escrituras<span class="highlight_word"></span> (<span class="highlight_word"></span>Mesopotamia<span class="highlight_word"></span>, <span class="highlight_word"></span>Egipto<span class="highlight_word"></span>, <span class="highlight_word"></span>China<span class="highlight_word"></span>). <span class="highlight_word"></span>Las<span class="highlight_word"></span> <span class="highlight_word"></span>escrituras<span class="highlight_word"></span> <span class="highlight_word"></span>sil<span class="highlight_word"></span>á<span class="highlight_word"></span>bicas<span class="highlight_word"></span>. <span class="highlight_word"></span>La<span class="highlight_word"></span> <span class="highlight_word"></span>aparici<span class="highlight_word"></span>ó<span class="highlight_word"></span>n<span class="highlight_word"></span> <span class="highlight_word"></span>de<span class="highlight_word"></span> <span class="highlight_word"></span>los<span class="highlight_word"></span> <span class="highlight_word"></span>n<span class="highlight_word"></span>ú<span class="highlight_word"></span>meros<span class="highlight_word"></span>.</p>
+                <p class="more">  <a href="http://www.oert.org/los-comienzos-de-la-escritura/" class="more">Read More</a> </p>
+                
+                                
+                
+                
+                
+                
+                
+                
+                    </div> <!-- content #end -->
+              </div> <!-- featured box #end -->
+                            
+                  
+                <div class="feature-box clearfix">
+                  <div class="subheading">
+                    <a href="http://www.oert.org/fonetizacion-de-la-escritura/" title="Show/hide additional information">
+                    Fonetización de la escritura                     </a> <span class="pos" id="as111" onclick="showHideDiv('as111','ad111');"></span>
+                    
+                    </div>
+                    <p class="post_info clearfix">   		<span>enero 10, 2012 </span>
+       		<span class="i_cate"> <a href="http://www.oert.org/category/parte3/" title="Ver todas las entradas en Historia" rel="category tag">Historia</a> </span>
+       		<span> <a href="http://www.oert.org/fonetizacion-de-la-escritura/#commentarea"  class="i_comment" ><fb:comments-count xmlns="http://ogp.me/ns/fb#" href="http://www.oert.org/fonetizacion-de-la-escritura/"></fb:comments-count> comentarios </a></span>
+     </p>
+                
+                  <div  class="options-box" id="ad111" style="display:none;">                     	
+                           	                
+                
+                 
+               	    
+                 <p>  <span class="highlight_word"></span>El<span class="highlight_word"></span> <span class="highlight_word"></span>proceso<span class="highlight_word"></span> <span class="highlight_word"></span>de<span class="highlight_word"></span> <span class="highlight_word"></span>acrofon<span class="highlight_word"></span>í<span class="highlight_word"></span>a<span class="highlight_word"></span> <span class="highlight_word"></span>en<span class="highlight_word"></span> <span class="highlight_word"></span>el<span class="highlight_word"></span> <span class="highlight_word"></span>alifato<span class="highlight_word"></span> <span class="highlight_word"></span>fenicio<span class="highlight_word"></span>: <span class="highlight_word"></span>escritura<span class="highlight_word"></span> <span class="highlight_word"></span>de<span class="highlight_word"></span> <span class="highlight_word"></span>consonantes<span class="highlight_word"></span>. <span class="highlight_word"></span>El<span class="highlight_word"></span> <span class="highlight_word"></span>alfabeto<span class="highlight_word"></span> <span class="highlight_word"></span>griego<span class="highlight_word"></span>: <span class="highlight_word"></span>la<span class="highlight_word"></span> <span class="highlight_word"></span>escritura<span class="highlight_word"></span> <span class="highlight_word"></span>de<span class="highlight_word"></span> <span class="highlight_word"></span>consonantes<span class="highlight_word"></span> <span class="highlight_word"></span>y<span class="highlight_word"></span> <span class="highlight_word"></span>vocales<span class="highlight_word"></span>. <span class="highlight_word"></span>La<span class="highlight_word"></span> <span class="highlight_word"></span>relaci<span class="highlight_word"></span>ó<span class="highlight_word"></span>n<span class="highlight_word"></span> <span class="highlight_word"></span>con<span class="highlight_word"></span> <span class="highlight_word"></span>el<span class="highlight_word"></span> <span class="highlight_word"></span>sonido<span class="highlight_word"></span>. <span class="highlight_word"></span>El<span class="highlight_word"></span> <span class="highlight_word"></span>repertorio<span class="highlight_word"></span> <span class="highlight_word"></span>de<span class="highlight_word"></span> <span class="highlight_word"></span>letras<span class="highlight_word"></span>. <span class="highlight_word"></span>Las<span class="highlight_word"></span> <span class="highlight_word"></span>formas<span class="highlight_word"></span> <span class="highlight_word"></span>de<span class="highlight_word"></span> <span class="highlight_word"></span>letras<span class="highlight_word"></span>. <span class="highlight_word"></span>La<span class="highlight_word"></span> <span class="highlight_word"></span>direcci<span class="highlight_word"></span>ó<span class="highlight_word"></span>n<span class="highlight_word"></span> <span class="highlight_word"></span>de<span class="highlight_word"></span> <span class="highlight_word"></span>escritura<span class="highlight_word"></span>. </p>
+                <p class="more">  <a href="http://www.oert.org/fonetizacion-de-la-escritura/" class="more">Read More</a> </p>
+                
+                                
+                
+                
+                
+                
+                
+                
+                    </div> <!-- content #end -->
+              </div> <!-- featured box #end -->
+                            
+                  
+                <div class="feature-box clearfix">
+                  <div class="subheading">
+                    <a href="http://www.oert.org/aportes-de-otras-culturas-al-alfabeto-latino/" title="Show/hide additional information">
+                    Aportes de otras culturas al alfabeto latino                     </a> <span class="pos" id="as109" onclick="showHideDiv('as109','ad109');"></span>
+                    
+                    </div>
+                    <p class="post_info clearfix">   		<span>enero 10, 2012 </span>
+       		<span class="i_cate"> <a href="http://www.oert.org/category/parte3/" title="Ver todas las entradas en Historia" rel="category tag">Historia</a> </span>
+       		<span> <a href="http://www.oert.org/aportes-de-otras-culturas-al-alfabeto-latino/#commentarea"  class="i_comment" ><fb:comments-count xmlns="http://ogp.me/ns/fb#" href="http://www.oert.org/aportes-de-otras-culturas-al-alfabeto-latino/"></fb:comments-count> comentarios </a></span>
+     </p>
+                
+                  <div  class="options-box" id="ad109" style="display:none;">                     	
+                           	                
+                
+                 
+               	    
+                 <p>  <span class="highlight_word"></span>Del<span class="highlight_word"></span> <span class="highlight_word"></span>canaanita<span class="highlight_word"></span> <span class="highlight_word"></span>al<span class="highlight_word"></span> <span class="highlight_word"></span>fenicio<span class="highlight_word"></span> <span class="highlight_word"></span>antiguo<span class="highlight_word"></span>, <span class="highlight_word"></span>del<span class="highlight_word"></span> <span class="highlight_word"></span>fenicio<span class="highlight_word"></span> <span class="highlight_word"></span>al<span class="highlight_word"></span> <span class="highlight_word"></span>griego<span class="highlight_word"></span>, <span class="highlight_word"></span>del<span class="highlight_word"></span> <span class="highlight_word"></span>griego<span class="highlight_word"></span> <span class="highlight_word"></span>al<span class="highlight_word"></span> <span class="highlight_word"></span>etrusco<span class="highlight_word"></span>, <span class="highlight_word"></span>del<span class="highlight_word"></span> <span class="highlight_word"></span>etrusco<span class="highlight_word"></span> <span class="highlight_word"></span>al<span class="highlight_word"></span> <span class="highlight_word"></span>romano<span class="highlight_word"></span>. <span class="highlight_word"></span>Caracter<span class="highlight_word"></span>í<span class="highlight_word"></span>sticas<span class="highlight_word"></span> <span class="highlight_word"></span>fundamenteales<span class="highlight_word"></span>. <span class="highlight_word"></span>Qui<span class="highlight_word"></span>é<span class="highlight_word"></span>nes<span class="highlight_word"></span> <span class="highlight_word"></span>escriben<span class="highlight_word"></span> <span class="highlight_word"></span>y<span class="highlight_word"></span> <span class="highlight_word"></span>c<span class="highlight_word"></span>ó<span class="highlight_word"></span>mo<span class="highlight_word"></span> <span class="highlight_word"></span>lo<span class="highlight_word"></span> <span class="highlight_word"></span>aprenden<span class="highlight_word"></span>.</p>
+                <p class="more">  <a href="http://www.oert.org/aportes-de-otras-culturas-al-alfabeto-latino/" class="more">Read More</a> </p>
+                
+                                
+                
+                
+                
+                
+                
+                
+                    </div> <!-- content #end -->
+              </div> <!-- featured box #end -->
+                            
+                  
+                <div class="feature-box clearfix">
+                  <div class="subheading">
+                    <a href="http://www.oert.org/el-alfabeto-latino/" title="Show/hide additional information">
+                    El alfabeto latino                     </a> <span class="pos" id="as107" onclick="showHideDiv('as107','ad107');"></span>
+                    
+                    </div>
+                    <p class="post_info clearfix">   		<span>enero 10, 2012 </span>
+       		<span class="i_cate"> <a href="http://www.oert.org/category/parte3/" title="Ver todas las entradas en Historia" rel="category tag">Historia</a> </span>
+       		<span> <a href="http://www.oert.org/el-alfabeto-latino/#commentarea"  class="i_comment" ><fb:comments-count xmlns="http://ogp.me/ns/fb#" href="http://www.oert.org/el-alfabeto-latino/"></fb:comments-count> comentarios </a></span>
+     </p>
+                
+                  <div  class="options-box" id="ad107" style="display:none;">                     	
+                           	                
+                
+                 
+               	    
+                 <p>  <span class="highlight_word"></span>Relaci<span class="highlight_word"></span>ó<span class="highlight_word"></span>n<span class="highlight_word"></span> <span class="highlight_word"></span>con<span class="highlight_word"></span> <span class="highlight_word"></span>el<span class="highlight_word"></span> <span class="highlight_word"></span>alfabeto<span class="highlight_word"></span> <span class="highlight_word"></span>griego<span class="highlight_word"></span>: <span class="highlight_word"></span>similitudes<span class="highlight_word"></span> <span class="highlight_word"></span>y<span class="highlight_word"></span> <span class="highlight_word"></span>diferencias<span class="highlight_word"></span>. <span class="highlight_word"></span>Los<span class="highlight_word"></span> <span class="highlight_word"></span>tipos<span class="highlight_word"></span> <span class="highlight_word"></span>de<span class="highlight_word"></span> <span class="highlight_word"></span>escritura<span class="highlight_word"></span>: <span class="highlight_word"></span>lapidaria<span class="highlight_word"></span> <span class="highlight_word"></span>y<span class="highlight_word"></span> <span class="highlight_word"></span>caligr<span class="highlight_word"></span>á<span class="highlight_word"></span>fica<span class="highlight_word"></span>. <span class="highlight_word"></span>Los<span class="highlight_word"></span> <span class="highlight_word"></span>estilos<span class="highlight_word"></span>: <span class="highlight_word"></span>caracter<span class="highlight_word"></span>í<span class="highlight_word"></span>sticas<span class="highlight_word"></span> <span class="highlight_word"></span>y<span class="highlight_word"></span> <span class="highlight_word"></span>usos<span class="highlight_word"></span>. <span class="highlight_word"></span>La<span class="highlight_word"></span> <span class="highlight_word"></span>escritura<span class="highlight_word"></span> <span class="highlight_word"></span>manuscrita<span class="highlight_word"></span>.</p>
+                <p class="more">  <a href="http://www.oert.org/el-alfabeto-latino/" class="more">Read More</a> </p>
+                
+                                
+                
+                
+                
+                
+                
+                
+                    </div> <!-- content #end -->
+              </div> <!-- featured box #end -->
+                            
+                  
+                <div class="feature-box clearfix">
+                  <div class="subheading">
+                    <a href="http://www.oert.org/escrituras-historicas/" title="Show/hide additional information">
+                    Escrituras históricas                     </a> <span class="pos" id="as105" onclick="showHideDiv('as105','ad105');"></span>
+                    
+                    </div>
+                    <p class="post_info clearfix">   		<span>enero 10, 2012 </span>
+       		<span class="i_cate"> <a href="http://www.oert.org/category/parte3/" title="Ver todas las entradas en Historia" rel="category tag">Historia</a> </span>
+       		<span> <a href="http://www.oert.org/escrituras-historicas/#commentarea"  class="i_comment" ><fb:comments-count xmlns="http://ogp.me/ns/fb#" href="http://www.oert.org/escrituras-historicas/"></fb:comments-count> comentarios </a></span>
+     </p>
+                
+                  <div  class="options-box" id="ad105" style="display:none;">                     	
+                           	                
+                
+                 
+               	    
+                 <p>  <span class="highlight_word"></span>Las<span class="highlight_word"></span> <span class="highlight_word"></span>escrituras<span class="highlight_word"></span> <span class="highlight_word"></span>para<span class="highlight_word"></span> <span class="highlight_word"></span>los<span class="highlight_word"></span> <span class="highlight_word"></span>libros<span class="highlight_word"></span>: <span class="highlight_word"></span>unciales<span class="highlight_word"></span>, <span class="highlight_word"></span>semiunciales<span class="highlight_word"></span>, <span class="highlight_word"></span>carolingias<span class="highlight_word"></span>, <span class="highlight_word"></span>g<span class="highlight_word"></span>ó<span class="highlight_word"></span>ticas<span class="highlight_word"></span> <span class="highlight_word"></span>y<span class="highlight_word"></span> <span class="highlight_word"></span>cancillescas<span class="highlight_word"></span>. <span class="highlight_word"></span>Caracter<span class="highlight_word"></span>í<span class="highlight_word"></span>sticas<span class="highlight_word"></span> <span class="highlight_word"></span>estructurales<span class="highlight_word"></span>, <span class="highlight_word"></span>de<span class="highlight_word"></span> <span class="highlight_word"></span>trazado<span class="highlight_word"></span>, <span class="highlight_word"></span>de<span class="highlight_word"></span> <span class="highlight_word"></span>color<span class="highlight_word"></span> <span class="highlight_word"></span>de<span class="highlight_word"></span> <span class="highlight_word"></span>bloque<span class="highlight_word"></span>. </p>
+                <p class="more">  <a href="http://www.oert.org/escrituras-historicas/" class="more">Read More</a> </p>
+                
+                                
+                
+                
+                
+                
+                
+                
+                    </div> <!-- content #end -->
+              </div> <!-- featured box #end -->
+                            
+                  
+                <div class="feature-box clearfix">
+                  <div class="subheading">
+                    <a href="http://www.oert.org/manuscritos-medievales/" title="Show/hide additional information">
+                    Manuscritos medievales                     </a> <span class="pos" id="as103" onclick="showHideDiv('as103','ad103');"></span>
+                    
+                    </div>
+                    <p class="post_info clearfix">   		<span>enero 10, 2012 </span>
+       		<span class="i_cate"> <a href="http://www.oert.org/category/parte3/" title="Ver todas las entradas en Historia" rel="category tag">Historia</a> </span>
+       		<span> <a href="http://www.oert.org/manuscritos-medievales/#commentarea"  class="i_comment" ><fb:comments-count xmlns="http://ogp.me/ns/fb#" href="http://www.oert.org/manuscritos-medievales/"></fb:comments-count> comentarios </a></span>
+     </p>
+                
+                  <div  class="options-box" id="ad103" style="display:none;">                     	
+                           	                
+                
+                 
+               	    
+                 <p>  <span class="highlight_word"></span>Los<span class="highlight_word"></span> <span class="highlight_word"></span>libros<span class="highlight_word"></span> <span class="highlight_word"></span>religiosos<span class="highlight_word"></span> <span class="highlight_word"></span>y<span class="highlight_word"></span> <span class="highlight_word"></span>los<span class="highlight_word"></span> <span class="highlight_word"></span>seculares<span class="highlight_word"></span>. <span class="highlight_word"></span>Manuscritos<span class="highlight_word"></span> <span class="highlight_word"></span>iluminados<span class="highlight_word"></span>. <span class="highlight_word"></span>El<span class="highlight_word"></span> <span class="highlight_word"></span>paso<span class="highlight_word"></span> <span class="highlight_word"></span>del<span class="highlight_word"></span> <span class="highlight_word"></span>rollo<span class="highlight_word"></span> <span class="highlight_word"></span>al<span class="highlight_word"></span> <span class="highlight_word"></span>c<span class="highlight_word"></span>ó<span class="highlight_word"></span>dice<span class="highlight_word"></span>. <span class="highlight_word"></span>El<span class="highlight_word"></span> <span class="highlight_word"></span>proceso<span class="highlight_word"></span> <span class="highlight_word"></span>del<span class="highlight_word"></span> <span class="highlight_word"></span>libro<span class="highlight_word"></span>: <span class="highlight_word"></span>preparaci<span class="highlight_word"></span>ó<span class="highlight_word"></span>n<span class="highlight_word"></span> <span class="highlight_word"></span>del<span class="highlight_word"></span> <span class="highlight_word"></span>soporte<span class="highlight_word"></span> <span class="highlight_word"></span>y<span class="highlight_word"></span> <span class="highlight_word"></span>de<span class="highlight_word"></span> <span class="highlight_word"></span>la<span class="highlight_word"></span> <span class="highlight_word"></span>p<span class="highlight_word"></span>á<span class="highlight_word"></span>gina<span class="highlight_word"></span>, <span class="highlight_word"></span>la<span class="highlight_word"></span> <span class="highlight_word"></span>escritura<span class="highlight_word"></span> <span class="highlight_word"></span>del<span class="highlight_word"></span> <span class="highlight_word"></span>manuscrito<span class="highlight_word"></span>, <span class="highlight_word"></span>la<span class="highlight_word"></span> <span class="highlight_word"></span>decoraci<span class="highlight_word"></span>ó<span class="highlight_word"></span>n<span class="highlight_word"></span> (<span class="highlight_word"></span>miniaturas<span class="highlight_word"></span>, <span class="highlight_word"></span>iniciales<span class="highlight_word"></span>, <span class="highlight_word"></span>ilustraciones<span class="highlight_word"></span>, <span class="highlight_word"></span>bordes<span class="highlight_word"></span> <span class="highlight_word"></span>y<span class="highlight_word"></span> <span class="highlight_word"></span>pie<span class="highlight_word"></span> <span class="highlight_word"></span>de<span class="highlight_word"></span> <span class="highlight_word"></span>p<span class="highlight_word"></span>á<span class="highlight_word"></span>ginas<span class="highlight_word"></span>, <span class="highlight_word"></span>la<span class="highlight_word"></span> <span class="highlight_word"></span>iluminaci<span class="highlight_word"></span>ó<span class="highlight_word"></span>n<span class="highlight_word"></span>), <span class="highlight_word"></span>encuadernaci<span class="highlight_word"></span>ó<span class="highlight_word"></span>n<span class="highlight_word"></span>. <span class="highlight_word"></span>Los<span class="highlight_word"></span> <span class="highlight_word"></span>escribas<span class="highlight_word"></span> <span class="highlight_word"></span>y<span class="highlight_word"></span> <span class="highlight_word"></span>los<span class="highlight_word"></span> <span class="highlight_word"></span>artistas<span class="highlight_word"></span>, <span class="highlight_word"></span>los<span class="highlight_word"></span> <span class="highlight_word"></span>religiosos<span class="highlight_word"></span> <span class="highlight_word"></span>y<span class="highlight_word"></span> <span class="highlight_word"></span>los<span class="highlight_word"></span> <span class="highlight_word"></span>laicos<span class="highlight_word"></span>. <span class="highlight_word"></span>Los<span class="highlight_word"></span> <span class="highlight_word"></span>libros<span class="highlight_word"></span> <span class="highlight_word"></span>celtas<span class="highlight_word"></span> <span class="highlight_word"></span>y<span class="highlight_word"></span> <span class="highlight_word"></span>otros<span class="highlight_word"></span>.</p>
+                <p class="more">  <a href="http://www.oert.org/manuscritos-medievales/" class="more">Read More</a> </p>
+                
+                                
+                
+                
+                
+                
+                
+                
+                    </div> <!-- content #end -->
+              </div> <!-- featured box #end -->
+                            
+                  
+                <div class="feature-box clearfix">
+                  <div class="subheading">
+                    <a href="http://www.oert.org/brevisima-historia-de-los-soportes-y-de-la-encuadernacion-i/" title="Show/hide additional information">
+                    Brevísima historia de los soportes y de la encuadernación I                     </a> <span class="pos" id="as101" onclick="showHideDiv('as101','ad101');"></span>
+                    
+                    </div>
+                    <p class="post_info clearfix">   		<span>enero 10, 2012 </span>
+       		<span class="i_cate"> <a href="http://www.oert.org/category/parte3/" title="Ver todas las entradas en Historia" rel="category tag">Historia</a> </span>
+       		<span> <a href="http://www.oert.org/brevisima-historia-de-los-soportes-y-de-la-encuadernacion-i/#commentarea"  class="i_comment" ><fb:comments-count xmlns="http://ogp.me/ns/fb#" href="http://www.oert.org/brevisima-historia-de-los-soportes-y-de-la-encuadernacion-i/"></fb:comments-count> comentarios </a></span>
+     </p>
+                
+                  <div  class="options-box" id="ad101" style="display:none;">                     	
+                           	                
+                
+                 
+               	    
+                 <p>  <span class="highlight_word"></span>Los<span class="highlight_word"></span> <span class="highlight_word"></span>primeros<span class="highlight_word"></span> <span class="highlight_word"></span>registros<span class="highlight_word"></span> <span class="highlight_word"></span>p<span class="highlight_word"></span>ú<span class="highlight_word"></span>blicos<span class="highlight_word"></span>: <span class="highlight_word"></span>d<span class="highlight_word"></span>ó<span class="highlight_word"></span>lmenes<span class="highlight_word"></span>, <span class="highlight_word"></span>menhires<span class="highlight_word"></span>, <span class="highlight_word"></span>pinturas<span class="highlight_word"></span> <span class="highlight_word"></span>rupestres<span class="highlight_word"></span>. <span class="highlight_word"></span>Quipu<span class="highlight_word"></span>, <span class="highlight_word"></span>Wampun<span class="highlight_word"></span> <span class="highlight_word"></span>y<span class="highlight_word"></span> <span class="highlight_word"></span>winter<span class="highlight_word"></span> <span class="highlight_word"></span>counts<span class="highlight_word"></span>: <span class="highlight_word"></span>los<span class="highlight_word"></span> <span class="highlight_word"></span>mnemot<span class="highlight_word"></span>é<span class="highlight_word"></span>cnicos<span class="highlight_word"></span>. <span class="highlight_word"></span>Tipos<span class="highlight_word"></span> <span class="highlight_word"></span>de<span class="highlight_word"></span> <span class="highlight_word"></span>soporte<span class="highlight_word"></span>: <span class="highlight_word"></span>arqueol<span class="highlight_word"></span>ó<span class="highlight_word"></span>gicos<span class="highlight_word"></span> <span class="highlight_word"></span>y<span class="highlight_word"></span> <span class="highlight_word"></span>paleogr<span class="highlight_word"></span>á<span class="highlight_word"></span>ficos<span class="highlight_word"></span>. <span class="highlight_word"></span>La<span class="highlight_word"></span> <span class="highlight_word"></span>arcilla<span class="highlight_word"></span>, <span class="highlight_word"></span>la<span class="highlight_word"></span> <span class="highlight_word"></span>madera<span class="highlight_word"></span>, <span class="highlight_word"></span>el<span class="highlight_word"></span> <span class="highlight_word"></span>papiro<span class="highlight_word"></span> <span class="highlight_word"></span>y<span class="highlight_word"></span> <span class="highlight_word"></span>el<span class="highlight_word"></span> <span class="highlight_word"></span>pergamino<span class="highlight_word"></span>: <span class="highlight_word"></span>formatos<span class="highlight_word"></span>, <span class="highlight_word"></span>t<span class="highlight_word"></span>é<span class="highlight_word"></span>cnicas<span class="highlight_word"></span> <span class="highlight_word"></span>de<span class="highlight_word"></span> <span class="highlight_word"></span>escritura<span class="highlight_word"></span> <span class="highlight_word"></span>e<span class="highlight_word"></span> <span class="highlight_word"></span>instrumentos<span class="highlight_word"></span>. <span class="highlight_word"></span>El<span class="highlight_word"></span> <span class="highlight_word"></span>rollo<span class="highlight_word"></span> <span class="highlight_word"></span>y<span class="highlight_word"></span> <span class="highlight_word"></span>el<span class="highlight_word"></span> <span class="highlight_word"></span>c<span class="highlight_word"></span>ó<span class="highlight_word"></span>dice<span class="highlight_word"></span>: <span class="highlight_word"></span>caracter<span class="highlight_word"></span>í<span class="highlight_word"></span>sticas<span class="highlight_word"></span> <span class="highlight_word"></span>y<span class="highlight_word"></span> <span class="highlight_word"></span>partes<span class="highlight_word"></span>. <span class="highlight_word"></span>La<span class="highlight_word"></span> <span class="highlight_word"></span>producci<span class="highlight_word"></span>ó<span class="highlight_word"></span>n<span class="highlight_word"></span> <span class="highlight_word"></span>de<span class="highlight_word"></span> <span class="highlight_word"></span>los<span class="highlight_word"></span> <span class="highlight_word"></span>c<span class="highlight_word"></span>ó<span class="highlight_word"></span>dices<span class="highlight_word"></span>. <span class="highlight_word"></span>Los<span class="highlight_word"></span> <span class="highlight_word"></span>tipos<span class="highlight_word"></span> <span class="highlight_word"></span>de<span class="highlight_word"></span> <span class="highlight_word"></span>encuadernaci<span class="highlight_word"></span>ó<span class="highlight_word"></span>n<span class="highlight_word"></span> <span class="highlight_word"></span>de<span class="highlight_word"></span> <span class="highlight_word"></span>los<span class="highlight_word"></span> <span class="highlight_word"></span>c<span class="highlight_word"></span>ó<span class="highlight_word"></span>dices<span class="highlight_word"></span>. <span class="highlight_word"></span>Los<span class="highlight_word"></span> <span class="highlight_word"></span>manuscritos<span class="highlight_word"></span> <span class="highlight_word"></span>renacentistas<span class="highlight_word"></span>. <span class="highlight_word"></span>El<span class="highlight_word"></span> <span class="highlight_word"></span>papel<span class="highlight_word"></span>: <span class="highlight_word"></span>impresiones<span class="highlight_word"></span> <span class="highlight_word"></span>xilogr<span class="highlight_word"></span>á<span class="highlight_word"></span>ficas<span class="highlight_word"></span> <span class="highlight_word"></span>y<span class="highlight_word"></span> <span class="highlight_word"></span>tipogr<span class="highlight_word"></span>á<span class="highlight_word"></span>ficas<span class="highlight_word"></span>. <span class="highlight_word"></span>Los<span class="highlight_word"></span> <span class="highlight_word"></span>libros<span class="highlight_word"></span> <span class="highlight_word"></span>tipogr<span class="highlight_word"></span>á<span class="highlight_word"></span>ficos<span class="highlight_word"></span> <span class="highlight_word"></span>y<span class="highlight_word"></span> <span class="highlight_word"></span>los<span class="highlight_word"></span> <span class="highlight_word"></span>incunables<span class="highlight_word"></span>: <span class="highlight_word"></span>caracter<span class="highlight_word"></span>í<span class="highlight_word"></span>sticas<span class="highlight_word"></span>, <span class="highlight_word"></span>tiradas<span class="highlight_word"></span>, <span class="highlight_word"></span>tem<span class="highlight_word"></span>á<span class="highlight_word"></span>ticas<span class="highlight_word"></span>. <span class="highlight_word"></span>La<span class="highlight_word"></span> <span class="highlight_word"></span>tipograf<span class="highlight_word"></span>í<span class="highlight_word"></span>a<span class="highlight_word"></span> <span class="highlight_word"></span>de<span class="highlight_word"></span> <span class="highlight_word"></span>los<span class="highlight_word"></span> <span class="highlight_word"></span>incunables<span class="highlight_word"></span>: <span class="highlight_word"></span>g<span class="highlight_word"></span>ó<span class="highlight_word"></span>ticas<span class="highlight_word"></span> <span class="highlight_word"></span>y<span class="highlight_word"></span> <span class="highlight_word"></span>romanas<span class="highlight_word"></span>. <span class="highlight_word"></span>Las<span class="highlight_word"></span> <span class="highlight_word"></span>it<span class="highlight_word"></span>á<span class="highlight_word"></span>licas<span class="highlight_word"></span> <span class="highlight_word"></span>y<span class="highlight_word"></span> <span class="highlight_word"></span>las<span class="highlight_word"></span> <span class="highlight_word"></span>ediciones<span class="highlight_word"></span> <span class="highlight_word"></span>de<span class="highlight_word"></span> <span class="highlight_word"></span>peque<span class="highlight_word"></span>ñ<span class="highlight_word"></span>o<span class="highlight_word"></span> <span class="highlight_word"></span>formato<span class="highlight_word"></span>.</p>
+                <p class="more">  <a href="http://www.oert.org/brevisima-historia-de-los-soportes-y-de-la-encuadernacion-i/" class="more">Read More</a> </p>
+                
+                                
+                
+                
+                
+                
+                
+                
+                    </div> <!-- content #end -->
+              </div> <!-- featured box #end -->
+                            
+                  
+                <div class="feature-box clearfix">
+                  <div class="subheading">
+                    <a href="http://www.oert.org/brevisima-historia-de-los-soportes-y-de-la-encuadernacion-ii/" title="Show/hide additional information">
+                    Brevísima historia de los soportes y de la encuadernación II                     </a> <span class="pos" id="as99" onclick="showHideDiv('as99','ad99');"></span>
+                    
+                    </div>
+                    <p class="post_info clearfix">   		<span>enero 10, 2012 </span>
+       		<span class="i_cate"> <a href="http://www.oert.org/category/parte3/" title="Ver todas las entradas en Historia" rel="category tag">Historia</a> </span>
+       		<span> <a href="http://www.oert.org/brevisima-historia-de-los-soportes-y-de-la-encuadernacion-ii/#commentarea"  class="i_comment" ><fb:comments-count xmlns="http://ogp.me/ns/fb#" href="http://www.oert.org/brevisima-historia-de-los-soportes-y-de-la-encuadernacion-ii/"></fb:comments-count> comentarios </a></span>
+     </p>
+                
+                  <div  class="options-box" id="ad99" style="display:none;">                     	
+                           	                
+                
+                 
+               	    
+                 <p>  <span class="highlight_word"></span>Los<span class="highlight_word"></span> <span class="highlight_word"></span>primeros<span class="highlight_word"></span> <span class="highlight_word"></span>registros<span class="highlight_word"></span> <span class="highlight_word"></span>p<span class="highlight_word"></span>ú<span class="highlight_word"></span>blicos<span class="highlight_word"></span>: <span class="highlight_word"></span>d<span class="highlight_word"></span>ó<span class="highlight_word"></span>lmenes<span class="highlight_word"></span>, <span class="highlight_word"></span>menhires<span class="highlight_word"></span>, <span class="highlight_word"></span>pinturas<span class="highlight_word"></span> <span class="highlight_word"></span>rupestres<span class="highlight_word"></span>. <span class="highlight_word"></span>Quipu<span class="highlight_word"></span>, <span class="highlight_word"></span>Wampun<span class="highlight_word"></span> <span class="highlight_word"></span>y<span class="highlight_word"></span> <span class="highlight_word"></span>winter<span class="highlight_word"></span> <span class="highlight_word"></span>counts<span class="highlight_word"></span>: <span class="highlight_word"></span>los<span class="highlight_word"></span> <span class="highlight_word"></span>mnemot<span class="highlight_word"></span>é<span class="highlight_word"></span>cnicos<span class="highlight_word"></span>. <span class="highlight_word"></span>Tipos<span class="highlight_word"></span> <span class="highlight_word"></span>de<span class="highlight_word"></span> <span class="highlight_word"></span>soporte<span class="highlight_word"></span>: <span class="highlight_word"></span>arqueol<span class="highlight_word"></span>ó<span class="highlight_word"></span>gicos<span class="highlight_word"></span> <span class="highlight_word"></span>y<span class="highlight_word"></span> <span class="highlight_word"></span>paleogr<span class="highlight_word"></span>á<span class="highlight_word"></span>ficos<span class="highlight_word"></span>. <span class="highlight_word"></span>La<span class="highlight_word"></span> <span class="highlight_word"></span>arcilla<span class="highlight_word"></span>, <span class="highlight_word"></span>la<span class="highlight_word"></span> <span class="highlight_word"></span>madera<span class="highlight_word"></span>, <span class="highlight_word"></span>el<span class="highlight_word"></span> <span class="highlight_word"></span>papiro<span class="highlight_word"></span> <span class="highlight_word"></span>y<span class="highlight_word"></span> <span class="highlight_word"></span>el<span class="highlight_word"></span> <span class="highlight_word"></span>pergamino<span class="highlight_word"></span>: <span class="highlight_word"></span>formatos<span class="highlight_word"></span>, <span class="highlight_word"></span>t<span class="highlight_word"></span>é<span class="highlight_word"></span>cnicas<span class="highlight_word"></span> <span class="highlight_word"></span>de<span class="highlight_word"></span> <span class="highlight_word"></span>escritura<span class="highlight_word"></span> <span class="highlight_word"></span>e<span class="highlight_word"></span> <span class="highlight_word"></span>instrumentos<span class="highlight_word"></span>. <span class="highlight_word"></span>El<span class="highlight_word"></span> <span class="highlight_word"></span>rollo<span class="highlight_word"></span> <span class="highlight_word"></span>y<span class="highlight_word"></span> <span class="highlight_word"></span>el<span class="highlight_word"></span> <span class="highlight_word"></span>c<span class="highlight_word"></span>ó<span class="highlight_word"></span>dice<span class="highlight_word"></span>: <span class="highlight_word"></span>caracter<span class="highlight_word"></span>í<span class="highlight_word"></span>sticas<span class="highlight_word"></span> <span class="highlight_word"></span>y<span class="highlight_word"></span> <span class="highlight_word"></span>partes<span class="highlight_word"></span>. <span class="highlight_word"></span>La<span class="highlight_word"></span> <span class="highlight_word"></span>producci<span class="highlight_word"></span>ó<span class="highlight_word"></span>n<span class="highlight_word"></span> <span class="highlight_word"></span>de<span class="highlight_word"></span> <span class="highlight_word"></span>los<span class="highlight_word"></span> <span class="highlight_word"></span>c<span class="highlight_word"></span>ó<span class="highlight_word"></span>dices<span class="highlight_word"></span>. <span class="highlight_word"></span>Los<span class="highlight_word"></span> <span class="highlight_word"></span>tipos<span class="highlight_word"></span> <span class="highlight_word"></span>de<span class="highlight_word"></span> <span class="highlight_word"></span>encuadernaci<span class="highlight_word"></span>ó<span class="highlight_word"></span>n<span class="highlight_word"></span> <span class="highlight_word"></span>de<span class="highlight_word"></span> <span class="highlight_word"></span>los<span class="highlight_word"></span> <span class="highlight_word"></span>c<span class="highlight_word"></span>ó<span class="highlight_word"></span>dices<span class="highlight_word"></span>. <span class="highlight_word"></span>Los<span class="highlight_word"></span> <span class="highlight_word"></span>manuscritos<span class="highlight_word"></span> <span class="highlight_word"></span>renacentistas<span class="highlight_word"></span>. <span class="highlight_word"></span>El<span class="highlight_word"></span> <span class="highlight_word"></span>papel<span class="highlight_word"></span>: <span class="highlight_word"></span>impresiones<span class="highlight_word"></span> <span class="highlight_word"></span>xilogr<span class="highlight_word"></span>á<span class="highlight_word"></span>ficas<span class="highlight_word"></span> <span class="highlight_word"></span>y<span class="highlight_word"></span> <span class="highlight_word"></span>tipogr<span class="highlight_word"></span>á<span class="highlight_word"></span>ficas<span class="highlight_word"></span>. <span class="highlight_word"></span>Los<span class="highlight_word"></span> <span class="highlight_word"></span>libros<span class="highlight_word"></span> <span class="highlight_word"></span>tipogr<span class="highlight_word"></span>á<span class="highlight_word"></span>ficos<span class="highlight_word"></span> <span class="highlight_word"></span>y<span class="highlight_word"></span> <span class="highlight_word"></span>los<span class="highlight_word"></span> <span class="highlight_word"></span>incunables<span class="highlight_word"></span>: <span class="highlight_word"></span>caracter<span class="highlight_word"></span>í<span class="highlight_word"></span>sticas<span class="highlight_word"></span>, <span class="highlight_word"></span>tiradas<span class="highlight_word"></span>, <span class="highlight_word"></span>tem<span class="highlight_word"></span>á<span class="highlight_word"></span>ticas<span class="highlight_word"></span>. <span class="highlight_word"></span>La<span class="highlight_word"></span> <span class="highlight_word"></span>tipograf<span class="highlight_word"></span>í<span class="highlight_word"></span>a<span class="highlight_word"></span> <span class="highlight_word"></span>de<span class="highlight_word"></span> <span class="highlight_word"></span>los<span class="highlight_word"></span> <span class="highlight_word"></span>incunables<span class="highlight_word"></span>: <span class="highlight_word"></span>g<span class="highlight_word"></span>ó<span class="highlight_word"></span>ticas<span class="highlight_word"></span> <span class="highlight_word"></span>y<span class="highlight_word"></span> <span class="highlight_word"></span>romanas<span class="highlight_word"></span>. <span class="highlight_word"></span>Las<span class="highlight_word"></span> <span class="highlight_word"></span>it<span class="highlight_word"></span>á<span class="highlight_word"></span>licas<span class="highlight_word"></span> <span class="highlight_word"></span>y<span class="highlight_word"></span> <span class="highlight_word"></span>las<span class="highlight_word"></span> <span class="highlight_word"></span>ediciones<span class="highlight_word"></span> <span class="highlight_word"></span>de<span class="highlight_word"></span> <span class="highlight_word"></span>peque<span class="highlight_word"></span>ñ<span class="highlight_word"></span>o<span class="highlight_word"></span> <span class="highlight_word"></span>formato<span class="highlight_word"></span>.</p>
+                <p class="more">  <a href="http://www.oert.org/brevisima-historia-de-los-soportes-y-de-la-encuadernacion-ii/" class="more">Read More</a> </p>
+                
+                                
+                
+                
+                
+                
+                
+                
+                    </div> <!-- content #end -->
+              </div> <!-- featured box #end -->
+                            
+                  
+                <div class="feature-box clearfix">
+                  <div class="subheading">
+                    <a href="http://www.oert.org/los-origenes-de-la-imprenta/" title="Show/hide additional information">
+                    Los orígenes de la imprenta                     </a> <span class="pos" id="as97" onclick="showHideDiv('as97','ad97');"></span>
+                    
+                    </div>
+                    <p class="post_info clearfix">   		<span>enero 10, 2012 </span>
+       		<span class="i_cate"> <a href="http://www.oert.org/category/parte3/" title="Ver todas las entradas en Historia" rel="category tag">Historia</a> </span>
+       		<span> <a href="http://www.oert.org/los-origenes-de-la-imprenta/#commentarea"  class="i_comment" ><fb:comments-count xmlns="http://ogp.me/ns/fb#" href="http://www.oert.org/los-origenes-de-la-imprenta/"></fb:comments-count> comentarios </a></span>
+     </p>
+                
+                  <div  class="options-box" id="ad97" style="display:none;">                     	
+                           	                
+                
+                 
+               	    
+                 <p>  <span class="highlight_word"></span>La<span class="highlight_word"></span> <span class="highlight_word"></span>prensa<span class="highlight_word"></span>, <span class="highlight_word"></span>los<span class="highlight_word"></span> <span class="highlight_word"></span>caracteres<span class="highlight_word"></span> <span class="highlight_word"></span>m<span class="highlight_word"></span>ó<span class="highlight_word"></span>viles<span class="highlight_word"></span>, <span class="highlight_word"></span>la<span class="highlight_word"></span> <span class="highlight_word"></span>tinta<span class="highlight_word"></span> <span class="highlight_word"></span>y<span class="highlight_word"></span> <span class="highlight_word"></span>el<span class="highlight_word"></span> <span class="highlight_word"></span>papel<span class="highlight_word"></span> <span class="highlight_word"></span>en<span class="highlight_word"></span> <span class="highlight_word"></span>el<span class="highlight_word"></span> <span class="highlight_word"></span>surgimiento<span class="highlight_word"></span> <span class="highlight_word"></span>de<span class="highlight_word"></span> <span class="highlight_word"></span>la<span class="highlight_word"></span> <span class="highlight_word"></span>imprenta<span class="highlight_word"></span>. <span class="highlight_word"></span>El<span class="highlight_word"></span> <span class="highlight_word"></span>proceso<span class="highlight_word"></span> <span class="highlight_word"></span>de<span class="highlight_word"></span> <span class="highlight_word"></span>fabricaci<span class="highlight_word"></span>ó<span class="highlight_word"></span>n<span class="highlight_word"></span> <span class="highlight_word"></span>del<span class="highlight_word"></span> <span class="highlight_word"></span>papel<span class="highlight_word"></span>, <span class="highlight_word"></span>de<span class="highlight_word"></span> <span class="highlight_word"></span>la<span class="highlight_word"></span> <span class="highlight_word"></span>impresi<span class="highlight_word"></span>ó<span class="highlight_word"></span>n<span class="highlight_word"></span> <span class="highlight_word"></span>y<span class="highlight_word"></span> <span class="highlight_word"></span>de<span class="highlight_word"></span> <span class="highlight_word"></span>fabricaci<span class="highlight_word"></span>ó<span class="highlight_word"></span>n<span class="highlight_word"></span> <span class="highlight_word"></span>de<span class="highlight_word"></span> <span class="highlight_word"></span>los<span class="highlight_word"></span> <span class="highlight_word"></span>caracteres<span class="highlight_word"></span> <span class="highlight_word"></span>m<span class="highlight_word"></span>ó<span class="highlight_word"></span>viles<span class="highlight_word"></span>. <span class="highlight_word"></span>La<span class="highlight_word"></span> <span class="highlight_word"></span>imprenta<span class="highlight_word"></span> <span class="highlight_word"></span>de<span class="highlight_word"></span> <span class="highlight_word"></span>Gutenberg<span class="highlight_word"></span>. <span class="highlight_word"></span>Los<span class="highlight_word"></span> <span class="highlight_word"></span>incunables<span class="highlight_word"></span>: <span class="highlight_word"></span>caracter<span class="highlight_word"></span>í<span class="highlight_word"></span>sticas<span class="highlight_word"></span>. <span class="highlight_word"></span>La<span class="highlight_word"></span> <span class="highlight_word"></span>difusi<span class="highlight_word"></span>ó<span class="highlight_word"></span>n<span class="highlight_word"></span> <span class="highlight_word"></span>de<span class="highlight_word"></span> <span class="highlight_word"></span>la<span class="highlight_word"></span> <span class="highlight_word"></span>imprenta<span class="highlight_word"></span> <span class="highlight_word"></span>y<span class="highlight_word"></span> <span class="highlight_word"></span>los<span class="highlight_word"></span> <span class="highlight_word"></span>grandes<span class="highlight_word"></span> <span class="highlight_word"></span>impresores<span class="highlight_word"></span> <span class="highlight_word"></span>de<span class="highlight_word"></span> <span class="highlight_word"></span>los<span class="highlight_word"></span> <span class="highlight_word"></span>siglos<span class="highlight_word"></span> <span class="highlight_word"></span>XV<span class="highlight_word"></span> <span class="highlight_word"></span>y<span class="highlight_word"></span> <span class="highlight_word"></span>XVI<span class="highlight_word"></span>.</p>
+                <p class="more">  <a href="http://www.oert.org/los-origenes-de-la-imprenta/" class="more">Read More</a> </p>
+                
+                                
+                
+                
+                
+                
+                
+                
+                    </div> <!-- content #end -->
+              </div> <!-- featured box #end -->
+                            
+                  
+                <div class="feature-box clearfix">
+                  <div class="subheading">
+                    <a href="http://www.oert.org/siglos-xvii-xviii-y-xix/" title="Show/hide additional information">
+                    Siglos XVII, XVIII y XIX                     </a> <span class="pos" id="as95" onclick="showHideDiv('as95','ad95');"></span>
+                    
+                    </div>
+                    <p class="post_info clearfix">   		<span>enero 10, 2012 </span>
+       		<span class="i_cate"> <a href="http://www.oert.org/category/parte3/" title="Ver todas las entradas en Historia" rel="category tag">Historia</a> </span>
+       		<span> <a href="http://www.oert.org/siglos-xvii-xviii-y-xix/#commentarea"  class="i_comment" ><fb:comments-count xmlns="http://ogp.me/ns/fb#" href="http://www.oert.org/siglos-xvii-xviii-y-xix/"></fb:comments-count> comentarios </a></span>
+     </p>
+                
+                  <div  class="options-box" id="ad95" style="display:none;">                     	
+                           	                
+                
+                 
+               	    
+                 <p>  <span class="highlight_word"></span>La<span class="highlight_word"></span> <span class="highlight_word"></span>ampliaci<span class="highlight_word"></span>ó<span class="highlight_word"></span>n<span class="highlight_word"></span> <span class="highlight_word"></span>de<span class="highlight_word"></span> <span class="highlight_word"></span>la<span class="highlight_word"></span> <span class="highlight_word"></span>tem<span class="highlight_word"></span>á<span class="highlight_word"></span>tica<span class="highlight_word"></span> <span class="highlight_word"></span>y<span class="highlight_word"></span> <span class="highlight_word"></span>de<span class="highlight_word"></span> <span class="highlight_word"></span>los<span class="highlight_word"></span> <span class="highlight_word"></span>p<span class="highlight_word"></span>ú<span class="highlight_word"></span>blicos<span class="highlight_word"></span>. <span class="highlight_word"></span>La<span class="highlight_word"></span> <span class="highlight_word"></span>producci<span class="highlight_word"></span>ó<span class="highlight_word"></span>n<span class="highlight_word"></span> <span class="highlight_word"></span>del<span class="highlight_word"></span> <span class="highlight_word"></span>siglo<span class="highlight_word"></span> <span class="highlight_word"></span>XVII<span class="highlight_word"></span> <span class="highlight_word"></span>en<span class="highlight_word"></span> <span class="highlight_word"></span>los<span class="highlight_word"></span> <span class="highlight_word"></span>Pas<span class="highlight_word"></span>í<span class="highlight_word"></span>ses<span class="highlight_word"></span> <span class="highlight_word"></span>Bajos<span class="highlight_word"></span> <span class="highlight_word"></span>y<span class="highlight_word"></span> <span class="highlight_word"></span>Francia<span class="highlight_word"></span>. <span class="highlight_word"></span>La<span class="highlight_word"></span> <span class="highlight_word"></span>del<span class="highlight_word"></span> <span class="highlight_word"></span>siglo<span class="highlight_word"></span> <span class="highlight_word"></span>XVIII<span class="highlight_word"></span> <span class="highlight_word"></span>en<span class="highlight_word"></span> <span class="highlight_word"></span>Inglaterra<span class="highlight_word"></span> <span class="highlight_word"></span>e<span class="highlight_word"></span> <span class="highlight_word"></span>Italia<span class="highlight_word"></span>. <span class="highlight_word"></span>La<span class="highlight_word"></span> <span class="highlight_word"></span>diversificaci<span class="highlight_word"></span>ó<span class="highlight_word"></span>n<span class="highlight_word"></span> <span class="highlight_word"></span>de<span class="highlight_word"></span> <span class="highlight_word"></span>los<span class="highlight_word"></span> <span class="highlight_word"></span>impresos<span class="highlight_word"></span> <span class="highlight_word"></span>del<span class="highlight_word"></span> <span class="highlight_word"></span>siglo<span class="highlight_word"></span> <span class="highlight_word"></span>XIX<span class="highlight_word"></span>. <span class="highlight_word"></span>La<span class="highlight_word"></span> <span class="highlight_word"></span>mecanizaci<span class="highlight_word"></span>ó<span class="highlight_word"></span>n<span class="highlight_word"></span> <span class="highlight_word"></span>de<span class="highlight_word"></span> <span class="highlight_word"></span>la<span class="highlight_word"></span> <span class="highlight_word"></span>tipograf<span class="highlight_word"></span>í<span class="highlight_word"></span>a<span class="highlight_word"></span>: <span class="highlight_word"></span>pant<span class="highlight_word"></span>ó<span class="highlight_word"></span>grafo<span class="highlight_word"></span>, <span class="highlight_word"></span>linotipo<span class="highlight_word"></span> <span class="highlight_word"></span>y<span class="highlight_word"></span> <span class="highlight_word"></span>monotipo<span class="highlight_word"></span>. <span class="highlight_word"></span>La<span class="highlight_word"></span> <span class="highlight_word"></span>litograf<span class="highlight_word"></span>í<span class="highlight_word"></span>a<span class="highlight_word"></span>. <span class="highlight_word"></span>Las<span class="highlight_word"></span> <span class="highlight_word"></span>imprentas<span class="highlight_word"></span> <span class="highlight_word"></span>privadas<span class="highlight_word"></span>. </p>
+                <p class="more">  <a href="http://www.oert.org/siglos-xvii-xviii-y-xix/" class="more">Read More</a> </p>
+                
+                                
+                
+                
+                
+                
+                
+                
+                    </div> <!-- content #end -->
+              </div> <!-- featured box #end -->
+                            
+                  
+                <div class="feature-box clearfix">
+                  <div class="subheading">
+                    <a href="http://www.oert.org/siglo-xx/" title="Show/hide additional information">
+                    Siglo XX                     </a> <span class="pos" id="as93" onclick="showHideDiv('as93','ad93');"></span>
+                    
+                    </div>
+                    <p class="post_info clearfix">   		<span>enero 10, 2012 </span>
+       		<span class="i_cate"> <a href="http://www.oert.org/category/parte3/" title="Ver todas las entradas en Historia" rel="category tag">Historia</a> </span>
+       		<span> <a href="http://www.oert.org/siglo-xx/#commentarea"  class="i_comment" ><fb:comments-count xmlns="http://ogp.me/ns/fb#" href="http://www.oert.org/siglo-xx/"></fb:comments-count> comentarios </a></span>
+     </p>
+                
+                  <div  class="options-box" id="ad93" style="display:none;">                     	
+                           	                
+                
+                 
+               	    
+                 <p>  </p>
+                <p class="more">  <a href="http://www.oert.org/siglo-xx/" class="more">Read More</a> </p>
+                
+                                
+                
+                
+                
+                
+                
+                
+                    </div> <!-- content #end -->
+              </div> <!-- featured box #end -->
+                            
+                  
+                <div class="feature-box clearfix">
+                  <div class="subheading">
+                    <a href="http://www.oert.org/los-desafios-actuales/" title="Show/hide additional information">
+                    Los desafíos actuales                     </a> <span class="pos" id="as91" onclick="showHideDiv('as91','ad91');"></span>
+                    
+                    </div>
+                    <p class="post_info clearfix">   		<span>enero 10, 2012 </span>
+       		<span class="i_cate"> <a href="http://www.oert.org/category/parte3/" title="Ver todas las entradas en Historia" rel="category tag">Historia</a> </span>
+       		<span> <a href="http://www.oert.org/los-desafios-actuales/#commentarea"  class="i_comment" ><fb:comments-count xmlns="http://ogp.me/ns/fb#" href="http://www.oert.org/los-desafios-actuales/"></fb:comments-count> comentarios </a></span>
+     </p>
+                
+                  <div  class="options-box" id="ad91" style="display:none;">                     	
+                           	                
+                
+                 
+               	    
+                 <p>  </p>
+                <p class="more">  <a href="http://www.oert.org/los-desafios-actuales/" class="more">Read More</a> </p>
+                
+                                
+                
+                
+                
+                
+                
+                
+                    </div> <!-- content #end -->
+              </div> <!-- featured box #end -->
+            <div class="pagination">
+                                <span class="post_previous"> </span>
+         <span class="post_next"> </span>
+      </div>
+        
+    
+       </div> <!-- Please Don't Delete this artilepaging Div it's compulsory for Ajax Paging -->
+            	  </div> <!-- Please Don't Delete this current-content Div it's compulsory for Ajax Search -->
+       <div id="dynamic-content"></div>  <!-- Please Don't Delete this dynamic-content Div it's compulsory for Ajax Search -->
+       
+    </div> <!-- content #end -->
+    
+    <div id="lang_sel"  >
+    <ul>
+        <li><a href="#" class="lang_sel_sel icl-es">
+                            
+            <img  class="iclflag" src="http://www.oert.org/wp-content/plugins/sitepress-multilingual-cms/res/flags/es.png" alt="es" />                                
+            &nbsp;Español</a>                                    
+            <ul>
+                                <li class="icl-en">          
+                    <a rel="alternate" hreflang="en" href="http://www.oert.org/en/category/part3/">
+                                    
+                    <img  class="iclflag" src="http://www.oert.org/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png" alt="en" />&nbsp;                    
+                                        English                    </a>
+                </li>
+                            </ul>            
+             
+                    </li>
+    </ul>    
+</div>
+ <!-- selector de idiomas -->
+<div id="sidebar">
+	<div class="widget"><h3><span>Recursos</span></h3><div class="menu-recursos-container"><ul id="menu-recursos" class="menu"><li id="menu-item-2003" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2003"><a href="http://www.oert.org/category/parte1/">Teoría</a>
+<ul class="sub-menu">
+	<li id="menu-item-2004" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2004"><a href="http://www.oert.org/category/parte1/parte1-1/">Letra</a></li>
+	<li id="menu-item-2005" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2005"><a href="http://www.oert.org/category/parte1/parte1-2/">Texto</a></li>
+	<li id="menu-item-2006" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2006"><a href="http://www.oert.org/category/parte1/parte1-3/">Página</a></li>
+</ul>
+</li>
+<li id="menu-item-2007" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2007"><a href="http://www.oert.org/category/parte2/">Práctica</a>
+<ul class="sub-menu">
+	<li id="menu-item-2008" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2008"><a href="http://www.oert.org/category/parte2/parte2-1/">Letra</a></li>
+	<li id="menu-item-2009" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2009"><a href="http://www.oert.org/category/parte2/parte2-2/">Texto</a></li>
+	<li id="menu-item-2010" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2010"><a href="http://www.oert.org/category/parte2/parte2-3/">Página</a></li>
+</ul>
+</li>
+<li id="menu-item-2011" class="menu-item menu-item-type-taxonomy menu-item-object-category current-menu-item menu-item-2011"><a href="http://www.oert.org/category/parte3/">Historia</a></li>
+</ul></div></div><div class="widget"><h3><span>Páginas</span></h3><div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-37" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37"><a href="http://www.oert.org/el-proyecto/">El proyecto</a></li>
+<li id="menu-item-62" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-62"><a href="http://www.oert.org/los-autores/">Los autores</a></li>
+<li id="menu-item-63" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-63"><a href="http://www.oert.org/comite-editorial/">Comité Editorial</a></li>
+<li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36"><a href="http://www.oert.org/equipo-de-trabajo-2/">Equipo de trabajo</a></li>
+<li id="menu-item-38" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38"><a href="http://www.oert.org/apoyan-este-proyecto-2/">Apoyan este proyecto&#8230;</a></li>
+<li id="menu-item-568" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-568"><a href="http://www.oert.org/preguntas-frecuentes/">Preguntas Frecuentes</a></li>
+<li id="menu-item-39" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39"><a href="http://www.oert.org/contacto-2/">Contacto</a></li>
+</ul></div></div></div> <!-- sidebar right--> 
+ 
+</div> <!-- wrapper #end -->
+  
+<div id="footer" class="clearfix">
+<div id="footer_in">
+<p class="copy"><a rel="license" href="http://creativecommons.org/licenses/by-sa/2.5/ar/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/2.5/ar/80x15.png" /></a> <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Open Educational Resources for Typography</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.oert.org/" property="cc:attributionName" rel="cc:attributionURL">OERT</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.5/ar/">Creative Commons Attribution-ShareAlike 2.5 Argentina License</a>.</p>
+<p class="fr"><span class="designby">Alojado en </span>
+<span class="wiroos"><a href="http://www.wiroos.com" title="Wiroos">Wiroos</a></span>
+</p>	
+</div></div> <!-- footer #end -->
+
+<script type='text/javascript' src='http://www.oert.org/wp-content/themes/WikiBase/library/js/livesearch.js?ver=1'></script>
+<script type='text/javascript' src='http://www.oert.org/wp-content/themes/WikiBase/library/js/jquery.hoveraccordion.min.js?ver=1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var FB_WP=FB_WP||{};FB_WP.queue={_methods:[],flushed:false,add:function(fn){FB_WP.queue.flushed?fn():FB_WP.queue._methods.push(fn)},flush:function(){for(var fn;fn=FB_WP.queue._methods.shift();){fn()}FB_WP.queue.flushed=true}};window.fbAsyncInit=function(){FB.init({"channelUrl":"http:\/\/www.oert.org\/wp-content\/plugins\/facebook\/channel.php","xfbml":true,"appId":"285109618260716"});if(FB_WP && FB_WP.queue && FB_WP.queue.flush){FB_WP.queue.flush()}}
+/* ]]> */
+</script>
+<div id="fb-root"></div><script type="text/javascript">(function(d){var id="facebook-jssdk";if(!d.getElementById(id)){var js=d.createElement("script"),ref=d.getElementsByTagName("script")[0];js.id=id,js.async=true,js.src="http:\/\/connect.facebook.net\/es_ES\/all.js",ref.parentNode.insertBefore(js,ref)}})(document)</script>
+<script type='text/javascript' src=''></script>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27724959-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script><script type="text/javascript">
+	//<![CDATA[
+		function initBelle() {
+			Belle.AjaxURL		= "http://www.oert.org/?sajax=1"
+			// Initialize Livesearch
+			Belle.LiveSearch	= new LiveSearch( "Escribe y obten resultados al instante" )
+			}
+		jQuery(document).ready( function() { initBelle() })
+	//]]>
+	</script>
+<!-- LOAD JAVASCRIPT LATE - JUST BEFORE THE BODY TAG 
+		 That way the browser will have loaded the images
+	  	 and will know the width of the images. No need to
+		 specify the width in the CSS or inline. -->
+
+	<!-- jQuery library - Please load it from Google API's -->
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+
+	<!-- jQuery UI Widget and Effects Core (custom download)
+		 You can make your own at: http://jqueryui.com/download -->
+	<script src="http://www.oert.org/wp-content/themes/WikiBase/library/js/jquery-ui-1.8.18.custom.min.js" type="text/javascript"></script>
+	
+	<!-- Latest version of jQuery Mouse Wheel by Brandon Aaron
+		 You will find it here: http://brandonaaron.net/code/mousewheel/demos -->
+	<script src="http://www.oert.org/wp-content/themes/WikiBase/library/js/jquery.mousewheel.min.js" type="text/javascript"></script>
+
+	<!-- Smooth Div Scroll 1.2 minified-->
+	<script src="http://www.oert.org/wp-content/themes/WikiBase/library/js/jquery.smoothdivscroll-1.2-min.js" type="text/javascript"></script>
+
+	<!-- If you want to look at the uncompressed version you find it at
+		 js/jquery.smoothDivScroll-1.2.js -->
+
+	<!-- Plugin initialization -->
+	<script type="text/javascript">
+		jQuery(document).ready(function () {
+			jQuery("#logoParade").smoothDivScroll({
+				autoScrollingMode: "always",
+				autoScrollingDirection: "endlessloopright",
+				autoScrollingStep: 1,
+				autoScrollingInterval: 25 
+			});
+
+			// Logo parade
+			jQuery("#logoParade").bind("mouseover", function () {
+				jQuery(this).smoothDivScroll("stopAutoScrolling");
+			}).bind("mouseout", function () {
+				jQuery(this).smoothDivScroll("startAutoScrolling");
+			});
+
+		});
+		
+	</script>	
+	
+</body></html>
