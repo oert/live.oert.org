@@ -5,6 +5,8 @@ weight: 0
 title: Open Education Resources for Typography
 ---
 
+(TODO: Please translate the English homepage into this page)
+
 <!--
 <div style="background: white; width: 100%; text-align:center; padding:1em">
 <img src="images/2013-02-18_love.png" width="400px" alt="Praise on Twitter">
