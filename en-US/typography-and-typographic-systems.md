@@ -24,7 +24,7 @@ As we are talking about typography, design and communication, we will say that t
 A system, then, will be conformed by a few variable and constant characteristics in the elements which make it up. Among others, the choice and typographic treatment, the presence or absence of images, the style, the format, the proportions (between the formats of each element, between its components and between the blocks of text and the margins), its chromatic characteristics, the type of information, the reading type and conditions, the printing quality, the writing tone.
 
 
-### Closed system, open system
+### Closed systems, open systems
 
 
 A closed system is one in which the constant characteristics predominate in the different pieces or elements that make up the system. It is often more monotonous, lacking the surprise effect and, many times, predictable. One of the advantages of a closed system is that it is easily recognized.  
