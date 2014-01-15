@@ -90,7 +90,7 @@ Majoor has designed other serials. Telefont (list and text) for PT (Dutch teleph
 
 Currently there are many families designed as typography programs.
 
-[Ref_Box]**Bibliography**
+## Bibliography
 
 
 
@@ -110,4 +110,4 @@ Currently there are many families designed as typography programs.
   * MAJOOR, Martin, “Mi filosofía del diseño tipográfico”, _Revista tipoGráfica 53._
 
 
-[/Ref_Box]
+

@@ -159,7 +159,7 @@ The sign must be visualized as a unit and not as two numbers and a dash, thus th
 
 Some typeface families have variables or expert sets with available fractions. There is a dash which is slightly more tilted than the traditional slash, to build fractions. Typefaces include them in the percent sign (%), per thousand (‰) and in the more usual fractions, yet very few have them in separate. In such a case, a cursive dash (⁄) can be used, which has a tilting which is correct to act as substitute.
 
-[Ref_Box]**Bibliography**
+## Bibliography
 
 
 
@@ -182,4 +182,4 @@ Some typeface families have variables or expert sets with available fractions. T
   * BRINGHURST, Robert. _Los elementos del estilo tipográfico,_ Libros sobre libros / Fondo de Cultura Económica, México, 2008.
 
 
-[/Ref_Box]
+

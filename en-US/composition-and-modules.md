@@ -103,7 +103,7 @@ The length of a line of text must be such that when we are done reading it, the 
 
 Titles, subtitles, notes, etc., will act as multiples or submultiples of the type size used in the main reading text, either keeping the same leading or adopting a multiple of the previous one.
 
-[Ref_Box]**Bibliography**
+## Bibliography
 
 
 
@@ -111,4 +111,4 @@ Titles, subtitles, notes, etc., will act as multiples or submultiples of the typ
   * MÜLLER-BROCKMANN, Josef. _Sistemas de retículas._ Gustavo Gili, México 1992.
 
 
-[/Ref_Box]
+

@@ -130,7 +130,7 @@ Some criteria to bear in mind:
 
 
 
-[Ref_Box]**Bibliography**
+## Bibliography
 
 
 
@@ -147,4 +147,4 @@ Some criteria to bear in mind:
   * SOLOMON, Martin, «Extrañas parejas tipográficas» en _tipoGráfica 5_.
 
 
-[/Ref_Box]
+

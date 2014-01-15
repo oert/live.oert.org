@@ -122,7 +122,7 @@ In order to measure typography, two different tools may be used: the first and m
 
 Today, the use of computers and desktop publishing programs have made many of the stages of the design process easier, being one of them the measurement of type size. The process consists of selecting the text to be measured or modified, then entering the desired value in a box in a dialogue window that each program presents. 
 
-[Ref_Box]**Bibliography**
+## Bibliography
 
 	
     * SOLOMON, Martin. _El arte de la tipografía,_ Tellus, Madrid.
@@ -140,4 +140,4 @@ Today, the use of computers and desktop publishing programs have made many of th
     * GÁLVEZ PIZARRO, Francisco. _Educación tipográfica, una introducción a la tipografía,_ Universidad Diego Portales, Chile, 2004.
 
 
-[/Ref_Box]
+

@@ -147,7 +147,7 @@ The coincidence with the initials of the brand (bec) is exploited in a crossword
 
 The presence of these combinations, adapted to the different proportions and formats of each piece (advertisement, promotional material, stationary) identifies the sender and unifies the system, based mainly on typographic resources.
 
-[Ref_Box]**Bibliography**
+## Bibliography
 
 
 
@@ -161,4 +161,4 @@ The presence of these combinations, adapted to the different proportions and for
   * MIJKSENAAR, Paul. _Diseño de la información, una introducción_. Gustavo Gili, Barcelona, 2001.
 
 
-[/Ref_Box]
+

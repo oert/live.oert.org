@@ -300,7 +300,7 @@ We must understand what Tschichold says in the field of text book design, knowin
 The use of arbitrary margins should be taken into consideration for short text pieces, of quick reading or for pieces of non continuous texts, such as brochures, advertisements, poems, dictionaries, directories, etc., where though attention should be put to margins, other criteria may be used for setting them , always keeping in mind the 4 points mentioned at the beginning: 
 Avoid loosing text when edge cutting the paper; leave some free space in order to grab the printed material without covering the text with our hands; avoid possible inaccuracies of the print run, and avoid the binding from making reading the text in the spine difficult. 
 
-[Ref_Box]**Bibliography**
+## Bibliography
 
 
 
@@ -322,4 +322,4 @@ Avoid loosing text when edge cutting the paper; leave some free space in order t
   * Real Academia Española. (2001). Proporción. En _Diccionario de la lengua española_ (22.a ed.). Recuperado de [http://lema.rae.es/drae/?val=Proporci%C3%B3n](http://lema.rae.es/drae/?val=Proporci%C3%B3n)
 
 
-[/Ref_Box]
+

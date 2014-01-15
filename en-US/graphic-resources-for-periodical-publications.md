@@ -105,7 +105,7 @@ In spite of these elements, the editorial structure will be empty if it is not r
 
 s designers, we may act as a link between the parties at stake: we may suggest how to read the articles. We can design based on the pictures, the illustrations, or a mixture of both, by associating content in a specific context and reflecting it trough visual image. The department of design contributes to the balance of the editorial project. It is our task to focus on making information simple for the reader and making the structure of the publication he has in his hands as clear as possible. Once he is about to read it, we must help him go further into each article and catch his interest in its content by using clear presentations, with parts in a proper hierarchical order. Editorial design and the typography are indivisible from the information they present and organize. To think of design as a pure form, dissociated from content, is nonsensical.
 
-[Ref_Box]**Bibliography**
+## Bibliography
 
 
 
@@ -119,4 +119,4 @@ s designers, we may act as a link between the parties at stake: we may suggest h
   * DE BUEN UNNA, Jorge. _ Manual de diseño editorial. 3.ª edición, corregida y aumentada. _Trea Ediciones, España, 2009.
 
 
-[/Ref_Box]
+

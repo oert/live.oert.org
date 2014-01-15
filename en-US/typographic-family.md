@@ -66,7 +66,7 @@ There are some typeface families that present stylistic variables, such as from 
 
 [caption id="attachment_902" align="alignnone" width="700"][![Variables tipográficas](http://www.oert.org/wp-content/uploads/2012/07/T02A_04-variablesfamilias2.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T02A_04-variablesfamilias2.jpg) La familia puede reconocerse por sus rasgos comunes aunque varíen cuestiones estructurales o de trazo.[/caption]
 
-[Ref_Box]**Bibliography**
+## Bibliography
 
 	
     * SOLOMON, Martin. _El arte de la tipografía,_ Tellus, Madrid.
@@ -85,4 +85,4 @@ There are some typeface families that present stylistic variables, such as from 
 
 
 
-[/Ref_Box]
+

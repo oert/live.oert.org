@@ -199,7 +199,7 @@ Un buen diseñador (sobre todo si piensa dedicarse al diseño editorial) tiene q
 
 **Typographic correction** Intervention of an orthotypographist in a composed text to correct the mistakes it may have.akes it may have.
 [/Glosario]
-[Ref_Box]**Bibliography**
+## Bibliography
 
 
 
@@ -213,4 +213,4 @@ Un buen diseñador (sobre todo si piensa dedicarse al diseño editorial) tiene q
   * MARTÍNEZ DE SOUSA, José. _Diccionario de Tipografía y del Libro._ Madrid, Paraninfo 1981, segunda edición.
 
 
-[/Ref_Box]
+
