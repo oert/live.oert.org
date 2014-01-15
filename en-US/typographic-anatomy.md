@@ -20,7 +20,7 @@ categories:
 ### Glossary
 
 
-[Glosario]
+### Glossary
 
 **apophyge: **small curved part, usually ¼ circle, which connects the main stem with the terminals or serifs. 
 
@@ -71,7 +71,7 @@ categories:
 **terminal: **supplementary element of the stem in those letters that have it. Also called serif. 
  
 **vertex: **straight and sharp joint of two strokes.
-[/Glosario]
+
 
 ![T04B-02](/en-US/images/T04B-02.jpg)
 

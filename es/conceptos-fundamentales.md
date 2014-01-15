@@ -182,7 +182,7 @@ Un buen diseñador (sobre todo si piensa dedicarse al diseño editorial) tiene q
 ### Definiciones útiles:
 
 
-[Glosario]
+### Glossary
 
 **Ortografía: **conjunto de reglas y excepciones por que se rige la escritura de una lengua.
 
@@ -195,7 +195,7 @@ Un buen diseñador (sobre todo si piensa dedicarse al diseño editorial) tiene q
 **Corrección de estilo:** intervención de un especialista en un texto ajeno para enmendar los usos gramaticales que no se ajusten a las reglas de una institución normativa.
 
 **Corrección tipográfica:** intervención de un ortotipógrafo en un texto compuesto o compaginado para enmendar los errores que contenga.
-[/Glosario]
+
 [Ref_Box]**Bibliografía**
 
 

@@ -17,7 +17,7 @@ categories:
 ### Glosario
 
 
-[Glosario]
+### Glossary
 
 **Ápice:** es la punta en la que termina la letra «A» mayúscula.
 
@@ -88,7 +88,7 @@ categories:
 **Vértice:** unión aguda y recta de dos trazos.
 
 **Virgulilla:** trazo curvo que caracteriza a la «ñ» y la «Ñ» y la diferencia de la «N».
-[/Glosario]
+
 
 ![T04B-02](/es/images/T04B-02.jpg)
 

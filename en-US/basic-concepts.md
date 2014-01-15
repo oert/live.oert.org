@@ -185,7 +185,7 @@ Un buen diseñador (sobre todo si piensa dedicarse al diseño editorial) tiene q
 ### Useful definitions:
 
 
-[Glosario]
+### Glossary
 
 **Orthography** Set of rules and exceptions that regulate the writing of a language.
 
@@ -198,7 +198,7 @@ Un buen diseñador (sobre todo si piensa dedicarse al diseño editorial) tiene q
 **Style correction** A specialist intervention in a text written by somebody else to correct those grammatical uses that do not adjust to a normative institution’s rules.
 
 **Typographic correction** Intervention of an orthotypographist in a composed text to correct the mistakes it may have.akes it may have.
-[/Glosario]
+
 ## Bibliography
 
 
