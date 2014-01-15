@@ -35,7 +35,9 @@ We can add other groups of signs to the miscellany group, such as vignettes, orn
 
 Another example is those fonts especially designed to be used as miscellany or complements of other families: it is the case of Fella Parts, by Emigré, with many such alternatives in its catalogue. There are also other groups of characters that represent various symbols (zodiac, business, travelling, sports, etc.), such as the Communications group of the Agfatype catalogue. But these characters are sometimes so figurative that, again, only their use will determine if they are miscellaneous in nature.
 
-[caption id="attachment_1468" align="alignnone" width="700"][![Imagen / miscelánea](http://www.oert.org/wp-content/uploads/2012/09/T03B_02_misc_imag.jpg)](http://www.oert.org/wp-content/uploads/2012/09/T03B_02_misc_imag.jpg) Miscelánea de la fuente Almendra, de Ana Sanfelippo[/caption]
+[![Imagen / miscelánea](http://www.oert.org/wp-content/uploads/2012/09/T03B_02_misc_imag.jpg)](http://www.oert.org/wp-content/uploads/2012/09/T03B_02_misc_imag.jpg)
+
+<p class="caption">Miscelánea de la fuente Almendra, de Ana Sanfelippo</p>
 
 Miscellanies have their antecedents in the initials and borders with which medieval scribes illuminated their manuscripts. Producing a manuscript was expensive and time demanding, values and lifestyle in those times were very different from nowadays. It is a coincidence that those initials and frames were so elaborated. Anyhow, illustration and ornamentation were not mere decorations. There was a concern for the educational value of illustrations and the ability of ornaments to create mystic and spiritual touches.
 
@@ -51,13 +53,17 @@ In some occasions, the function of each element (alphabetic and non alphabetic) 
 
 _1. Miscellany as image_: Increasing their size, miscellany, ornaments and vignettes stress their command in the composition (see example). The disruptions caused by increasing the size may become significant.
 
-[caption id="attachment_1476" align="alignnone" width="701"][![Miscelánea como imagen](http://www.oert.org/wp-content/uploads/2012/09/T03B_05_miscimg_Ross-Mon.jpg)](http://www.oert.org/wp-content/uploads/2012/09/T03B_05_miscimg_Ross-Mon.jpg) Alumnos: Daniel Ross y Altair Mon[/caption]
+[![Miscelánea como imagen](http://www.oert.org/wp-content/uploads/2012/09/T03B_05_miscimg_Ross-Mon.jpg)](http://www.oert.org/wp-content/uploads/2012/09/T03B_05_miscimg_Ross-Mon.jpg)
+
+<p class="caption">Alumnos: Daniel Ross y Altair Mon</p>
 
 _2. Images as miscellany_: With today’s technology we can reduce an image’s size, reproduce it with a simplified structure and adjust it to typographic criteria, to make it work as miscellany. The signs thus obtained, sometimes compiled and commercialized as typographic fonts, propose non traditional situations, in which opposite relations may come up.
 
 _3. Letters as images_: A single letter, a word or a group of words may become an image, moving away from their primary function.
 
-[caption id="attachment_1478" align="alignnone" width="701"][![Miscelánea como letra](http://www.oert.org/wp-content/uploads/2012/09/T03B_04_letramisc_Lluis.jpg)](http://www.oert.org/wp-content/uploads/2012/09/T03B_04_letramisc_Lluis.jpg) Alumno: Joaquín Lluis[/caption]
+[![Miscelánea como letra](http://www.oert.org/wp-content/uploads/2012/09/T03B_04_letramisc_Lluis.jpg)](http://www.oert.org/wp-content/uploads/2012/09/T03B_04_letramisc_Lluis.jpg)
+
+<p class="caption">Alumno: Joaquín Lluis</p>
 
 In the 20th century, the avant-gardes played with these possibilities, destroying regularity and the inertia of traditional composition. An example of these possibilities is calligrams (poems where the text smear adopts a certain form, trying to represent the content of the poem) and futurist compositions with their “words in freedom”.
 

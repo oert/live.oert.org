@@ -92,7 +92,9 @@ Se trata de medidas que forman parte de las características de la fuente, es de
 La interlínea es el espacio que existe entre las líneas de un texto. Se mide desde el apoyo de las letras de una línea (línea de base) hasta el apoyo de la línea siguiente. Si este espacio es demasiado pequeño, el bloque de texto se empasta, pero si es muy amplio se desintegra en líneas separadas.
 Si la línea tiene muchas palabras (columna ancha), la interlínea deberá aumentarse un poco más de lo habitual para facilitar al lector la localización del inicio de la línea siguiente.
 
-[caption id="attachment_1619" align="alignnone" width="700"][![Interletra, interpalabra e interlínea](http://www.oert.org/wp-content/uploads/2012/09/T01A_14-interletra_interlineado_interpalabra.jpg)](http://www.oert.org/wp-content/uploads/2012/09/T01A_14-interletra_interlineado_interpalabra.jpg) El interlineado tiene estrecha relación con la interletra y la interpalabra. Para una lectura cómoda, debe ser armónico. El color tipográfico queda determinado por el peso de los signos y los blancos internos del texto.[/caption]
+[![Interletra, interpalabra e interlínea](http://www.oert.org/wp-content/uploads/2012/09/T01A_14-interletra_interlineado_interpalabra.jpg)](http://www.oert.org/wp-content/uploads/2012/09/T01A_14-interletra_interlineado_interpalabra.jpg)
+
+<p class="caption">El interlineado tiene estrecha relación con la interletra y la interpalabra. Para una lectura cómoda, debe ser armónico. El color tipográfico queda determinado por el peso de los signos y los blancos internos del texto.</p>
 
 Como puede deducirse, interletra, interpalabra e interlínea están estrechamente relacionadas. La interpalabra debe ser mayor que la interletra para diferenciar una palabra de otra, pero no tanto como para perder la unidad de la línea y debe ser menor que la interlínea para que se reconozcan líneas horizontales y no empiecen a verse calles verticales.
 
@@ -140,7 +142,9 @@ Un texto centrado está formado por líneas de largo irregular ubicadas simétri
 
 Un texto justificado o emblocado está formado por líneas que ocupan todo el ancho de la caja. En este tipo de composición, el interlineado y el interletrado deben controlarse con extremo cuidado. En la actualidad, la autoedición ha simplificado mucho esta engorrosa tarea. Es aconsejable practicar distintas configuraciones para resolver diferentes situaciones en un mismo texto. Para ello, el diseñador debe conocer a fondo los programas de autoedición.
 
-[caption id="attachment_906" align="alignnone" width="700"][![Distintas alineaciones del bloque de texto](http://www.oert.org/wp-content/uploads/2012/07/T01B_02-alineacion.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T01B_02-alineacion.jpg) Las distintas alineaciones requieren diferente esfuerzos en la lectura. Asimismo el espacio se comporta de diferentes manera.[/caption]
+[![Distintas alineaciones del bloque de texto](http://www.oert.org/wp-content/uploads/2012/07/T01B_02-alineacion.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T01B_02-alineacion.jpg)
+
+<p class="caption">Las distintas alineaciones requieren diferente esfuerzos en la lectura. Asimismo el espacio se comporta de diferentes manera.</p>
 
 
 #### División de palabras al final de una línea

@@ -79,11 +79,15 @@ In this case, in order to avoid confusion between both, the zero number is usual
 
 **Numbers and spacing**: the numbers may behave, from the point of view of spacing, like letters and create a uniform color. It tartar nontabular numbers and each will have its own width. Conversely, if the numbers are tabular, all have the same width and will be arranged in successive lines.
 
-[caption id="attachment_1811" align="alignnone" width="701"][![Números mayúsculos y minúsculos dentro de un texto](http://www.oert.org/wp-content/uploads/2012/09/T02B_06-comparativa-txt-num-may-min.jpg)](http://www.oert.org/wp-content/uploads/2012/09/T02B_06-comparativa-txt-num-may-min.jpg) Los números minúsculos no producen rupturas en el ritmo del texto.[/caption]
+[![Números mayúsculos y minúsculos dentro de un texto](http://www.oert.org/wp-content/uploads/2012/09/T02B_06-comparativa-txt-num-may-min.jpg)](http://www.oert.org/wp-content/uploads/2012/09/T02B_06-comparativa-txt-num-may-min.jpg)
+
+<p class="caption">Los números minúsculos no producen rupturas en el ritmo del texto.</p>
 
 **Numbers and heights: **capitals numbers have a height similar to the uppercase letters, sometimes a little less. Similarly, the old style numbers share the stage with lowercase letters, also with slight variations. Zero, one and two similar height to that of "x", the three, four, five, seven and nine, down, six and eight, ascend.
 
-[caption id="attachment_1810" align="alignnone" width="700"][![Números minúsculos y mayúsculos](http://www.oert.org/wp-content/uploads/2012/09/T02B_06-num_minusc_mayusc1.jpg)](http://www.oert.org/wp-content/uploads/2012/09/T02B_06-num_minusc_mayusc1.jpg) A la izquierda: números mayúsculos tabulares. A la derecha: números minúsculos de anchos variables.[/caption]
+[![Números minúsculos y mayúsculos](http://www.oert.org/wp-content/uploads/2012/09/T02B_06-num_minusc_mayusc1.jpg)](http://www.oert.org/wp-content/uploads/2012/09/T02B_06-num_minusc_mayusc1.jpg)
+
+<p class="caption">A la izquierda: números mayúsculos tabulares. A la derecha: números minúsculos de anchos variables.</p>
 
 
 ### Orthographic signs

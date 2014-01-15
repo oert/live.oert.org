@@ -29,7 +29,9 @@ La percepción es el fruto de una combinación entre capacidades innatas, madura
 
 El desarrollo de la percepción, de hecho, comienza con la visualización de grandes contrastes hasta que se logra la distinción de pequeñas sutilezas. Se trata más de un problema intelectual que de una cuestión estrictamente sensorial, física o neurológica.
 
-[caption id="attachment_915" align="alignnone" width="701"][![Sistema visual y partes del ojo](http://www.oert.org/wp-content/uploads/2012/07/T01A_01-sistemavisual.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T01A_01-sistemavisual.jpg) Falta el epígrafe[/caption]
+[![Sistema visual y partes del ojo](http://www.oert.org/wp-content/uploads/2012/07/T01A_01-sistemavisual.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T01A_01-sistemavisual.jpg)
+
+<p class="caption">Falta el epígrafe</p>
 
 
 
@@ -38,7 +40,9 @@ El desarrollo de la percepción, de hecho, comienza con la visualización de gra
 
 El ojo es una especie de cámara fotográfica cuya superficie sensible, la retina, está dispuesta en el fondo de un globo redondeado. Toda la parte anterior del ojo es un dispositivo óptico que permite enfocar la imagen sobre la retina. Entre el momento en que el rayo luminoso incide en la retina y aquel en el que se forma la imagen en el cerebro transcurren varios milisegundos durante los cuales la información luminosa recibida por el ojo experimenta varios tratamientos sucesivos. La imagen que se forma en el fondo de cada ojo no es más que el punto de partida de la percepción visual. Después, es codificada en impulsos eléctricos que, transmitidos a través de las áreas visuales del cerebro, son analizados en términos del conocimiento de formas, colores, movimientos, proporciones, etc.
 
-[caption id="attachment_916" align="alignnone" width="700"][![Letras “P” de diferentes estilos](http://www.oert.org/wp-content/uploads/2012/07/T01A_02-seriep.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T01A_02-seriep.jpg) Tomando esta serie de letras P como ejemplo, podemos reconocer cuáles son las leyes perceptivas por las cuales algunas nos resultan más pregnantes, más fáciles de recordar, más fuertes, más sencillas o complejas.[/caption]
+[![Letras “P” de diferentes estilos](http://www.oert.org/wp-content/uploads/2012/07/T01A_02-seriep.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T01A_02-seriep.jpg)
+
+<p class="caption">Tomando esta serie de letras P como ejemplo, podemos reconocer cuáles son las leyes perceptivas por las cuales algunas nos resultan más pregnantes, más fáciles de recordar, más fuertes, más sencillas o complejas.</p>
 
 
 
@@ -95,11 +99,15 @@ Nuestra percepción sensible, óptica y estética, es mucho más compleja que la
 
 
 
-[caption id="attachment_917" align="alignnone" width="700"][![Compensaciones en la letra “E”](http://www.oert.org/wp-content/uploads/2012/07/T01A_03-letrae_ajuste.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T01A_03-letrae_ajuste.jpg) En el ejemplo de la letra «E» podemos observar que el travesaño, que parece centrado, está ubicado levemente más arriba para compensar el efecto óptico. Para comprobarlo, rotamos la “E” 180º. En la línea inferior podemos ver la sutileza del ajuste óptico: en la de la izquierda el travesaño está geométricamente centrado, luego está la letra rotada y por último la “E” en su posición normal.[/caption]
+[![Compensaciones en la letra “E”](http://www.oert.org/wp-content/uploads/2012/07/T01A_03-letrae_ajuste.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T01A_03-letrae_ajuste.jpg)
+
+<p class="caption">En el ejemplo de la letra «E» podemos observar que el travesaño, que parece centrado, está ubicado levemente más arriba para compensar el efecto óptico. Para comprobarlo, rotamos la “E” 180º. En la línea inferior podemos ver la sutileza del ajuste óptico: en la de la izquierda el travesaño está geométricamente centrado, luego está la letra rotada y por último la “E” en su posición normal.</p>
 
 3. Si se toman dos franjas del mismo ancho y se coloca una en posición horizontal y la otra en posición vertical, la primera parecerá más ancha que la segunda. Para que se vean iguales hay que corregir una de las dos.
 
-[caption id="attachment_918" align="alignnone" width="700"][![Ajustes en los trazos de una “H” para que sean percibidos como uniformes](http://www.oert.org/wp-content/uploads/2012/07/T01A_04-letrah_trazouniforme.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T01A_04-letrah_trazouniforme.jpg) En este caso, tomamos como ejemplo una letra “H” de trazo uniforme. A la derecha (rotada 90º), podemos apreciar que los trazos, que en el primer ejemplo parecen ser del mismo ancho, están compensados ópticamente. Al rotar el signo, se visualiza la modificación.[/caption]
+[![Ajustes en los trazos de una “H” para que sean percibidos como uniformes](http://www.oert.org/wp-content/uploads/2012/07/T01A_04-letrah_trazouniforme.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T01A_04-letrah_trazouniforme.jpg)
+
+<p class="caption">En este caso, tomamos como ejemplo una letra “H” de trazo uniforme. A la derecha (rotada 90º), podemos apreciar que los trazos, que en el primer ejemplo parecen ser del mismo ancho, están compensados ópticamente. Al rotar el signo, se visualiza la modificación.</p>
 
 4. El ojo tiende a simplificar los datos que existen realmente en una figura; selecciona los que serán percibidos de tal modo que, por ejemplo, tiende a redondear las puntas agudas y los ángulos, eliminando sus vértices.
 
@@ -179,15 +187,21 @@ Hay ritmo en los latidos del corazón, en nuestra forma de caminar, en el crecim
 
 El ritmo es esencialmente repetición y estructura (separa el orden del caos). Para definirlo es necesario más de un elemento; al menos un pulso y una pausa repetidos. Puede tratarse de un pulso simple, cuyos elementos constitutivos sean iguales y se encuentren distribuidos de manera uniforme, o de uno complejo, es decir, que posea intervalos de diferente duración y elementos de características distintas, pero que también contenga repetición.
 
-[caption id="attachment_921" align="alignnone" width="701"][![Diferentes ritmos](http://www.oert.org/wp-content/uploads/2012/07/T01A_08-texturas-ritmos.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T01A_08-texturas-ritmos.jpg) Contraste de ritmos entre la textura regular producida por la repetición del mismo elemento e intervalo, y la variación de intervalos y tamaños de los elementos.[/caption]
+[![Diferentes ritmos](http://www.oert.org/wp-content/uploads/2012/07/T01A_08-texturas-ritmos.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T01A_08-texturas-ritmos.jpg)
+
+<p class="caption">Contraste de ritmos entre la textura regular producida por la repetición del mismo elemento e intervalo, y la variación de intervalos y tamaños de los elementos.</p>
 
 Aunque «ritmo» sea una palabra generalmente ligada a la percepción auditiva, es también determinante dentro de la percepción visual. El ritmo en lo visual tiene su manifestación más elemental en la repetición a intervalos constantes de un mismo motivo, mediante lo que se conforma una textura o «patrón».
 
-[caption id="attachment_922" align="alignnone" width="701"][![Diferentes ritmos en dos puestas tipográficas](http://www.oert.org/wp-content/uploads/2012/07/T01A_09-tipografia-ritmos.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T01A_09-tipografia-ritmos.jpg) Dos puestas tipográficas generadas a partir del ritmo, en la primera los intervalos pueden leerse como regulares aunque el elemento cambie, en la segunda el ritmo está generado por la posición de la mancha en el plano y por la presencia de verticales y diagonales.[/caption]
+[![Diferentes ritmos en dos puestas tipográficas](http://www.oert.org/wp-content/uploads/2012/07/T01A_09-tipografia-ritmos.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T01A_09-tipografia-ritmos.jpg)
+
+<p class="caption">Dos puestas tipográficas generadas a partir del ritmo, en la primera los intervalos pueden leerse como regulares aunque el elemento cambie, en la segunda el ritmo está generado por la posición de la mancha en el plano y por la presencia de verticales y diagonales.</p>
 
 La tipografía como disciplina visual también se encuentra íntimamente ligada al ritmo. En una simple línea de texto encontramos que la separación que hay entre cada letra constituye «blancos» regulares que, a su vez, interactúan con espacios (o silencios) más grandes que obedecen a la separación de palabras. También se relacionan rítmicamente las líneas de palabras, separadas entre sí. De la armonía de este conjunto depende el resultado del bloque. Si este ritmo es constante, relativamente regular, el bloque de texto tendrá un gris homogéneo.
 
-[caption id="attachment_923" align="alignnone" width="700"][![Cambios de ritmo en el texto](http://www.oert.org/wp-content/uploads/2012/07/T01A_10-colordebloqueb.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T01A_10-colordebloqueb.jpg) El ritmo se rompe cuando los espacios internos del texto cambian de tamaño. Estos cambios de ritmo generan dificultades en la lectura.[/caption]
+[![Cambios de ritmo en el texto](http://www.oert.org/wp-content/uploads/2012/07/T01A_10-colordebloqueb.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T01A_10-colordebloqueb.jpg)
+
+<p class="caption">El ritmo se rompe cuando los espacios internos del texto cambian de tamaño. Estos cambios de ritmo generan dificultades en la lectura.</p>
 
 El ritmo puede complejizarse sin perder la estructura que lo hace reconocible. El uso de signos de diferentes características morfológicas y tamaños, también lo modifica.
 

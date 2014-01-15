@@ -49,9 +49,13 @@ First we will analyze classic capitals on the basis of the width (or thickness) 
 
 In order to visualize more clearly the classic structures and the relations supported by each letter, we will analyze them within sets defined according to the width and height of a round letter (the «O» which, in the case of the Romans, enters within a square) and of a narrow letter (the «E» which in this case is half the width of the «O»). Inside these containers we mark the diagonal strokes and intersections with the circle, to take as references the width and other morphologic characteristics which will help us with the analysis.
 
-[caption id="attachment_830" align="alignnone" width="700"][![Módulos y letras redondas](http://www.oert.org/wp-content/uploads/2012/07/T04A_01-propor_redondas_2.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T04A_01-propor_redondas_2.jpg) Para las romanas clásicas la forma contenedora cuadrada deriva de la proporción de la «O». El segundo contenedor está formado por dos cuadrados con lado igual a la mitad del anterior.[/caption]
+[![Módulos y letras redondas](http://www.oert.org/wp-content/uploads/2012/07/T04A_01-propor_redondas_2.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T04A_01-propor_redondas_2.jpg)
 
-[caption id="attachment_839" align="alignnone" width="700"][![Proporciones de la “O” y la “E” clásicas](http://www.oert.org/wp-content/uploads/2012/07/T04A_10-oe.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T04A_10-oe.jpg) Proporciones de la “O” y la “E” clásicas.[/caption]
+<p class="caption">Para las romanas clásicas la forma contenedora cuadrada deriva de la proporción de la «O». El segundo contenedor está formado por dos cuadrados con lado igual a la mitad del anterior.</p>
+
+[![Proporciones de la “O” y la “E” clásicas](http://www.oert.org/wp-content/uploads/2012/07/T04A_10-oe.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T04A_10-oe.jpg)
+
+<p class="caption">Proporciones de la “O” y la “E” clásicas.</p>
 
 _Round Letters:_ C, D, G, O, Q. They structurally derive from a circle and, as the rest of the Roman structures, they present optical corrections. In this case, upper and lower curves go slightly beyond the baseline. The «O» and the «Q» are as wide as tall, the «C», the «G» and the «D» are slightly narrower than taller.
 

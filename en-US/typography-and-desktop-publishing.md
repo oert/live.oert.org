@@ -116,7 +116,9 @@ Computers use two types of fonts: Outline fonts and bitmap fonts.
 _Bitmap fonts:_ Called fixed size fonts. They define each character by means of a dots grid for a specific type size. For this reason, only the type sizes available in the system folder may be used.
 _Outline fonts:_ Usually called scalable fonts. They may be scaled in all type sizes. Each character is defined using a mathematical formula of curves, which may be scaled to an arbitrary type size
 
-[caption id="" align="alignnone" width="700"][![Fuente de mapa de bits y mapa de contorno de una letra](http://www.oert.org/wp-content/uploads/2012/07/T03A_06-mapabits_contorno.png)](http://www.oert.org/wp-content/uploads/2012/07/T03A_06-mapabits_contorno.png) A la izquierda: fuente de mapa de bits. A la derecha: fuente de contorno.[/caption]
+[![Fuente de mapa de bits y mapa de contorno de una letra](http://www.oert.org/wp-content/uploads/2012/07/T03A_06-mapabits_contorno.png)](http://www.oert.org/wp-content/uploads/2012/07/T03A_06-mapabits_contorno.png)
+
+<p class="caption">A la izquierda: fuente de mapa de bits. A la derecha: fuente de contorno.</p>
 
 There are two kinds of standards in the category of outline fonts. TrueType fonts (TTF), PostScript fonts (PS1, PS2, PS3). There is a third format, OpenType (OTF), which is currently under development. Both the TrueType and the Post- Script, may be used in different platforms (Macintosh/PC) or Mac OS/Windows operative systems, but specific files for each one of them. On the other hand, OpenType fonts use a single file for both platforms.
 
@@ -124,7 +126,9 @@ They are called «outline fonts» because they describe the shape of the letter 
 
 When there are not enough dots to conform the outline of the font, there are failures that affect the original features of the letter. A very common example is that the width of the letter stem unjustifiably varies To avoid such deformations, the fonts have codified information in the file.
 
-[caption id="attachment_860" align="alignnone" width="701"][![Métricas de la fuente](http://www.oert.org/wp-content/uploads/2012/07/T03A_07-metric.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T03A_07-metric.jpg) Entre la información codificada la fuente se encuentran las métricas, por ejemplo el ancho del carácter.[/caption]
+[![Métricas de la fuente](http://www.oert.org/wp-content/uploads/2012/07/T03A_07-metric.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T03A_07-metric.jpg)
+
+<p class="caption">Entre la información codificada la fuente se encuentran las métricas, por ejemplo el ancho del carácter.</p>
 
 
 ### Technical differences between True Type and PostScript
@@ -138,7 +142,9 @@ When there are not enough dots to conform the outline of the font, there are fai
 
 **d)** They have different physical storage: TrueType fonts have all the information stored in one file, while PostScript fonts require two: one for screen pre-visualization or outline and another one with the metric information.
 
-[caption id="attachment_861" align="alignnone" width="701"][![Mapa de caracteres de una fuente](http://www.oert.org/wp-content/uploads/2012/07/T03A_08-mapa_caracteres.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T03A_08-mapa_caracteres.jpg) Mapa de carecteres de Alegreya.[/caption]
+[![Mapa de caracteres de una fuente](http://www.oert.org/wp-content/uploads/2012/07/T03A_08-mapa_caracteres.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T03A_08-mapa_caracteres.jpg)
+
+<p class="caption">Mapa de carecteres de Alegreya.</p>
 
 
 ### OpenType Characteristics
@@ -177,7 +183,9 @@ OpenType, developed together with Microsoft and Adobe spreads the load of langua
 
 The current drawback of OpenType is that it is compatible with Windows and Linux, but in MacOs it is limited to Adobe applications.
 
-[caption id="attachment_862" align="alignnone" width="701"][![Formatos de fuentes y cantidad de archivos que la componen](http://www.oert.org/wp-content/uploads/2012/07/T03A_09y10-iconosfuentes.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T03A_09y10-iconosfuentes.jpg) Los formatos de fuentes y la cantidad de archivos que las componen.[/caption]
+[![Formatos de fuentes y cantidad de archivos que la componen](http://www.oert.org/wp-content/uploads/2012/07/T03A_09y10-iconosfuentes.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T03A_09y10-iconosfuentes.jpg)
+
+<p class="caption">Los formatos de fuentes y la cantidad de archivos que las componen.</p>
 
 
 ### Font installing
@@ -205,7 +213,9 @@ To install a new font in Windows, we recommend following these steps:
 
 You can obtain the same results by accessing the control panel via My PC (system hard disk), accessing the Windows folder, double clicking on the Fonts folder and dragging the desired fonts from the source unit.
 
-[caption id="attachment_863" align="alignnone" width="700"][![Carga de fuentes en Windows](http://www.oert.org/wp-content/uploads/2012/07/T03A_11-cargafuentes_windows2.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T03A_11-cargafuentes_windows2.jpg) Carga de fuentes en Windows[/caption]
+[![Carga de fuentes en Windows](http://www.oert.org/wp-content/uploads/2012/07/T03A_11-cargafuentes_windows2.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T03A_11-cargafuentes_windows2.jpg)
+
+<p class="caption">Carga de fuentes en Windows</p>
 
 
 ### Installing a new font in MacOs
@@ -224,7 +234,9 @@ Fonts are stored in the fonts folder in the System Folder. A selection of fonts 
 
 This way of loading fonts is not very advisable because we operate on the machine system.
 
-[caption id="attachment_864" align="alignnone" width="701"][![Instalar una fuente en MacOs](http://www.oert.org/wp-content/uploads/2012/07/T03A_12-cargafuentes_mac.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T03A_12-cargafuentes_mac.jpg) Instalar una fuente en MacOs.[/caption]
+[![Instalar una fuente en MacOs](http://www.oert.org/wp-content/uploads/2012/07/T03A_12-cargafuentes_mac.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T03A_12-cargafuentes_mac.jpg)
+
+<p class="caption">Instalar una fuente en MacOs.</p>
 
 
 ### Install a font with a font manager

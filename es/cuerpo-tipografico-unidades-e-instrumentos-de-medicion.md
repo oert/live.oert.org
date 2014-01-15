@@ -22,7 +22,9 @@ El concepto de cuerpo tipográfico proviene del sistema de impresión con tipos 
 
 El cuerpo, medida estandarizada mensurable en el bloque de plomo, incluye las alturas variables según la familia, la altura de las ascendentes, la altura de la equis, las descendentes y una pequeña separación (llamada hombro) para que no se toquen las descendentes de la línea superior con las ascendentes de la línea siguiente. Decimos que estas áreas son variables porque dependen del diseño de la familia.
 
-[caption id="attachment_1156" align="alignnone" width="700"][![Partes de un tipo móvil](http://www.oert.org/wp-content/uploads/2012/08/T02C_01-tipo_movil_detallado.jpg)](http://www.oert.org/wp-content/uploads/2012/08/T02C_01-tipo_movil_detallado.jpg) Partes de un tipo móvil[/caption]
+[![Partes de un tipo móvil](http://www.oert.org/wp-content/uploads/2012/08/T02C_01-tipo_movil_detallado.jpg)](http://www.oert.org/wp-content/uploads/2012/08/T02C_01-tipo_movil_detallado.jpg)
+
+<p class="caption">Partes de un tipo móvil</p>
 
 
 ### Interlínea
@@ -67,7 +69,9 @@ La relación **kp/x** es fundamental para conocer una familia. Cuando decimos qu
 
 El cociente **cuerpo/H** indica cuál es el tamaño de la mayúscula respecto al cuerpo. Podemos establecer también relaciones entre k y p, por ejemplo, para saber en qué proporción son más largos los ascendentes que los descendentes. Si hacemos **(k-p)/k** obtendremos esta relación. Si este cociente diera negativo, estaríamos ante la presencia de una familia con descendentes más largos que los ascendentes, lo que es una rareza.
 
-[caption id="attachment_878" align="alignnone" width="701"][![Otras relaciones](http://www.oert.org/wp-content/uploads/2012/07/T02C_04-relaciones_jorgedebuenunna.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T02C_04-relaciones_jorgedebuenunna.jpg) Jorge de Buen Unna propone tomar Univers 55 como referencia para comparar las relaciones, por haber sido diseñada por Frutiger con la intención de ser un tipo universal. Se podrían formar tablas muy sencillas a partir de relaciones geométricas más descriptivas, que en el caso de Univers serían igual a 1 y calcularse rápidamente las diferencias con este «modelo».[/caption]
+[![Otras relaciones](http://www.oert.org/wp-content/uploads/2012/07/T02C_04-relaciones_jorgedebuenunna.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T02C_04-relaciones_jorgedebuenunna.jpg)
+
+<p class="caption">Jorge de Buen Unna propone tomar Univers 55 como referencia para comparar las relaciones, por haber sido diseñada por Frutiger con la intención de ser un tipo universal. Se podrían formar tablas muy sencillas a partir de relaciones geométricas más descriptivas, que en el caso de Univers serían igual a 1 y calcularse rápidamente las diferencias con este «modelo».</p>
 
 Incomoda que el cuerpo no sea hoy una dimensión mensurable, pero los intentos por normalizar el tamaño de los signos impresos no han tenido buenos resultados.
 

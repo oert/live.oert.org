@@ -38,7 +38,9 @@ Each system adopts classification criteria that unfortunately are not homogeneou
 
 So what criteria should we follow?) Why should we learn these concepts? Knowing the systems and the criteria that regulate them allows us to put some order in the search, selection and filing of the available families. It helps us find similar families to replace those for which we have no fonts available. It is also important to know the systems because some of the criteria used in classification systems constitute cultural and historic traditions shared by readers from all times.
 
-[caption id="attachment_1461" align="alignnone" width="701"][![La clasificación Vox](http://www.oert.org/wp-content/uploads/2012/08/T03A_01_vox.jpg)](http://www.oert.org/wp-content/uploads/2012/08/T03A_01_vox.jpg) La clasificación del francés Maximilien Vox (1954) busca las semejanzas de los tipos en función de la similitud de sus trazos. En 1964, la Asociación Tipográfica Internacional adoptó este sistema, por lo que desde entonces se lo conoce como sistema Vox-ATypI.[/caption]
+[![La clasificación Vox](http://www.oert.org/wp-content/uploads/2012/08/T03A_01_vox.jpg)](http://www.oert.org/wp-content/uploads/2012/08/T03A_01_vox.jpg)
+
+<p class="caption">La clasificación del francés Maximilien Vox (1954) busca las semejanzas de los tipos en función de la similitud de sus trazos. En 1964, la Asociación Tipográfica Internacional adoptó este sistema, por lo que desde entonces se lo conoce como sistema Vox-ATypI.</p>
 
 
 ### Typeface family selection
@@ -71,7 +73,9 @@ From the point of view of meaning, an adequate choice of typeface family can hel
 
 We can also choose a family based on the relation it establishes with the images that will surround it, or if it is a long text, based on its performance, i.e., the number of characters that fit in a page. We should not forget that not only the typeface selection but also the kind of typographic composition of the piece will have an influence on the result.
 
-[caption id="attachment_1463" align="alignnone" width="700"][![Serif y sans serif](http://www.oert.org/wp-content/uploads/2012/09/T03A_04_ill.jpg)](http://www.oert.org/wp-content/uploads/2012/09/T03A_04_ill.jpg) ¿Serif o sanserif? En el ejemplo de la izquierda (Arial, 72 pt), es imposible saber si dice «ciento once», «tres» o la palabra inglesa «Ill» (enfermo). A la derecha: la misma palabra compuesta en Georgia 72 pt. (Del Manual de tipografía de Ruari Mc Lean).[/caption]
+[![Serif y sans serif](http://www.oert.org/wp-content/uploads/2012/09/T03A_04_ill.jpg)](http://www.oert.org/wp-content/uploads/2012/09/T03A_04_ill.jpg)
+
+<p class="caption">¿Serif o sanserif? En el ejemplo de la izquierda (Arial, 72 pt), es imposible saber si dice «ciento once», «tres» o la palabra inglesa «Ill» (enfermo). A la derecha: la misma palabra compuesta en Georgia 72 pt. (Del Manual de tipografía de Ruari Mc Lean).</p>
 
 
 ### Family combination
@@ -99,7 +103,9 @@ Some criteria to bear in mind:
   * Finally, verifying if the selected combination works or if the same results may be obtained with variations in width of the type page, in type size, in spacing and in the use of variables (color, structure).
 
 
-[caption id="attachment_1464" align="alignnone" width="700"][![Letras de fantasía](http://www.oert.org/wp-content/uploads/2012/09/T03A_02_fantasia.jpg)](http://www.oert.org/wp-content/uploads/2012/09/T03A_02_fantasia.jpg) Las familias de fantasía están basadas en motivos arquitectónicos, decorativos, antropomórficos, etcétera. Su uso se limita a capitulares o palabras cortas, pero nunca se emplean para componer textos. Alumnos (de arriba a abajo, de izquierda a derecha): Daniela Raskobsky, Mariana De Mattia, Luciano Costilla, Martín De Marchi[/caption]
+[![Letras de fantasía](http://www.oert.org/wp-content/uploads/2012/09/T03A_02_fantasia.jpg)](http://www.oert.org/wp-content/uploads/2012/09/T03A_02_fantasia.jpg)
+
+<p class="caption">Las familias de fantasía están basadas en motivos arquitectónicos, decorativos, antropomórficos, etcétera. Su uso se limita a capitulares o palabras cortas, pero nunca se emplean para componer textos. Alumnos (de arriba a abajo, de izquierda a derecha): Daniela Raskobsky, Mariana De Mattia, Luciano Costilla, Martín De Marchi</p>
 
 
 
@@ -126,7 +132,9 @@ Some criteria to bear in mind:
   * Each word’s silhouette (called bouma by the Armenian typographer Hrant Papazian) is a very important factor in legibility: words composed in capitals produce uniform and difficult to differentiate «gray rectangles» (boumas). Words composed in lower case, on the other hand, are considerably more legible because their boumas are more different from each other.
 
 
-[caption id="attachment_1465" align="alignnone" width="701"][![Física de los superhéroes](http://www.oert.org/wp-content/uploads/2012/09/T03A_02_ejemplos.jpg)](http://www.oert.org/wp-content/uploads/2012/09/T03A_02_ejemplos.jpg)Alumnos (de izquierda a derecha) N.N., Laura Dattoli.[/caption]
+[![Física de los superhéroes](http://www.oert.org/wp-content/uploads/2012/09/T03A_02_ejemplos.jpg)](http://www.oert.org/wp-content/uploads/2012/09/T03A_02_ejemplos.jpg)
+
+<p class="caption">Alumnos (de izquierda a derecha) N.N., Laura Dattoli.</p>
 
 
 

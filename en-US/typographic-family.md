@@ -34,7 +34,9 @@ The names of the components of the type case for the sets of all types, be them 
 
 There is a kind of diversity in the components in each family, some families being more complete than others.
 
-[caption id="attachment_900" align="alignnone" width="700"][![Set de caracteres](http://www.oert.org/wp-content/uploads/2012/07/T02A_02-componentescaja.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T02A_02-componentescaja.jpg) En las fuentes digitales, los componentes de la caja tipográfica suelen llamarse set de caracteres.[/caption]
+[![Set de caracteres](http://www.oert.org/wp-content/uploads/2012/07/T02A_02-componentescaja.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T02A_02-componentescaja.jpg)
+
+<p class="caption">En las fuentes digitales, los componentes de la caja tipográfica suelen llamarse set de caracteres.</p>
 
 Typography, apart from functioning as a graphic form of language, also has a structural and stylistic dimension that allows each family to have unique connotations. In order to be effective, visual communication needs to establish different levels of reading, that correspond to the hierarchy of a text. 
 
@@ -64,7 +66,9 @@ Each of these variables has different uses within a text and even though there i
 
 There are some typeface families that present stylistic variables, such as from serif to sans.
 
-[caption id="attachment_902" align="alignnone" width="700"][![Variables tipográficas](http://www.oert.org/wp-content/uploads/2012/07/T02A_04-variablesfamilias2.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T02A_04-variablesfamilias2.jpg) La familia puede reconocerse por sus rasgos comunes aunque varíen cuestiones estructurales o de trazo.[/caption]
+[![Variables tipográficas](http://www.oert.org/wp-content/uploads/2012/07/T02A_04-variablesfamilias2.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T02A_04-variablesfamilias2.jpg)
+
+<p class="caption">La familia puede reconocerse por sus rasgos comunes aunque varíen cuestiones estructurales o de trazo.</p>
 
 ## Bibliography
 

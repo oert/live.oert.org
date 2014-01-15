@@ -62,11 +62,15 @@ Mientras que para el diseño de las letras hay cierta libertad, los números no 
 
 **Los números y el espacio**: los números pueden comportarse, desde el punto de vista del espaciado, como las letras y generar un color homogéneo. En este caso se trtará de números no tabulares y cada uno tendrá su propio ancho. El caso contrario son los números son tabulares,  que teniendo todos el mismo ancho se encolumnarán al disponerlos vericalmente. Los números tabulares suelen presentar problemas de color al componerlos dentro de una frase de texto. Es más usual que los números mayúsculos sean tabulares y los minúsculos no.
 
-[caption id="attachment_1811" align="alignnone" width="701"][![Números mayúsculos y minúsculos dentro de un texto](http://www.oert.org/wp-content/uploads/2012/09/T02B_06-comparativa-txt-num-may-min.jpg)](http://www.oert.org/wp-content/uploads/2012/09/T02B_06-comparativa-txt-num-may-min.jpg) Los números minúsculos no producen rupturas en el ritmo del texto.[/caption]
+[![Números mayúsculos y minúsculos dentro de un texto](http://www.oert.org/wp-content/uploads/2012/09/T02B_06-comparativa-txt-num-may-min.jpg)](http://www.oert.org/wp-content/uploads/2012/09/T02B_06-comparativa-txt-num-may-min.jpg)
+
+<p class="caption">Los números minúsculos no producen rupturas en el ritmo del texto.</p>
 
 **Los números y las alturas**: los números mayúsculos tienen una altura similar al de las mayúsculas, algo menor. Del mismo modo, los minúsculos comparten con las minúsculas la altura de “x”, la de ascendentes y la de descendentes, también con leves variaciones. El cero, el uno y el dos asemejan su altura a la de “x”; el tres, el cuatro, el cinco, siete y nueve, descienden; el seis y el ocho, ascienden.
 
-[caption id="attachment_1810" align="alignnone" width="700"][![Números minúsculos y mayúsculos](http://www.oert.org/wp-content/uploads/2012/09/T02B_06-num_minusc_mayusc1.jpg)](http://www.oert.org/wp-content/uploads/2012/09/T02B_06-num_minusc_mayusc1.jpg) A la izquierda: números mayúsculos tabulares. A la derecha: números minúsculos de anchos variables.[/caption]
+[![Números minúsculos y mayúsculos](http://www.oert.org/wp-content/uploads/2012/09/T02B_06-num_minusc_mayusc1.jpg)](http://www.oert.org/wp-content/uploads/2012/09/T02B_06-num_minusc_mayusc1.jpg)
+
+<p class="caption">A la izquierda: números mayúsculos tabulares. A la derecha: números minúsculos de anchos variables.</p>
 
 
 ### Signos ortográficos

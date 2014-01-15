@@ -19,7 +19,9 @@ La letra es la mínima unidad en que puede dividirse un texto; es la unidad bás
 
 Cada letra tiene una estructura formal establecida y diferente de las demás, que la hace reconocible. Aunque cambien ciertos aspectos, conserva los rasgos formales esenciales para poder ser identificada.
 
-[caption id="attachment_905" align="alignnone" width="700"][![Identidad de la letra](http://www.oert.org/wp-content/uploads/2012/07/T01B_01-letraa_familiasb.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T01B_01-letraa_familiasb.jpg) Si la estructura no se aparta demasiado de las clásicas, la letra se reconoce a pesar del estilo.[/caption]
+[![Identidad de la letra](http://www.oert.org/wp-content/uploads/2012/07/T01B_01-letraa_familiasb.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T01B_01-letraa_familiasb.jpg)
+
+<p class="caption">Si la estructura no se aparta demasiado de las clásicas, la letra se reconoce a pesar del estilo.</p>
 
 Para que las letras porten un contenido semántico, deben agruparse en palabras; estas, constituyen la entidad significativa de cada lengua. La combinación de letras en palabras, de palabras en una oración y de las oraciones en un texto conforman el lenguaje. El registro gráfico de ese lenguaje es la escritura.
 
@@ -43,7 +45,9 @@ Un texto centrado (3) está formado por líneas de largo irregular ubicadas en s
 
 Un texto justificado o emblocado (4) está formado por líneas que ocupan todo el ancho de la caja. Para esto, el espacio sobrante en la línea se reparte en los espacios interpalabras o interletras y si es necesario se parten palabras al final de la línea. La separación entre letras y entre palabras no es regular, de modo que el color debe ser controlado cuidadosamente para no producir conflictos en la lectura.
 
-[caption id="attachment_906" align="alignnone" width="700"][![Distintas alineaciones del bloque de texto](http://www.oert.org/wp-content/uploads/2012/07/T01B_02-alineacion.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T01B_02-alineacion.jpg) Las distintas alineaciones requieren diferente esfuerzos en la lectura. Asimismo el espacio se comporta de diferentes manera.[/caption]
+[![Distintas alineaciones del bloque de texto](http://www.oert.org/wp-content/uploads/2012/07/T01B_02-alineacion.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T01B_02-alineacion.jpg)
+
+<p class="caption">Las distintas alineaciones requieren diferente esfuerzos en la lectura. Asimismo el espacio se comporta de diferentes manera.</p>
 
 
 ### La interlínea
@@ -62,15 +66,21 @@ Si las palabras son muchas, la interlínea deberá ser mayor para facilitar al o
 
 La interpalabra es el espacio que existe entre las palabras de una línea de texto. La interletra es el espacio que separa una letra de otra dentro de una misma palabra.
 
-[caption id="attachment_907" align="alignnone" width="700"][![Interletra e interpalabra](http://www.oert.org/wp-content/uploads/2012/07/T01B_03-sinsal_2.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T01B_03-sinsal_2.jpg) La interletra y la interpalabra están estrechamente relacionadas. Para un correcto funcionamiento deben ser armónicas.[/caption]
+[![Interletra e interpalabra](http://www.oert.org/wp-content/uploads/2012/07/T01B_03-sinsal_2.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T01B_03-sinsal_2.jpg)
+
+<p class="caption">La interletra y la interpalabra están estrechamente relacionadas. Para un correcto funcionamiento deben ser armónicas.</p>
 
 La interletra debe ser la necesaria como para que cada signo se diferencie del siguiente. Si este espacio es demasiado pequeño, los caracteres se tocarán, pero si por el contrario es excesivo, se podría disgregar la palabra. La interletra debe ser ópticamente regular para establecer un ritmo de lectura fluido.
 
-[caption id="attachment_908" align="alignnone" width="701"][![Interletra](http://www.oert.org/wp-content/uploads/2012/07/T01B_04a-interletra.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T01B_04a-interletra.jpg) Relación entre las contraformas internas de los signos y las compartidas (interletra).[/caption]
+[![Interletra](http://www.oert.org/wp-content/uploads/2012/07/T01B_04a-interletra.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T01B_04a-interletra.jpg)
+
+<p class="caption">Relación entre las contraformas internas de los signos y las compartidas (interletra).</p>
 
 Ambos recursos –la interpalabra y la interletra–  se encuentran estrechamente relacionados: el primero debe ser mayor que el segundo para diferenciar una palabra de otra, pero no tanto mayor como para perder la unidad de la línea.
 
-[caption id="attachment_909" align="alignnone" width="701"][![Interpalabra](http://www.oert.org/wp-content/uploads/2012/07/T01B_04b-interpalabra.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T01B_04b-interpalabra.jpg) La interpalabra debe permitir la lectura cómoda del texto. Para ello tamaño de la misma se relaciona con las contraformas internas de los signos y con la interletra.[/caption]
+[![Interpalabra](http://www.oert.org/wp-content/uploads/2012/07/T01B_04b-interpalabra.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T01B_04b-interpalabra.jpg)
+
+<p class="caption">La interpalabra debe permitir la lectura cómoda del texto. Para ello tamaño de la misma se relaciona con las contraformas internas de los signos y con la interletra.</p>
 
 
 ### Color tipográfico
@@ -80,11 +90,15 @@ La interpalabra, la interletra y la interlínea están íntimamente relacionadas
 
 El color de los signos (relación entre el trazo y la contraforma interna) también interviene en el color tipográfico, por lo que una composición con una tipografía liviana, espaciados entre letras y líneas amplios, tendrá un valor tonal alto, sin tanto contraste con el fondo.
 
-[caption id="attachment_911" align="alignnone" width="701"][![Interlineado](http://www.oert.org/wp-content/uploads/2012/07/T01B_04c-interlineado.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T01B_04c-interlineado.jpg) El interlineado tiene estrecha relación con la interletra y la interpalabra. Para una lectura cómoda, debe ser armónico. El color tipográfico queda determinado por el peso de los signos y los blancos internos del texto.[/caption]
+[![Interlineado](http://www.oert.org/wp-content/uploads/2012/07/T01B_04c-interlineado.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T01B_04c-interlineado.jpg)
+
+<p class="caption">El interlineado tiene estrecha relación con la interletra y la interpalabra. Para una lectura cómoda, debe ser armónico. El color tipográfico queda determinado por el peso de los signos y los blancos internos del texto.</p>
 
 La posición y proporción de la caja virtual determina diferentes tensiones en la página; estas tensiones repercuten en la comunicación y estética de la pieza.
 
-[caption id="attachment_913" align="alignnone" width="701"][![Caja virtual](http://www.oert.org/wp-content/uploads/2012/07/T01B_05-cajavirtual_2.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T01B_05-cajavirtual_2.jpg) La caja virtual está determinada por los márgenes y genera equilibrio o tensión según su posición.[/caption]
+[![Caja virtual](http://www.oert.org/wp-content/uploads/2012/07/T01B_05-cajavirtual_2.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T01B_05-cajavirtual_2.jpg)
+
+<p class="caption">La caja virtual está determinada por los márgenes y genera equilibrio o tensión según su posición.</p>
 
 [Ref_Box]**Bibliografía**
 

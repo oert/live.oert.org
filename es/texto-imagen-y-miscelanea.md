@@ -33,7 +33,9 @@ Se pueden sumar al conjunto de las misceláneas otros grupos de signos como viñ
 
 Otro ejemplo lo componen aquellas fuentes especialmente diseñadas para usarse como misceláneas o complementos de otras familias: es el caso de Fella Parts, de Emigre, que cuenta en su catálogo con muchas alternativas de este tipo. También existen familias con caracteres de simbología variada (zodíaco, negocios, turismo, deportes, etc.), como la fuente Communications del catálogo Agfatype. Sin embargo estos caracteres a veces son tan icónicos que, nuevamente, solo su uso va a determinar su carácter misceláneo.
 
-[caption id="attachment_1468" align="alignnone" width="700"][![Imagen / miscelánea](http://www.oert.org/wp-content/uploads/2012/09/T03B_02_misc_imag.jpg)](http://www.oert.org/wp-content/uploads/2012/09/T03B_02_misc_imag.jpg) Miscelánea de la fuente Almendra, de Ana Sanfelippo[/caption]
+[![Imagen / miscelánea](http://www.oert.org/wp-content/uploads/2012/09/T03B_02_misc_imag.jpg)](http://www.oert.org/wp-content/uploads/2012/09/T03B_02_misc_imag.jpg)
+
+<p class="caption">Miscelánea de la fuente Almendra, de Ana Sanfelippo</p>
 
 Las misceláneas tienen sus antecedentes en las iniciales y bordes con que los escribas medievales iluminaban sus manuscritos. La producción del manuscrito era costosa y tomaba mucho tiempo. Además, los valores y el estilo de vida de aquel entonces eran muy distintos a los contemporáneos. No es casual entonces que esas iniciales y esos marcos fuesen elementos tan elaborados. La ilustración y la ornamentación, sin embargo, no constituían un mero adorno: había una preocupación por el valor educacional de los dibujos y la capacidad de los adornos para crear matices místicos y espirituales.
 
@@ -49,13 +51,17 @@ En ocasiones, la función de cada uno de los elementos (alfabéticos y no alfab�
 
 _1. Misceláneas como imagen_: aumentando el tamaño, misceláneas, ornamentos y viñetas acentúan su dominio en la composición. Los desajustes que puede ocasionar el aumento de tamaño cobran un valor significativo.
 
-[caption id="attachment_1476" align="alignnone" width="701"][![Miscelánea como imagen](http://www.oert.org/wp-content/uploads/2012/09/T03B_05_miscimg_Ross-Mon.jpg)](http://www.oert.org/wp-content/uploads/2012/09/T03B_05_miscimg_Ross-Mon.jpg) Alumnos: Daniel Ross y Altair Mon[/caption]
+[![Miscelánea como imagen](http://www.oert.org/wp-content/uploads/2012/09/T03B_05_miscimg_Ross-Mon.jpg)](http://www.oert.org/wp-content/uploads/2012/09/T03B_05_miscimg_Ross-Mon.jpg)
+
+<p class="caption">Alumnos: Daniel Ross y Altair Mon</p>
 
 _2. Imágenes como misceláneas_: con la tecnología de hoy se puede reducir el tamaño de una imagen, reproducirla con una estructura simplificada y ajustarla a criterios tipográficos para lograr que actúe como una miscelánea. Los signos obtenidos de esta forma, a veces compilados y comercializados como fuentes tipográficas, proponen contextos no tradicionales, en los que pueden presentarse relaciones de oposición.
 
 _3. Letras como imágenes_: tanto una letra sola, como una palabra o un grupo de palabras pueden adquirir un valor de imagen, alejándose de su función primitiva.
 
-[caption id="attachment_1478" align="alignnone" width="701"][![Miscelánea como letra](http://www.oert.org/wp-content/uploads/2012/09/T03B_04_letramisc_Lluis.jpg)](http://www.oert.org/wp-content/uploads/2012/09/T03B_04_letramisc_Lluis.jpg) Alumno: Joaquín Lluis[/caption]
+[![Miscelánea como letra](http://www.oert.org/wp-content/uploads/2012/09/T03B_04_letramisc_Lluis.jpg)](http://www.oert.org/wp-content/uploads/2012/09/T03B_04_letramisc_Lluis.jpg)
+
+<p class="caption">Alumno: Joaquín Lluis</p>
 
 En el siglo XX, las vanguardias experimentaron estas posibilidades, destruyendo la regularidad y la inercia de la composición tradicional. Ejemplo de estas posibilidades son los caligramas (poemas en los que la mancha de texto adopta una forma determinada procurando representar el contenido del mismo) y las composiciones futuristas con sus “palabras en libertad”.
 

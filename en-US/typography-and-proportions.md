@@ -141,7 +141,9 @@ When the reader finishes a line, he receives a stimulus, when the line is too wi
 
 Variations between the minimum, the optimal and the maximum widths and the leading allow us to test which is the best relation we can obtain between comfortable reading, esthetics and costs.
 
-[caption id="attachment_1446" align="alignnone" width="700"][![Bloque de texto, color y comodidad de lectura](http://www.oert.org/wp-content/uploads/2012/09/T04A_03-bloque_colorlectura.jpg)](http://www.oert.org/wp-content/uploads/2012/09/T04A_03-bloque_colorlectura.jpg) 1: Cantidad mínima de caracteres por línea (las líneas 3, 4 y 10 no presentan un color de texto parejo). 2: cantidad óptima, lectura confortable y buen color. 3: al límite del largo de línea, muy buen color pero lectura no muy cómoda.[/caption]
+[![Bloque de texto, color y comodidad de lectura](http://www.oert.org/wp-content/uploads/2012/09/T04A_03-bloque_colorlectura.jpg)](http://www.oert.org/wp-content/uploads/2012/09/T04A_03-bloque_colorlectura.jpg)
+
+<p class="caption">1: Cantidad mínima de caracteres por línea (las líneas 3, 4 y 10 no presentan un color de texto parejo). 2: cantidad óptima, lectura confortable y buen color. 3: al límite del largo de línea, muy buen color pero lectura no muy cómoda.</p>
 
 
 ### Typographic factor
