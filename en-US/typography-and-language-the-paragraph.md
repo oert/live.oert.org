@@ -117,7 +117,7 @@ The first line of the paragraph when it appears at the end of a column.
 **Widow line**
 The last line of the paragraph when it appears at the beginning of a column. This line is unsightly and should be avoided by shortening the paragraph to which it belongs or going through the text. In the desktop publishing programs there is the possibility of configuring it to keep the first two or the last two lines of the paragraph together. Thus widows and orphans can be easily noticed, and may then be corrected.
 
-[Ref_Box]**Bibliography**
+## Bibliography
 
 
 
@@ -128,4 +128,4 @@ The last line of the paragraph when it appears at the beginning of a column. Thi
   * MARTÍNEZ DE SOUSA, José. _Diccionario de edición, tipografía y artes gráficas._ Trea, Gijón, 2001.
 
 
-[/Ref_Box]
+

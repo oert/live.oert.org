@@ -21,4 +21,6 @@ Each box identifies a character. The upper part shows the combination of keys ne
 
 It is worth mentioning that these signs may be typed as long as they are included in the family. A good quality digitalization family must have  the full map of characters (256 characters), per each variable. It will be convenient to choose the typeface family to be used based on the requirements of the piece to be composed, verifying that the font to use includes all the characters I need.
 
-[caption id="attachment_849" align="alignnone" width="701"][![Mapa de caracteres](http://www.oert.org/wp-content/uploads/2012/07/T03B_01-mapa_caracteres.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T03B_01-mapa_caracteres.jpg) Mapa de caracteres[/caption]
+[![Mapa de caracteres](http://www.oert.org/wp-content/uploads/2012/07/T03B_01-mapa_caracteres.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T03B_01-mapa_caracteres.jpg)
+
+<p class="caption">Mapa de caracteres</p>

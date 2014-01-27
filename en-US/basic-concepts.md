@@ -101,7 +101,9 @@ Leading is the space between each line of text. It is measured from the line whe
 
 If the line has too many words (wide column), the leading should be a little wider than usual, to make it easier for the reader to find the beginning of the next line.
 
-[caption id="attachment_1619" align="alignnone" width="700"][![Interletra, interpalabra e interlínea](http://www.oert.org/wp-content/uploads/2012/09/T01A_14-interletra_interlineado_interpalabra.jpg)](http://www.oert.org/wp-content/uploads/2012/09/T01A_14-interletra_interlineado_interpalabra.jpg) El interlineado tiene estrecha relación con la interletra y la interpalabra. Para una lectura cómoda, debe ser armónico. El color tipográfico queda determinado por el peso de los signos y los blancos internos del texto.[/caption]
+[![Interletra, interpalabra e interlínea](http://www.oert.org/wp-content/uploads/2012/09/T01A_14-interletra_interlineado_interpalabra.jpg)](http://www.oert.org/wp-content/uploads/2012/09/T01A_14-interletra_interlineado_interpalabra.jpg)
+
+<p class="caption">El interlineado tiene estrecha relación con la interletra y la interpalabra. Para una lectura cómoda, debe ser armónico. El color tipográfico queda determinado por el peso de los signos y los blancos internos del texto.</p>
 
 Obviously, interletter, interword spaces and leading are closely related. Interword space should be wider than interletter space in order to differentiate a word from the next one, but not too wide so as to loose line unity, and it should be narrower than the leading so that reader may see horizontal lines instead of rivers.
 
@@ -147,7 +149,9 @@ A centered text is formed by lines of irregular length symmetrically placed upon
 
 A justified or blocked text is formed by lines that fill the whole width of the type page. In this type of composition, extreme care must be put on leading and letter spacing. Nowadays, desktop publishing has very much simplified this heavy task. It is advisable to practice different configurations to solve different situations within a same text. To do this, the designer must have a deep knowledge of desktop publishing programs.
 
-[caption id="attachment_906" align="alignnone" width="700"][![Distintas alineaciones del bloque de texto](http://www.oert.org/wp-content/uploads/2012/07/T01B_02-alineacion.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T01B_02-alineacion.jpg) Las distintas alineaciones requieren diferente esfuerzos en la lectura. Asimismo el espacio se comporta de diferentes manera.[/caption]
+[![Distintas alineaciones del bloque de texto](http://www.oert.org/wp-content/uploads/2012/07/T01B_02-alineacion.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T01B_02-alineacion.jpg)
+
+<p class="caption">Las distintas alineaciones requieren diferente esfuerzos en la lectura. Asimismo el espacio se comporta de diferentes manera.</p>
 
 
 #### Hyphenation at the end of a line
@@ -185,7 +189,7 @@ Un buen diseñador (sobre todo si piensa dedicarse al diseño editorial) tiene q
 ### Useful definitions:
 
 
-[Glosario]
+### Glossary
 
 **Orthography** Set of rules and exceptions that regulate the writing of a language.
 
@@ -198,8 +202,8 @@ Un buen diseñador (sobre todo si piensa dedicarse al diseño editorial) tiene q
 **Style correction** A specialist intervention in a text written by somebody else to correct those grammatical uses that do not adjust to a normative institution’s rules.
 
 **Typographic correction** Intervention of an orthotypographist in a composed text to correct the mistakes it may have.akes it may have.
-[/Glosario]
-[Ref_Box]**Bibliography**
+
+## Bibliography
 
 
 
@@ -213,4 +217,4 @@ Un buen diseñador (sobre todo si piensa dedicarse al diseño editorial) tiene q
   * MARTÍNEZ DE SOUSA, José. _Diccionario de Tipografía y del Libro._ Madrid, Paraninfo 1981, segunda edición.
 
 
-[/Ref_Box]
+

@@ -194,7 +194,7 @@ The length of the chronicle is a fixed one. It usually presents amazing variatio
 
 In short, the importance of knowing the macrostructures of each type of text lies in the possibility of being able to graphically encode such structures, by giving its different parts a hierarchical order, to make its reading and interpretation visually more comprehensible.
 
-[Ref_Box]**Bibliography**
+## Bibliography
 
 
 
@@ -226,4 +226,4 @@ In short, the importance of knowing the macrostructures of each type of text lie
   * GOMIS, Lorenzo: ¿Vive la comunicación periodística un cambio de paradigma? [http://www.infoamerica.org/articulos/g/gomis.htm](http://www.infoamerica.org/articulos/g/gomis.htm)
 
 
-[/Ref_Box]
+

@@ -115,7 +115,7 @@ Whatever the design principle followed may be, all the components of the book mu
 
 Titles and subtitles, the space below the beginning of the chapter, leading, among other aspects, are signs which inform and help transmit the desired atmosphere, while performing specific functions (indicate hierarchy) within the book.
 
-[Ref_Box]**Bibliography**
+## Bibliography
 
 
 
@@ -126,4 +126,4 @@ Titles and subtitles, the space below the beginning of the chapter, leading, amo
   * VANDERDOPE, Christian. _Del papiro al hipertexto: Ensayo sobre las mutaciones del texto y la lectura._ Fondo de Cultura Económica. 2003.
 
 
-[/Ref_Box]
+

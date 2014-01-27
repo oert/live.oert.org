@@ -132,7 +132,9 @@ Calcular el ancho de la caja o de las columnas tiene incidencia en los costos y 
 
 Las variaciones entre el ancho mínimo, el óptimo y el máximo y la interlínea permiten probar cuál es la mejor relación que puede obtenerse entre la confortabilidad en la lectura, la estética y los costos.
 
-[caption id="attachment_1446" align="alignnone" width="700"][![Bloque de texto, color y comodidad de lectura](http://www.oert.org/wp-content/uploads/2012/09/T04A_03-bloque_colorlectura.jpg)](http://www.oert.org/wp-content/uploads/2012/09/T04A_03-bloque_colorlectura.jpg) 1: Cantidad mínima de caracteres por línea (las líneas 3, 4 y 10 no presentan un color de texto parejo). 2: cantidad óptima, lectura confortable y buen color. 3: al límite del largo de línea, muy buen color pero lectura no muy cómoda.[/caption]
+[![Bloque de texto, color y comodidad de lectura](http://www.oert.org/wp-content/uploads/2012/09/T04A_03-bloque_colorlectura.jpg)](http://www.oert.org/wp-content/uploads/2012/09/T04A_03-bloque_colorlectura.jpg)
+
+<p class="caption">1: Cantidad mínima de caracteres por línea (las líneas 3, 4 y 10 no presentan un color de texto parejo). 2: cantidad óptima, lectura confortable y buen color. 3: al límite del largo de línea, muy buen color pero lectura no muy cómoda.</p>
 
 
 ### Factor tipográfico

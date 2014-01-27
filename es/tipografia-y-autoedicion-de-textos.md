@@ -115,7 +115,9 @@ _Fuentes de mapa de bits_: también son llamadas fuentes de tamaño fijo. Define
 
 _Fuentes de contorno_: generalmente llamadas fuentes escalables, pueden ser escaladas en todos los cuerpos que se desee. Cada carácter se define por medio de una fórmula matemática de curvas, que pueden ser escaladas a un cuerpo arbitrario.
 
-[caption id="" align="alignnone" width="700"][![Fuente de mapa de bits y mapa de contorno de una letra](http://www.oert.org/wp-content/uploads/2012/07/T03A_06-mapabits_contorno.png)](http://www.oert.org/wp-content/uploads/2012/07/T03A_06-mapabits_contorno.png) A la izquierda: fuente de mapa de bits. A la derecha: fuente de contorno.[/caption]
+[![Fuente de mapa de bits y mapa de contorno de una letra](http://www.oert.org/wp-content/uploads/2012/07/T03A_06-mapabits_contorno.png)](http://www.oert.org/wp-content/uploads/2012/07/T03A_06-mapabits_contorno.png)
+
+<p class="caption">A la izquierda: fuente de mapa de bits. A la derecha: fuente de contorno.</p>
 
 Dentro de la categoría de fuentes de contorno existen dos tipos estándares: las fuentes TrueType (TTF), las fuentes PostScript (PS1, PS2, PS3). Existe un tercer formato, las OpenType (OTF). Tanto las TrueType como las Post-Script, pueden ser utilizadas en diferentes plataformas (Macintosh / PC) o sistemas operativos Mac OS/ Windows, pero con archivos específicos para cada uno. Las fuentes OpenType, en cambio, utilizan un único archivo para ambas plataformas.
 
@@ -125,7 +127,9 @@ Para que las fuentes puedan verse en cualquier dispositivo de salida, por los _p
 
 Cuando no hay suficientes puntos que conformen el contorno de la fuente, se producen falencias que atentan contra los rasgos originales de la letra. Un ejemplo muy común es que el ancho del asta de la letra varíe en forma injustificada. Para prevenir dichas deformaciones, las fuentes poseen información codificada dentro del archivo.
 
-[caption id="attachment_860" align="alignnone" width="701"][![Métricas de la fuente](http://www.oert.org/wp-content/uploads/2012/07/T03A_07-metric.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T03A_07-metric.jpg) Entre la información codificada la fuente se encuentran las métricas, por ejemplo el ancho del carácter.[/caption]
+[![Métricas de la fuente](http://www.oert.org/wp-content/uploads/2012/07/T03A_07-metric.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T03A_07-metric.jpg)
+
+<p class="caption">Entre la información codificada la fuente se encuentran las métricas, por ejemplo el ancho del carácter.</p>
 
 
 ### Diferencias técnicas entre TrueType y PostScript
@@ -139,7 +143,9 @@ c) Tanto MacOS como Windows (en todas sus versiones) soportan directamente las f
 
 d) Poseen distinto almacenamiento físico: las fuentes TrueType tienen toda la información contenida en un solo archivo, mientras que las PostScript requieren dos: uno para previsualización en pantalla o contorno y otro con la información métrica.
 
-[caption id="attachment_861" align="alignnone" width="701"][![Mapa de caracteres de una fuente](http://www.oert.org/wp-content/uploads/2012/07/T03A_08-mapa_caracteres.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T03A_08-mapa_caracteres.jpg) Mapa de carecteres de Alegreya.[/caption]
+[![Mapa de caracteres de una fuente](http://www.oert.org/wp-content/uploads/2012/07/T03A_08-mapa_caracteres.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T03A_08-mapa_caracteres.jpg)
+
+<p class="caption">Mapa de carecteres de Alegreya.</p>
 
 
 ### Características del OpenType
@@ -175,7 +181,9 @@ Las fuentes OpenType cumplen tres objetivos:
 
 OpenType, desarrollado en forma conjunta por Microsoft y Adobe, distribuye la carga del lenguaje en tres capas: la fuente, el sistema operativo y la aplicación o programa.
 
-[caption id="attachment_862" align="alignnone" width="701"][![Formatos de fuentes y cantidad de archivos que la componen](http://www.oert.org/wp-content/uploads/2012/07/T03A_09y10-iconosfuentes.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T03A_09y10-iconosfuentes.jpg) Los formatos de fuentes y la cantidad de archivos que las componen.[/caption]
+[![Formatos de fuentes y cantidad de archivos que la componen](http://www.oert.org/wp-content/uploads/2012/07/T03A_09y10-iconosfuentes.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T03A_09y10-iconosfuentes.jpg)
+
+<p class="caption">Los formatos de fuentes y la cantidad de archivos que las componen.</p>
 
 
 ### Instalación de fuentes
@@ -203,7 +211,9 @@ Para instalar una fuente nueva en Windows, se recomienda seguir estos pasos:
 
 Se pueden obtener los mismos resultados accediendo al panel de control desde Mi PC (disco duro del sistema), accediendo a la carpeta Windows, haciendo doble clic en la carpeta de Fuentes y arrastrando las fuentes que se deseen instalar desde la unidad de procedencia.
 
-[caption id="attachment_863" align="alignnone" width="700"][![Carga de fuentes en Windows](http://www.oert.org/wp-content/uploads/2012/07/T03A_11-cargafuentes_windows2.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T03A_11-cargafuentes_windows2.jpg) Carga de fuentes en Windows[/caption]
+[![Carga de fuentes en Windows](http://www.oert.org/wp-content/uploads/2012/07/T03A_11-cargafuentes_windows2.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T03A_11-cargafuentes_windows2.jpg)
+
+<p class="caption">Carga de fuentes en Windows</p>
 
 
 ### Instalar una fuente nueva en MacOS
@@ -220,7 +230,9 @@ Las fuentes se almacenan en la carpeta de fuentes que se encuentra en la Carpeta
   2. Ubicar la fuente que se desea instalar y arrastrarla hasta la carpeta de fuentes del sistema. Este modo de cargar fuentes no es del todo recomendable ya que se opera sobre el sistema de la máquina.
 
 
-[caption id="attachment_864" align="alignnone" width="701"][![Instalar una fuente en MacOs](http://www.oert.org/wp-content/uploads/2012/07/T03A_12-cargafuentes_mac.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T03A_12-cargafuentes_mac.jpg) Instalar una fuente en MacOs.[/caption]
+[![Instalar una fuente en MacOs](http://www.oert.org/wp-content/uploads/2012/07/T03A_12-cargafuentes_mac.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T03A_12-cargafuentes_mac.jpg)
+
+<p class="caption">Instalar una fuente en MacOs.</p>
 
 
 ### Instalar una fuente con un gestor de fuentes

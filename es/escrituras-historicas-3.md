@@ -52,12 +52,16 @@ Comenzamos por definir conceptos indispensables para la comprensión de este art
 
 La enorme popularidad que adquirieron estas letras para la producción de libros, hizo que las cuadratas y las rústicas quedaran reservadas a los títulos e iniciales. En el siglo V es la más utilizada para textos en libros eclesiásticos, luego solo para títulos.
 
-[caption id="attachment_1961" align="alignnone" width="700"][![Vespasian Psalter. Siglo VIII.](http://www.oert.org/wp-content/uploads/2012/01/unciales-01.jpg)](http://www.oert.org/wp-content/uploads/2012/01/unciales-01.jpg) _Vespasian Psalter_ (siglo VIII)[/caption]
+[![Vespasian Psalter. Siglo VIII.](http://www.oert.org/wp-content/uploads/2012/01/unciales-01.jpg)](http://www.oert.org/wp-content/uploads/2012/01/unciales-01.jpg)
+
+<p class="caption">_Vespasian Psalter_ (siglo VIII)</p>
 
 **Estructura: **es una escritura conformada por signos mayúsculos pero que presenta indicios de minúsculas en algunos de sus signos. Es decir algunos presentan leves ascendentes o descendentes, por ejemplo, _D_, _H_ o _P_, o estructuras algo parecidas a las de las minúsculas, por ejemplo la _M_ por la presencia de curvas.
 La altura de los signos debe ser igual a cuatro anchos de pluma y los ascendentes y descendentes serán de apenas de uno y medio.
 
-[caption id="attachment_1965" align="alignnone" width="700"][![Las ascendentes y descendentes son escasas y cortas en relación a la altura de “x”.](http://www.oert.org/wp-content/uploads/2013/04/unciales-02.jpg)](http://www.oert.org/wp-content/uploads/2013/04/unciales-02.jpg) Las ascendentes y descendentes son escasas y cortas en relación a la altura de “x”.[/caption]
+[![Las ascendentes y descendentes son escasas y cortas en relación a la altura de “x”.](http://www.oert.org/wp-content/uploads/2013/04/unciales-02.jpg)](http://www.oert.org/wp-content/uploads/2013/04/unciales-02.jpg)
+
+<p class="caption">Las ascendentes y descendentes son escasas y cortas en relación a la altura de “x”.</p>
 
 La forma subyacente de las unciales es el círculo, fácilmente detectable en la _O_ y puede trasladarse a la mayoría de los signos del sistema. Solo hay unos pocos signos con diagonales. Las contraformas internas son amplias.
 
@@ -100,12 +104,16 @@ Vespasian Psalter (siglo VIII).
 
 La escritura carolingia, desarrollada en el marco de la restauración cultural del Sacro Imperio Romano a fines del siglo VIII, no solo propuso las proporciones que hoy reconocemos como propias de las minúsculas si no que también unificó el criterio de uso para marcar palabras, párrafos, signos de puntuación y jerarquías de la página.
 
-[caption id="attachment_1972" align="alignnone" width="700"][![Biblia Vulgata (siglo IX).](http://www.oert.org/wp-content/uploads/2013/04/carolingias-01.jpg)](http://www.oert.org/wp-content/uploads/2013/04/carolingias-01.jpg) _Biblia Vulgata_ (siglo IX).[/caption]
+[![Biblia Vulgata (siglo IX).](http://www.oert.org/wp-content/uploads/2013/04/carolingias-01.jpg)](http://www.oert.org/wp-content/uploads/2013/04/carolingias-01.jpg)
+
+<p class="caption">_Biblia Vulgata_ (siglo IX).</p>
 
 **Estructura: **Las ascendentes y descendentes, como mínimo, tienen la misma altura que la “x”. Esto genera áreas bien diferenciadas: una más marcada en el ojo medio (la altura de “x”) y, por arriba y por abajo, las de los rasgos ascendentes y descendentes. A diferencia de la escritura uncial, no hay dudas de que la carolingia es de minúsculas.
 La altura de “x” es igual a tres anchos de pluma.
 
-[caption id="attachment_1963" align="alignnone" width="700"][![Relación entre la altura del signo y el ancho de pluma.](http://www.oert.org/wp-content/uploads/2013/04/carolingias-02.jpg)](http://www.oert.org/wp-content/uploads/2013/04/carolingias-02.jpg) La escritura se desarrolla claramente entre 4 líneas que definen las ascendentes, la altura de “x”, el apoyo y las descendentes.[/caption]
+[![Relación entre la altura del signo y el ancho de pluma.](http://www.oert.org/wp-content/uploads/2013/04/carolingias-02.jpg)](http://www.oert.org/wp-content/uploads/2013/04/carolingias-02.jpg)
+
+<p class="caption">La escritura se desarrolla claramente entre 4 líneas que definen las ascendentes, la altura de “x”, el apoyo y las descendentes.</p>
 
 Al igual que en la escritura uncial, la forma subyacente es un círculo, pero esta debe resolverse en un espacio proporcionalmente menor. En la escritura uncial, la altura de “x” es de cuatro anchos de pluma, mientras que en la carolingias es de tres.
 
@@ -145,7 +153,9 @@ Calígrafa: Sheila Waters (1990).
 
 A esta forma de escribir apretada, oscura y densa se la llamó _textur_ (tejido) y se la utilizó a partir del siglo XII sobre todo en Alemania, Inglaterra y norte de Francia.
 
-[caption id="attachment_1979" align="alignnone" width="700"][![Sagrada Biblia copiada en 1443 por el escriba Henricus de Vullenho.](http://www.oert.org/wp-content/uploads/2013/04/goticas-01.jpg)](http://www.oert.org/wp-content/uploads/2013/04/goticas-01.jpg) Sagrada Biblia copiada en 1443 por el escriba Henricus de Vullenho.[/caption]
+[![Sagrada Biblia copiada en 1443 por el escriba Henricus de Vullenho.](http://www.oert.org/wp-content/uploads/2013/04/goticas-01.jpg)](http://www.oert.org/wp-content/uploads/2013/04/goticas-01.jpg)
+
+<p class="caption">Sagrada Biblia copiada en 1443 por el escriba Henricus de Vullenho.</p>
 
 **Estructura: **los signos condensados y las ascendentes y descendentes son cortas en relación con la altura de “x”. En este caso, la altura de “x” es igual a cinco anchos de pluma y las ascendentes y las descendentes son iguales a dos anchos de pluma.
 

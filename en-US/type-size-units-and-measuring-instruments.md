@@ -25,7 +25,9 @@ It is the vertical measure of the type’s front face, taking the complete lead 
 
 The type size, a standardized measure measurable in the lead block, includes variable heights according to typeface families, ascenders, “x” height, descenders and a small space (called shoulder) for the descenders in the line above not to touch ascenders in the line below. We say that these areas are variable because they depend on the design of the typeface family.
 
-[caption id="attachment_1156" align="alignnone" width="700"][![Partes de un tipo móvil](http://www.oert.org/wp-content/uploads/2012/08/T02C_01-tipo_movil_detallado.jpg)](http://www.oert.org/wp-content/uploads/2012/08/T02C_01-tipo_movil_detallado.jpg) Partes de un tipo móvil[/caption]
+[![Partes de un tipo móvil](http://www.oert.org/wp-content/uploads/2012/08/T02C_01-tipo_movil_detallado.jpg)](http://www.oert.org/wp-content/uploads/2012/08/T02C_01-tipo_movil_detallado.jpg)
+
+<p class="caption">Partes de un tipo móvil</p>
 
 
 ### Leading
@@ -91,7 +93,9 @@ Families with different kp/x relations composed in the same type size show diffe
 
 The quotient type size/H indicates which is the size of capitals in relation to type size. We can also establish relations between k and p, for example to know the proportion in which ascenders are longer than descenders. If we make (k-p)/k we will obtain this relation. If the result of this quotient is negative, we would have a family where descenders are longer than ascenders, which is rare.
 
-[caption id="attachment_878" align="alignnone" width="701"][![Otras relaciones](http://www.oert.org/wp-content/uploads/2012/07/T02C_04-relaciones_jorgedebuenunna.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T02C_04-relaciones_jorgedebuenunna.jpg) Jorge de Buen Unna propone tomar Univers 55 como referencia para comparar las relaciones, por haber sido diseñada por Frutiger con la intención de ser un tipo universal. Se podrían formar tablas muy sencillas a partir de relaciones geométricas más descriptivas, que en el caso de Univers serían igual a 1 y calcularse rápidamente las diferencias con este «modelo».[/caption]
+[![Otras relaciones](http://www.oert.org/wp-content/uploads/2012/07/T02C_04-relaciones_jorgedebuenunna.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T02C_04-relaciones_jorgedebuenunna.jpg)
+
+<p class="caption">Jorge de Buen Unna propone tomar Univers 55 como referencia para comparar las relaciones, por haber sido diseñada por Frutiger con la intención de ser un tipo universal. Se podrían formar tablas muy sencillas a partir de relaciones geométricas más descriptivas, que en el caso de Univers serían igual a 1 y calcularse rápidamente las diferencias con este «modelo».</p>
 
 The fact that type size is not a measurable dimension today is quite inconvenient, but different attempts to normalize the size of printed signs have not had good results. 
 
@@ -122,7 +126,7 @@ In order to measure typography, two different tools may be used: the first and m
 
 Today, the use of computers and desktop publishing programs have made many of the stages of the design process easier, being one of them the measurement of type size. The process consists of selecting the text to be measured or modified, then entering the desired value in a box in a dialogue window that each program presents. 
 
-[Ref_Box]**Bibliography**
+## Bibliography
 
 	
     * SOLOMON, Martin. _El arte de la tipografía,_ Tellus, Madrid.
@@ -140,4 +144,4 @@ Today, the use of computers and desktop publishing programs have made many of th
     * GÁLVEZ PIZARRO, Francisco. _Educación tipográfica, una introducción a la tipografía,_ Universidad Diego Portales, Chile, 2004.
 
 
-[/Ref_Box]
+

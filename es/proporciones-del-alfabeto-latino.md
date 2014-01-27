@@ -48,9 +48,13 @@ Primero analizaremos las mayúsculas clásicas en función del ancho (o grueso) 
 
 Para visualizar más claramente las estructuras clásicas y las relaciones que soporta cada letra, las analizaremos dentro de módulos construidos según el ancho y alto de una letra redonda (la «O» que puede inscribirse, en el caso de las romanas clásicas, en un cuadrado) y de una letra angosta (la «E» que en este caso es igual a la mitad del ancho de la «O»). Marcaremos en esos contenedores las diagonales y las intersecciones con el círculo, para tomar como referencias de ancho y de otras características morfológicas que nos ayudarán a analizar.
 
-[caption id="attachment_830" align="alignnone" width="700"][![Módulos y letras redondas](http://www.oert.org/wp-content/uploads/2012/07/T04A_01-propor_redondas_2.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T04A_01-propor_redondas_2.jpg) Para las romanas clásicas la forma contenedora cuadrada deriva de la proporción de la «O». El segundo contenedor está formado por dos cuadrados con lado igual a la mitad del anterior.[/caption]
+[![Módulos y letras redondas](http://www.oert.org/wp-content/uploads/2012/07/T04A_01-propor_redondas_2.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T04A_01-propor_redondas_2.jpg)
 
-[caption id="attachment_839" align="alignnone" width="700"][![Proporciones de la “O” y la “E” clásicas](http://www.oert.org/wp-content/uploads/2012/07/T04A_10-oe.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T04A_10-oe.jpg) Proporciones de la “O” y la “E” clásicas.[/caption]
+<p class="caption">Para las romanas clásicas la forma contenedora cuadrada deriva de la proporción de la «O». El segundo contenedor está formado por dos cuadrados con lado igual a la mitad del anterior.</p>
+
+[![Proporciones de la “O” y la “E” clásicas](http://www.oert.org/wp-content/uploads/2012/07/T04A_10-oe.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T04A_10-oe.jpg)
+
+<p class="caption">Proporciones de la “O” y la “E” clásicas.</p>
 
 _Las redondas: _C, D, G, O, Q. Derivan estructuralmente de un círculo y, como el resto de las estructuras romanas, presentan correcciones ópticas. En este caso, las curvas superiores e inferiores sobrepasan ligeramente la línea de base. La «O» y la «Q» son tan anchas como altas, la «C», la «G» y la «D» son ligeramente más angostas que altas.
 

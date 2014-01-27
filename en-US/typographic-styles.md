@@ -29,7 +29,9 @@ Some programs have the «italic» function which tilts all the signs at a specif
 
 [![Rosario: variables](http://www.oert.org/wp-content/uploads/2012/07/T06A_01-rosario_a__variables1.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T06A_01-rosario_a__variables1.jpg)
 
-[caption id="attachment_797" align="alignnone" width="701"][![Rosario: variables (secuencia)](http://www.oert.org/wp-content/uploads/2012/07/T06A_02-rosario_variables_secuencia1.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T06A_02-rosario_variables_secuencia1.jpg) El segundo texto está compuesto en Rosario Gris inclinada digitalmente.[/caption]
+[![Rosario: variables (secuencia)](http://www.oert.org/wp-content/uploads/2012/07/T06A_02-rosario_variables_secuencia1.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T06A_02-rosario_variables_secuencia1.jpg)
+
+<p class="caption">El segundo texto está compuesto en Rosario Gris inclinada digitalmente.</p>
 
 
 ### Weight

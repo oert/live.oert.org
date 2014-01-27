@@ -28,7 +28,9 @@ Tipos distribuidos en un cajón de un chibalete. En el componedor se pueden ver 
 
 El nom­bre de los com­po­nen­tes de la ca­ja ti­po­grá­fi­ca pa­ra el con­jun­to de to­dos los ti­pos de una fa­mi­lia, al­fa­bé­ti­cos o no, de­ri­va de la época en la que los caracteres de plomo te­nían es­te or­de­na­mien­to por fa­mi­lias.
 
-[caption id="attachment_900" align="alignnone" width="700"][![Set de caracteres](http://www.oert.org/wp-content/uploads/2012/07/T02A_02-componentescaja.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T02A_02-componentescaja.jpg) En las fuentes digitales, los componentes de la caja tipográfica suelen llamarse set de caracteres.[/caption]
+[![Set de caracteres](http://www.oert.org/wp-content/uploads/2012/07/T02A_02-componentescaja.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T02A_02-componentescaja.jpg)
+
+<p class="caption">En las fuentes digitales, los componentes de la caja tipográfica suelen llamarse set de caracteres.</p>
 
 La ti­po­gra­fía, ade­más de fun­cio­nar co­mo representación grá­fi­ca del len­gua­je, tie­ne también una di­men­sión es­truc­tu­ral y es­ti­lís­ti­ca que per­mi­te asignar connotaciones estéticas y culturales par­ti­cu­la­res a ca­da fa­mi­lia.
 
@@ -54,7 +56,9 @@ El pe­so mo­di­fi­ca el tra­zo de la le­tra y por lo tan­to su co­lor; e
 
 Ca­da una de es­tas va­ria­bles tie­ne dis­tin­tos usos den­tro de una composición y, aun­que exis­te cier­ta tra­di­ción, debe­rán ser siempre pro­ba­dos y ve­ri­fi­ca­dos por el usuario.
 
-[caption id="attachment_902" align="alignnone" width="700"][![Variables tipográficas](http://www.oert.org/wp-content/uploads/2012/07/T02A_04-variablesfamilias2.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T02A_04-variablesfamilias2.jpg) La familia puede reconocerse por sus rasgos comunes aunque varíen cuestiones estructurales o de trazo.[/caption]
+[![Variables tipográficas](http://www.oert.org/wp-content/uploads/2012/07/T02A_04-variablesfamilias2.jpg)](http://www.oert.org/wp-content/uploads/2012/07/T02A_04-variablesfamilias2.jpg)
+
+<p class="caption">La familia puede reconocerse por sus rasgos comunes aunque varíen cuestiones estructurales o de trazo.</p>
 
 [Ref_Box]**Bibliografía**
 

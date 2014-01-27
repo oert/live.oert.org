@@ -308,7 +308,7 @@ Let's review other criteria for classifying fonts that are not based on historic
 
 [Note]Note: This is only one of many possible classifications, and though there may be several points of view, none of them will disagree as to the characteristics of each typeface family, but only as to the way of assessing similarities and differences.[/Note]
 
-[Ref_Box]**Bibliography**
+## Bibliography
 
 
 
@@ -332,4 +332,4 @@ Let's review other criteria for classifying fonts that are not based on historic
 
 	
   * BRINGHURST, Robert. _Los elementos del estilo tipográfico,_ Libros sobre libros / Fondo de Cultura Económica, México, 2008.
-[/Ref_Box]
+

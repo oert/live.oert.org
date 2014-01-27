@@ -40,7 +40,9 @@ Problemas de nomenclatura y debilidad para incorporar en las categorías del sis
 
 ¿Entonces? ¿Cómo guiarnos? ¿Para qué aprender estos conceptos? Conocer los sistemas y los criterios que los rigen nos permite poner orden en la búsqueda, la selección y el archivo de las familias con que contemos. Nos ayuda a encontrar familias similares con que reemplazar aquellas de las que no dispongamos fuentes. También es importante conocer los sistemas porque algunos de los criterios utilizados en los sistemas de clasificación constituyen tradiciones culturales e históricas compartidas por los lectores de todas las épocas.
 
-[caption id="attachment_1461" align="alignnone" width="701"][![La clasificación Vox](http://www.oert.org/wp-content/uploads/2012/08/T03A_01_vox.jpg)](http://www.oert.org/wp-content/uploads/2012/08/T03A_01_vox.jpg) La clasificación del francés Maximilien Vox (1954) busca las semejanzas de los tipos en función de la similitud de sus trazos. En 1964, la Asociación Tipográfica Internacional adoptó este sistema, por lo que desde entonces se lo conoce como sistema Vox-ATypI.[/caption]
+[![La clasificación Vox](http://www.oert.org/wp-content/uploads/2012/08/T03A_01_vox.jpg)](http://www.oert.org/wp-content/uploads/2012/08/T03A_01_vox.jpg)
+
+<p class="caption">La clasificación del francés Maximilien Vox (1954) busca las semejanzas de los tipos en función de la similitud de sus trazos. En 1964, la Asociación Tipográfica Internacional adoptó este sistema, por lo que desde entonces se lo conoce como sistema Vox-ATypI.</p>
 
 
 ### Elección de familias tipográficas
@@ -75,7 +77,9 @@ También podemos seleccionar una familia de acuerdo con la relación que estable
 
 No debemos perder de vista que, así como la elección tipográfica influye en el mensaje, también influirá el tipo de composición tipográfica de la pieza.
 
-[caption id="attachment_1463" align="alignnone" width="700"][![Serif y sans serif](http://www.oert.org/wp-content/uploads/2012/09/T03A_04_ill.jpg)](http://www.oert.org/wp-content/uploads/2012/09/T03A_04_ill.jpg) ¿Serif o sanserif? En el ejemplo de la izquierda (Arial, 72 pt), es imposible saber si dice «ciento once», «tres» o la palabra inglesa «Ill» (enfermo). A la derecha: la misma palabra compuesta en Georgia 72 pt. (Del Manual de tipografía de Ruari Mc Lean).[/caption]
+[![Serif y sans serif](http://www.oert.org/wp-content/uploads/2012/09/T03A_04_ill.jpg)](http://www.oert.org/wp-content/uploads/2012/09/T03A_04_ill.jpg)
+
+<p class="caption">¿Serif o sanserif? En el ejemplo de la izquierda (Arial, 72 pt), es imposible saber si dice «ciento once», «tres» o la palabra inglesa «Ill» (enfermo). A la derecha: la misma palabra compuesta en Georgia 72 pt. (Del Manual de tipografía de Ruari Mc Lean).</p>
 
 
 ### Combinación de familias
@@ -103,7 +107,9 @@ Algunos criterios a tener en cuenta pueden ser:
   * Finalmente, se debe verificar si la combinación elegida funciona o si podrían cumplirse los mismos objetivos con variaciones en el ancho de caja, en el cuerpo, en el espaciado y en el uso de variables (color, estructura).
 
 
-[caption id="attachment_1464" align="alignnone" width="700"][![Letras de fantasía](http://www.oert.org/wp-content/uploads/2012/09/T03A_02_fantasia.jpg)](http://www.oert.org/wp-content/uploads/2012/09/T03A_02_fantasia.jpg) Las familias de fantasía están basadas en motivos arquitectónicos, decorativos, antropomórficos, etcétera. Su uso se limita a capitulares o palabras cortas, pero nunca se emplean para componer textos. Alumnos (de arriba a abajo, de izquierda a derecha): Daniela Raskobsky, Mariana De Mattia, Luciano Costilla, Martín De Marchi[/caption]
+[![Letras de fantasía](http://www.oert.org/wp-content/uploads/2012/09/T03A_02_fantasia.jpg)](http://www.oert.org/wp-content/uploads/2012/09/T03A_02_fantasia.jpg)
+
+<p class="caption">Las familias de fantasía están basadas en motivos arquitectónicos, decorativos, antropomórficos, etcétera. Su uso se limita a capitulares o palabras cortas, pero nunca se emplean para componer textos. Alumnos (de arriba a abajo, de izquierda a derecha): Daniela Raskobsky, Mariana De Mattia, Luciano Costilla, Martín De Marchi</p>
 
 
 
@@ -130,7 +136,9 @@ Algunos criterios a tener en cuenta pueden ser:
   * La silueta de cada palabra (a la que el tipógrafo armenio Hrant Papazian llama _bouma_) es un factor muy importante en la legibilidad: las palabras compuestas en mayúsculas producen «rectángulos grises» (boumas) uniformes y difíciles de diferenciar. Las palabras compuestas en caja baja, en cambio, son considerablemente más legibles ya que sus boumas son más diferentes entre sí.
 
 
-[caption id="attachment_1465" align="alignnone" width="701"][![Física de los superhéroes](http://www.oert.org/wp-content/uploads/2012/09/T03A_02_ejemplos.jpg)](http://www.oert.org/wp-content/uploads/2012/09/T03A_02_ejemplos.jpg)Alumnos (de izquierda a derecha) N.N., Laura Dattoli.[/caption]
+[![Física de los superhéroes](http://www.oert.org/wp-content/uploads/2012/09/T03A_02_ejemplos.jpg)](http://www.oert.org/wp-content/uploads/2012/09/T03A_02_ejemplos.jpg)
+
+<p class="caption">Alumnos (de izquierda a derecha) N.N., Laura Dattoli.</p>
 
 
 
