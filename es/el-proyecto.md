@@ -2,10 +2,11 @@
 author: admin
 comments: false
 date: 2011-12-31 02:55:23+00:00
-layout: page
+layout: bookpage
 slug: el-proyecto
 title: El proyecto
 wordpress_id: 32
+trans_en-US: introduction
 ---
 
 Open Educational Resources for Typography (OERT) es un proyecto educativo abierto a todos quienes quieran ampliar su conocimiento sobre Tipografía: estudiantes, profesores o cualquier otra persona interesada. El proyecto se desarrolla a partir del material de estudio elaborado por la Cátedra Cosgaya (FADU/UBA), una colección que comenzó a producirse en 1994 y que actualmente se organiza en tres secciones: teórica, histórica y práctica. El proyecto se propone ampliar, actualizar y editar el material en castellano, traducirlo a inglés y publicarlo en internet bajo una licencia Creative Commons Attribution Share Alike.

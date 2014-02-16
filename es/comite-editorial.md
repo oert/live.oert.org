@@ -2,10 +2,11 @@
 author: admin
 comments: false
 date: 2011-12-31 02:58:38+00:00
-layout: page
+layout: bookpage
 slug: comite-editorial
 title: Comité Editorial
 wordpress_id: 40
+trans_en-US: editorial_committee
 ---
 
 #### Pablo Cosgaya

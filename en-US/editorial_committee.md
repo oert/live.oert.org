@@ -4,6 +4,7 @@ layout: bookpage
 weight: 20
 category: About
 title: Editorial Committee
+trans_es: comite-editorial
 ---
 
 Pablo Cosgaya
