@@ -9,6 +9,7 @@ wordpress_id: 651
 categories:
 - Page
 - Theory
+trans_es: tipos-de-libro
 ---
 
 [Autor]Created by: Natalia Pano[/Autor]

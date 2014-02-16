@@ -9,6 +9,7 @@ wordpress_id: 181
 categories:
 - Letra
 - Teoría
+trans_en-US: typographic-classification
 ---
 
 [Autor]Elaboración: Natalia Fernández[/Autor]

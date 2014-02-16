@@ -9,6 +9,7 @@ wordpress_id: 614
 categories:
 - Letter
 - Theory
+trans_es: percepcion-visual-y-ritmo
 ---
 
 [Autor]Produced by: Marcela Romero. In collaboration with: Inés Puparelli[/Autor]

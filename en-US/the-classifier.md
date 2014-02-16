@@ -9,6 +9,7 @@ wordpress_id: 624
 categories:
 - Letter
 - Theory
+trans_es: el-clasificador
 ---
 
 [Autor]Created by: Natalia Fernández. Collabotation: Marcela Romero, Pablo Cosgaya[/Autor]

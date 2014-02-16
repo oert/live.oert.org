@@ -9,6 +9,7 @@ wordpress_id: 171
 categories:
 - Letra
 - Teoría
+trans_en-US: design-and-morphological-operations-with-typography
 ---
 
 [Autor]Elaboración: Pablo Cosgaya, Marcela Romero - Revisión: Natalia Pano[/Autor]

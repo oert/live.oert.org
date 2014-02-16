@@ -9,6 +9,7 @@ wordpress_id: 634
 categories:
 - Letter
 - Theory
+trans_es: clasificacion-tipografica
 ---
 
 [Autor]Elaboración: Natalia Fernández[/Autor]

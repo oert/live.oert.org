@@ -9,6 +9,7 @@ wordpress_id: 618
 categories:
 - Letter
 - Theory
+trans_es: familia-tipografica
 ---
 
 [Autor]Created by: Marcela Romero[/Autor]

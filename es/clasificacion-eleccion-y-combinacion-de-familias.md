@@ -9,6 +9,7 @@ wordpress_id: 167
 categories:
 - Teoría
 - Texto
+trans_en-US: family-classification-selection-and-combination
 ---
 
 [Autor]Elaboración: Pablo Cosgaya, Marcela Romero - Revisión: Natalia Pano[/Autor]

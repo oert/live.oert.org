@@ -9,6 +9,7 @@ wordpress_id: 173
 categories:
 - Letra
 - Teoría
+trans_en-US: typographic-programs
 ---
 
 [Autor]Elaboración: Marcela Romero[/Autor]

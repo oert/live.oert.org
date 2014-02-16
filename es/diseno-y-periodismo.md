@@ -9,6 +9,7 @@ wordpress_id: 145
 categories:
 - Página
 - Teoría
+trans_en-US: design-and-journalism
 ---
 
 [Autor]Elaboración: Natalia Pano[/Autor]

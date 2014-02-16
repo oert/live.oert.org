@@ -8,6 +8,7 @@ title: Contributions made by other cultures to the Latin alphabet
 wordpress_id: 589
 categories:
 - History
+trans_es: aportes-de-otras-culturas-al-alfabeto-latino
 ---
 
 From Canaanite to ancient Phoenician, from Phoenician to Greek, from Greek to Etruscan, from Etruscan to Roman. Essential characteristics. Who writes and how they learn to do so. 

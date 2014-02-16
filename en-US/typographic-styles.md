@@ -9,6 +9,7 @@ wordpress_id: 640
 categories:
 - Letter
 - Theory
+trans_es: variables-tipograficas
 ---
 
 [Autor]Created by: Natalia Fernández, Paula Ibarra[/Autor]

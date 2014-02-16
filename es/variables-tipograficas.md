@@ -9,6 +9,7 @@ wordpress_id: 175
 categories:
 - Letra
 - Teoría
+trans_en-US: typographic-styles
 ---
 
 [Autor]Elaboración: Natalia Fernández, Paula Ibarra[/Autor]

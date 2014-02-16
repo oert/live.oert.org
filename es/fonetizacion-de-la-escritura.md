@@ -8,6 +8,7 @@ title: Fonetización de la escritura
 wordpress_id: 111
 categories:
 - Historia
+trans_en-US: phonetization-of-writing
 ---
 
 El proceso de acrofonía en el alifato fenicio: escritura de consonantes. El alfabeto griego: la escritura de consonantes y vocales. La relación con el sonido. El repertorio de letras. Las formas de letras. La dirección de escritura. 

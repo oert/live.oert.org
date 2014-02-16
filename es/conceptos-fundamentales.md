@@ -9,6 +9,7 @@ wordpress_id: 169
 categories:
 - Teoría
 - Texto
+trans_en-US: basic-concepts
 ---
 
 [Autor]Elaboración: Pablo Cosgaya - Colaboración: Marcela Romero - Revisión: Natalia Pano[/Autor]

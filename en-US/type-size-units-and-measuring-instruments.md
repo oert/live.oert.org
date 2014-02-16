@@ -9,6 +9,7 @@ wordpress_id: 623
 categories:
 - Letter
 - Theory
+trans_es: cuerpo-tipografico-unidades-e-instrumentos-de-medicion
 ---
 
 [Autor]Created by: Marcela Romero.[/Autor]

@@ -8,6 +8,7 @@ title: El alfabeto latino
 wordpress_id: 107
 categories:
 - Historia
+trans_en-US: latin-alphabet
 ---
 
 Relación con el alfabeto griego: similitudes y diferencias. Los tipos de escritura: lapidaria y caligráfica. Los estilos: características y usos. La escritura manuscrita.

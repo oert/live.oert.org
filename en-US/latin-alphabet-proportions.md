@@ -9,6 +9,7 @@ wordpress_id: 635
 categories:
 - Letter
 - Theory
+trans_es: proporciones-del-alfabeto-latino
 ---
 
 [Autor]Elaboración: Marcela Romero[/Autor]

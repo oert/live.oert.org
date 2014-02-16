@@ -8,6 +8,7 @@ title: Text, image, dingbats and decorative elements
 wordpress_id: 666
 categories:
 - Letter
+trans_es: texto-imagen-y-miscelanea
 ---
 
 [Autor]Created by: Pablo Cosgaya, Natalia Pano[/Autor]

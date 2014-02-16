@@ -9,6 +9,7 @@ wordpress_id: 649
 categories:
 - Page
 - Theory
+trans_es: elementos-de-un-libro
 ---
 
 [Autor]Created by: Tea Alberti - Reviewed by: Pablo Cosgaya, Natalia Fernández, Juan Gallelli - Supervised by: Natalia Pano[/Autor]

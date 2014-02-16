@@ -9,6 +9,7 @@ wordpress_id: 161
 categories:
 - Teoría
 - Texto
+trans_en-US: typography-and-information-layout
 ---
 
 [Autor]Elaboración: Pablo Cosgaya - Colaboración: Julieta Goluscio - Revisión: Guadalupe Gomis, Natalia Pano[/Autor]

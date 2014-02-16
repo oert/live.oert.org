@@ -9,6 +9,7 @@ wordpress_id: 193
 categories:
 - Letra
 - Teoría
+trans_en-US: typographic-family
 ---
 
 [Autor]Elaboración: Marcela Romero[/Autor]

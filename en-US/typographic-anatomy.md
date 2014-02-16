@@ -9,6 +9,7 @@ wordpress_id: 630
 categories:
 - Letter
 - Theory
+trans_es: anatomia-tipografica
 ---
 
 [Autor]Created by: Natalia Fernández[/Autor]

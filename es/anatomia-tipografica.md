@@ -9,6 +9,7 @@ wordpress_id: 183
 categories:
 - Letra
 - Teoría
+trans_en-US: typographic-anatomy
 ---
 
 [Autor]Elaboración: Natalia Fernández[/Autor]

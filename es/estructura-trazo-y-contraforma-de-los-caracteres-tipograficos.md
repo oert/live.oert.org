@@ -9,6 +9,7 @@ wordpress_id: 177
 categories:
 - Letra
 - Teoría
+trans_en-US: structure-stroke-and-counters-of-the-typographic-characters
 ---
 
 Definiciones e interacción. Cuestiones a tener en cuenta en la toma de decisiones sobre los distintos aspectos que conforman la familia. División del problema en: estructura, trazo y contraformas y terminaciones. Identidad resultante.

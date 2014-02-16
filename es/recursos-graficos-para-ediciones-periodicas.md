@@ -9,6 +9,7 @@ wordpress_id: 147
 categories:
 - Página
 - Teoría
+trans_en-US: graphic-resources-for-periodical-publications
 ---
 
 [Autor]Elaboración: Pablo Cosgaya, Natalia Pano[/Autor]

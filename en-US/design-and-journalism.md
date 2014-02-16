@@ -9,6 +9,7 @@ wordpress_id: 660
 categories:
 - Page
 - Theory
+trans_es: diseno-y-periodismo
 ---
 
 [Autor]Produced by: Natalia Pano[/Autor]

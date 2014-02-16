@@ -9,6 +9,7 @@ wordpress_id: 191
 categories:
 - Letra
 - Teoría
+trans_en-US: uppercase-lowercase-numerals-and-symbols
 ---
 
 [Autor]Elaboración: Natalia Fernández, Paula Ibarra, Marcela Romero, Sol Vázquez[/Autor]

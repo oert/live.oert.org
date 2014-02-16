@@ -9,6 +9,7 @@ wordpress_id: 667
 categories:
 - Text
 - Theory
+trans_es: conceptos-fundamentales
 ---
 
 [Autor]Created by: Pablo Cosgaya - Colaboración: Marcela Romero - Supervised by: Natalia Pano[/Autor]
