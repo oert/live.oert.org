@@ -3,6 +3,7 @@ author: admin
 comments: false
 date: 2011-12-31 02:58:38+00:00
 layout: bookpage
+weight: 20
 slug: comite-editorial
 title: Comité Editorial
 wordpress_id: 40

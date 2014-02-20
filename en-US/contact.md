@@ -1,7 +1,7 @@
 ---
 published: true
 layout: bookpage
-weight: 1
+weight: 2
 category: About
 title: Contact
 trans_es: contacto-2

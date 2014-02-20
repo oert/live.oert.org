@@ -3,6 +3,7 @@ author: admin
 comments: false
 date: 2011-12-31 02:55:23+00:00
 layout: bookpage
+weight: 3
 slug: el-proyecto
 title: El proyecto
 wordpress_id: 32

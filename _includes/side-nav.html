@@ -1,0 +1,21 @@
+<ol class="rectangle-list">
+{% for weight in (1..100) %}
+  {% for p in site.pages %}
+    {% if p.weight > 0 and p.weight == weight %}
+      {% if p.url contains '/en-US/' and page.url contains '/en-US/' %}
+        <li>
+          <a {% if p.url == page.url %}class="active"{% endif %} href="{{ p.url }}">
+            {{ p.title }}
+          </a>
+        </li>
+      {% elsif p.url contains '/es/' and page.url contains '/es/' %}
+        <li>
+          <a {% if p.url == page.url %}class="active"{% endif %} href="{{ p.url }}">
+            {{ p.title }}
+          </a>
+        </li>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+</ol>

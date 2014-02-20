@@ -1,7 +1,7 @@
 ---
 published: true
 layout: bookpage
-weight: 1
+weight: 3
 category: About
 title: The Project
 trans_es: el-proyecto
