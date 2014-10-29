@@ -11,7 +11,7 @@ title: Open Education Resources for Typography
 </div>
 -->
 
-This is the dynamic, 'live,' Open Education Resources for Typography website. We invite you to join our project.
+This is the dynamic, 'live,' Open Education Resources for Typography website. We invite you to join our project!
 
 The 'stable' version of this project is at www.oert.org and is published there as a reputable, fact-checked resource that is used by University-level courses in typography as a textbook.
 
