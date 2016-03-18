@@ -4,6 +4,7 @@ layout: bookpage
 weight: 10
 category: About
 title: The Authors
+trans_es: los-autores
 ---
 
 

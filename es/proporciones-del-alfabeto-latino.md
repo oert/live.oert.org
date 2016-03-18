@@ -9,6 +9,7 @@ wordpress_id: 179
 categories:
 - Letra
 - Teoría
+trans_en-US: latin-alphabet-proportions
 ---
 
 [Autor]Elaboración: Marcela Romero[/Autor]

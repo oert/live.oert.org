@@ -8,6 +8,7 @@ title: Siglos XVII, XVIII y XIX
 wordpress_id: 95
 categories:
 - Historia
+trans_en-US: xviith-xviiith-and-xixth-centuries
 ---
 
 La ampliación de la temática y de los públicos. La producción del siglo XVII en los Pasíses Bajos y Francia. La del siglo XVIII en Inglaterra e Italia. La diversificación de los impresos del siglo XIX. La mecanización de la tipografía: pantógrafo, linotipo y monotipo. La litografía. Las imprentas privadas. 

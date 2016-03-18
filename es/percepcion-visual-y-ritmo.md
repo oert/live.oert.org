@@ -9,6 +9,7 @@ wordpress_id: 199
 categories:
 - Letra
 - Teoría
+trans_en-US: visual-perception-and-rhythm
 ---
 
 [Autor]Elaboración: Marcela Romero. Colaboración: Inés Puparelli[/Autor]

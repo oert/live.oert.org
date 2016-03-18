@@ -8,6 +8,7 @@ title: Historic writings
 wordpress_id: 599
 categories:
 - History
+trans_es: escrituras-historicas
 ---
 
 Writings for books: uncials, semi-uncials, Carolingian,  gothic and chancery. Structural features, stroke, block color.

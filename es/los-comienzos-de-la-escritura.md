@@ -8,6 +8,7 @@ title: Los comienzos de la escritura
 wordpress_id: 113
 categories:
 - Historia
+trans_en-US: the-beginnings-of-writing
 ---
 
 Las primeras manifestaciones gráficas. Las protoescrituras y las primeras escrituras (Mesopotamia, Egipto, China). Las escrituras silábicas. La aparición de los números.

@@ -10,6 +10,7 @@ categories:
 - History
 tags:
 - Latin alphabet
+trans_es: el-alfabeto-latino
 ---
 
 Relationship with the Greek alphabet: similarities and differences. Types of writing: tombstone and calligraphic. Styles: characteristics and uses. Handwriting.

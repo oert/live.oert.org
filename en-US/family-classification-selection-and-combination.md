@@ -9,6 +9,7 @@ wordpress_id: 668
 categories:
 - Text
 - Theory
+trans_es: clasificacion-eleccion-y-combinacion-de-familias
 ---
 
 [Autor]Created by: Pablo Cosgaya, Marcela Romero - Supervised by: Natalia Pano[/Autor]

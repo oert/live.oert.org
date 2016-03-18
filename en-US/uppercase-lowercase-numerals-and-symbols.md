@@ -9,6 +9,7 @@ wordpress_id: 622
 categories:
 - Letter
 - Theory
+trans_es: mayusculas-minusculas-numeros-y-signos
 ---
 
 [Autor]Elaboración: Natalia Fernández, Paula Ibarra, Marcela Romero, Sol Vázquez[/Autor]

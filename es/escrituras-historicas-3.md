@@ -9,6 +9,7 @@ wordpress_id: 197
 categories:
 - Letra
 - Teoría
+trans_en-US: historical-scripts
 ---
 
 [Autor]Elaboración: Ana Sanfelippo. Colaboración: Fernanda Cozzi, Natalia Fernández, Marcela Romero[/Autor]

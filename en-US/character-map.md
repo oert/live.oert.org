@@ -9,6 +9,7 @@ wordpress_id: 629
 categories:
 - Letter
 - Theory
+trans_es: mapa-de-caracteres
 ---
 
 [Autor]Elaboración: Pablo Cosgaya[/Autor]

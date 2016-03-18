@@ -8,6 +8,7 @@ title: Texto, imagen y miscelánea
 wordpress_id: 288
 categories:
 - Letra
+trans_en-US: text-image-dingbats-and-decorative-elements
 ---
 
 [Autor]Elaboración: Pablo Cosgaya, Natalia Pano[/Autor]

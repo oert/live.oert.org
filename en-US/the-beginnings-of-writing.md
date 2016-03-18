@@ -8,6 +8,7 @@ title: The beginnings of writing
 wordpress_id: 587
 categories:
 - History
+trans_es: los-comienzos-de-la-escritura
 ---
 
 First graphic manifestations. Proto-writings and the first writings (Mesopotamia, Egypt, China). Syllabic writings. The appearance of numbers.

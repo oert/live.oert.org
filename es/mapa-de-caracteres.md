@@ -9,6 +9,7 @@ wordpress_id: 185
 categories:
 - Letra
 - Teoría
+trans_en-US: character-map
 ---
 
 [Autor]Elaboración: Pablo Cosgaya[/Autor]

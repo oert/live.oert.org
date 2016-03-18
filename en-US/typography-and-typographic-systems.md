@@ -9,6 +9,7 @@ wordpress_id: 670
 categories:
 - Text
 - Theory
+trans_es: tipografia-y-sistemas-tipograficos
 ---
 
 [Autor]Created by: Pablo Cosgaya In collaboration with: Julieta Goluscio Reviewed by: Guadalupe Gomis - Natalia Pano[/Autor]

@@ -1,9 +1,10 @@
 ---
 published: true
 layout: bookpage
-weight: 1
+weight: 2
 category: About
 title: Contact
+trans_es: contacto-2
 ---
 
 The best way to contact us is to create an issue on Github with your with your idea or question:

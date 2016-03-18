@@ -9,6 +9,7 @@ wordpress_id: 153
 categories:
 - Página
 - Teoría
+trans_en-US: types-of-books
 ---
 
 [Autor]Elaboración: Natalia Pano[/Autor]

@@ -9,6 +9,7 @@ wordpress_id: 155
 categories:
 - Página
 - Teoría
+trans_en-US: typography-and-language-the-paragraph
 ---
 
 [Autor]Elaboración: Pablo Cosgaya. Adaptación del capítulo Principios de formación, Manual de diseño editorial, de Jorge de Buen Unna.[/Autor]

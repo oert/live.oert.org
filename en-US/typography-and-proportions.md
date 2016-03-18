@@ -9,6 +9,7 @@ wordpress_id: 648
 categories:
 - Page
 - Theory
+trans_es: tipografia-y-proporciones
 ---
 
 [Autor]Created by: Marcela Romero (adaptation of the chapter “Principios de formación”, _Manual de diseño editorial,_ Jorge de Buen Unna) - Supervised by: Natalia Pano[/Autor]

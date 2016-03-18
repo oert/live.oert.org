@@ -9,6 +9,7 @@ wordpress_id: 641
 categories:
 - Letter
 - Theory
+trans_es: programas-tipograficos
 ---
 
 [Autor]Created by: Marcela Romero[/Autor]

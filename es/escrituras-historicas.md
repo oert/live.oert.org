@@ -8,6 +8,7 @@ title: Escrituras históricas
 wordpress_id: 105
 categories:
 - Historia
+trans_en-US: historic-writings
 ---
 
 Las escrituras para los libros: unciales, semiunciales, carolingias, góticas y cancillescas. Características estructurales, de trazado, de color de bloque. 

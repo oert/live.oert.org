@@ -9,6 +9,7 @@ wordpress_id: 650
 categories:
 - Page
 - Theory
+trans_es: tipografia-y-lenguaje-el-parrafo
 ---
 
 [Autor]Created by: Pablo Cosgaya. Adapted “Principios de formación”, in Manual de diseño editorial, by Jorge de Buen Unna.[/Autor]

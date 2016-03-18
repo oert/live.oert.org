@@ -9,6 +9,7 @@ wordpress_id: 642
 categories:
 - Letter
 - Theory
+trans_es: diseno-y-operaciones-morfologicas-con-tipografia-2
 ---
 
 [Autor]Created by: Pablo Cosgaya, Marcela Romero - Review: Natalia Pano[/Autor]

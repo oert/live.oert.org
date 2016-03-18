@@ -9,6 +9,7 @@ wordpress_id: 149
 categories:
 - Página
 - Teoría
+trans_en-US: composition-and-modules
 ---
 
 [Autor]Revisión: Natalia Pano[/Autor]

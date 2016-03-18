@@ -9,6 +9,7 @@ wordpress_id: 157
 categories:
 - Página
 - Teoría
+trans_en-US: book-elements
 ---
 
 [Autor]Elaboración: Tea Alberti - Revisión: Pablo Cosgaya, Natalia Fernández, Juan Gallelli - Reelaboración: Natalia Pano[/Autor]

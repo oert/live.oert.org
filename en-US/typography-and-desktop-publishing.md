@@ -9,6 +9,7 @@ wordpress_id: 628
 categories:
 - Letter
 - Theory
+trans_es: tipografia-y-autoedicion-de-textos
 ---
 
 [Autor]Elaboración: Pablo Cosgaya, Marcela Romero[/Autor]

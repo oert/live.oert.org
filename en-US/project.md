@@ -1,9 +1,10 @@
 ---
 published: true
 layout: bookpage
-weight: 1
+weight: 3
 category: About
 title: The Project
+trans_es: el-proyecto
 ---
 
 Open Educational Resources for Typography (OERT) is an open educational project available to everyone who wishes to broaden their knowledge of typography: students, teachers, or individuals interested in the subject. This project is built upon the course material prepared by Cátedra Cosgaya (FADU / UBA), a set of booklets that we began to produce in 1994 and which is currently organized into three sections: theoretical, historical, and practical. The project aims at expanding, updating, and editing the current material in Spanish, to translate it into English, and to publish it online under a Creative Commons Attribution Share Alike license.

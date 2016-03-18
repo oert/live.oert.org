@@ -9,6 +9,7 @@ wordpress_id: 659
 categories:
 - Page
 - Theory
+trans_es: recursos-graficos-para-ediciones-periodicas
 ---
 
 [Autor]Created by: Pablo Cosgaya, Natalia Pano[/Autor]

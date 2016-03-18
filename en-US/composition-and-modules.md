@@ -9,6 +9,7 @@ wordpress_id: 658
 categories:
 - Page
 - Theory
+trans_es: composicion-y-modulacion
 ---
 
 [Autor]Revisión: Natalia Pano[/Autor]

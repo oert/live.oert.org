@@ -12,25 +12,9 @@
         </section>
 
         <aside id="sidebar">
-<!--          <a href="" class="button">
-            <small>Download book as</small>
-            PDF
-          </a>-->
-          <ol class="rectangle-list">
-          {% for weight in (1..100) %}
-            {% for p in site.pages %}
-              {% if p.weight > 0 %}
-              {% if p.weight == weight %}
-                <li>
-                  <a {% if p.url == page.url %}class="active"{% endif %} href="{{ p.url }}">
-                    {{ p.title }}
-                  </a>
-                </li>
-              {% endif %}
-              {% endif %}
-            {% endfor %}
-          {% endfor %}
-          </ol>
+
+		  {% include side-nav.html %}
+
           <p>This book is free culture, <a href="//github.com/oert/live.oert.org/" target="_blank">hosted on GitHub</a>. Patches, suggestions, and corrections are welcome.</p>
           <p><a class="editthispage" href="https://github.com/oert/live.oert.org/blob/gh-pages{{ page.url | replace: '.html', '.md' }}" target="_blank">Edit this page</a> (<a href="https://github.com/oert/live.oert.org">learn how</a>)</p></p>
         </aside>

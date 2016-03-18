@@ -9,6 +9,7 @@ wordpress_id: 189
 categories:
 - Letra
 - Teoría
+trans_en-US: type-size-units-and-measuring-instruments
 ---
 
 [Autor]Elaboración: Marcela Romero.[/Autor]

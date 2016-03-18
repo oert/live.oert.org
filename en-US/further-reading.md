@@ -1,7 +1,7 @@
 ---
 author: admin
 comments: true
-date: 2014-14-28
+date: 2014-2-28
 layout: bookpage
 slug: further-reading
 title: Further Reading

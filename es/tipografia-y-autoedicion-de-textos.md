@@ -9,6 +9,7 @@ wordpress_id: 187
 categories:
 - Letra
 - Teoría
+trans_en-US: typography-and-desktop-publishing
 ---
 
 [Autor]Elaboración: Pablo Cosgaya, Marcela Romero[/Autor]
